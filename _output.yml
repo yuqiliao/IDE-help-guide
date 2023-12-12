@@ -5,7 +5,7 @@ bookdown::bs4_book:
   theme:
     primary: "#003DA5"
   repo:
-    base: https://github.com/American-Institutes-for-Research/EdSurvey_A_Users_Guide
+    base: https://github.com/yuqiliao/IDE-help-guide
     branch: main
 bookdown::pdf_book:
   includes:

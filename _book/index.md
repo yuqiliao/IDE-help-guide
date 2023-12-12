@@ -1,6 +1,6 @@
 --- 
 title: "International Data Explorer Help Guide"
-author: NCES IDE Team\footnote{NCES 2021-044}
+author: NCES IDE Team
 date: "2023-12-12"
 site: bookdown::bookdown_site
 description: |
@@ -12,7 +12,7 @@ csl: apa-annotated-bibliography.csl
 pandoc_args: ["--csl", "apa-annotated-bibliography.csl"]
 link-citations: yes
 always_allow_html: true
-url: https://github.com/American-Institutes-for-Research/EdSurvey_A_Users_Guide
+url: https://github.com/yuqiliao/IDE-help-guide
 cover-image: "images/cover/laptop-and-magnifying-glass.gif"
 apple-touch-icon: "ies-logo.png"
 apple-touch-icon-size: 120
