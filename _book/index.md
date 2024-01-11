@@ -21,7 +21,7 @@ favicon: "favicon.ico"
 
 # International Data Explorer Help Guide  {.unnumbered}
 
-![](images/cover/laptop-and-magnifying-glass.gif){width=70%}
+<img src="images/cover/laptop-and-magnifying-glass.gif" width="70%" style="display: block; margin: auto;" />
 
 
 
