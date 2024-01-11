@@ -15,3 +15,5 @@ bookdown::pdf_book:
   pandoc_args: ["--csl", "apa-annotated-bibliography.csl"]
   keep_tex: yes
 bookdown::epub_book: default
+bookdown::word_document2:
+  toc: true
