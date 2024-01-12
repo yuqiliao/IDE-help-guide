@@ -1,0 +1,1164 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<title>Chapter 5 PIAAC IDE Walkthrough | International Data Explorer Help Guide</title>
+<meta name="author" content="NCES IDE Team">
+<meta name="description" content="There are four general steps for exploring each IDE page (see exhibit 3). Each step is described in more detail in the following sub-sections. Exhibit 3. What you will see in the IDE environment...">
+<meta name="generator" content="bookdown 0.37 with bs4_book()">
+<meta property="og:title" content="Chapter 5 PIAAC IDE Walkthrough | International Data Explorer Help Guide">
+<meta property="og:type" content="book">
+<meta property="og:url" content="https://github.com/yuqiliao/IDE-help-guide/piaacwalkthrough.html">
+<meta property="og:image" content="https://github.com/yuqiliao/IDE-help-guide/images/cover/laptop-and-magnifying-glass.gif">
+<meta property="og:description" content="There are four general steps for exploring each IDE page (see exhibit 3). Each step is described in more detail in the following sub-sections. Exhibit 3. What you will see in the IDE environment...">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="Chapter 5 PIAAC IDE Walkthrough | International Data Explorer Help Guide">
+<meta name="twitter:description" content="There are four general steps for exploring each IDE page (see exhibit 3). Each step is described in more detail in the following sub-sections. Exhibit 3. What you will see in the IDE environment...">
+<meta name="twitter:image" content="https://github.com/yuqiliao/IDE-help-guide/images/cover/laptop-and-magnifying-glass.gif">
+<!-- JS --><script src="https://cdnjs.cloudflare.com/ajax/libs/clipboard.js/2.0.6/clipboard.min.js" integrity="sha256-inc5kl9MA1hkeYUt+EC3BhlIgyp/2jDIyBLS6k3UxPI=" crossorigin="anonymous"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/6.4.6/fuse.js" integrity="sha512-zv6Ywkjyktsohkbp9bb45V6tEMoWhzFzXis+LrMehmJZZSys19Yxf1dopHx7WzIKxr5tK2dVcYmaCk2uqdjF4A==" crossorigin="anonymous"></script><script src="https://kit.fontawesome.com/6ecbd6c532.js" crossorigin="anonymous"></script><script src="libs/jquery-3.6.0/jquery-3.6.0.min.js"></script><meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<link href="libs/bootstrap-4.6.0/bootstrap.min.css" rel="stylesheet">
+<script src="libs/bootstrap-4.6.0/bootstrap.bundle.min.js"></script><script src="libs/bs3compat-0.4.2/transition.js"></script><script src="libs/bs3compat-0.4.2/tabs.js"></script><script src="libs/bs3compat-0.4.2/bs3compat.js"></script><link href="libs/bs4_book-1.0.0/bs4_book.css" rel="stylesheet">
+<script src="libs/bs4_book-1.0.0/bs4_book.js"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/autocomplete.js/0.38.0/autocomplete.jquery.min.js" integrity="sha512-GU9ayf+66Xx2TmpxqJpliWbT5PiGYxpaG8rfnBEk1LL8l1KGkRShhngwdXK1UgqhAzWpZHSiYPc09/NwDQIGyg==" crossorigin="anonymous"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/mark.js/8.11.1/mark.min.js" integrity="sha512-5CYOlHXGh6QpOFA/TeTylKLWfB3ftPsde7AnmhuitiTX4K5SqCLBeKro6sPS8ilsz1Q4NRx3v8Ko2IBiszzdww==" crossorigin="anonymous"></script><!-- CSS --><style type="text/css">
+    
+    div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+  </style>
+<link rel="stylesheet" href="style.css">
+</head>
+<body data-spy="scroll" data-target="#toc">
+
+<div class="container-fluid">
+<div class="row">
+  <header class="col-sm-12 col-lg-3 sidebar sidebar-book"><a class="sr-only sr-only-focusable" href="#content">Skip to main content</a>
+
+    <div class="d-flex align-items-start justify-content-between">
+      <h1>
+        <a href="index.html" title="">International Data Explorer Help Guide</a>
+      </h1>
+      <button class="btn btn-outline-primary d-lg-none ml-2 mt-1" type="button" data-toggle="collapse" data-target="#main-nav" aria-expanded="true" aria-controls="main-nav"><i class="fas fa-bars"></i><span class="sr-only">Show table of contents</span></button>
+    </div>
+
+    <div id="main-nav" class="collapse-lg">
+      <form role="search">
+        <input id="search" class="form-control" type="search" placeholder="Search" aria-label="Search">
+</form>
+
+      <nav aria-label="Table of contents"><h2>Table of contents</h2>
+        <ul class="book-toc list-unstyled">
+<li><a class="" href="index.html">International Data Explorer Help Guide</a></li>
+<li><a class="" href="overview.html"><span class="header-section-number">1</span> Overview of the International Data Explorer (IDE)</a></li>
+<li><a class="" href="pisawalkthrough.html"><span class="header-section-number">2</span> PISA IDE Walkthrough</a></li>
+<li><a class="" href="pirlswalkthrough.html"><span class="header-section-number">3</span> PIRLS IDE Walkthrough</a></li>
+<li><a class="" href="timsswalkthrough.html"><span class="header-section-number">4</span> TIMSS IDE Walkthrough</a></li>
+<li><a class="active" href="piaacwalkthrough.html"><span class="header-section-number">5</span> PIAAC IDE Walkthrough</a></li>
+<li><a class="" href="taliswalkthrough.html"><span class="header-section-number">6</span> TALIS IDE Walkthrough</a></li>
+<li><a class="" href="icilswalkthrough.html"><span class="header-section-number">7</span> ICILS IDE Walkthrough</a></li>
+<li><a class="" href="definitions.html"><span class="header-section-number">8</span> IDE definitions by study</a></li>
+<li><a class="" href="resources.html"><span class="header-section-number">9</span> Resources</a></li>
+</ul>
+
+        <div class="book-extra">
+          <p><a id="book-repo" href="https://github.com/yuqiliao/IDE-help-guide">View book source <i class="fab fa-github"></i></a></p>
+        </div>
+      </nav>
+</div>
+  </header><main class="col-sm-12 col-md-9 col-lg-7" id="content"><div id="piaacwalkthrough" class="section level1" number="5">
+<h1>
+<span class="header-section-number">5</span> PIAAC IDE Walkthrough<a class="anchor" aria-label="anchor" href="#piaacwalkthrough"><i class="fas fa-link"></i></a>
+</h1>
+<p>There are four general steps for exploring each IDE page (see exhibit 3). Each step is described in more detail in the following sub-sections.</p>
+<div class="inline-figure">Exhibit 3. What you will see in the IDE environment and what each step entails
+<img src="images/chapter5/four-steps.png" width="50%" style="display: block; margin: auto;">
+</div>
+<div id="select-criteria-2" class="section level2" number="5.1">
+<h2>
+<span class="header-section-number">5.1</span> 1. Select Criteria<a class="anchor" aria-label="anchor" href="#select-criteria-2"><i class="fas fa-link"></i></a>
+</h2>
+<div id="a.-overview-8" class="section level3" number="5.1.1">
+<h3>
+<span class="header-section-number">5.1.1</span> 1.A. Overview<a class="anchor" aria-label="anchor" href="#a.-overview-8"><i class="fas fa-link"></i></a>
+</h3>
+<p>Your data query in the PIAAC IDE begins on the Step 1. <strong>Select
+Criteria</strong> screen (see exhibit 2, on next page).</p>
+<p>Select a <strong>Display</strong> from the drop-down menus. Once the screen resets,
+you can choose one or more of the years and studies or <strong>All
+Years/Studies</strong>, <strong>Measures,</strong> and <strong>Jurisdictions</strong> for the data you
+wish to view or compare. Use the <strong>Reset</strong> button, located in the
+upper-right portion of the screen (just below the <strong>Help</strong> button), to
+clear selections and start over.</p>
+<p>Click on a blue sideways-facing arrow (►) to open up a category, and
+click on a blue downward-facing arrow (▼) to close a category.</p>
+<p>Exhibit 2. Selecting criteria</p>
+<div class="inline-figure"><img src="images/chapter5/image3.png" style="width:6.33366in;height:5.32666in"></div>
+</div>
+<div id="b.-display" class="section level3" number="5.1.2">
+<h3>
+<span class="header-section-number">5.1.2</span> 1.B. Display<a class="anchor" aria-label="anchor" href="#b.-display"><i class="fas fa-link"></i></a>
+</h3>
+<p>Under <strong>Display</strong>, choose one of the three different NCES PIAAC IDE
+adult sample populations:</p>
+<blockquote>
+<p><strong><u>U.S. Adults, 16–74 (Household and Prison)</u>:</strong> This
+display contains U.S.-only comparable data from the PIAAC, including
+the 2017 U.S. Household Data (for ages 16–74, and 16–65), combined
+2012 and 2014 U.S. Household Data (for ages 16–74, and 16–65), and
+Prison Data (for ages 16–74).</p>
+<p><strong><u>Young Adults, 16–34</u></strong>: This display contains
+internationally comparable data from the<br>
+3 international rounds of PIAAC (2012–2017 for all countries, except
+the U.S. which combined 2012–2014 data only) Household Data, ages
+16–34. This display does not include the 2017 U.S. Household Data.</p>
+<p><strong><u>Adults, 16–65</u></strong>: This display contains
+internationally comparable data from the<br>
+3 international rounds of PIAAC (2012–2017 for all countries, except
+the U.S. which combined 2012-2014 data only) Household Data, ages
+16–65. This display does not include the 2017 U.S. Household Data.</p>
+</blockquote>
+<p>Once a display is chosen, the screen resets and you can select one or
+more of the years and studies or <strong>All Years/Studies</strong>, <strong>Measure</strong>(s),
+and <strong>Jurisdiction</strong>(s).</p>
+</div>
+<div id="c.-choose-yearstudys" class="section level3" number="5.1.3">
+<h3>
+<span class="header-section-number">5.1.3</span> 1.C. Choose Year/Study(s)<a class="anchor" aria-label="anchor" href="#c.-choose-yearstudys"><i class="fas fa-link"></i></a>
+</h3>
+<p>In the same horizontal bar as the <strong>Measure</strong> and <strong>Jurisdiction</strong>
+sections, you have the choice of selecting <strong>PIAAC 2017</strong> and/or <strong>PIAAC
+2012/14</strong> by checking the appropriate box if the Display chosen is
+<strong>U.S. Adults, 16–74 (Household and Prison)</strong>. You have the choice of
+selecting <strong>PIAAC 2012–2017</strong>, <strong>ALL 2003–2008</strong>, and/or <strong>IALS
+1994–1998</strong> if the <strong>Display</strong> chosen is <strong>Adults, 16–65</strong>, or <strong>Young
+Adults, 16–34</strong>. To include data from all studies, check the <strong>All
+Years/Studies</strong> box to the left of the individual year and study
+options.</p>
+</div>
+<div id="d.-choose-measures" class="section level3" number="5.1.4">
+<h3>
+<span class="header-section-number">5.1.4</span> 1.D. Choose Measure(s)<a class="anchor" aria-label="anchor" href="#d.-choose-measures"><i class="fas fa-link"></i></a>
+</h3>
+<p>After choosing a <strong>Display</strong>, you can choose a <strong>Measure</strong> within the
+<strong>Select Criteria</strong> tab. Note that the <strong><u>PIAAC overall
+scales</u></strong> are the default and you can select more than one
+overall scale although analysis for each scale will be done separately.
+You can browse for other reporting scales using the <strong>Category</strong> and
+<strong>Sub Category</strong> lists or by using the <strong>Search</strong> function.</p>
+<p>There are a number of continuous variables other than scale scores that
+you may choose as a measure of analysis. These variables are generally
+continuous variables from the international and U.S. national background
+questionnaires (such as earnings or hours of work per week) and derived
+variables from PIAAC, ALL, and IALS. Derived variables from PIAAC
+include indices of literacy, numeracy, and computer use at work and at
+home and imputed years of formal education, among others. Analysis of
+the continuous variables in terms of the continuous literacy, numeracy
+and problem solving TRE scale scores is not possible, but it is possible
+to analyze the continuous variables in terms of the literacy, numeracy,
+and problem solving proficiency level variables available in the list of
+<strong>Variables</strong>. For example, one cannot analyze the average number of
+hours of work per week in relationship to score, but one can analyze the
+average number of hours of work per week for adults at each proficiency
+level.</p>
+<blockquote>
+<p><strong><u>Percentage across full sample</u></strong>: The adults in the
+sample population that did not answer the assessment will be displayed
+along with those that did answer the assessment if you select the
+<strong>Percentage across full sample</strong> measure under the <strong>Population</strong>
+category and <strong>Population</strong> subcategory.</p>
+<p><strong><u>Reading components</u></strong>: There is a separate reporting
+scale for the Reading Components domain of the PIAAC survey. The
+Reading Components domain is used to measure literacy at the very low
+end of the spectrum, with components such as sentence completion,
+passage comprehension, and vocabulary. This domain was given to
+respondents who decided not to take the computer-based assessment or
+who did not pass a set of core information and computer technology
+tasks and failed a set of core literacy/numeracy tasks.</p>
+</blockquote>
+</div>
+<div id="e.-choose-jurisdictions" class="section level3" number="5.1.5">
+<h3>
+<span class="header-section-number">5.1.5</span> 1.E. Choose Jurisdiction(s)<a class="anchor" aria-label="anchor" href="#e.-choose-jurisdictions"><i class="fas fa-link"></i></a>
+</h3>
+<p>With your <strong>Measure</strong>(s), one or more of the years and studies or <strong>All
+Years/Studies</strong> selected, next choose at least one <strong>Jurisdiction.</strong></p>
+<p>Jurisdictions are found under <strong>OECD National Entities</strong>, <strong>OECD
+Sub-National Entities</strong> and <strong>Partners.</strong></p>
+<p>There is also a group category called <strong>International</strong>, with options to
+display the <strong>Average of All Jurisdictions</strong> and the <strong>Average of the
+Selected Jurisdictions.</strong> Please note that selecting <strong>Average of All
+Jurisdictions</strong> or <strong>Average of the Selected Jurisdictions</strong> increases
+the frequency of receiving an error message in the <strong>Build Reports</strong>
+step due to the high volume of information contained in these groups.</p>
+<p>The general procedures for selecting one or more jurisdictions are as
+follows:</p>
+<ol style="list-style-type: decimal">
+<li><p>To open groups of jurisdictions, click on the arrow (►).
+Jurisdictions in the group are open and can be selected when the
+blue arrow points down (▼) (see exhibit 3).</p></li>
+<li><p>Click the checkboxes next to the specific jurisdictions that you are
+interested in, or uncheck those jurisdictions that you wish to
+deselect. If you click the checkbox next to the group name (e.g.,
+“<strong>OECD National Entities</strong>”), you will select all the jurisdictions
+within that group. If desired, uncheck the group name to deselect
+all.</p></li>
+<li>
+<p>If you want to close a group (for example, close the list of <strong>OECD
+National Entities</strong> jurisdictions in order to readily see the <strong>OECD
+Sub-National Entities</strong> jurisdictions), click the blue arrow
+pointing down (▼) next to the group name. The closed group’s arrow
+will now point to the right (►). Be advised that closing the group
+will not deselect your choices.</p>
+<p>NOTE: The U.S. Adults 16–74 (Household and Prison) Display only
+includes data for the United States. The U.S. Household (16–74
+years old), U.S. Prison (16–74 years old), and U.S. Household
+(16–65) are the only selections available in the <strong>Jurisdiction</strong>
+menu. However, users may choose to work with the U.S. prison sample,
+or one of the U.S. household samples, or select more than one for
+analysis as jurisdictions.</p>
+</li>
+</ol>
+<p>Exhibit 3. Choosing jurisdictions</p>
+<div class="inline-figure"><img src="images/chapter5/image4.png" style="width:6.25032in;height:5.31972in"></div>
+<p>To continue in the IDE, click the <strong>Select Variables</strong> button at the
+bottom right of the page or the tab at the top of the page to go to the
+next screen (see exhibit 3).</p>
+</div>
+</div>
+<div id="select-variables-2" class="section level2" number="5.2">
+<h2>
+<span class="header-section-number">5.2</span> 2. Select Variables<a class="anchor" aria-label="anchor" href="#select-variables-2"><i class="fas fa-link"></i></a>
+</h2>
+<div id="a.-overview-9" class="section level3" number="5.2.1">
+<h3>
+<span class="header-section-number">5.2.1</span> 2.A. Overview<a class="anchor" aria-label="anchor" href="#a.-overview-9"><i class="fas fa-link"></i></a>
+</h3>
+<p>Step 2, <strong>Select Variables,</strong> can only be accessed after choosing
+criteria at step 1, <strong>Select Criteria</strong>.</p>
+<p>To continue your data query and edit a report, <em>you must choose at least
+one variable on this screen.</em> You can browse for variables using the
+<strong>Category</strong> and <strong>Sub Category</strong> lists or by using the <strong>Search</strong>
+function (see exhibit 4). You can return to this screen to change
+variable selections at any time.</p>
+<p>Exhibit 4. Select variables overview</p>
+<div class="inline-figure"><img src="images/chapter5/image5.png" style="width:6.31977in;height:4.84747in"></div>
+</div>
+<div id="b.-search-using-category-and-sub-category-lists-1" class="section level3" number="5.2.2">
+<h3>
+<span class="header-section-number">5.2.2</span> 2.B. Search Using Category and Sub Category Lists<a class="anchor" aria-label="anchor" href="#b.-search-using-category-and-sub-category-lists-1"><i class="fas fa-link"></i></a>
+</h3>
+<p>On the <strong>Select Variables</strong> screen, choose at least one variable for
+your report. One way to do this is to search for variables using the
+<strong>Category</strong> and <strong>Sub Category</strong> lists.</p>
+<p>If you do not wish to choose from any of the specified categories and
+subcategories, then select <strong><u>All adults</u></strong> in the <strong>Major
+reporting groups</strong> sub category.</p>
+<p>The variables shown are tied to the criteria you selected at step 1
+(<strong>Measure,</strong> one or more of the years and studies or <strong>All
+Years/Studies</strong> selected<strong>,</strong> and <strong>Jurisdiction</strong>), which are indicated
+at the top of the screen. To change any of these criteria, return to
+step 1, by clicking on <strong>Select Criteria</strong>.</p>
+<p>To browse for variables, get details about them, select them, and view
+them:</p>
+<ol style="list-style-type: decimal">
+<li>Click the blue arrows to open and close categories and subcategories
+&gt; of variables (see exhibit 5).</li>
+</ol>
+<!-- --><ol start="4" style="list-style-type: decimal">
+<li><p>Click <strong>details</strong> or <strong>hide details</strong> to show or hide the full title
+&gt; of a given variable, the PIAAC ID (e.g., GENDERR), and the values
+&gt; (i.e., variable labels). Note that some variables have the same or
+&gt; similar short titles, but comparing details will show you how they
+&gt; differ. See the example in exhibit 5, which shows <strong>Last job -
+&gt; Employee or self-employed</strong> and <strong>Last Job - Economic sector.</strong>
+&gt; The differences between these two variables are described in the
+&gt; details.</p></li>
+<li><p>Click the checkbox next to a variable to select it for your
+&gt; analysis/report. You will see the count increase next to <strong>View
+&gt; Selected</strong> that appears above the Variable list.</p></li>
+<li><p>Click the <strong>View Selected</strong> tab to see the variables you have
+&gt; chosen. To return to the full list of variables by category, click
+&gt; the <strong>View All</strong> tab to the left of the <strong>View Selected</strong> tab.</p></li>
+<li>
+<p>Click <strong>Reset</strong> button in the upper-right portion of the screen if
+&gt; you wish to deselect all the selected variables.</p>
+<p>NOTE: Remember to select the year/study for which you wish to build
+a report and make sure that data are available for your chosen
+year/study and variables.</p>
+<p>Searching variables is an option from the Search box. See <strong>Section
+2.C Search Function</strong> (on next page) for more details about this
+function.</p>
+</li>
+</ol>
+<p>Exhibit 5. Select variables using category and sub category lists</p>
+<div class="inline-figure"><img src="images/chapter5/image6.png" style="width:6.31977in;height:4.81275in"></div>
+<p>When you have selected the variable(s) you want to include, continue by
+clicking the <strong>Edit Reports</strong> button at the bottom of the page or the
+tab at the top of the page to go to the next screen.</p>
+</div>
+<div id="c.-search-function-2" class="section level3" number="5.2.3">
+<h3>
+<span class="header-section-number">5.2.3</span> 2.C. Search Function<a class="anchor" aria-label="anchor" href="#c.-search-function-2"><i class="fas fa-link"></i></a>
+</h3>
+<p>The second way to search for variables is to use the <strong>Search</strong> function
+on the <strong>Select Variables</strong> screen.  </p>
+<p>Type a term in the <strong>Search</strong> box and click <strong>Go</strong> (or hit “Enter” on
+your keyboard) to find variables by keywords in the question and/or
+details for the variable (see exhibit 6). The search function operates
+on whole words or on an exact phrase (if it is contained in quotes). To
+search for less than a whole word or exact phrase, include an asterisk
+(*) after the search term. If you use multiple keywords, “and” is
+assumed. You can narrow your search by using “or,” “not,” or “and not.”</p>
+<p>Exhibit 6. Select variables using the search function</p>
+<div class="inline-figure"><img src="images/chapter5/image7.png" style="width:6.30588in;height:4.82664in"></div>
+<p>When you have selected the variable(s) you want to include, continue by
+clicking the <strong>Edit Reports</strong> button at the bottom of the page or the
+tab at the top of the page to go to the next screen.</p>
+</div>
+</div>
+<div id="edit-reports-2" class="section level2" number="5.3">
+<h2>
+<span class="header-section-number">5.3</span> 3. Edit Reports<a class="anchor" aria-label="anchor" href="#edit-reports-2"><i class="fas fa-link"></i></a>
+</h2>
+<div id="a.-overview-10" class="section level3" number="5.3.1">
+<h3>
+<span class="header-section-number">5.3.1</span> 3.A. Overview<a class="anchor" aria-label="anchor" href="#a.-overview-10"><i class="fas fa-link"></i></a>
+</h3>
+<p>You can access step 3, <strong>Edit Reports,</strong> after choosing criteria at step
+1, <strong>Select Criteria</strong>, and choosing variables at step 2, <strong>Select
+Variables</strong>. The IDE will automatically build reports based on your
+selections from steps 1 and 2. However, at step 3, the <strong>Edit Reports</strong>
+phase, you may modify your selections for each report. At this step, you
+can:</p>
+<ul>
+<li><p>preview and edit the layout of your reports;</p></li>
+<li><p>copy reports or create new reports based on the variables selected;</p></li>
+<li><p>change formatting options, such as number of decimal places to
+display, for all reports (these may also be changed in individual
+reports, but format options can overwrite previous edits);</p></li>
+<li><p>change statistics options, such as average scale scores and
+achievement levels, for all reports (these may also be changed in
+individual reports, but statistics options can overwrite previous
+edits);</p></li>
+<li><p>select reports to be built into tables and charts at step 4, <strong>Build
+Reports</strong>; and  </p></li>
+<li><p>delete reports.</p></li>
+</ul>
+<p>Using your chosen criteria, the PIAAC IDE will return a separate data
+report for each variable you have chosen. If you have selected two or
+three variables (not counting <strong><u>All adults</u></strong>), you will
+also see a <strong>cross-tabulated report</strong> for these variables. If you have
+chosen four or more variables you will get tables for each variable, but
+a cross-tabulation report will not be produced. If your selected
+criteria include more than one <strong>Measure</strong> (e.g., overall literacy scale
+and one or more continuous variable from step 1, <strong>Select Criteria</strong>), a
+separate set of data reports will be generated for each <strong>Measure</strong> (see
+exhibit 7).</p>
+<div class="inline-figure">Exhibit 7. Edit reports overview
+<img src="images/chapter5/image8.png" style="width:6.26421in;height:3.55574in">
+</div>
+</div>
+<div id="b.-preview-report-2" class="section level3" number="5.3.2">
+<h3>
+<span class="header-section-number">5.3.2</span> 3.B. Preview Report<a class="anchor" aria-label="anchor" href="#b.-preview-report-2"><i class="fas fa-link"></i></a>
+</h3>
+<p>Select <strong>Preview,</strong> in the <strong>Action</strong> column (see exhibit 7), to see how
+your report will be laid out. The preview will not provide actual data
+but will show how the data will be arranged in rows and columns (see
+exhibit 8). You can select <strong>Preview</strong> at any time to see how your
+changes will affect the report’s final layout.</p>
+<p>Exhibit 8. Using preview report</p>
+<div class="inline-figure"><img src="images/chapter5/image9.png" style="width:5.69448in;height:4.26494in"></div>
+</div>
+<div id="c.-edit-report-2" class="section level3" number="5.3.3">
+<h3>
+<span class="header-section-number">5.3.3</span> 3.C. Edit Report<a class="anchor" aria-label="anchor" href="#c.-edit-report-2"><i class="fas fa-link"></i></a>
+</h3>
+<p>To edit the report, select the <strong>Edit</strong> command, in the <strong>Action</strong>
+column, next to the report number (see exhibit 7). (Another way to edit
+a report is to select the <strong>Edit</strong> tab when you are previewing a
+report.) The following can be done using the <strong>Edit</strong> command (see
+exhibit 9):</p>
+<ol style="list-style-type: decimal">
+<li>
+<u>Name your report</u>. You have the option of giving each
+&gt; report a distinctive name, up to a limit of 50 characters, using
+&gt; only letters, numbers, spaces, underscores, and hyphens.
+&gt; (Otherwise, by default, the report is named Report 1, Report 2,
+&gt; etc., or Cross-Tabulated Report 1, Cross-Tabulated Report 2, etc.)</li>
+</ol>
+<!-- --><ol start="8" style="list-style-type: decimal">
+<li><p><u>Select a Measure</u>. You can choose a measure if more
+&gt; than one was selected at step 1, Select Criteria.</p></li>
+<li><p><u>Select which jurisdictions, variables, years (if applicable), and
+&gt; statistics to include</u> (out of the selections
+&gt; previously made at steps 1 and 2). You can select up to two
+&gt; statistics options from the following: <strong>averages</strong>,
+&gt; <strong>percentages</strong>, <strong>standard deviations</strong>, and <strong>percentiles</strong>.
+&gt; (For further information, see <strong>Section 3.G. Statistics
+&gt; Options</strong>.)</p></li>
+<li><p><u>Create a new variable</u>. To create a new variable while
+&gt; editing a report, click on <strong>Create New…</strong> under the
+&gt; <strong>Variable</strong> heading. Section 3.D explains the process for
+&gt; creating a new variable.</p></li>
+<li><p><u>Change the table layout.</u> By dragging elements to
+&gt; determine which items will appear in rows and which will appear in
+&gt; columns. Some of the arrangements will not permissible, but a
+&gt; pop-up alert will explain this.</p></li>
+</ol>
+<blockquote>
+<div class="inline-figure">Exhibit 9. Editing
+reports<img src="images/chapter5/image10.png" style="width:5.44034in;height:4.05211in">
+</div>
+</blockquote>
+<p>To save changes, make sure to select Done in the upper-right portion of
+the screen before closing the Edit Report window. If the Done button is
+not pressed before the Edit window is closed, you may encounter a system
+error.</p>
+</div>
+<div id="d.-create-new-variables-2" class="section level3" number="5.3.4">
+<h3>
+<span class="header-section-number">5.3.4</span> 3.D. Create New Variables<a class="anchor" aria-label="anchor" href="#d.-create-new-variables-2"><i class="fas fa-link"></i></a>
+</h3>
+<p>To create a new variable, select <strong>Edit,</strong> in the <strong>Action</strong> column, and
+select <strong>Create new…</strong> under <strong>Variable</strong> (see exhibit 9). The new
+variable is created by combining values for an existing variable. The
+steps are as follows:</p>
+<ol style="list-style-type: decimal">
+<li>Select the variable for which you wish to combine values.</li>
+</ol>
+<!-- --><ol start="12" style="list-style-type: decimal">
+<li><p>Select the values you want to combine by checking the boxes to the
+left of the values (see exhibit 10).</p></li>
+<li><p>Create a name for the new value, and press <strong>Create</strong>. The collapsed
+values will appear in gray to indicate that they have already been
+used.</p></li>
+<li><p>Wait for the screen to refresh, and press <strong>Done</strong>.</p></li>
+</ol>
+<p>Exhibit 10. Creating new variables</p>
+<blockquote>
+<div class="inline-figure"><img src="images/chapter5/image11.png" style="width:3.1816in;height:3.5615in"></div>
+</blockquote>
+<ol start="15" style="list-style-type: decimal">
+<li><p>The new variable will appear in the <strong>Variable</strong> list in the <strong>Edit
+Report</strong> window or <strong>Create New Report</strong> window, designated as
+“collapsed.”</p></li>
+<li><p>Check the box next to the new variable to view it in the report. You
+can click <strong>Preview</strong> to see how the table will be laid out before
+retrieving data.</p></li>
+</ol>
+<p>A new variable that you create is applicable <em>only</em> to a specific
+report; it does not apply to the other reports listed on the <strong>Edit
+Reports</strong> screen. For example, if you selected multiple measures of
+literacy for analysis, then you would need to create the new variable
+for each measure, or create a copy of the report and edit it
+accordingly. To do the latter, click on <strong>Copy</strong> report on the <strong>Edit
+Reports</strong> screen (copied reports appear at the end of the list of
+reports) and then, for the new copy, click on <strong>Edit</strong> (using the above
+example, you can change the measure and give the report a new name). You
+cannot save the new variable for reference or future use.</p>
+<p>You can repeat the process and combine different values of a variable to
+create additional new variables. Using the <strong>Create New Report</strong>
+function, you can create a new report for each new variable that you
+create. (For further information, see section <strong>3.E. Create New
+Report</strong>.)</p>
+<p>If you selected two or three variables from which to create new
+variables, you can repeat the process for each of them. Using the
+<strong>Create New Report</strong> or <strong>Edit Report</strong> function, these collapsed
+variables will be listed and available for cross-tabulation (see exhibit
+11). If you have chosen four or more variables (not counting <strong>All
+adults</strong>) you will not get the cross-tabulation. You can click
+<strong>Preview</strong> to see how the table will be laid out before retrieving
+data.</p>
+<p>Exhibit 11. Edit reports with collapsed variables</p>
+<div class="inline-figure"><img src="images/chapter5/image12.png" style="width:5.04193in;height:3.75714in"></div>
+</div>
+<div id="e.-create-new-report-2" class="section level3" number="5.3.5">
+<h3>
+<span class="header-section-number">5.3.5</span> 3.E. Create New Report<a class="anchor" aria-label="anchor" href="#e.-create-new-report-2"><i class="fas fa-link"></i></a>
+</h3>
+<p>From the main <strong>Edit Reports</strong> screen, clicking on <strong>Create New Report</strong>
+brings up the same options as <strong>Edit Report</strong>, but with no checkboxes
+marked and without any new variables you may have created. Thus,
+<strong>Create New Report</strong> (see exhibit 12a and 12b) provides a clean slate
+for your selections from the first two steps, <strong>Select Criteria</strong> and
+<strong>Select Variables</strong>. Each new report you create will appear at the end
+of the list of reports. If you do not give the report a specific name,
+it will be called “New Report.” If you create a second new report, the
+system will attempt to save it with the “New Report” name again;
+however, it will fail and will prompt you to enter a different name in
+the Name text box.</p>
+<p>Exhibit 12a. Creating new reports</p>
+<div class="inline-figure"><img src="images/chapter5/image13.png" style="width:6.26421in;height:2.27095in"></div>
+<p>Exhibit 12b. Creating new reports</p>
+<div class="inline-figure"><img src="images/chapter5/image14.png" style="width:6.39969in;height:4.76441in"></div>
+</div>
+<div id="f.-format-options-2" class="section level3" number="5.3.6">
+<h3>
+<span class="header-section-number">5.3.6</span> 3.F. Format Options<a class="anchor" aria-label="anchor" href="#f.-format-options-2"><i class="fas fa-link"></i></a>
+</h3>
+<p>From the main <strong>Edit Reports</strong> screen, clicking on <strong>Format Options</strong>
+will allow you to make formatting changes applicable to all the reports
+listed. The following formatting options are available using this
+function (see exhibit 13):</p>
+<ol style="list-style-type: decimal">
+<li>
+<strong>Variable Labels (Long)</strong> displays a more detailed description of
+the variables selected in a query than the default short label. For
+variables from the background questionnaire, the full text of the
+question is displayed. Be advised that the length of the extra
+detail may sometimes interfere with table formatting.</li>
+</ol>
+<!-- --><ol start="17" style="list-style-type: decimal">
+<li><p><strong>Show data for values categorized as “missing”</strong> will include the
+percentage of adults in the total sample or in a reporting group for
+whom membership in a particular response category is unknown because
+no response was given by the adults. The percentage of “missing”
+will be shown in the right-most table column. Missing data are
+available only for queries that involve percentages as the statistic
+type. Unless you check this option, the default is for missing
+responses not to be included in the percentage distribution shown.</p></li>
+<li><p><strong>Year Order</strong> allows you the option to display the most recent year
+first or the oldest year first.</p></li>
+<li><p><strong>Decimal Places</strong> allows you to specify the level of precision for
+a particular statistic. Depending on the value range of the
+dependent variable (for example, the dependent variable “PIAAC
+Literacy: Overall scale <span class="math display">\[PVLIT\]</span>” ranges from 0 to 1000; the
+dependent variable “Index of use of ICT skills at home (derived)
+<span class="math display">\[ICTHOME\]</span>” ranges from 0 to 4), the default decimal places for a
+report could be from zero to three. Also, standard errors will be
+shown to one more decimal place than is shown for a particular
+statistic. For example, if you request that average scores be
+displayed to one decimal place (by default, the average scores is
+displayed to be the whole number), the corresponding standard errors
+will be displayed to two decimal places. If you export to Excel, you
+will be able to increase the number of decimal places in most cases.
+Note that only integer-level precision is allowed for percentages;
+that is, the number of decimal places is fixed at “none” for
+percentages and the corresponding standard errors are shown to one
+decimal place.</p></li>
+<li><p><strong>Include</strong> gives you the option of showing standard errors. By
+default, standard errors are shown inside parentheses, but you have
+the option of choosing to show them without parentheses<em>.</em> You can
+preview the effects of your selection in the <strong>Sample Display</strong> area
+(see the blue-shaded box at the bottom of exhibit 13).</p></li>
+</ol>
+<p>Exhibit 13. Format options</p>
+<div class="inline-figure"><img src="images/chapter5/image15.png" style="width:3.70402in;height:4.92482in"></div>
+<p>Be advised that the choices you make in the <strong>Format Options</strong> window
+will apply to all reports and cannot be changed for individual reports.
+Use the <strong>Reset</strong> button, located in the upper-right portion of the main
+<strong>Edit Reports</strong> screen (just below the <strong>Help</strong> button), to restore the
+<strong>Format Options</strong> to the default settings (although caution is advised,
+as this will also delete any new reports that you have created).</p>
+</div>
+<div id="g.-statistics-options-2" class="section level3" number="5.3.7">
+<h3>
+<span class="header-section-number">5.3.7</span> 3.G. Statistics Options<a class="anchor" aria-label="anchor" href="#g.-statistics-options-2"><i class="fas fa-link"></i></a>
+</h3>
+<p>Available only from the main <strong>Edit Reports</strong> screen, clicking on
+<strong>Statistics Options</strong> allows you to designate up to two statistics. The
+selections you make are applicable to all the reports listed, although
+you can also change the statistics for an individual report when you
+edit it. (For further information, see <strong>Section 3.C. Edit Report</strong>.)</p>
+<p>The following statistics options are available (see exhibit 14):</p>
+<ol style="list-style-type: decimal">
+<li><p><strong>Averages.</strong> For the PIAAC assessment, adult performance is
+reported on scales that range from 0 to 500. PIAAC reports the
+average scale score for a variety of demographic samples of the
+adult population (e.g., the average scale score in literacy for
+female adults). Averages for other continuous variables are in the
+same units as the variables themselves (e.g., average hourly
+earnings for hourly earnings variable). By default, the standard
+errors of the scale scores are shown in parentheses.</p></li>
+<li><p><strong>Percentages.</strong> This statistic shows the percentage of adults as a
+row percentage. For example, if the first column lists
+jurisdictions, then each jurisdiction will display its own
+percentage distribution across its row. By default, percentage
+distributions do not include missing data. For information on how to
+show data for values categorized as missing, see <strong>Section 3.F.
+Format Options</strong>.</p></li>
+<li><p><strong>Standard deviations.</strong> The standard deviation is a measure of how
+widely or narrowly dispersed scores are for a particular variable.
+Under general normality assumptions, 95 percent of the scores are
+within two standard deviations of the mean. For example, if the
+average value of a variable is 500 and the standard deviation is
+100, it means that 95 percent of the values in this variable fall
+between 300 and 700. The standard deviation is the square root of
+the variance.</p></li>
+<li>
+<p><strong>Percentiles.</strong> This statistic shows the threshold (or cutpoint)
+for the following:</p>
+<ul>
+<li><p>10<sup>th</sup> percentile—the bottom 10 percent of adults</p></li>
+<li><p>25<sup>th</sup> percentile—the bottom quarter of adults</p></li>
+<li><p>50<sup>th</sup> percentile—the median (half the adults scored below the
+cutpoint and half scored above it)</p></li>
+<li><p>75<sup>th</sup> percentile—the top quarter of adults</p></li>
+<li><p>90<sup>th</sup> percentile—the top 10 percent of adults</p></li>
+</ul>
+</li>
+</ol>
+<p>Exhibit 14. Statistics options</p>
+<div class="inline-figure"><img src="images/chapter5/image16.png" style="width:2.9854in;height:3.82206in"></div>
+<p>As previously noted, the selections you make in <strong>Statistics Options</strong>
+will be applied automatically to all reports, although you can change
+the statistics for an individual report if you use the <strong>Edit</strong> command
+in the <strong>Action</strong> column. Be advised that if you use <strong>Statistics
+Options</strong> after editing the statistics in one or more of your individual
+reports, the statistics options selected will overwrite your previously
+edited selections. If you wish to use the same criteria and variables in
+a report with a different selection of statistics, consider using the
+<strong>Create New Report</strong> function to generate a new report with different
+statistics. (For further information, see <strong>Section 3.E. Create New
+Report</strong>.) You can also make a copy of an individual report.</p>
+<p>You can use the <strong>Reset</strong> button, located in the upper-right portion of
+the main <strong>Edit Reports</strong> screen (just below the <strong>Help</strong> button), to
+restore the <strong>Statistics Options</strong> to the default setting, which is the
+average for all reports (this will also delete any new reports that you
+created).</p>
+<p>Not all statistics are available for all reports. Their availability
+depends on other selections you have made to define the content and
+format of your report:</p>
+<ul>
+<li><p>Percentages will not display if jurisdictions or years appear in
+&gt; columns.</p></li>
+<li><p>If proficiency levels are selected in the variable section, only
+&gt; average scores and percentages will be displayed.</p></li>
+</ul>
+<p>Please note that the statistics produced by the IDE may not match the
+statistics in reports published by the OECD or in the OECD PIAAC IDE,
+due to differences in certain statistical standards. In particular, NCES
+and the OECD may differ in the minimum sample sizes required for
+publishing adult scores, as well as in the requirements for stability of
+estimates for results to be reportable. For more details on the
+differences in statistical standards, refer to the technical notes in
+the NCES First Look report.[^1]</p>
+</div>
+<div id="h.-select-reports-to-build-2" class="section level3" number="5.3.8">
+<h3>
+<span class="header-section-number">5.3.8</span> 3.H. Select Reports to Build<a class="anchor" aria-label="anchor" href="#h.-select-reports-to-build-2"><i class="fas fa-link"></i></a>
+</h3>
+<p>As you edit your reports, you can give distinct names (up to 50
+characters) to differentiate them, as well as make changes to the
+jurisdictions and variables previously selected, the statistics, and the
+layout of the rows and columns. (For further information, see <strong>Section
+3.C. Edit Report.)</strong> You may make copies of reports with these changes.</p>
+<p>Before proceeding to step 4, <strong>Build Reports</strong>, you can preview each
+report for which you want to retrieve data by using the <strong>Preview</strong>
+action. To decrease processing time as you move to step 4, you can
+uncheck any reports for which you do not wish to retrieve data. By
+default, all reports are checked. To uncheck one or more reports, you
+can either uncheck the reports individually or click on the <strong>All</strong> box.
+(Doing the latter will uncheck all of the reports and allow you to check
+only those for which you wish to retrieve data.) In the example that
+follows (see exhibit 15), data will be retrieved for all reports.</p>
+<p>Exhibit 15. Selecting reports to build</p>
+<div class="inline-figure"><img src="images/chapter5/image8.png" style="width:6.48635in;height:3.68183in"></div>
+<p>If you wish to delete a report from the list of reports, click
+<strong>Delete</strong> (see 1 in exhibit 15) in the <strong>Action</strong> column. Use the
+<strong>Reset</strong> button (see 2 in exhibit 15), located in the upper-right
+portion of the screen (just below the <strong>Help</strong> button), to restore the
+deleted reports with the criteria and variables selected in the previous
+steps (although caution is advised, as this will not restore any new
+reports or variables that you created in the session and will delete any
+new reports and variables that you most recently created; the <strong>Reset</strong>
+action will also restore the <strong>Format Options</strong> and <strong>Statistics
+Options</strong> to the default settings).</p>
+<p>To continue to the last step in the IDE, click the <strong>Build Reports</strong>
+button at the bottom of the page (see 3 in exhibit 15) or the tab at the
+top of the page to go to the next screen.</p>
+</div>
+</div>
+<div id="build-reports-2" class="section level2" number="5.4">
+<h2>
+<span class="header-section-number">5.4</span> 4. Build Reports<a class="anchor" aria-label="anchor" href="#build-reports-2"><i class="fas fa-link"></i></a>
+</h2>
+<div id="a.-overview-11" class="section level3" number="5.4.1">
+<h3>
+<span class="header-section-number">5.4.1</span> 4.A. Overview<a class="anchor" aria-label="anchor" href="#a.-overview-11"><i class="fas fa-link"></i></a>
+</h3>
+<p>You can access step 4, <strong>Build Reports</strong>, after choosing criteria at
+step 1, <strong>Select Criteria</strong>, in which case the default report built will
+provide average data for the <strong>All Adults</strong> variable. After step 1, you
+may also go on to steps 2 and 3, where you can select additional
+variables and edit reports, before moving on to <strong>Build Reports</strong>. In
+<strong>Build Reports</strong>, you can do the following:</p>
+<ul>
+<li><p>Generate a data table for each report selected in step 3, as shown
+&gt; by the <strong>Select Reports</strong> drop-down feature. By default, all
+&gt; reports are checked, although you can uncheck any reports for
+&gt; which you do not wish to retrieve data. (For further information,
+&gt; see <strong>Section 3.H. Select Reports to Build</strong>.)</p></li>
+<li><p>Export and save data tables into various formats using the <strong>Export
+Reports</strong> button. The output formats include HTML (print-friendly),
+Microsoft Word, Microsoft Excel, and Adobe PDF (in NCES PIAAC only)</p></li>
+<li><p>Select the <strong>Chart</strong> tab to create and customize charts for each
+report and save them for export in the above formats.</p></li>
+<li><p>Select the <strong>Significance Test</strong> tab to run a significance test on
+your results and customize it.</p></li>
+</ul>
+<p><strong>Exhibit 16. Building reports overview</strong>
+<img src="images/chapter5/image17.png" style="width:6.23643in;height:3.49323in"></p>
+</div>
+<div id="b.-view-reports-as-data-tables-2" class="section level3" number="5.4.2">
+<h3>
+<span class="header-section-number">5.4.2</span> 4.B. View Reports as Data Tables<a class="anchor" aria-label="anchor" href="#b.-view-reports-as-data-tables-2"><i class="fas fa-link"></i></a>
+</h3>
+<p>Once you click on <strong>Build Reports,</strong> the sentence “Some queries may take
+up to two minutes to process.” will appear on your screen (see exhibit
+17). Some reports will take longer than others to process, so please do
+not hit the “Back” button on your browser during this stage. Your table
+will appear once the processing is complete. To select a different table
+to view, go to the <strong>Select Report</strong> drop-down menu and choose the table
+of interest. To change the formatting or statistics options of a table
+or to generate a table from a report not included in your selection,
+return to step 3, <strong>Edit Reports</strong>.</p>
+<p>Exhibit 17. Processing data</p>
+<div class="inline-figure"><img src="images/chapter5/image18.png" style="width:6.29199in;height:2.98859in"></div>
+</div>
+<div id="c.-charts-2" class="section level3" number="5.4.3">
+<h3>
+<span class="header-section-number">5.4.3</span> 4.C. Charts<a class="anchor" aria-label="anchor" href="#c.-charts-2"><i class="fas fa-link"></i></a>
+</h3>
+<p>To create a chart, go to <strong>Select Report</strong> on the <strong>Build Reports</strong>
+screen to choose the report of interest from the drop-down menu, and
+then click the <strong>Chart</strong> link (see exhibit 18).</p>
+<p>You will be able to create many types of charts and customize them.
+<strong>Section 4.E. Create Charts – Chart Options</strong> provides a summary of
+the available features and how they can be customized.</p>
+<p>Exhibit 18. Viewing reports as charts</p>
+<div class="inline-figure"><img src="images/chapter5/image19.png" style="width:6.2781in;height:2.09038in"></div>
+</div>
+<div id="d.-create-charts-1" class="section level3" number="5.4.4">
+<h3>
+<span class="header-section-number">5.4.4</span> 4.D. Create Charts<a class="anchor" aria-label="anchor" href="#d.-create-charts-1"><i class="fas fa-link"></i></a>
+</h3>
+<p>When you click <strong>Chart,</strong> you will first make selections pertaining to
+<strong>Jurisdiction,</strong> <strong>Year/Study</strong>, and <strong>Statistic</strong>, which are data
+options of the chart (see exhibit 19). All <strong>Jurisdictions</strong> and
+<strong>Studies</strong> are selected by default, while you can only choose one
+<strong>Statistic</strong>. Uncheck any of the criteria that you do not wish to
+chart, as long as you have one selected in each category.</p>
+<p><strong>Exhibit 19. Data options for charts</strong>
+<img src="images/chapter5/image20.png" style="width:6.61391in;height:6.74411in"></p>
+<p>Next, you can make selections regarding the chart options located below
+on the same page.</p>
+<ol style="list-style-type: decimal">
+<li><p>Select <strong>Bar Chart</strong>, <strong>Column Chart</strong>, or <strong>Line Chart</strong> (see 1 in
+&gt; exhibit 20). If the Percentiles Statistic is selected, you can
+&gt; also select from a <strong>Percentiles Chart</strong> option.</p></li>
+<li><p>After selecting a chart type, change any data dimensions from the
+&gt; drop-down menus for <strong>Bar</strong>, <strong>Column</strong>, or <strong>Line Values</strong> and
+&gt; <strong>Values Grouped by</strong> (see 2 in exhibit 20). Any new variables
+&gt; that you created at step 3, <strong>Edit Reports</strong>, will be available
+&gt; for selection, but only if you selected the variables (by clicking
+&gt; the checkbox next to them) and pressed <strong>Done</strong> after you edited
+&gt; the report.</p></li>
+<li><p>Create your chart by clicking the <strong>Create Chart</strong> button in the
+&gt; lower-right corner (see 3 in exhibit 20).</p></li>
+</ol>
+<p><strong><br></strong></p>
+<p><strong>Exhibit 20. Chart options</strong></p>
+<div class="inline-figure"><img src="images/chapter5/image20.png" style="width:6.5in;height:6.62799in"></div>
+<p>After creating your chart, you can do the following (see exhibit 21 as
+an example of a <strong>Percentile Chart</strong> and exhibit 22 as an example of a
+<strong>Bar Chart</strong>):</p>
+<ol style="list-style-type: decimal">
+<li><p>Use the drop-down menus to change the jurisdiction and other
+&gt; variables as applicable (see 1 in exhibit 21).</p></li>
+<li><p>Place your cursor over the bars of the chart to see the data points
+&gt; and value label(s) (see 2 in exhibit 21).</p></li>
+</ol>
+<div class="inline-figure">Exhibit 21. Percentile chart
+<img src="images/chapter5/image21.png" style="width:6.6071in;height:4.9259in">
+</div>
+<p>Exhibit 22. Bar chart</p>
+<div class="inline-figure"><img src="images/chapter5/image22.png" style="width:6.5066in;height:4.37543in"></div>
+<p>You can choose <strong>“Back to Chart Options”</strong> (located in the upper-left
+corner, below the <strong>Chart</strong> link) to make more changes.</p>
+<p>To make an additional chart from the same report or table, click the
+<strong>Chart</strong> link on the <strong>Build Reports</strong> screen. If you do not start the
+chart process again by clicking the <strong>Chart</strong> link, the new chart will
+overwrite the previous one.</p>
+<p>If you wish to make charts from other reports, select a different report
+from the <strong>Select Report</strong> drop-down list. If you do not see the other
+reports that you would like to make charts from, they may not have been
+selected in step 3, <strong>Edit Reports</strong>. Go back to step 3 and check the
+reports you want to use for making charts. When you advance to step 4,
+<strong>Build Reports</strong>, the reports will appear in the <strong>Select Report</strong>
+drop-down list. If you need to create new reports, go back to step 1,
+<strong>Select Criteria</strong>, and/or step 2, <strong>Select Variables</strong>. Remember to
+export any completed charts you want to save using the <strong>Export
+Reports</strong> function before leaving the <strong>Build Reports</strong> screen.
+Otherwise, you will lose the charts you have created when going back to
+step 1, <strong>Select Criteria</strong>. (For further information, see <strong>Section
+4.H. Export Reports</strong>.)</p>
+</div>
+<div id="e.-significance-tests-1" class="section level3" number="5.4.5">
+<h3>
+<span class="header-section-number">5.4.5</span> 4.E. Significance Tests<a class="anchor" aria-label="anchor" href="#e.-significance-tests-1"><i class="fas fa-link"></i></a>
+</h3>
+<p>Tests for statistical significance indicate whether observed differences
+between assessment results are likely to have occurred because of
+sampling error or chance. “Significance” here does not imply any
+judgment about absolute magnitude or educational relevance. It refers
+only to the statistical nature of the difference and whether that
+difference likely reflects a true difference in the population.</p>
+<p>With your report of interest selected, click the <strong>Significance Test</strong>
+link, which is located to the right of the <strong>Chart</strong> link (see exhibit
+22). You first need to decide which variable you want to test and the
+criterion by which you want to test it (i.e., between jurisdictions,
+within variables, or across years). You will compare or “look across”
+the variable’s range of values, so it must have more than one value. You
+can look across jurisdictions for a variable (that is, compare two or
+more jurisdictions) or you can look across the values within a variable
+for a single jurisdiction. Once the primary criterion is chosen, all
+other criteria must be restricted to a single value.</p>
+<p>The general steps for running significance tests are as follows (see
+exhibit 23):</p>
+<ol style="list-style-type: decimal">
+<li>In the <strong>Significance Test</strong> window, select <strong>Between
+&gt; Jurisdictions</strong>, <strong>Within Variables</strong>, or <strong>Across Years</strong>. Then,
+&gt; select the appropriate jurisdiction(s), variable(s), one or more
+&gt; of the years and studies, and statistic(s). For <strong>Between
+&gt; Jurisdictions</strong>, select at least two jurisdictions. For <strong>Within
+&gt; Variables</strong>, select one or more jurisdictions. For <strong>Across
+&gt; Years</strong>, more than one year/study needs to be selected.</li>
+</ol>
+<!-- --><ol start="21" style="list-style-type: decimal">
+<li><p>Enter a <strong>Name</strong> limited to 25 characters, using only letters,
+&gt; numbers, spaces, underscores, and hyphens (otherwise, by default,
+&gt; the test is named “Sig Test 1”).</p></li>
+<li><p>Select the output type as either <strong>Table</strong> or <strong>Map</strong> or
+&gt; <strong>Comparison</strong>. The table option will show the significance test
+&gt; results as a matrix. The comparison option will show the
+&gt; jurisdictions selected which are significantly higher, not
+&gt; different, or lower to each other in score and statistical
+&gt; significance. The map option will show the significance test
+&gt; results on a world map, highlighting the selected jurisdictions
+&gt; different from the one that has been identified as the benchmark.
+&gt; Identifying a benchmark jurisdiction is done on the map itself
+&gt; (see exhibit 25). The map output is only available when <strong>Between
+&gt; Jurisdictions</strong> is selected in the first step.</p></li>
+<li><p>Additional options allow you to select <strong>Show Score Details</strong> to
+&gt; display the estimates and standard errors for the table cells. If
+&gt; you selected a map, this option is not applicable, as the map will
+&gt; automatically show score details.</p></li>
+<li><p>Click the <strong>Preview</strong> tab located in the upper-left corner, or the
+&gt; <strong>Preview</strong> button located in the bottom-left corner.</p></li>
+<li><p>Click the <strong>Edit</strong> tab in the upper-left corner of the screen if you
+&gt; wish to go back and make changes to the selections you made for
+&gt; running the significance tests.</p></li>
+<li><p>Click the <strong>Done</strong> button in the upper- or lower-right corner of the
+&gt; screen to run the significance tests.</p></li>
+</ol>
+<p>Exhibit 23. Significance test options</p>
+<div class="inline-figure"><img src="images/chapter5/image23.png" style="width:6.49412in;height:4.46534in"></div>
+<p>When the table option is selected, you will get a significance test
+matrix in which you will see the differences and <em>p</em> values. Using the
+symbols shown in the legend of the matrix, an indication is also
+provided of whether one estimate is significantly lower or higher than
+another estimate or whether there is no significant difference (see
+exhibit 24). Most comparisons are independent with an alpha level of
+.05, except for within-jurisdiction comparisons on any given year, which
+are dependent with an alpha level of .05. For example, gender
+differences are treated as dependent samples with standard errors
+computed taking this dependency into account.</p>
+<p>For more information on the significance testing between years/studies,
+see section <strong>5. Statistical Notations and Other Notes</strong> under <em>Linking
+error</em>.</p>
+<p>Exhibit 24. Significance test table output</p>
+<div class="inline-figure"><img src="images/chapter5/image24.png" style="width:2.93329in;height:4.44372in"></div>
+<p>Exhibit 25. Map of significance tests</p>
+<div class="inline-figure"><img src="images/chapter5/image25.png" style="width:6.36411in;height:7.17023in"></div>
+<p>When the map option is selected, a global map is shown with the selected
+jurisdictions shaded (see exhibit 25). The focal jurisdiction is shaded
+in teal green and represents a comparison for all the other
+jurisdictions. The other jurisdictions are shaded in colors that
+indicate whether they are higher, lower, or not significantly different
+from the focal jurisdiction on whatever measure has been selected. (Note
+that a light shade of gray is the default color for jurisdictions
+categorized as “not selected for comparison.”) When you scroll over a
+jurisdiction a text bubble pops up describing the difference between
+that jurisdiction and the focal jurisdiction. At any point, you may
+choose a different focal jurisdiction by selecting another jurisdiction
+of your choosing. You may also choose a different variable category for
+comparison by using the drop down menu above the map.</p>
+</div>
+<div id="f.-gap-analysis-1" class="section level3" number="5.4.6">
+<h3>
+<span class="header-section-number">5.4.6</span> 4.F. Gap Analysis<a class="anchor" aria-label="anchor" href="#f.-gap-analysis-1"><i class="fas fa-link"></i></a>
+</h3>
+<p>Gap Analysis is included in the IDE to compare differences in gaps shown
+in a map, table, or chart. These gap differences can be compared between
+jurisdictions and/or across years.</p>
+<p><strong>Exhibit 26. Gap analysis link selection</strong></p>
+<div class="inline-figure"><img src="images/chapter5/image26.png" style="width:6.39279in;height:2.12251in"></div>
+<p>With your report of interest selected, click on the <strong>Gap Analysis</strong>
+link, which is located to the right of the <strong>Significance Test</strong> link
+(see exhibit 26). You will need to decide which variable you would like
+to test (e.g., gender) and the basis to use for comparison (i.e.,
+between jurisdictions or across years). The difference measure, or gap,
+can be viewed between groups, between years, between groups and years,
+or between percentiles within the selected variable. For example, if you
+compute average literacy scores for two jurisdictions at two time points
+for males and females, you can:</p>
+<ul>
+<li><p>at one time point, compare the male-female gap in one jurisdiction
+to the male-female gap in another jurisdiction;</p></li>
+<li><p>compare the male-female gap at two time points within a
+jurisdiction;</p></li>
+<li><p>compare the difference between the male-female gap at two time
+points in one jurisdiction to the difference between the male-female
+gap at two time points in another jurisdiction; or</p></li>
+<li><p>compare the gap for females at two time points in one jurisdiction
+to the gap for females at two time points in another jurisdiction.</p></li>
+</ul>
+<p><strong>Exhibit 27. Gap analysis options</strong></p>
+<div class="inline-figure"><img src="images/chapter5/image27.png" style="width:6.40424in;height:4.15873in"></div>
+<p>The steps for running a gap analysis are similar to those for conducting
+a statistical significance test (see exhibit 27). Thus, to run a gap
+analysis, follow the instructions under <strong>Section 4.E. Significance
+Tests</strong>, noting the following differences:</p>
+<ul>
+<li><p>The <strong>Gap Analysis</strong> link should be selected, not the <strong>Significance
+Test</strong> link.</p></li>
+<li><p>The gap analysis does not have a <strong>Within Variables</strong> option for
+analysis; the options are <strong>Between Jurisdictions</strong> and <strong>Across
+Years.</strong></p></li>
+<li><p>The difference measure (gap) of analysis must be selected from the
+following: <strong>Between Groups, Between Years, Between Groups and
+Years,</strong> and <strong>Between Percentiles</strong> (if variables are selected for
+which a difference measure is not feasible, the difference measure
+option will not appear as available in the Gap Analysis menu).</p></li>
+</ul>
+<p>The gap analysis output is presented in a format similar to that of the
+significance test output, with one difference: the difference estimate
+shown in the output is the difference between the gaps selected for
+analysis. Note that you will still see the significance of these
+differences just like in a significance test. For example, exhibit 28
+shows the difference between jurisdictions in the average problem
+solving in technology-rich environments score gap between males and
+females.</p>
+<p>The gap analysis function computes and statistically tests differences
+between average value/score, percentage, or percentile gaps. Note that
+the reference group for the gaps is kept constant during the analysis,
+as opposed to taking the absolute value of the gaps. Therefore, the gap
+analysis tests whether the magnitude of the gaps differ from each other
+only when the gaps go in the same direction (e.g., comparing a 5-point
+gender gap favoring females in one jurisdiction with a 15-point gender
+gap favoring females in another jurisdiction).</p>
+<p><strong>Exhibit 28. Gap analysis output</strong></p>
+<div class="inline-figure"><img src="images/chapter5/image28.png" style="width:3.49772in;height:3.46765in"></div>
+<p>NOTE: A gap analysis across years cannot be combined with the <strong>Between
+Years</strong> or <strong>Between Groups</strong> and <strong>Years</strong> difference measures, so you
+will select the difference measure <strong>Between Groups</strong>, or, if you have
+selected percentiles as one of your statistics, you may choose <strong>Between
+Percentiles</strong>.</p>
+</div>
+<div id="g.-regression-analysis-1" class="section level3" number="5.4.7">
+<h3>
+<span class="header-section-number">5.4.7</span> 4.G. Regression Analysis<a class="anchor" aria-label="anchor" href="#g.-regression-analysis-1"><i class="fas fa-link"></i></a>
+</h3>
+<p>Regression Analysis is included in the IDE to test for trends across
+more than two data points. The type of analysis performed in this
+feature of the IDE is referred to as linear regression within the field
+of statistics.</p>
+<p><strong><br></strong></p>
+<p><strong>Exhibit 29. Regression analysis link selection</strong></p>
+<div class="inline-figure"><img src="images/chapter5/image29.png" style="width:6.5in;height:2.10417in"></div>
+<p>A regression analysis can be performed based on the selections that were
+made to build your table in the IDE by selecting the <strong>Regression
+Analysis</strong> button above the table (see exhibit 29). The Measure, or
+continuous variable, that you selected in Step 1 and that is displayed
+in your table will automatically become your dependent variable for the
+regression analysis (in exhibit 29 this is “PIAAC Literacy: Overall
+scale”). Please note that continuous variables cannot be used as
+independent variables. The variables that you selected in Step 2 and
+that are displayed in your table will become your independent variable
+options for the regression analysis (in exhibit 29 this is “About
+yourself – Learning strategies – Relate to real life”).</p>
+<p><strong>Exhibit 30. Regression analysis options</strong></p>
+<div class="inline-figure"><img src="images/chapter5/image30.png" style="width:6.48424in;height:3.52622in"></div>
+<p>The general steps for running a regression analysis are as follows (see
+exhibit 30):</p>
+<ol style="list-style-type: decimal">
+<li><p>In the <strong>Regression Analysis</strong> pop-up window, enter a <strong>Name</strong>
+limited to 25 characters, using only letters, numbers, spaces,
+underscores, and hyphens (otherwise, by default, the test will be
+named “Regression 1”).</p></li>
+<li><p>Select the appropriate jurisdiction, year, and independent
+variable(s) for analysis. Please note that you may only choose one
+jurisdiction and year at a time, but you may choose up to 3
+independent variables to be in your report. In order to use up to 3
+variables, you must have already created and selected a
+cross-tabulated report (by selecting 3 variables in Step 2, <strong>Select
+Variables</strong>).</p></li>
+<li><p>Click the <strong>Preview</strong> tab located in the upper-left corner to view
+the table format into which your output will be populated. In the
+Preview tab, an “X” denotes where the output will display.</p></li>
+<li><p>Click the <strong>Edit</strong> tab in the upper-left corner of the screen if you
+wish to go back and make changes to the selections you made for
+running the analysis.</p></li>
+<li><p>Click the <strong>Done</strong> button in the upper- or lower-right corner of the
+screen to run the regression analysis.</p></li>
+</ol>
+<p>After you have clicked <strong>Done</strong>, your regression analysis output will
+load onto the screen (see exhibit 31). A 0-1 contrast coding is used to
+code the independent variable, where the first subgroup of the
+independent variable is the reference group. Using dummy-coded variables
+in a linear regression is useful for comparing each subgroup against a
+reference group. For example, in exhibit 31, if the subgroup “Not at
+all” is the reference group for the independent variable <strong>About
+yourself – Learning strategies – Relate to real life <span class="math display">\[IQ04B\]</span></strong>, the
+IDE creates a “Very little” dummy variable (1 for respondents who
+answered “Very little,” 0 otherwise), a “To some extent” dummy variable
+(1 for respondents who answered “To some extent,” 0 otherwise), a “To a
+high extent” dummy variable (1 for respondents who answered “To a high
+extent,” 0 otherwise), and a “To a very high extent” dummy variable (1
+for respondents who answered “To a very high extent,” 0 otherwise).</p>
+<p><strong>Exhibit 31. Regression analysis output</strong></p>
+<div class="inline-figure"><img src="images/chapter5/image31.png" style="width:6.5in;height:3.56667in"></div>
+<p>Using the output from exhibit 31 you can compare the average literacy
+scores of adults who report “Not at all” to the background question to
+average literacy scores of adults who report “Very little,” “To some
+extent,” “To a high extent,” or “To a very high extent” to the
+background question. When a single dummy-coded variable is used in a
+regression, the <em>intercept</em> is the mean of the reference group (e.g.,
+216.0766), and the <em>regression coefficient</em> is the difference between
+the mean of the reference group and the group identified (coded 1) with
+the dummy-coded variable (e.g., 14.8473 for adults who report “Very
+little” to the background question). Since the regression coefficients
+are presented with a standard error and a <em>t</em> value, these can be used
+to test whether a difference between means is statistically significant.
+Under the Significance column in the output you will see 3 possible
+signs: 1) &lt; signifies a significant negative difference, 2) &gt;
+signifies a significant positive difference, and 3) <em>x</em> signifies the
+difference is not statistically significant.</p>
+</div>
+<div id="h.-export-reports-1" class="section level3" number="5.4.8">
+<h3>
+<span class="header-section-number">5.4.8</span> 4.H. Export Reports<a class="anchor" aria-label="anchor" href="#h.-export-reports-1"><i class="fas fa-link"></i></a>
+</h3>
+<p>Click on the <strong>Export Reports</strong> button/arrow located on the right side
+of the <strong>Build Reports</strong> screen to save or print your tables, charts,
+and significance tests. The report names that appear in the <strong>Export
+Reports</strong> window are those that were checked off at step 3, <strong>Edit
+Reports</strong>.</p>
+<p>Exhibit 32. Export report options</p>
+<div class="inline-figure"><img src="images/chapter5/image32.png" style="width:2.99321in;height:3.81964in"></div>
+<p>Check the files you want to export and select one of the file formats:
+<strong>HTML</strong> (print-friendly), <strong>Excel</strong>, <strong>Word</strong>, or <strong>PDF</strong> (see exhibit
+32). All reports that you select at the same time will be exported in
+one file. In the Excel format, you will be able to increase the decimal
+places visible (wherever more precision is available in the database).
+Because there are many different operating systems in use, you may get
+an error message with Excel or one of the other formats. Usually, this
+will not affect your ability to export, so please wait for the software
+errors to resolve.</p>
+
+</div>
+</div>
+</div>
+  <div class="chapter-nav">
+<div class="prev"><a href="timsswalkthrough.html"><span class="header-section-number">4</span> TIMSS IDE Walkthrough</a></div>
+<div class="next"><a href="taliswalkthrough.html"><span class="header-section-number">6</span> TALIS IDE Walkthrough</a></div>
+</div></main><div class="col-md-3 col-lg-2 d-none d-md-block sidebar sidebar-chapter">
+    <nav id="toc" data-toggle="toc" aria-label="On this page"><h2>On this page</h2>
+      <ul class="nav navbar-nav">
+<li><a class="nav-link" href="#piaacwalkthrough"><span class="header-section-number">5</span> PIAAC IDE Walkthrough</a></li>
+<li>
+<a class="nav-link" href="#select-criteria-2"><span class="header-section-number">5.1</span> 1. Select Criteria</a><ul class="nav navbar-nav">
+<li><a class="nav-link" href="#a.-overview-8"><span class="header-section-number">5.1.1</span> 1.A. Overview</a></li>
+<li><a class="nav-link" href="#b.-display"><span class="header-section-number">5.1.2</span> 1.B. Display</a></li>
+<li><a class="nav-link" href="#c.-choose-yearstudys"><span class="header-section-number">5.1.3</span> 1.C. Choose Year/Study(s)</a></li>
+<li><a class="nav-link" href="#d.-choose-measures"><span class="header-section-number">5.1.4</span> 1.D. Choose Measure(s)</a></li>
+<li><a class="nav-link" href="#e.-choose-jurisdictions"><span class="header-section-number">5.1.5</span> 1.E. Choose Jurisdiction(s)</a></li>
+</ul>
+</li>
+<li>
+<a class="nav-link" href="#select-variables-2"><span class="header-section-number">5.2</span> 2. Select Variables</a><ul class="nav navbar-nav">
+<li><a class="nav-link" href="#a.-overview-9"><span class="header-section-number">5.2.1</span> 2.A. Overview</a></li>
+<li><a class="nav-link" href="#b.-search-using-category-and-sub-category-lists-1"><span class="header-section-number">5.2.2</span> 2.B. Search Using Category and Sub Category Lists</a></li>
+<li><a class="nav-link" href="#c.-search-function-2"><span class="header-section-number">5.2.3</span> 2.C. Search Function</a></li>
+</ul>
+</li>
+<li>
+<a class="nav-link" href="#edit-reports-2"><span class="header-section-number">5.3</span> 3. Edit Reports</a><ul class="nav navbar-nav">
+<li><a class="nav-link" href="#a.-overview-10"><span class="header-section-number">5.3.1</span> 3.A. Overview</a></li>
+<li><a class="nav-link" href="#b.-preview-report-2"><span class="header-section-number">5.3.2</span> 3.B. Preview Report</a></li>
+<li><a class="nav-link" href="#c.-edit-report-2"><span class="header-section-number">5.3.3</span> 3.C. Edit Report</a></li>
+<li><a class="nav-link" href="#d.-create-new-variables-2"><span class="header-section-number">5.3.4</span> 3.D. Create New Variables</a></li>
+<li><a class="nav-link" href="#e.-create-new-report-2"><span class="header-section-number">5.3.5</span> 3.E. Create New Report</a></li>
+<li><a class="nav-link" href="#f.-format-options-2"><span class="header-section-number">5.3.6</span> 3.F. Format Options</a></li>
+<li><a class="nav-link" href="#g.-statistics-options-2"><span class="header-section-number">5.3.7</span> 3.G. Statistics Options</a></li>
+<li><a class="nav-link" href="#h.-select-reports-to-build-2"><span class="header-section-number">5.3.8</span> 3.H. Select Reports to Build</a></li>
+</ul>
+</li>
+<li>
+<a class="nav-link" href="#build-reports-2"><span class="header-section-number">5.4</span> 4. Build Reports</a><ul class="nav navbar-nav">
+<li><a class="nav-link" href="#a.-overview-11"><span class="header-section-number">5.4.1</span> 4.A. Overview</a></li>
+<li><a class="nav-link" href="#b.-view-reports-as-data-tables-2"><span class="header-section-number">5.4.2</span> 4.B. View Reports as Data Tables</a></li>
+<li><a class="nav-link" href="#c.-charts-2"><span class="header-section-number">5.4.3</span> 4.C. Charts</a></li>
+<li><a class="nav-link" href="#d.-create-charts-1"><span class="header-section-number">5.4.4</span> 4.D. Create Charts</a></li>
+<li><a class="nav-link" href="#e.-significance-tests-1"><span class="header-section-number">5.4.5</span> 4.E. Significance Tests</a></li>
+<li><a class="nav-link" href="#f.-gap-analysis-1"><span class="header-section-number">5.4.6</span> 4.F. Gap Analysis</a></li>
+<li><a class="nav-link" href="#g.-regression-analysis-1"><span class="header-section-number">5.4.7</span> 4.G. Regression Analysis</a></li>
+<li><a class="nav-link" href="#h.-export-reports-1"><span class="header-section-number">5.4.8</span> 4.H. Export Reports</a></li>
+</ul>
+</li>
+</ul>
+
+      <div class="book-extra">
+        <ul class="list-unstyled">
+<li><a id="book-source" href="https://github.com/yuqiliao/IDE-help-guide/blob/main/05-piaac-walk-through.Rmd">View source <i class="fab fa-github"></i></a></li>
+          <li><a id="book-edit" href="https://github.com/yuqiliao/IDE-help-guide/edit/main/05-piaac-walk-through.Rmd">Edit this page <i class="fab fa-github"></i></a></li>
+        </ul>
+</div>
+    </nav>
+</div>
+
+</div>
+</div> <!-- .container -->
+
+<footer class="bg-primary text-light mt-5"><div class="container"><div class="row">
+
+  <div class="col-12 col-md-6 mt-3">
+    <p>"<strong>International Data Explorer Help Guide</strong>" was written by NCES IDE Team. It was last built on 2024-01-12.</p>
+  </div>
+
+  <div class="col-12 col-md-6 mt-3">
+    <p>This book was built by the <a class="text-light" href="https://bookdown.org">bookdown</a> R package.</p>
+  </div>
+
+</div></div>
+</footer><!-- dynamically load mathjax for compatibility with self-contained --><script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    var src = "true";
+    if (src === "" || src === "true") src = "https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.9/latest.js?config=TeX-MML-AM_CHTML";
+    if (location.protocol !== "file:")
+      if (/^https?:/.test(src))
+        src = src.replace(/^https?:/, '');
+    script.src = src;
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script><script type="text/x-mathjax-config">const popovers = document.querySelectorAll('a.footnote-ref[data-toggle="popover"]');
+for (let popover of popovers) {
+  const div = document.createElement('div');
+  div.setAttribute('style', 'position: absolute; top: 0, left:0; width:0, height:0, overflow: hidden; visibility: hidden;');
+  div.innerHTML = popover.getAttribute('data-content');
+
+  var has_math = div.querySelector("span.math");
+  if (has_math) {
+    document.body.appendChild(div);
+    MathJax.Hub.Queue(["Typeset", MathJax.Hub, div]);
+    MathJax.Hub.Queue(function() {
+      popover.setAttribute('data-content', div.innerHTML);
+      document.body.removeChild(div);
+    })
+  }
+}
+</script>
+</body>
+</html>

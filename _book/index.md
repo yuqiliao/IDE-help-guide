@@ -1,7 +1,7 @@
 --- 
 title: "International Data Explorer Help Guide"
 author: NCES IDE Team
-date: "2024-01-11"
+date: "2024-01-12"
 site: bookdown::bookdown_site
 description: |
   | This is the Help Guide for the International Data Explorer (IDE), an  interactive online tool with data from a series of large-scale international assessments and studies. 

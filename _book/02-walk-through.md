@@ -1,11 +1,9 @@
-# IDE Walkthrough {#walkthrough}
+# PISA IDE Walkthrough {#walkthrough}
 
 There are four general steps for exploring each IDE page (see exhibit 3). Each step is described in more detail in the following sub-sections. 
 
 Exhibit 3. What you will see in the IDE environment and what each step entails
 <img src="images/chapter2/four-steps.png" width="50%" style="display: block; margin: auto;" />
-
-The following subsections covers the steps in details to explore data in the IDE. The IDE process is similar across all studies, so this guide primarily uses the screenshots from the PISA IDE by default. However, relevant screenshots from the other IDEs are included as needed to illustrate differences between studies. By following the instructions below, users can explore the data from any of IDEs.
 
 
 ## 1. Select Criteria
