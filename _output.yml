@@ -4,9 +4,10 @@ bookdown::bs4_book:
   pandoc_args: ["--csl", "apa-annotated-bibliography.csl"]
   theme:
     primary: "#003DA5"
-  repo:
-    base: https://github.com/yuqiliao/IDE-help-guide
-    branch: main
+  template: ["templates/bs4_book_custom.html"]
+  # repo:  ##hide the github repo
+  #   base: https://github.com/yuqiliao/IDE-help-guide
+  #   branch: main
 bookdown::pdf_book:
   includes:
     in_header: preamble.tex

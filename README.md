@@ -1,4 +1,4 @@
-# EdSurvey Book
+# IDE help guide online book
 
 The GitHub repository for International Data Explorer Help Guide
 
