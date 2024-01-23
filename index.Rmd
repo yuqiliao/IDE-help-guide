@@ -21,12 +21,7 @@ favicon: "favicon.ico"
 
 # International Data Explorer Help Guide  {.unnumbered}
 
-```{r coverImage, echo=FALSE, fig.align='center', out.width="70%"}
-## to render epub, out.width needs to be a number value
-## ```{r coverImage, echo=FALSE, fig.align='center', out.width=500}
-knitr::include_graphics('images/cover/laptop-and-magnifying-glass.gif')
-```
-
+![](images/cover/laptop-and-magnifying-glass.gif){width="70%" style="display: block; margin: 0 auto"}
 
 
 

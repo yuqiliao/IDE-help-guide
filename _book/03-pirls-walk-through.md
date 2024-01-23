@@ -3,7 +3,8 @@
 There are four general steps for exploring each IDE page (see exhibit 3). Each step is described in more detail in the following sub-sections. 
 
 Exhibit 3. What you will see in the IDE environment and what each step entails
-<img src="images/chapter3/four-steps.png" width="50%" style="display: block; margin: auto;" />
+![](images/chapter3/four-steps.png){width="6.236430446194226in"
+height="5.361384514435696in"}
 
 
 ## 1. Select Criteria

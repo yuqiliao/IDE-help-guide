@@ -3,9 +3,7 @@
 There are four general steps for exploring each IDE page (see exhibit 3). Each step is described in more detail in the following sub-sections. 
 
 Exhibit 3. What you will see in the IDE environment and what each step entails
-```{r chapter2-1, echo=FALSE, fig.align='center', out.width="50%"}
-knitr::include_graphics('images/chapter2/four-steps.png')
-```
+![](images/chapter2/four-steps.png){width="100%" style="display: block; margin: 0 auto"}
 
 
 ## 1. Select Criteria
