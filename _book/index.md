@@ -21,7 +21,7 @@ favicon: "favicon.ico"
 
 # International Data Explorer Help Guide  {.unnumbered}
 
-![Animated image of a magnifying glass on a laptop](images/cover/laptop-and-magnifying-glass.gif){width="70%" style="display: block; margin: 0 auto"}
+![](images/cover/laptop-and-magnifying-glass.gif){width="70%" style="display: block; margin: 0 auto" alt="Animated image of a magnifying glass on a laptop"}
 
 
 
