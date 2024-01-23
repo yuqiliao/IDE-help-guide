@@ -24,12 +24,16 @@ The IDE provides a wide set of functions, including:
 
 1. Visit the IDE home page [https://nces.ed.gov/surveys/international/ide/](https://nces.ed.gov/surveys/international/ide/){target="_blank"}.
 2. Select the assessment or survey of interest and start exploring. View “What does this IDE provide?” under each study to learn more
-![](images/chapter1/landing-page.png){width="70%" style="display: block; margin: 0 auto"}
+
+Exhibit 1-1. IDE Landing Page
+![IDE Landing Page](images/chapter1/landing-page.png){width="70%" style="display: block; margin: 0 auto"}
 
 
 ## NCES data usage agreement
 In order to be able to enter the IDE, it is necessary to review and agree to the terms of the NCES Data Usage Agreement. You may see the following screen when visiting each of the IDE page from the IDE home page. After you click on the button agreeing to the terms, you will be taken to the Data Explorer. If you do not do this, you will be redirected to the IDE home page.
-![](images/chapter1/user-agreement.png){width="50%" style="display: block; margin: 0 auto"}
+
+Exhibit 1-2. IDE Landing Page
+![NCES data usage agreement](images/chapter1/user-agreement.png){width="50%" style="display: block; margin: 0 auto"}
 
 
 
