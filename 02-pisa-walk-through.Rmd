@@ -1,6 +1,6 @@
 # PISA IDE Walkthrough {#pisawalkthrough}
 
-There are four general steps for exploring each IDE page (see exhibit 3). Each step is described in more detail in the following sub-sections. 
+There are four general steps for exploring each IDE page (see exhibit 2-1). Each step is described in more detail in the following sub-sections. 
 
 Exhibit 2-1. What you will see in the IDE environment and what each step entails
 ![](images/chapter2/four-steps.png){width="100%" style="display: block; margin: 0 auto"}
@@ -11,7 +11,7 @@ Exhibit 2-1. What you will see in the IDE environment and what each step entails
 ### 1.A. Overview 
 
 Your data query in the PISA IDE begins on the **Select Criteria** screen
-(see exhibit 3).
+(see exhibit 2-2).
 
 Select a **Language** from the drop-down menu and then select a
 **Subject** from the drop-down menu. Once the screen resets, you can
@@ -23,7 +23,7 @@ button), to cancel your selections and begin again.
 Click on a blue sideways-facing arrow (►) to open up a category and
 click on a blue downward-facing arrow (▼) to close a category.
 
-Exhibit 3. Selecting criteria
+Exhibit 2-2. Selecting criteria
 
 ![](images/chapter2/image2.png){width="6.236430446194226in"
 height="5.361384514435696in"}
@@ -85,7 +85,7 @@ follows:
 
 1.  To open or close jurisdictions, click on the arrow. Jurisdictions in
     the group are open and can be selected when the blue arrow points
-    down (see exhibit 4).  
+    down (see exhibit 2-3). 
 
 2.  Click the checkboxes next to the specific jurisdictions that you are
     interested in, or uncheck those jurisdictions that you wish to
@@ -99,14 +99,14 @@ follows:
     points to the right. Be advised that closing the group will not
     deselect your choices.
 
-Exhibit 4. Choosing jurisdictions
+Exhibit 2-3. Choosing jurisdictions
 
 ![](images/chapter2/image3.png){width="6.243375984251968in"
 height="5.375276684164479in"}
 
 To continue in the IDE, click the **Select Variables** button at the
 bottom right of the page or the tab at the top of the page to go to the
-next screen (see exhibit 4).
+next screen (see exhibit 2-3).
 
 ## 2. Select Variables
 
@@ -118,10 +118,10 @@ criteria at step 1, **Select Criteria**.
 To continue your data query and edit a report, *you must choose at least
 one variable on this screen.* You can browse for variables using the
 **Category** and **Sub Category** lists or by using the **Search**
-function (see exhibit 5). You can return to this screen to change
+function (see exhibit 2-4). You can return to this screen to change
 variable selections at any time.
 
-Exhibit 5. Select variables overview
+Exhibit 2-4. Select variables overview
 
 ![](images/chapter2/image4.png){width="6.271155949256343in"
 height="4.569679571303587in"}
@@ -143,7 +143,7 @@ To browse for variables, get details about them, select them, and view
 them:
 
 1.  Click the blue arrows to open and close categories and subcategories
-    of variables (see exhibit 6).
+    of variables (see exhibit 2-5).
 
 ```{=html}
 <!-- -->
@@ -152,7 +152,7 @@ them:
     of a given variable, the PISA ID, and the values (i.e., value
     labels). Note that some variables have the same or similar short
     titles, but comparing details will show you how they differ. See the
-    example in exhibit 6, which shows two **Grandparents** variables
+    example in exhibit 2-5, which shows two **Grandparents** variables
     (SU002004 and SU012305). The differences between these two variables
     are described in the details.
 
@@ -171,7 +171,7 @@ them:
 8.  Searching variables is an option from the **Search** box. See
     Section 2.C Search Function for more details about this function.
 
-Exhibit 6. Select variables using category and sub category lists
+Exhibit 2-5. Select variables using category and sub category lists
 
 ![](images/chapter2/image5.png){width="6.305879265091863in"
 height="4.583568460192476in"}
@@ -190,17 +190,17 @@ tab at the top of the page to go to the next screen.
 ### 2.C. Search Function
 
 The second way to search for variables is to use the **Search** function
-on the **Select Variables** screen. 
+on the **Select Variables** screen.
 
 Type a term in the **Search** box and click **Go** (or hit "Enter" on
 your keyboard) to find variables by keywords in the question and/or
-details for the variable (see exhibit 7). If you use multiple keywords,
+details for the variable (see exhibit 2-6). If you use multiple keywords,
 "and" is assumed. You can narrow your search by using "or," "not," or
 "and not." The search function operates on an exact phrase if it is
 contained in quotes. The variable(s) that include the search term(s) in
 the question or its details will be listed.
 
-Exhibit 7. Select variables using the search function
+Exhibit 2-6. Select variables using the search function
 
 ![](images/chapter2/image6.png){width="6.2642104111986in"
 height="4.590513998250219in"}
@@ -246,9 +246,9 @@ more variables you will get tables for each variable, but you won't get
 the cross-tabulation. If your selected criteria include more than one
 measure (e.g., overall mathematics scale and one or more subscale or
 continuous variable), a separate set of data reports will be generated
-for each measure (see exhibit 8).
+for each measure (see exhibit 2-7).
 
-**Exhibit 8. Edit reports overview**
+**Exhibit 2-7. Edit reports overview**
 
 ![](images/chapter2/image7.png){width="6.10416447944007in"
 height="3.2216437007874017in"}
@@ -270,23 +270,23 @@ report-building phase.
 
 ### 3.B. Preview Report
 
-Select **Preview,** in the **Action** column (see exhibit 8), to see how
+Select **Preview,** in the **Action** column (see exhibit 2-7), to see how
 your report will be laid out. The preview will not provide actual data
 but will show how the data will be arranged in rows and columns (see
-exhibit 9). You can select **Preview** at any time to see how your
+exhibit 2-8). You can select **Preview** at any time to see how your
 changes will affect the report's final layout.
 
-Exhibit 9. Using preview report
+Exhibit 2-8. Using preview report
 
 ![](images/chapter2/image8.png){width="6.5in" height="4.865971128608924in"}
 
 ### 3.C. Edit Report
 
 To edit the report, select the **Edit** command, in the **Action**
-column, next to the report number (see exhibit 8). (Another way to edit
+column, next to the report number (see exhibit 2-7). (Another way to edit
 a report is to select the **Edit** tab when you are previewing a
 report.) The following can be done using the edit function (see exhibit
-10):
+2-9):
 
 1.  Name your report. You have the option of giving each report a
     distinctive name, up to a limit of 50 characters, using only
@@ -316,7 +316,7 @@ report.) The following can be done using the edit function (see exhibit
     the arrangements will not be permissible, but a pop-up alert will
     explain this.
 
-Exhibit 10. Editing reports
+Exhibit 2-9. Editing reports
 
 ![](images/chapter2/image9.png){width="6.052084426946632in"
 height="4.539062773403325in"}
@@ -327,7 +327,7 @@ of the screen before closing the **Edit Report** window.
 ### 3.D. Create New Variables
 
 To create a new variable, select **Edit,** in the **Action** column, and
-select **Create new...** under **Variable** (see exhibit 10). The new
+select **Create new...** under **Variable** (see exhibit 2-9). The new
 variable is created by combining values for an existing variable. The
 steps are as follows:
 
@@ -339,7 +339,7 @@ steps are as follows:
 <!-- -->
 ```
 13. Select the values you want to combine by checking the boxes to the
-    left of the values (see exhibit 11).
+    left of the values (see exhibit 2-10).
 
 14. Create a name for the new value, and press **Create**. The collapsed
     values will appear in gray to indicate that they have already been
@@ -355,7 +355,7 @@ steps are as follows:
     can click **Preview** to see how the table will be laid out before
     retrieving data.
 
-Exhibit 11. Creating new variables
+Exhibit 2-10. Creating new variables
 
 ![](images/chapter2/image10.png){width="3.909073709536308in"
 height="4.354166666666667in"}
@@ -380,12 +380,12 @@ If you selected two or three variables from which to create new
 variables, you can repeat the process for each of them. Using the
 **Create New Report** or **Edit Report** function, these collapsed
 variables will be listed and available for cross-tabulation (see exhibit
-12). If you have chosen four or more variables (not counting **All
+2-11). If you have chosen four or more variables (not counting **All
 Students**) you won't get the cross-tabulation. You can click
 **Preview** to see how the table will be laid out before retrieving
 data.
 
-Exhibit 12. Edit reports with collapsed variables
+Exhibit 2-11. Edit reports with collapsed variables
 
 ![](images/chapter2/image11.png){width="6.445249343832021in"
 height="4.854166666666667in"}
@@ -397,11 +397,11 @@ brings up the same options as **Edit Report**, but with no checkboxes
 marked and without any new variables you may have created. Thus,
 **Create New Report** provides a clean slate for your selections from
 the first two steps, **Select Criteria** and **Select Variables** (see
-exhibit 13). Each new report you create will appear at the end of the
+exhibit 2-12). Each new report you create will appear at the end of the
 list of reports. If you do not give the report a specific name, it will
 be called "New Report".
 
-Exhibit 13. Creating new reports
+Exhibit 2-12. Creating new reports
 
 ![](images/chapter2/image12.png){width="6.5in" height="4.825694444444444in"}
 
@@ -410,7 +410,7 @@ Exhibit 13. Creating new reports
 From the main **Edit Reports** screen, clicking on **Format Options**
 will allow you to make formatting changes applicable to all the reports
 listed. The following formatting options are available using this
-function (see exhibit 14):
+function (see exhibit 2-13):
 
 1.  **Variable Labels (Long)** displays a more detailed description of
     the variables selected in a query than the default short label. For
@@ -453,9 +453,9 @@ function (see exhibit 14):
     default, standard errors are shown inside parentheses, but you can
     choose to show them without parentheses*.* You can preview the
     effects of your selection in the **Sample Display** area (see the
-    blue-shaded box at the bottom of exhibit 14 below).
+    blue-shaded box at the bottom of exhibit 2-13 below).
 
-Exhibit 14. Format options
+Exhibit 2-13. Format options
 
 ![](images/chapter2/image13.png){width="2.2777766841644795in"
 height="3.4166666666666665in"}
@@ -475,7 +475,7 @@ selections you make are applicable to all the reports listed, although
 you can also change the statistics for an individual report when you
 edit it. (For further information, see Section 3.C. Edit Report.)
 
-The following statistics options are available (see exhibit 15):
+The following statistics options are available (see exhibit 2-14):
 
 1.  **Averages.** This statistic provides the average value for a
     selected continuous variable or score (i.e., overall score or
@@ -513,7 +513,7 @@ The following statistics options are available (see exhibit 15):
 
     -   90^th^ percentile -- the top 10 percent of students
 
-Exhibit 15. Statistics options
+Exhibit 2-14. Statistics options
 
 ![](images/chapter2/image14.png){width="2.7916666666666665in"
 height="3.5369531933508314in"}
@@ -569,9 +569,9 @@ default, all reports are checked. To uncheck one or more reports, you
 can either uncheck the reports individually or click on the **All** box.
 (Doing the latter will uncheck all of the reports and allow you to check
 only those for which you wish to retrieve data.) In the example that
-follows (see exhibit 16), data will be retrieved for all reports.
+follows (see exhibit 2-15), data will be retrieved for all reports.
 
-Exhibit 16. Selecting reports to build
+Exhibit 2-15. Selecting reports to build
 ![](images/chapter2/image15.png){width="6.2503215223097115in"
 height="3.319615048118985in"}
 
@@ -599,7 +599,7 @@ additional variables and edit reports, before moving on to **Build
 Reports**. In **Build Reports**, you can do the following:
 
 1.  Generate a data table for each report as shown in the **Select
-    Report** drop-down feature (see 1 in exhibit 17). By default, all
+    Report** drop-down feature (see 1 in exhibit 2-16). By default, all
     reports are checked at step 3, although you can uncheck any reports
     for which you do not wish to retrieve data. (For further
     information, see section 3.H. Select Reports to Build.)
@@ -608,18 +608,18 @@ Reports**. In **Build Reports**, you can do the following:
 <!-- -->
 ```
 21. Export and save data tables into various formats using the **Export
-    Reports** button (see 2 in exhibit 17). The output formats include
+    Reports** button (see 2 in exhibit 2-16). The output formats include
     HTML (print-friendly), Microsoft Excel, Microsoft Word, and Adobe
     PDF.
 
-22. Select the **Chart** tab (see 3 in exhibit 17) to create and
+22. Select the **Chart** tab (see 3 in exhibit 2-16) to create and
     customize charts for each report and save them for export in the
     above formats.
 
-23. Select the **Significance Test** tab (see 4 in exhibit 17) to run a
+23. Select the **Significance Test** tab (see 4 in exhibit 2-16) to run a
     significance test on your results, customize it, and export it.
 
-Exhibit 17. Building reports overview
+Exhibit 2-16. Building reports overview
 ![](images/chapter2/image16.png){width="6.271155949256343in"
 height="3.5487937445319333in"}
 
@@ -627,34 +627,34 @@ height="3.5487937445319333in"}
 
 Some reports will take longer than others to process, so please do not
 hit the "Back" button on your browser once you click on **Build
-Reports** (see exhibit 18). Your table will appear once the processing
+Reports** (see exhibit 2-17). Your table will appear once the processing
 is complete. To select a different table to view, go to the **Select
-Report** drop-down menu (see 1 in exhibit 17) and choose the table of
+Report** drop-down menu (see 1 in exhibit 2-16) and choose the table of
 interest. To change the formatting or statistics options of a table or
 to generate a table from a report not included in your selection, return
 to step 3, **Edit Reports**.
 
-Exhibit 18. Processing data![](images/chapter2/image17.png){width="6.5in"
+Exhibit 2-17. Processing data![](images/chapter2/image17.png){width="6.5in"
 height="3.2909722222222224in"}
 
 ### 4.C. Charts
 
 To create a chart, go to **Select Report** on the **Build Reports**
 screen to choose the report of interest from the drop-down menu, and
-then click the **Chart** link (see exhibit 19).
+then click the **Chart** link (see exhibit 2-18).
 
 You will be able to create many types of charts and customize them.
 Section 4.E. Create Charts -- Chart Options provides a summary of the
 available features and how they can be customized.
 
-Exhibit 19. Viewing reports as charts
+Exhibit 2-18. Viewing reports as charts
 ![](images/chapter2/image18.png){width="6.278100393700788in"
 height="2.1181649168853895in"}
 
 ### 4.D. Create Charts
 
 When you click **Chart,** you will first make selections pertaining to
-**Jurisdiction, Year/Study, and** **Statistic** (see exhibit 20). All
+**Jurisdiction, Year/Study, and** **Statistic** (see exhibit 2-19). All
 **Jurisdictions** and **Studies** are selected by default, while you can
 only choose one **Statistic**. Uncheck any of the criteria that you do
 not wish to chart, as long as you have one selected in each category.
@@ -668,7 +668,7 @@ reporting data with only percentiles selected as the statistics option.
 Once you are finished with the Data Options, click the **Create**
 **Chart** button in the lower-right corner of the screen.
 
-Exhibit 20. Data options for charts
+Exhibit 2-19. Data options for charts
 
 ![](images/chapter2/image19.png){width="6.343741251093613in"
 height="6.5347703412073495in"}
@@ -679,27 +679,27 @@ Next, you can make selections regarding the chart options located below
 on the same page.
 
 1.  Select **Bar Chart**, **Column Chart**, or **Line Chart** (see 1 in
-    > exhibit 21). If the Percentiles Statistic is selected, you can
+    > exhibit 2-20). If the Percentiles Statistic is selected, you can
     > also select from a **Percentiles Chart** option.
 
 2.  After selecting a chart type, change any data dimensions from the
     > drop-down menus for **Bar**, **Column**, or **Line Values** and
-    > **Values Grouped by** (see 2 in exhibit 21). Any new variables
+    > **Values Grouped by** (see 2 in exhibit 2-20). Any new variables
     > that you created at step 3, **Edit Reports**, will be available
     > for selection, but only if you selected the variables (by clicking
     > the checkbox next to them) and pressed **Done** after you edited
     > the report.
 
 3.  Create your chart by clicking the **Create Chart** button in the
-    > lower-right corner (see 3 in exhibit 21).
+    > lower-right corner (see 3 in exhibit 2-20).
 
-**Exhibit 21. Chart options**
+**Exhibit 2-20. Chart options**
 
 ![](images/chapter2/image19.png){width="6.413897637795276in"
 height="6.6070395888014in"}
 
-While previewing your chart, you can do the following (see exhibit 22 as
-an example of a **Percentile Chart** and exhibit 23 as an example of a
+While previewing your chart, you can do the following (see exhibit 2-21 as
+an example of a **Percentile Chart** and exhibit 2-22 as an example of a
 **Bar Chart**):
 
 1.  Use the drop-down menus to change the jurisdiction and other
@@ -708,10 +708,10 @@ an example of a **Percentile Chart** and exhibit 23 as an example of a
 2.  Place your cursor over the bars of the chart to see the data points
     > and value label(s).
 
-Exhibit 22. Percentile chart ![](images/chapter2/image20.png){width="6.5in"
+Exhibit 2-21. Percentile chart ![](images/chapter2/image20.png){width="6.5in"
 height="6.060416666666667in"}
 
-Exhibit 23. Bar chart
+Exhibit 2-22. Bar chart
 
 ![](images/chapter2/image21.png){width="5.85416447944007in"
 height="5.202889326334208in"}
@@ -747,19 +747,19 @@ reflects a true difference in the population.
 
 With your report of interest selected, click the **Significance Test**
 link, which is located to the right of the **Chart** link (see exhibits
-17 and 24). You first need to decide which variable you want to test and
+2-16 and 2-23). You first need to decide which variable you want to test and
 the criterion by which you want to test it (i.e., between jurisdictions,
 within variables, or across years). You will compare or look across the
 variable's range of values, so it must have more than one value. You can
 look across jurisdictions for a variable (that is, compare between two
 or more jurisdictions) or you can look across the values within a
 variable for a single jurisdiction. For example, with the variable shown
-in exhibit 24, you could choose to compare scores of female students
+in exhibit 2-23, you could choose to compare scores of female students
 between countries and subnational education systems, or you could choose
 to compare scores of female students and male students.
 
 The general steps for running significance tests are as follows (see
-exhibit 24):
+exhibit 2-23):
 
 1.  In the **Significance Test** window, select either **Between
     Jurisdictions**, **Within Variables**, or **Across Years**. Then,
@@ -798,7 +798,7 @@ exhibit 24):
 29. Click the **Done** button in the upper- or lower-right corner of the
     screen to run the significance tests.
 
-Exhibit 24. Significance test options
+Exhibit 2-23. Significance test options
 
 ![](images/chapter2/image22.png){width="6.20833552055993in"
 height="4.816951006124235in"}
@@ -808,7 +808,7 @@ matrix in which you will see the differences and *p* values. Using the
 symbols shown in the legend of the matrix, an indication is also
 provided of whether one estimate is significantly lower or higher than
 another estimate or whether there is no significant difference (see
-exhibit 25).
+exhibit 2-24).
 
 The alpha level for all *t*-tests is .05. All comparisons within a
 jurisdiction, within the same year, are made using dependent *t*-tests.
@@ -836,14 +836,14 @@ represented as a standard error. Significance tests for scores across
 years within the IDE take into account the linking errors applicable to
 each subject.
 
-Exhibit 25. Significance test table output
+Exhibit 2-24. Significance test table output
 
 ![](images/chapter2/image23.png){width="6.166984908136483in"
 height="4.5418996062992125in"}
 
 When the **map option** is selected, a global map is shown with the
 countries and subnational education systems selected shaded (see exhibit
-26). The focal jurisdiction is shaded in teal green, with all other
+2-25). The focal jurisdiction is shaded in teal green, with all other
 countries compared to it. The other countries are shaded in colors that
 indicate whether they are higher, lower, or not significantly different
 from the focal jurisdiction on whatever measure has been selected. (Note
@@ -855,7 +855,7 @@ different focal jurisdiction by clicking on another country. You may
 also choose a different variable category for comparison by using the
 drop-down menu above the map.
 
-Exhibit 26. Map of significance tests
+Exhibit 2-25. Map of significance tests
 ![](images/chapter2/image24.png){width="6.362637795275591in"
 height="8.490845363079615in"}
 
@@ -874,14 +874,14 @@ Gap Analysis is included in the IDE to compare differences in gaps shown
 in a map, table, or chart. These gap differences can be compared between
 jurisdictions and/or across years.
 
-Exhibit 27. Gap analysis link selection
+Exhibit 2-26. Gap analysis link selection
 
 ![](images/chapter2/image25.png){width="6.557871828521435in"
 height="1.7507108486439196in"}
 
 With your report of interest selected, click on the **Gap Analysis**
 link, which is located to the right of the **Significance Test** link
-(see exhibit 27). You will need to decide which variable you would like
+(see exhibit 2-26). You will need to decide which variable you would like
 to test (e.g., gender) and the criterion by which you want to test it
 (i.e., between jurisdictions or across years). The difference measure,
 or gap, can be viewed between groups, between years, between groups and
@@ -901,13 +901,13 @@ two time points for males and females, you can:
 -   compare the gap for females at two time points in one country to the
     gap for females at two time points in another country.
 
-Exhibit 28. Gap analysis options
+Exhibit 2-27. Gap analysis options
 
 ![](images/chapter2/image26.png){width="6.375990813648294in"
 height="4.900762248468942in"}
 
 The steps for running a gap analysis are similar to those for conducting
-a statistical significance test (see exhibit 28). Thus, to run a gap
+a statistical significance test (see exhibit 2-27). Thus, to run a gap
 analysis, follow the instructions under section **4.F. Significance
 Tests**, noting the following differences:
 
@@ -928,7 +928,7 @@ The gap analysis output is presented in a format similar to that of the
 significance test output, with one difference: the difference estimate
 shown in the output is the difference between the gaps selected for
 analysis. Note that you will still see the significance of these
-differences, just like in a significance test. For example, exhibit 29
+differences, just like in a significance test. For example, exhibit 2-28
 shows cross-national differences between male-female score gaps.
 
 The gap analysis function computes and statistically tests differences
@@ -941,7 +941,7 @@ differ from each other only when the gaps go in the same direction
 (e.g., comparing a 5-point gender gap favoring females in one country
 with a 15-point gender gap favoring females in another country).
 
-Exhibit 29. Gap analysis output
+Exhibit 2-28. Gap analysis output
 
 ![](images/chapter2/image27.png){width="6.464490376202975in"
 height="4.833333333333333in"}
@@ -962,15 +962,15 @@ regression, with the dependent variable being a continuous variable
 selected at step 1. To run a regression, first go to **Build Reports**
 and choose the report of interest from the drop-down **Select Report**
 menu. Then click on the **Regression Analysis** link, which is to the
-right of the **Gap Analysis** link (see exhibit 30).
+right of the **Gap Analysis** link (see exhibit 2-29).
 
-Exhibit 30. Regression analysis link selection
+Exhibit 2-29. Regression analysis link selection
 
 ![](images/chapter2/image28.png){width="6.512162073490813in"
 height="2.2088451443569554in"}
 
 The general steps for running a regression analysis are as follows (see
-exhibit 31):
+exhibit 2-30):
 
 1.  In the **Regression Analysis** pop-up window, you can enter a
     **Name** limited to 25 characters, using only letters, numbers,
@@ -996,17 +996,17 @@ exhibit 31):
 5.  Click the **Done** button in the upper- or lower-right corner of the
     screen to run the regression analysis.
 
-**Exhibit 31. Regression analysis options**
+**Exhibit 2-30. Regression analysis options**
 
 ![](images/chapter2/image29.png){width="6.416719160104987in"
 height="3.4791666666666665in"}
 
 After you have clicked **Done**, your regression analysis output will
-load onto the screen (see exhibit 32). A 0-1 contrast coding is used to
+load onto the screen (see exhibit 2-31). A 0-1 contrast coding is used to
 code the independent variable, where the first subgroup of the
 independent variable is the reference group. Using dummy-coded variables
 in a linear regression is useful for comparing each subgroup against a
-reference group. For example, in exhibit 32, if the subgroup "Native" is
+reference group. For example, in exhibit 2-31, if the subgroup "Native" is
 the reference group for the independent variable **Index immigration
 status (IMMIG)**, the IDE creates a "Second Generation" dummy variable
 (1 for respondents who answered "Second Generation," 0 otherwise), a
@@ -1014,12 +1014,12 @@ status (IMMIG)**, the IDE creates a "Second Generation" dummy variable
 Generation," 0 otherwise). Reference group "Native" is excluded from the
 regression analysis.
 
-Exhibit 32. Regression analysis output
+Exhibit 2-31. Regression analysis output
 
 ![](images/chapter2/image30.png){width="6.33369094488189in"
 height="3.0869477252843396in"}
 
-Using the output from exhibit 32, you can compare the average
+Using the output from exhibit 2-31, you can compare the average
 mathematics literacy scores of first- and second-generation students to
 scores of native-born students. When a single dummy-coded variable is
 used in a regression, the *intercept* is the mean of the reference group
@@ -1043,7 +1043,7 @@ Reports** window are those that were checked off at step 3, **Edit
 Reports**.
 
 Check the files you want to export and select one of the file formats:
-**HTML** (print-friendly), **Excel, Word,** or **PDF** (see exhibit 33).
+**HTML** (print-friendly), **Excel, Word,** or **PDF** (see exhibit 2-32).
 All reports that you select at the same time will be exported in one
 file. In the Excel format, you will be able to increase the visible
 decimal places visible wherever more precision is available. Because
@@ -1052,7 +1052,7 @@ message with Excel or one of the other formats. Usually this will not
 affect your ability to export, so please wait for the software errors to
 resolve.
 
-Exhibit 33. Export report options
+Exhibit 2-32. Export report options
 
 ![](images/chapter2/image31.png){width="3.3478258967629047in"
 height="3.4608694225721783in"}
