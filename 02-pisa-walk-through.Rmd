@@ -3,7 +3,7 @@
 There are four general steps for exploring each IDE page (see exhibit 2-1). Each step is described in more detail in the following sub-sections. 
 
 Exhibit 2-1. What you will see in the IDE environment and what each step entails
-![](images/chapter2/four-steps.png){width="100%" style="display: block; margin: 0 auto"}
+![Exhibit 2-1 is a screenshot from the PISA IDE tool showing what each step in the IDE environment entails.](images/chapter2/four-steps.png){width="100%" style="display: block; margin: 0 auto"}
 
 
 ## 1. Select Criteria
@@ -25,7 +25,7 @@ click on a blue downward-facing arrow (▼) to close a category.
 
 Exhibit 2-2. Selecting criteria
 
-![](images/chapter2/image2.png){width="6.236430446194226in"
+![Exhibit 2-2 is a screenshot from the PISA IDE tool showing the Select Criteria tab.](images/chapter2/image2.png){width="6.236430446194226in"
 height="5.361384514435696in"}
 
 ### 1.B. Choose Subject
@@ -101,7 +101,7 @@ follows:
 
 Exhibit 2-3. Choosing jurisdictions
 
-![](images/chapter2/image3.png){width="6.243375984251968in"
+![Exhibit 2-3 is a screenshot from the PISA IDE tool showing jurisdictions available in the Select Criteria tab.](images/chapter2/image3.png){width="6.243375984251968in"
 height="5.375276684164479in"}
 
 To continue in the IDE, click the **Select Variables** button at the
@@ -123,7 +123,7 @@ variable selections at any time.
 
 Exhibit 2-4. Select variables overview
 
-![](images/chapter2/image4.png){width="6.271155949256343in"
+![Exhibit 2-4 is a screenshot from the PISA IDE tool showing an overview of the Select Variables tab.](images/chapter2/image4.png){width="6.271155949256343in"
 height="4.569679571303587in"}
 
 ### 2.B. Search Using Category and Sub Category Lists
@@ -173,7 +173,7 @@ them:
 
 Exhibit 2-5. Select variables using category and sub category lists
 
-![](images/chapter2/image5.png){width="6.305879265091863in"
+![Exhibit 2-5 is a screenshot from the PISA IDE tool showing how to select a variable from the categories and sub categories listed in the Select Variables tab.](images/chapter2/image5.png){width="6.305879265091863in"
 height="4.583568460192476in"}
 
 When selecting **Financial Literacy** as the subject, additional student
@@ -202,7 +202,7 @@ the question or its details will be listed.
 
 Exhibit 2-6. Select variables using the search function
 
-![](images/chapter2/image6.png){width="6.2642104111986in"
+![Exhibit 2-6 is a screenshot from the PISA IDE tool showing how to select a variable using the search function.](images/chapter2/image6.png){width="6.2642104111986in"
 height="4.590513998250219in"}
 
 When you have selected the variable(s) you want to include, continue by
@@ -248,9 +248,9 @@ measure (e.g., overall mathematics scale and one or more subscale or
 continuous variable), a separate set of data reports will be generated
 for each measure (see exhibit 2-7).
 
-**Exhibit 2-7. Edit reports overview**
+Exhibit 2-7. Edit reports overview
 
-![](images/chapter2/image7.png){width="6.10416447944007in"
+![Exhibit 2-7 is a screenshot from the PISA IDE tool showing an overview of the Edit Reports tab.](images/chapter2/image7.png){width="6.10416447944007in"
 height="3.2216437007874017in"}
 
 The **Edit Reports** step shows detailed information on the layout of
@@ -278,7 +278,7 @@ changes will affect the report's final layout.
 
 Exhibit 2-8. Using preview report
 
-![](images/chapter2/image8.png){width="6.5in" height="4.865971128608924in"}
+![Exhibit 2-8 is a screenshot from the PISA IDE tool showing an example of the preview function that is available in the Edit Reports tab.](images/chapter2/image8.png){width="6.5in" height="4.865971128608924in"}
 
 ### 3.C. Edit Report
 
@@ -318,7 +318,7 @@ report.) The following can be done using the edit function (see exhibit
 
 Exhibit 2-9. Editing reports
 
-![](images/chapter2/image9.png){width="6.052084426946632in"
+![Exhibit 2-9 is a screenshot from the PISA IDE tool showing an example of the editing report function that is available in the Edit Reports tab.](images/chapter2/image9.png){width="6.052084426946632in"
 height="4.539062773403325in"}
 
 To save changes, make sure to select **Done** in the upper-right portion
@@ -357,7 +357,7 @@ steps are as follows:
 
 Exhibit 2-10. Creating new variables
 
-![](images/chapter2/image10.png){width="3.909073709536308in"
+![Exhibit 2-10 is a screenshot from the PISA IDE tool showing an example of the creating new variable function that is available in the Edit Reports tab.](images/chapter2/image10.png){width="3.909073709536308in"
 height="4.354166666666667in"}
 
 A new variable that you create is applicable only to a specific report;
@@ -387,7 +387,7 @@ data.
 
 Exhibit 2-11. Edit reports with collapsed variables
 
-![](images/chapter2/image11.png){width="6.445249343832021in"
+![Exhibit 2-11 is a screenshot from the PISA IDE tool showing an example of the editing report with collapsed variables function that is available in the Edit Reports tab.](images/chapter2/image11.png){width="6.445249343832021in"
 height="4.854166666666667in"}
 
 ### 3.E. Create New Report
@@ -403,7 +403,7 @@ be called "New Report".
 
 Exhibit 2-12. Creating new reports
 
-![](images/chapter2/image12.png){width="6.5in" height="4.825694444444444in"}
+![Exhibit 2-12 is a screenshot from the PISA IDE tool showing an example of the creating new report function that is available in the Edit Reports tab.](images/chapter2/image12.png){width="6.5in" height="4.825694444444444in"}
 
 ### 3.F. Format Options 
 
@@ -457,7 +457,7 @@ function (see exhibit 2-13):
 
 Exhibit 2-13. Format options
 
-![](images/chapter2/image13.png){width="2.2777766841644795in"
+![Exhibit 2-13 is a screenshot from the PISA IDE tool showing an example of the format options available in the Edit Reports tab.](images/chapter2/image13.png){width="2.2777766841644795in"
 height="3.4166666666666665in"}
 
 Be advised that the choices you make in the **Format Options** window
@@ -515,7 +515,7 @@ The following statistics options are available (see exhibit 2-14):
 
 Exhibit 2-14. Statistics options
 
-![](images/chapter2/image14.png){width="2.7916666666666665in"
+![Exhibit 2-14 is a screenshot from the PISA IDE tool showing an example of the statistics options available in the Edit Reports tab.](images/chapter2/image14.png){width="2.7916666666666665in"
 height="3.5369531933508314in"}
 
 As previously noted, the selections you make in **Statistics Options**
@@ -572,7 +572,7 @@ only those for which you wish to retrieve data.) In the example that
 follows (see exhibit 2-15), data will be retrieved for all reports.
 
 Exhibit 2-15. Selecting reports to build
-![](images/chapter2/image15.png){width="6.2503215223097115in"
+![Exhibit 2-15 is a screenshot from the PISA IDE tool showing how to select reports to build in the Edit Reports tab.](images/chapter2/image15.png){width="6.2503215223097115in"
 height="3.319615048118985in"}
 
 If you wish to delete a report from the list of reports, click
@@ -620,7 +620,7 @@ Reports**. In **Build Reports**, you can do the following:
     significance test on your results, customize it, and export it.
 
 Exhibit 2-16. Building reports overview
-![](images/chapter2/image16.png){width="6.271155949256343in"
+![Exhibit 2-16 is a screenshot from the PISA IDE tool showing an overview of the Build Reports tab featuring the Select Report, Export Reports, Chart, and Significance Test options.](images/chapter2/image16.png){width="6.271155949256343in"
 height="3.5487937445319333in"}
 
 ### 4.B. View Reports as Data Tables
@@ -634,7 +634,7 @@ interest. To change the formatting or statistics options of a table or
 to generate a table from a report not included in your selection, return
 to step 3, **Edit Reports**.
 
-Exhibit 2-17. Processing data![](images/chapter2/image17.png){width="6.5in"
+Exhibit 2-17. Processing data![Exhibit 2-17 is a screenshot from the PISA IDE tool showing data processing in the Build Reports tab.](images/chapter2/image17.png){width="6.5in"
 height="3.2909722222222224in"}
 
 ### 4.C. Charts
@@ -648,7 +648,7 @@ Section 4.E. Create Charts -- Chart Options provides a summary of the
 available features and how they can be customized.
 
 Exhibit 2-18. Viewing reports as charts
-![](images/chapter2/image18.png){width="6.278100393700788in"
+![Exhibit 2-18 is a screenshot from the PISA IDE tool showing how to select the chart creating function in the Build Reports tab.](images/chapter2/image18.png){width="6.278100393700788in"
 height="2.1181649168853895in"}
 
 ### 4.D. Create Charts
@@ -670,7 +670,7 @@ Once you are finished with the Data Options, click the **Create**
 
 Exhibit 2-19. Data options for charts
 
-![](images/chapter2/image19.png){width="6.343741251093613in"
+![Exhibit 2-19 is a screenshot from the PISA IDE tool showing the data options available in the chart creating function in the Build Reports tab.](images/chapter2/image19.png){width="6.343741251093613in"
 height="6.5347703412073495in"}
 
 ### 4.E. Create Charts -- Chart Options
@@ -693,9 +693,9 @@ on the same page.
 3.  Create your chart by clicking the **Create Chart** button in the
     > lower-right corner (see 3 in exhibit 2-20).
 
-**Exhibit 2-20. Chart options**
+Exhibit 2-20. Chart options
 
-![](images/chapter2/image19.png){width="6.413897637795276in"
+![Exhibit 2-20 is a screenshot from the PISA IDE tool showing the chart options available in the chart creating function in the Build Reports tab.](images/chapter2/image19.png){width="6.413897637795276in"
 height="6.6070395888014in"}
 
 While previewing your chart, you can do the following (see exhibit 2-21 as
@@ -708,12 +708,12 @@ an example of a **Percentile Chart** and exhibit 2-22 as an example of a
 2.  Place your cursor over the bars of the chart to see the data points
     > and value label(s).
 
-Exhibit 2-21. Percentile chart ![](images/chapter2/image20.png){width="6.5in"
+Exhibit 2-21. Percentile chart ![Exhibit 2-21 is a screenshot from the PISA IDE tool showing a preview of a percentile chart in the chart creating function in the Build Reports tab.](images/chapter2/image20.png){width="6.5in"
 height="6.060416666666667in"}
 
 Exhibit 2-22. Bar chart
 
-![](images/chapter2/image21.png){width="5.85416447944007in"
+![Exhibit 2-22 is a screenshot from the PISA IDE tool showing a preview of a bar chart in the chart creating function in the Build Reports tab.](images/chapter2/image21.png){width="5.85416447944007in"
 height="5.202889326334208in"}
 
 You can choose **"Back to Chart Options"** (located in the upper-left
@@ -800,7 +800,7 @@ exhibit 2-23):
 
 Exhibit 2-23. Significance test options
 
-![](images/chapter2/image22.png){width="6.20833552055993in"
+![Exhibit 2-23 is a screenshot from the PISA IDE tool showing the significance test options available in the Build Reports tab.](images/chapter2/image22.png){width="6.20833552055993in"
 height="4.816951006124235in"}
 
 When the table option is selected, you will get a significance test
@@ -838,7 +838,7 @@ each subject.
 
 Exhibit 2-24. Significance test table output
 
-![](images/chapter2/image23.png){width="6.166984908136483in"
+![Exhibit 2-24 is a screenshot from the PISA IDE tool showing an example of a significance test table output in the Build Reports tab.](images/chapter2/image23.png){width="6.166984908136483in"
 height="4.5418996062992125in"}
 
 When the **map option** is selected, a global map is shown with the
@@ -856,7 +856,7 @@ also choose a different variable category for comparison by using the
 drop-down menu above the map.
 
 Exhibit 2-25. Map of significance tests
-![](images/chapter2/image24.png){width="6.362637795275591in"
+![Exhibit 2-25 is a screenshot from the PISA IDE tool showing an example of a significance test map output in the Build Reports tab.](images/chapter2/image24.png){width="6.362637795275591in"
 height="8.490845363079615in"}
 
 Please note that the IDE does not apply adjustments for multiple
@@ -876,7 +876,7 @@ jurisdictions and/or across years.
 
 Exhibit 2-26. Gap analysis link selection
 
-![](images/chapter2/image25.png){width="6.557871828521435in"
+![Exhibit 2-26 is a screenshot from the PISA IDE tool showing how to select the gap analysis function in the Build Reports tab.](images/chapter2/image25.png){width="6.557871828521435in"
 height="1.7507108486439196in"}
 
 With your report of interest selected, click on the **Gap Analysis**
@@ -903,7 +903,7 @@ two time points for males and females, you can:
 
 Exhibit 2-27. Gap analysis options
 
-![](images/chapter2/image26.png){width="6.375990813648294in"
+![Exhibit 2-27 is a screenshot from the PISA IDE tool showing the gap analysis options available in the Build Reports tab.](images/chapter2/image26.png){width="6.375990813648294in"
 height="4.900762248468942in"}
 
 The steps for running a gap analysis are similar to those for conducting
@@ -943,7 +943,7 @@ with a 15-point gender gap favoring females in another country).
 
 Exhibit 2-28. Gap analysis output
 
-![](images/chapter2/image27.png){width="6.464490376202975in"
+![Exhibit 2-28 is a screenshot from the PISA IDE tool showing an example output report based on the gap analysis options.](images/chapter2/image27.png){width="6.464490376202975in"
 height="4.833333333333333in"}
 
 Note that a gap analysis across years cannot be combined with the
@@ -966,7 +966,7 @@ right of the **Gap Analysis** link (see exhibit 2-29).
 
 Exhibit 2-29. Regression analysis link selection
 
-![](images/chapter2/image28.png){width="6.512162073490813in"
+![Exhibit 2-29 is a screenshot from the PISA IDE tool showing how to select the regression analysis function in the Build Reports tab.](images/chapter2/image28.png){width="6.512162073490813in"
 height="2.2088451443569554in"}
 
 The general steps for running a regression analysis are as follows (see
@@ -996,9 +996,9 @@ exhibit 2-30):
 5.  Click the **Done** button in the upper- or lower-right corner of the
     screen to run the regression analysis.
 
-**Exhibit 2-30. Regression analysis options**
+Exhibit 2-30. Regression analysis options
 
-![](images/chapter2/image29.png){width="6.416719160104987in"
+![Exhibit 2-30 is a screenshot from the PISA IDE tool showing the options for the regression analysis output.](images/chapter2/image29.png){width="6.416719160104987in"
 height="3.4791666666666665in"}
 
 After you have clicked **Done**, your regression analysis output will
@@ -1016,7 +1016,7 @@ regression analysis.
 
 Exhibit 2-31. Regression analysis output
 
-![](images/chapter2/image30.png){width="6.33369094488189in"
+![Exhibit 2-31 is a screenshot from the PISA IDE tool showing an example of the regression analysis output.](images/chapter2/image30.png){width="6.33369094488189in"
 height="3.0869477252843396in"}
 
 Using the output from exhibit 2-31, you can compare the average
@@ -1054,7 +1054,7 @@ resolve.
 
 Exhibit 2-32. Export report options
 
-![](images/chapter2/image31.png){width="3.3478258967629047in"
+![Exhibit 2-32 is a screenshot from the PISA IDE tool showing the export options, including HTML, Excel, Word, and PDF.](images/chapter2/image31.png){width="3.3478258967629047in"
 height="3.4608694225721783in"}
 
 
