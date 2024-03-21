@@ -1,36 +1,57 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-<title>Chapter 7 ICILS IDE Walkthrough | International Data Explorer Help Guide</title>
-<meta name="author" content="NCES IDE Team">
-<meta name="description" content="There are four general steps for exploring each IDE page (see exhibit 3). Each step is described in more detail in the following sub-sections. Exhibit 3. What you will see in the IDE environment...">
-<meta name="generator" content="bookdown 0.37 with bs4_book()">
-<meta property="og:title" content="Chapter 7 ICILS IDE Walkthrough | International Data Explorer Help Guide">
-<meta property="og:type" content="book">
-<meta property="og:url" content="https://github.com/yuqiliao/IDE-help-guide/icilswalkthrough.html">
-<meta property="og:image" content="https://github.com/yuqiliao/IDE-help-guide/images/cover/laptop-and-magnifying-glass.gif">
-<meta property="og:description" content="There are four general steps for exploring each IDE page (see exhibit 3). Each step is described in more detail in the following sub-sections. Exhibit 3. What you will see in the IDE environment...">
-<meta name="twitter:card" content="summary">
-<meta name="twitter:title" content="Chapter 7 ICILS IDE Walkthrough | International Data Explorer Help Guide">
-<meta name="twitter:description" content="There are four general steps for exploring each IDE page (see exhibit 3). Each step is described in more detail in the following sub-sections. Exhibit 3. What you will see in the IDE environment...">
-<meta name="twitter:image" content="https://github.com/yuqiliao/IDE-help-guide/images/cover/laptop-and-magnifying-glass.gif">
-<!-- JS --><script src="https://cdnjs.cloudflare.com/ajax/libs/clipboard.js/2.0.6/clipboard.min.js" integrity="sha256-inc5kl9MA1hkeYUt+EC3BhlIgyp/2jDIyBLS6k3UxPI=" crossorigin="anonymous"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/6.4.6/fuse.js" integrity="sha512-zv6Ywkjyktsohkbp9bb45V6tEMoWhzFzXis+LrMehmJZZSys19Yxf1dopHx7WzIKxr5tK2dVcYmaCk2uqdjF4A==" crossorigin="anonymous"></script><script src="https://kit.fontawesome.com/6ecbd6c532.js" crossorigin="anonymous"></script><script src="libs/jquery-3.6.0/jquery-3.6.0.min.js"></script><meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-<link href="libs/bootstrap-4.6.0/bootstrap.min.css" rel="stylesheet">
-<script src="libs/bootstrap-4.6.0/bootstrap.bundle.min.js"></script><script src="libs/bs3compat-0.4.2/transition.js"></script><script src="libs/bs3compat-0.4.2/tabs.js"></script><script src="libs/bs3compat-0.4.2/bs3compat.js"></script><link href="libs/bs4_book-1.0.0/bs4_book.css" rel="stylesheet">
-<script src="libs/bs4_book-1.0.0/bs4_book.js"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/autocomplete.js/0.38.0/autocomplete.jquery.min.js" integrity="sha512-GU9ayf+66Xx2TmpxqJpliWbT5PiGYxpaG8rfnBEk1LL8l1KGkRShhngwdXK1UgqhAzWpZHSiYPc09/NwDQIGyg==" crossorigin="anonymous"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/mark.js/8.11.1/mark.min.js" integrity="sha512-5CYOlHXGh6QpOFA/TeTylKLWfB3ftPsde7AnmhuitiTX4K5SqCLBeKro6sPS8ilsz1Q4NRx3v8Ko2IBiszzdww==" crossorigin="anonymous"></script><!-- CSS --><style type="text/css">
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+  <title>Chapter 6 ICILS IDE Walkthrough | International Data Explorer Help Guide</title>
+
+    <meta name="author" content="NCES IDE Team" />
+  
+   <meta name="description" content="This is the Help Guide for the International Data Explorer (IDE), an interactive online tool with data from a series of large-scale international assessments and studies." />
+   <meta name="generator" content="placeholder" />
+  <meta property="og:title" content="Chapter 6 ICILS IDE Walkthrough | International Data Explorer Help Guide" />
+  <meta property="og:type" content="book" />
+  <meta property="og:url" content="https://github.com/yuqiliao/IDE-help-guide" />
+  <meta property="og:image" content="https://github.com/yuqiliao/IDE-help-guide/images/cover/laptop-and-magnifying-glass.gif" />
+  <meta property="og:description" content="This is the Help Guide for the International Data Explorer (IDE), an interactive online tool with data from a series of large-scale international assessments and studies." />
+
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:title" content="Chapter 6 ICILS IDE Walkthrough | International Data Explorer Help Guide" />
+  
+  <meta name="twitter:description" content="This is the Help Guide for the International Data Explorer (IDE), an interactive online tool with data from a series of large-scale international assessments and studies." />
+  <meta name="twitter:image" content="https://github.com/yuqiliao/IDE-help-guide/images/cover/laptop-and-magnifying-glass.gif" />
+  <!-- JS -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/clipboard.js/2.0.6/clipboard.min.js" integrity="sha256-inc5kl9MA1hkeYUt+EC3BhlIgyp/2jDIyBLS6k3UxPI=" crossorigin="anonymous"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/6.4.6/fuse.js" integrity="sha512-zv6Ywkjyktsohkbp9bb45V6tEMoWhzFzXis+LrMehmJZZSys19Yxf1dopHx7WzIKxr5tK2dVcYmaCk2uqdjF4A==" crossorigin="anonymous"></script>
+  <script src="https://kit.fontawesome.com/6ecbd6c532.js" crossorigin="anonymous"></script>
+    <script src="libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+    <link href="libs/bootstrap-4.6.0/bootstrap.min.css" rel="stylesheet" />
+    <script src="libs/bootstrap-4.6.0/bootstrap.bundle.min.js"></script>
+    <script src="libs/bs3compat-0.4.2/transition.js"></script>
+    <script src="libs/bs3compat-0.4.2/tabs.js"></script>
+    <script src="libs/bs3compat-0.4.2/bs3compat.js"></script>
+    <link href="libs/bs4_book-1.0.0/bs4_book.css" rel="stylesheet" />
+    <script src="libs/bs4_book-1.0.0/bs4_book.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/autocomplete.js/0.38.0/autocomplete.jquery.min.js" integrity="sha512-GU9ayf+66Xx2TmpxqJpliWbT5PiGYxpaG8rfnBEk1LL8l1KGkRShhngwdXK1UgqhAzWpZHSiYPc09/NwDQIGyg==" crossorigin="anonymous"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/mark.js/8.11.1/mark.min.js" integrity="sha512-5CYOlHXGh6QpOFA/TeTylKLWfB3ftPsde7AnmhuitiTX4K5SqCLBeKro6sPS8ilsz1Q4NRx3v8Ko2IBiszzdww==" crossorigin="anonymous"></script>
+
+  <!-- CSS -->
+  <style type="text/css">
     
     div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
   </style>
-<link rel="stylesheet" href="style.css">
+      <link rel="stylesheet" href="style.css" />
+  
 </head>
+
 <body data-spy="scroll" data-target="#toc">
 
 <div class="container-fluid">
 <div class="row">
-  <header class="col-sm-12 col-lg-3 sidebar sidebar-book"><a class="sr-only sr-only-focusable" href="#content">Skip to main content</a>
+  <header class="col-sm-12 col-lg-3 sidebar sidebar-book">
+    <a class="sr-only sr-only-focusable" href="#content">Skip to main content</a>
 
     <div class="d-flex align-items-start justify-content-between">
       <h1>
@@ -42,43 +63,29 @@
     <div id="main-nav" class="collapse-lg">
       <form role="search">
         <input id="search" class="form-control" type="search" placeholder="Search" aria-label="Search">
-</form>
+      </form>
 
-      <nav aria-label="Table of contents"><h2>Table of contents</h2>
-        <ul class="book-toc list-unstyled">
-<li><a class="" href="index.html">International Data Explorer Help Guide</a></li>
-<li><a class="" href="overview.html"><span class="header-section-number">1</span> Overview of the International Data Explorer (IDE)</a></li>
-<li><a class="" href="pisawalkthrough.html"><span class="header-section-number">2</span> PISA IDE Walkthrough</a></li>
-<li><a class="" href="pirlswalkthrough.html"><span class="header-section-number">3</span> PIRLS IDE Walkthrough</a></li>
-<li><a class="" href="timsswalkthrough.html"><span class="header-section-number">4</span> TIMSS IDE Walkthrough</a></li>
-<li><a class="" href="piaacwalkthrough.html"><span class="header-section-number">5</span> PIAAC IDE Walkthrough</a></li>
-<li><a class="" href="taliswalkthrough.html"><span class="header-section-number">6</span> TALIS IDE Walkthrough</a></li>
-<li><a class="active" href="icilswalkthrough.html"><span class="header-section-number">7</span> ICILS IDE Walkthrough</a></li>
-<li><a class="" href="definitions.html"><span class="header-section-number">8</span> IDE definitions by study</a></li>
-<li><a class="" href="resources.html"><span class="header-section-number">9</span> Resources</a></li>
-</ul>
+      <nav aria-label="Table of contents">
+        <h2>Table of contents</h2>
+        <div id="book-toc"></div>
 
         <div class="book-extra">
-          
+          <p><a id="book-repo" href="#">View book source <i class="fab fa-github"></i></a></li></p>
         </div>
       </nav>
-</div>
-  </header><main class="col-sm-12 col-md-9 col-lg-7" id="content"><div id="icilswalkthrough" class="section level1" number="7">
-<h1>
-<span class="header-section-number">7</span> ICILS IDE Walkthrough<a class="anchor" aria-label="anchor" href="#icilswalkthrough"><i class="fas fa-link"></i></a>
-</h1>
+    </div>
+  </header>
+
+  <main class="col-sm-12 col-md-9 col-lg-7" id="content">
+<div id="icilswalkthrough" class="section level1" number="6">
+<h1><span class="header-section-number">Chapter 6</span> ICILS IDE Walkthrough</h1>
 <p>There are four general steps for exploring each IDE page (see exhibit 3). Each step is described in more detail in the following sub-sections.</p>
-<div class="inline-figure">Exhibit 3. What you will see in the IDE environment and what each step entails
-<img src="images/chapter7/four-steps.png" style="width:6.23643in;height:5.36138in">
-</div>
-<div id="select-criteria-4" class="section level2" number="7.1">
-<h2>
-<span class="header-section-number">7.1</span> 1. Select Criteria<a class="anchor" aria-label="anchor" href="#select-criteria-4"><i class="fas fa-link"></i></a>
-</h2>
-<div id="a.-overview-16" class="section level3" number="7.1.1">
-<h3>
-<span class="header-section-number">7.1.1</span> 1.A. Overview<a class="anchor" aria-label="anchor" href="#a.-overview-16"><i class="fas fa-link"></i></a>
-</h3>
+<p>Exhibit 3. What you will see in the IDE environment and what each step entails
+<img src="images/chapter7/four-steps.png" style="width:6.23643in;height:5.36138in" /></p>
+<div id="select-criteria-3" class="section level2" number="6.1">
+<h2><span class="header-section-number">6.1</span> 1. Select Criteria</h2>
+<div id="a.-overview-12" class="section level3" number="6.1.1">
+<h3><span class="header-section-number">6.1.1</span> 1.A. Overview</h3>
 <p>Your data query in the ICILS IDE begins on the <strong>Select Criteria</strong>
 screen (see exhibit 3).</p>
 <p>Select a <strong>Display</strong> from the drop-down menu. Once the screen resets,
@@ -90,14 +97,13 @@ below the <strong>Help</strong> button), to cancel your selections and begin aga
 click on a blue downward‑facing arrow (▼) to close a category.</p>
 <p>Exhibit 3. Selecting criteria</p>
 <div class="float">
-<img src="images/chapter7/image2.png" style="width:6.5in;height:5.11181in" alt="Exhibit 3 is a screenshot from the ICILS IDE tool showing the Select Criteria tab."><div class="figcaption">Exhibit 3 is a screenshot from the ICILS IDE tool showing the Select
+<img src="images/chapter7/image2.png" style="width:6.5in;height:5.11181in" alt="Exhibit 3 is a screenshot from the ICILS IDE tool showing the Select Criteria tab." />
+<div class="figcaption">Exhibit 3 is a screenshot from the ICILS IDE tool showing the Select
 Criteria tab.</div>
 </div>
 </div>
-<div id="b.-choose-display" class="section level3" number="7.1.2">
-<h3>
-<span class="header-section-number">7.1.2</span> 1.B. Choose Display<a class="anchor" aria-label="anchor" href="#b.-choose-display"><i class="fas fa-link"></i></a>
-</h3>
+<div id="b.-choose-display" class="section level3" number="6.1.2">
+<h3><span class="header-section-number">6.1.2</span> 1.B. Choose Display</h3>
 <p>Under <strong>Display</strong>, you have the choice of <strong>Student</strong> and <strong>Teacher</strong>,
 which corresponds to running either a student- or teacher-level
 analysis. Selecting the Student option in the display drop-down list
@@ -109,20 +115,16 @@ for example, in terms of the “percentage of teachers”). Once a display
 is chosen, the screen resets and you can select <strong>Year</strong>(s),
 <strong>Measure</strong>(s), and <strong>Jurisdiction</strong>(s).</p>
 </div>
-<div id="c.-choose-year-1" class="section level3" number="7.1.3">
-<h3>
-<span class="header-section-number">7.1.3</span> 1.C. Choose Year<a class="anchor" aria-label="anchor" href="#c.-choose-year-1"><i class="fas fa-link"></i></a>
-</h3>
+<div id="c.-choose-year-1" class="section level3" number="6.1.3">
+<h3><span class="header-section-number">6.1.3</span> 1.C. Choose Year</h3>
 <p>At the top of the <strong>Measure</strong> and <strong>Jurisdiction</strong> sections, you have
 the choice of selecting 2018 and/or 2013 by checking the appropriate
 box. To include data from both years, check the “All Years” box to the
 left of the individual years. CIL data is available for both years, and
 CT data is available for 2018.</p>
 </div>
-<div id="d.-choose-measure-1" class="section level3" number="7.1.4">
-<h3>
-<span class="header-section-number">7.1.4</span> 1.D. Choose Measure<a class="anchor" aria-label="anchor" href="#d.-choose-measure-1"><i class="fas fa-link"></i></a>
-</h3>
+<div id="d.-choose-measure-1" class="section level3" number="6.1.4">
+<h3><span class="header-section-number">6.1.4</span> 1.D. Choose Measure</h3>
 <p>After choosing a display, you can choose one or more outcome variables
 under Measure, including the overall scales for CIL or CT (Student
 display only) and other continuous variables. These variables fall into
@@ -136,10 +138,8 @@ the Student and Teacher displays, selecting the variable “Percentage
 across full sample” under the <em>Population</em> category will allow you to
 calculate percentage statistics based on the full sample.</p>
 </div>
-<div id="e.-choose-jurisdiction-1" class="section level3" number="7.1.5">
-<h3>
-<span class="header-section-number">7.1.5</span> 1.E. Choose Jurisdiction<a class="anchor" aria-label="anchor" href="#e.-choose-jurisdiction-1"><i class="fas fa-link"></i></a>
-</h3>
+<div id="e.-choose-jurisdiction-1" class="section level3" number="6.1.5">
+<h3><span class="header-section-number">6.1.5</span> 1.E. Choose Jurisdiction</h3>
 <p>With your <strong>Measure</strong>(s) and <strong>Year</strong>(s) selected, next choose at least
 one <strong>Jurisdiction</strong>.</p>
 <p>Jurisdictions are found under the following groups: <strong>Countries</strong> and
@@ -165,7 +165,8 @@ follows:</p>
 </ol>
 <p>Exhibit 4. Choosing jurisdictions</p>
 <div class="float">
-<img src="images/chapter7/image3.png" style="width:6.5in;height:5.13056in" alt="Exhibit 4 is a screenshot from the ICILS IDE tool showing jurisdictions available in the Select Criteria tab."><div class="figcaption">Exhibit 4 is a screenshot from the ICILS IDE tool showing
+<img src="images/chapter7/image3.png" style="width:6.5in;height:5.13056in" alt="Exhibit 4 is a screenshot from the ICILS IDE tool showing jurisdictions available in the Select Criteria tab." />
+<div class="figcaption">Exhibit 4 is a screenshot from the ICILS IDE tool showing
 jurisdictions available in the Select Criteria
 tab.</div>
 </div>
@@ -174,14 +175,10 @@ bottom right of the page or the tab at the top of the page to go to the
 next screen (see exhibit 4).</p>
 </div>
 </div>
-<div id="select-variables-4" class="section level2" number="7.2">
-<h2>
-<span class="header-section-number">7.2</span> 2. Select Variables<a class="anchor" aria-label="anchor" href="#select-variables-4"><i class="fas fa-link"></i></a>
-</h2>
-<div id="a.-overview-17" class="section level3" number="7.2.1">
-<h3>
-<span class="header-section-number">7.2.1</span> 2.A. Overview<a class="anchor" aria-label="anchor" href="#a.-overview-17"><i class="fas fa-link"></i></a>
-</h3>
+<div id="select-variables-3" class="section level2" number="6.2">
+<h2><span class="header-section-number">6.2</span> 2. Select Variables</h2>
+<div id="a.-overview-13" class="section level3" number="6.2.1">
+<h3><span class="header-section-number">6.2.1</span> 2.A. Overview</h3>
 <p>Step 2, <strong>Select Variables</strong>, can only be accessed after choosing
 criteria at step 1, <strong>Select Criteria</strong>.</p>
 <p>To continue your data query and edit a report, <em>you must choose at least
@@ -191,14 +188,13 @@ function (see exhibit 5). You can return to this screen to change
 variable selections at any time.</p>
 <p>Exhibit 5. Select variables overview</p>
 <div class="float">
-<img src="images/chapter7/image4.png" style="width:6.5in;height:4.47014in" alt="Exhibit 5 is a screenshot from the ICILS IDE tool showing an overview of the Select Variables tab."><div class="figcaption">Exhibit 5 is a screenshot from the ICILS IDE tool showing an overview
+<img src="images/chapter7/image4.png" style="width:6.5in;height:4.47014in" alt="Exhibit 5 is a screenshot from the ICILS IDE tool showing an overview of the Select Variables tab." />
+<div class="figcaption">Exhibit 5 is a screenshot from the ICILS IDE tool showing an overview
 of the Select Variables tab.</div>
 </div>
 </div>
-<div id="b.-search-using-category-and-sub-category-lists-2" class="section level3" number="7.2.2">
-<h3>
-<span class="header-section-number">7.2.2</span> 2.B. Search Using Category and Sub Category Lists<a class="anchor" aria-label="anchor" href="#b.-search-using-category-and-sub-category-lists-2"><i class="fas fa-link"></i></a>
-</h3>
+<div id="b.-search-using-category-and-sub-category-lists-2" class="section level3" number="6.2.2">
+<h3><span class="header-section-number">6.2.2</span> 2.B. Search Using Category and Sub Category Lists</h3>
 <p>On the <strong>Select Variables</strong> screen, choose at least one variable for
 your report. One way to do this is to search for variables using the
 <strong>Category</strong> and <strong>Sub Category</strong> lists. If you don’t wish to choose
@@ -214,7 +210,8 @@ them:</p>
 <li>Click the blue arrows to open and close categories and subcategories
 &gt; of variables (see exhibit 6).</li>
 </ol>
-<!-- --><ol start="4" style="list-style-type: decimal">
+<!-- -->
+<ol start="4" style="list-style-type: decimal">
 <li><p>Click <strong>details</strong> or <strong>hide details</strong> to show or hide the full title
 &gt; of a given variable, the ICILS ID, and the values (i.e., value
 &gt; labels). Note that some variables have the same or similar short
@@ -237,7 +234,8 @@ them:</p>
 </ol>
 <p>Exhibit 6. Select variables using category and sub category lists</p>
 <div class="float">
-<img src="images/chapter7/image5.png" style="width:6.5in;height:4.49514in" alt="Exhibit 6 is a screenshot from the ICILS IDE tool showing how to select a variable from the categories and sub categories listed in the Select Variables tab."><div class="figcaption">Exhibit 6 is a screenshot from the ICILS IDE tool showing how to
+<img src="images/chapter7/image5.png" style="width:6.5in;height:4.49514in" alt="Exhibit 6 is a screenshot from the ICILS IDE tool showing how to select a variable from the categories and sub categories listed in the Select Variables tab." />
+<div class="figcaption">Exhibit 6 is a screenshot from the ICILS IDE tool showing how to
 select a variable from the categories and sub categories listed in the
 Select Variables tab.</div>
 </div>
@@ -245,10 +243,8 @@ Select Variables tab.</div>
 clicking the <strong>Edit Reports</strong> button at the bottom of the page or the
 tab at the top of the page to go to the next screen.</p>
 </div>
-<div id="c.-search-function-3" class="section level3" number="7.2.3">
-<h3>
-<span class="header-section-number">7.2.3</span> 2.C. Search Function<a class="anchor" aria-label="anchor" href="#c.-search-function-3"><i class="fas fa-link"></i></a>
-</h3>
+<div id="c.-search-function-2" class="section level3" number="6.2.3">
+<h3><span class="header-section-number">6.2.3</span> 2.C. Search Function</h3>
 <p>The second way to search for variables is to use the <strong>Search</strong> function
 on the <strong>Select Variables</strong> screen.</p>
 <p>Type a term in the <strong>Search</strong> box and click <strong>Go</strong> (or hit “Enter” on
@@ -260,7 +256,8 @@ contained in quotes. The variable(s) that include the search term(s) in
 the question or its details will be listed in the search results.</p>
 <p>Exhibit 7. Select variables using the search function</p>
 <div class="float">
-<img src="images/chapter7/image6.png" style="width:6.5in;height:4.47986in" alt="Exhibit 7 is a screenshot from the ICILS IDE tool showing how to select a variable using the search function."><div class="figcaption">Exhibit 7 is a screenshot from the ICILS IDE tool showing how to
+<img src="images/chapter7/image6.png" style="width:6.5in;height:4.47986in" alt="Exhibit 7 is a screenshot from the ICILS IDE tool showing how to select a variable using the search function." />
+<div class="figcaption">Exhibit 7 is a screenshot from the ICILS IDE tool showing how to
 select a variable using the search
 function.</div>
 </div>
@@ -269,14 +266,10 @@ clicking the <strong>Edit Reports</strong> button at the bottom of the page or t
 tab at the top of the page to go to the next screen.</p>
 </div>
 </div>
-<div id="edit-reports-4" class="section level2" number="7.3">
-<h2>
-<span class="header-section-number">7.3</span> 3. Edit Reports<a class="anchor" aria-label="anchor" href="#edit-reports-4"><i class="fas fa-link"></i></a>
-</h2>
-<div id="a.-overview-18" class="section level3" number="7.3.1">
-<h3>
-<span class="header-section-number">7.3.1</span> 3.A. Overview<a class="anchor" aria-label="anchor" href="#a.-overview-18"><i class="fas fa-link"></i></a>
-</h3>
+<div id="edit-reports-3" class="section level2" number="6.3">
+<h2><span class="header-section-number">6.3</span> 3. Edit Reports</h2>
+<div id="a.-overview-14" class="section level3" number="6.3.1">
+<h3><span class="header-section-number">6.3.1</span> 3.A. Overview</h3>
 <p>You can access step 3, <strong>Edit Reports</strong>, after choosing criteria at step
 1, <strong>Select Criteria</strong>, and choosing variables at step 2, <strong>Select
 Variables</strong>. The IDE will automatically build reports based on your
@@ -307,7 +300,8 @@ separate set of data reports will be generated for each measure (see
 exhibit 8).</p>
 <p><strong>Exhibit 8. Edit reports overview</strong></p>
 <div class="float">
-<img src="images/chapter7/image7.png" style="width:6.5in;height:3.72847in" alt="Exhibit 8 is a screenshot from the ICILS IDE tool showing an overview of the Edit Reports tab."><div class="figcaption">Exhibit 8 is a screenshot from the ICILS IDE tool showing an overview
+<img src="images/chapter7/image7.png" style="width:6.5in;height:3.72847in" alt="Exhibit 8 is a screenshot from the ICILS IDE tool showing an overview of the Edit Reports tab." />
+<div class="figcaption">Exhibit 8 is a screenshot from the ICILS IDE tool showing an overview
 of the Edit Reports tab.</div>
 </div>
 <p>The <strong>Edit Reports</strong> step shows overview information of your reports.
@@ -324,10 +318,8 @@ shows the countries and subnational education systems selected for
 comparison, and the <strong>Statistic</strong> column provides the type of statistic
 output that will be generated in the report-building phase.</p>
 </div>
-<div id="b.-preview-report-4" class="section level3" number="7.3.2">
-<h3>
-<span class="header-section-number">7.3.2</span> 3.B. Preview Report<a class="anchor" aria-label="anchor" href="#b.-preview-report-4"><i class="fas fa-link"></i></a>
-</h3>
+<div id="b.-preview-report-3" class="section level3" number="6.3.2">
+<h3><span class="header-section-number">6.3.2</span> 3.B. Preview Report</h3>
 <p>Select <strong>Preview</strong>, in the <strong>Action</strong> column (see exhibit 8), to see how
 your report will be laid out. The preview will not provide actual data
 but will show how the data will be arranged in rows and columns (see
@@ -335,15 +327,14 @@ exhibit 9). You can select <strong>Preview</strong> at any time to see how your
 changes will affect the report’s final layout.</p>
 <p>Exhibit 9. Using preview report</p>
 <div class="float">
-<img src="images/chapter7/image8.png" style="width:6.5in;height:2.86181in" alt="Exhibit 9 is a screenshot from the ICILS IDE tool showing an example of the preview function that is available in the Edit Reports tab."><div class="figcaption">Exhibit 9 is a screenshot from the ICILS IDE tool showing an example
+<img src="images/chapter7/image8.png" style="width:6.5in;height:2.86181in" alt="Exhibit 9 is a screenshot from the ICILS IDE tool showing an example of the preview function that is available in the Edit Reports tab." />
+<div class="figcaption">Exhibit 9 is a screenshot from the ICILS IDE tool showing an example
 of the preview function that is available in the Edit Reports
 tab.</div>
 </div>
 </div>
-<div id="c.-edit-report-4" class="section level3" number="7.3.3">
-<h3>
-<span class="header-section-number">7.3.3</span> 3.C. Edit Report<a class="anchor" aria-label="anchor" href="#c.-edit-report-4"><i class="fas fa-link"></i></a>
-</h3>
+<div id="c.-edit-report-3" class="section level3" number="6.3.3">
+<h3><span class="header-section-number">6.3.3</span> 3.C. Edit Report</h3>
 <p>To edit the report, select the <strong>Edit</strong> command, in the <strong>Action</strong>
 column, next to the report number (see exhibit 8). (Another way to edit
 a report is to select the <strong>Edit</strong> tab when you are previewing a
@@ -356,7 +347,8 @@ report.) The following can be done using the edit function (see exhibit
 &gt; default, the report is named Report 1, Report 2, etc., or
 &gt; Cross-Tabulated Report 1, Cross-Tabulated Report 2, etc.)</li>
 </ol>
-<!-- --><ol start="9" style="list-style-type: decimal">
+<!-- -->
+<ol start="9" style="list-style-type: decimal">
 <li><p>Select a measure. You can choose a measure if more than one was
 &gt; selected at step 1.</p></li>
 <li><p>Select which jurisdictions, variables, years (if applicable), and
@@ -375,17 +367,16 @@ report.) The following can be done using the edit function (see exhibit
 </ol>
 <p>Exhibit 10. Editing reports</p>
 <div class="float">
-<img src="images/chapter7/image9.png" style="width:6.5in;height:4.87014in" alt="Exhibit 10 is a screenshot from the ICILS IDE tool showing an example of the editing report function that is available in the Edit Reports tab."><div class="figcaption">Exhibit 10 is a screenshot from the ICILS IDE tool showing an example
+<img src="images/chapter7/image9.png" style="width:6.5in;height:4.87014in" alt="Exhibit 10 is a screenshot from the ICILS IDE tool showing an example of the editing report function that is available in the Edit Reports tab." />
+<div class="figcaption">Exhibit 10 is a screenshot from the ICILS IDE tool showing an example
 of the editing report function that is available in the Edit Reports
 tab.</div>
 </div>
 <p>To save changes, make sure to select <strong>Done</strong> in the upper-right portion
 of the screen before closing the <strong>Edit Report</strong> window.</p>
 </div>
-<div id="d.-create-new-variables-4" class="section level3" number="7.3.4">
-<h3>
-<span class="header-section-number">7.3.4</span> 3.D. Create New Variables<a class="anchor" aria-label="anchor" href="#d.-create-new-variables-4"><i class="fas fa-link"></i></a>
-</h3>
+<div id="d.-create-new-variables-3" class="section level3" number="6.3.4">
+<h3><span class="header-section-number">6.3.4</span> 3.D. Create New Variables</h3>
 <p>The levels of a categorical variable can be collapsed to create a new
 variable. To do so, select <strong>Edit</strong>, in the <strong>Action</strong> column, and
 select <strong>Create new…</strong> under <strong>Variable</strong> (see exhibit 10). The new
@@ -395,7 +386,8 @@ steps are as follows:</p>
 <li><p>Click <strong>Create new...</strong> under the <strong>Variable</strong> heading.</p></li>
 <li><p>Select the variable for which you wish to combine values.</p></li>
 </ol>
-<!-- --><ol start="13" style="list-style-type: decimal">
+<!-- -->
+<ol start="13" style="list-style-type: decimal">
 <li><p>Select the values you want to combine by checking the boxes to the
 &gt; left of the values (see exhibit 11).</p></li>
 <li><p>Create a name for the new value, and press <strong>Create</strong>. The collapsed
@@ -411,7 +403,8 @@ steps are as follows:</p>
 </ol>
 <p>Exhibit 11. Creating new variables</p>
 <div class="float">
-<img src="images/chapter7/image10.png" style="width:3.5902in;height:4in" alt="Exhibit 11 is a screenshot from the ICILS IDE tool showing an example of the creating new variable function that is available in the Edit Reports tab."><div class="figcaption">Exhibit 11 is a screenshot from the ICILS IDE tool showing an example
+<img src="images/chapter7/image10.png" style="width:3.5902in;height:4in" alt="Exhibit 11 is a screenshot from the ICILS IDE tool showing an example of the creating new variable function that is available in the Edit Reports tab." />
+<div class="figcaption">Exhibit 11 is a screenshot from the ICILS IDE tool showing an example
 of the creating new variable function that is available in the Edit
 Reports tab.</div>
 </div>
@@ -439,15 +432,14 @@ Cases</strong>), you won’t get the cross-tabulation. You can click <strong>Pre
 to see how the table will be laid out before retrieving data.</p>
 <p>Exhibit 12. Edit reports with collapsed variables</p>
 <div class="float">
-<img src="images/chapter7/image11.png" style="width:6.5in;height:4.87014in" alt="Exhibit 12 is a screenshot from the ICILS IDE tool showing an example of the editing report with collapsed variables function that is available in the Edit Reports tab."><div class="figcaption">Exhibit 12 is a screenshot from the ICILS IDE tool showing an example
+<img src="images/chapter7/image11.png" style="width:6.5in;height:4.87014in" alt="Exhibit 12 is a screenshot from the ICILS IDE tool showing an example of the editing report with collapsed variables function that is available in the Edit Reports tab." />
+<div class="figcaption">Exhibit 12 is a screenshot from the ICILS IDE tool showing an example
 of the editing report with collapsed variables function that is
 available in the Edit Reports tab.</div>
 </div>
 </div>
-<div id="e.-create-new-report-4" class="section level3" number="7.3.5">
-<h3>
-<span class="header-section-number">7.3.5</span> 3.E. Create New Report<a class="anchor" aria-label="anchor" href="#e.-create-new-report-4"><i class="fas fa-link"></i></a>
-</h3>
+<div id="e.-create-new-report-3" class="section level3" number="6.3.5">
+<h3><span class="header-section-number">6.3.5</span> 3.E. Create New Report</h3>
 <p>From the main <strong>Edit Reports</strong> screen, clicking on <strong>Create New Report</strong>
 brings up the same options as <strong>Edit Report</strong>, but with no checkboxes
 marked and without any new variables you may have created. Thus,
@@ -458,28 +450,27 @@ list of reports. If you do not give the report a specific name, it will
 be called “New Report.”</p>
 <p>Exhibit 13. Creating new reports</p>
 <div class="float">
-<img src="images/chapter7/image12.png" style="width:6.5in;height:4.85486in" alt="Exhibit 13 is a screenshot from the ICILS IDE tool showing an example of the creating new report menu that is available in the Edit Reports tab."><div class="figcaption">Exhibit 13 is a screenshot from the ICILS IDE tool showing an example
+<img src="images/chapter7/image12.png" style="width:6.5in;height:4.85486in" alt="Exhibit 13 is a screenshot from the ICILS IDE tool showing an example of the creating new report menu that is available in the Edit Reports tab." />
+<div class="figcaption">Exhibit 13 is a screenshot from the ICILS IDE tool showing an example
 of the creating new report menu that is available in the Edit Reports
 tab.</div>
 </div>
 </div>
-<div id="f.-format-options-4" class="section level3" number="7.3.6">
-<h3>
-<span class="header-section-number">7.3.6</span> 3.F. Format Options<a class="anchor" aria-label="anchor" href="#f.-format-options-4"><i class="fas fa-link"></i></a>
-</h3>
+<div id="f.-format-options-3" class="section level3" number="6.3.6">
+<h3><span class="header-section-number">6.3.6</span> 3.F. Format Options</h3>
 <p>From the main <strong>Edit Reports</strong> screen, clicking on <strong>Format Options</strong>
 will allow you to make formatting changes applicable to all the reports
 listed. The following formatting options are available using this
 function (see exhibit 14):</p>
 <ol style="list-style-type: decimal">
-<li>
-<strong>Variable Labels (Long)</strong> displays a more detailed description of
+<li><strong>Variable Labels (Long)</strong> displays a more detailed description of
 &gt; the variables selected in a query than the default short label.
 &gt; For variables from questionnaires, the full text of the question
 &gt; is displayed. Be advised that the length of the extra detail may
 &gt; sometimes interfere with table formatting.</li>
 </ol>
-<!-- --><ol start="18" style="list-style-type: decimal">
+<!-- -->
+<ol start="18" style="list-style-type: decimal">
 <li><p><strong>Show data for values categorized as “missing”</strong> will include the
 &gt; percentage of students in the total sample or in a reporting group
 &gt; for whom membership in a particular response category is unknown
@@ -516,7 +507,8 @@ function (see exhibit 14):</p>
 </ol>
 <p>Exhibit 14. Format options</p>
 <div class="float">
-<img src="images/chapter7/image13.png" style="width:2.92126in;height:4.3262in" alt="Exhibit 14 is a screenshot from the ICILS IDE tool showing an example of the format options available in the Edit Reports tab."><div class="figcaption">Exhibit 14 is a screenshot from the ICILS IDE tool showing an example
+<img src="images/chapter7/image13.png" style="width:2.92126in;height:4.3262in" alt="Exhibit 14 is a screenshot from the ICILS IDE tool showing an example of the format options available in the Edit Reports tab." />
+<div class="figcaption">Exhibit 14 is a screenshot from the ICILS IDE tool showing an example
 of the format options available in the Edit Reports
 tab.</div>
 </div>
@@ -527,10 +519,8 @@ Use the <strong>Reset</strong> button, located in the upper-right portion of the
 <strong>Format Options</strong> to the default settings (although caution is advised,
 as this will also delete any new reports that you have created).</p>
 </div>
-<div id="g.-statistics-options-4" class="section level3" number="7.3.7">
-<h3>
-<span class="header-section-number">7.3.7</span> 3.G. Statistics Options<a class="anchor" aria-label="anchor" href="#g.-statistics-options-4"><i class="fas fa-link"></i></a>
-</h3>
+<div id="g.-statistics-options-3" class="section level3" number="6.3.7">
+<h3><span class="header-section-number">6.3.7</span> 3.G. Statistics Options</h3>
 <p>Available only from the main <strong>Edit Reports</strong> screen, clicking on
 <strong>Statistics Options</strong> allows you to designate up to two statistics. The
 selections you make are applicable to all the reports listed, although
@@ -557,20 +547,19 @@ then each country will display its own percentage distribution
 across its row. By default, percentage distributions do not include
 missing data. For information on how to show data for values
 categorized as missing, see <strong>Section 3.F. Format Options</strong>.</p></li>
-<li>
-<p><strong>Percentiles.</strong> This statistic shows the threshold (or cutpoint)
+<li><p><strong>Percentiles.</strong> This statistic shows the threshold (or cutpoint)
 score for the following:</p>
 <p>10<sup>th</sup> percentile – the bottom 10 percent of students</p>
 <p>25<sup>th</sup> percentile – the bottom quarter of students</p>
 <p>50<sup>th</sup> percentile – the median (half the students scored below the
 cutpoint and half scored above it)</p>
 <p>75<sup>th</sup> percentile – the top quarter of students</p>
-<p>90<sup>th</sup> percentile – the top 10 percent of students</p>
-</li>
+<p>90<sup>th</sup> percentile – the top 10 percent of students</p></li>
 </ol>
 <p>Exhibit 15. Statistics options</p>
 <div class="float">
-<img src="images/chapter7/image14.png" style="width:3.72917in;height:4.75in" alt="Exhibit 15 is a screenshot from the ICILS IDE tool showing an example of the statistics options available in the Edit Reports tab."><div class="figcaption">Exhibit 15 is a screenshot from the ICILS IDE tool showing an example
+<img src="images/chapter7/image14.png" style="width:3.72917in;height:4.75in" alt="Exhibit 15 is a screenshot from the ICILS IDE tool showing an example of the statistics options available in the Edit Reports tab." />
+<div class="figcaption">Exhibit 15 is a screenshot from the ICILS IDE tool showing an example
 of the statistics options available in the Edit Reports
 tab.</div>
 </div>
@@ -604,10 +593,8 @@ those published by IEA or NCES. This is due to the use of different
 reporting standards, such as suppression rules related to sample size
 and suppression due to response rates.</p>
 </div>
-<div id="h.-select-reports-to-build-4" class="section level3" number="7.3.8">
-<h3>
-<span class="header-section-number">7.3.8</span> 3.H. Select Reports to Build<a class="anchor" aria-label="anchor" href="#h.-select-reports-to-build-4"><i class="fas fa-link"></i></a>
-</h3>
+<div id="h.-select-reports-to-build-3" class="section level3" number="6.3.8">
+<h3><span class="header-section-number">6.3.8</span> 3.H. Select Reports to Build</h3>
 <p>As you edit your reports, you can give them distinct names (up to 50
 characters) to differentiate them, as well as make changes to the
 jurisdictions and variables previously selected, the statistics, and the
@@ -624,7 +611,8 @@ for which you wish to retrieve data.) In the example that follows (see
 exhibit 16), data will be retrieved for all reports.</p>
 <p>Exhibit 16. Selecting reports to build</p>
 <div class="float">
-<img src="images/chapter7/image15.png" style="width:6.5in;height:3.79028in" alt="Exhibit 16 is a screenshot from the ICILS IDE tool showing how to select reports to build in the Edit Reports tab."><div class="figcaption">Exhibit 16 is a screenshot from the ICILS IDE tool showing how to
+<img src="images/chapter7/image15.png" style="width:6.5in;height:3.79028in" alt="Exhibit 16 is a screenshot from the ICILS IDE tool showing how to select reports to build in the Edit Reports tab." />
+<div class="figcaption">Exhibit 16 is a screenshot from the ICILS IDE tool showing how to
 select reports to build in the Edit Reports
 tab.</div>
 </div>
@@ -639,14 +627,10 @@ button at the bottom of the page (see 3 above) or the tab at the top of
 the page to go to the next screen.</p>
 </div>
 </div>
-<div id="build-reports-4" class="section level2" number="7.4">
-<h2>
-<span class="header-section-number">7.4</span> 4. Build Reports<a class="anchor" aria-label="anchor" href="#build-reports-4"><i class="fas fa-link"></i></a>
-</h2>
-<div id="a.-overview-19" class="section level3" number="7.4.1">
-<h3>
-<span class="header-section-number">7.4.1</span> 4.A. Overview<a class="anchor" aria-label="anchor" href="#a.-overview-19"><i class="fas fa-link"></i></a>
-</h3>
+<div id="build-reports-3" class="section level2" number="6.4">
+<h2><span class="header-section-number">6.4</span> 4. Build Reports</h2>
+<div id="a.-overview-15" class="section level3" number="6.4.1">
+<h3><span class="header-section-number">6.4.1</span> 4.A. Overview</h3>
 <p>You can access step 4, <strong>Build Reports</strong>, after choosing criteria at
 step 1, <strong>Select Criteria</strong>, in which case the default report built will
 provide data for just averages and for the <strong>All Cases</strong> variable. After
@@ -660,7 +644,8 @@ Reports</strong>. In <strong>Build Reports</strong>, you can do the following:</
 &gt; reports for which you do not wish to retrieve data. (For further
 &gt; information, see <strong>Section 3.H. Select Reports to Build</strong>.)</li>
 </ol>
-<!-- --><ol start="22" style="list-style-type: decimal">
+<!-- -->
+<ol start="22" style="list-style-type: decimal">
 <li><p>Export and save data tables into various formats using the <strong>Export
 &gt; Reports</strong> button (see 2 in exhibit 17). The output formats include
 &gt; HTML (print-friendly), Microsoft Excel, Microsoft Word, and Adobe
@@ -678,16 +663,15 @@ Reports</strong>. In <strong>Build Reports</strong>, you can do the following:</
 </ol>
 <p>Exhibit 17. Building reports overview</p>
 <div class="float">
-<img src="images/chapter7/image16.png" style="width:6.5in;height:4.76875in" alt="Exhibit 17 is a screenshot from the ICILS IDE tool showing an overview of the Build Reports tab featuring the Select Report, Export Reports, Chart, Significance Test, Gap Analysis, and Regression Analysis options."><div class="figcaption">Exhibit 17 is a screenshot from the ICILS IDE tool showing an overview
+<img src="images/chapter7/image16.png" style="width:6.5in;height:4.76875in" alt="Exhibit 17 is a screenshot from the ICILS IDE tool showing an overview of the Build Reports tab featuring the Select Report, Export Reports, Chart, Significance Test, Gap Analysis, and Regression Analysis options." />
+<div class="figcaption">Exhibit 17 is a screenshot from the ICILS IDE tool showing an overview
 of the Build Reports tab featuring the Select Report, Export Reports,
 Chart, Significance Test, Gap Analysis, and Regression Analysis
 options.</div>
 </div>
 </div>
-<div id="b.-view-reports-as-data-tables-4" class="section level3" number="7.4.2">
-<h3>
-<span class="header-section-number">7.4.2</span> 4.B. View Reports as Data Tables<a class="anchor" aria-label="anchor" href="#b.-view-reports-as-data-tables-4"><i class="fas fa-link"></i></a>
-</h3>
+<div id="b.-view-reports-as-data-tables-3" class="section level3" number="6.4.2">
+<h3><span class="header-section-number">6.4.2</span> 4.B. View Reports as Data Tables</h3>
 <p>Some reports will take longer than others to process, so do not hit the
 “Back” button on your browser once you have clicked on <strong>Build Reports</strong>
 (see exhibit 18). Your table will appear once the processing is
@@ -696,13 +680,10 @@ Report</strong> drop‑down menu (see 1 in exhibit 17) and choose the table of
 interest. To change the formatting or statistics options of a table or
 to generate a table from a report not included in your selection, return
 to step 3, <strong>Edit Reports</strong>.</p>
-<div class="inline-figure">Exhibit 18. Processing data<img src="images/chapter7/image17.png" style="width:6.5in;height:3.28611in" alt="Exhibit 18 is a screenshot from the ICILS IDE tool showing data processing in the Build Reports tab.">
+<p>Exhibit 18. Processing data<img src="images/chapter7/image17.png" style="width:6.5in;height:3.28611in" alt="Exhibit 18 is a screenshot from the ICILS IDE tool showing data processing in the Build Reports tab." /></p>
 </div>
-</div>
-<div id="c.-charts-4" class="section level3" number="7.4.3">
-<h3>
-<span class="header-section-number">7.4.3</span> 4.C. Charts<a class="anchor" aria-label="anchor" href="#c.-charts-4"><i class="fas fa-link"></i></a>
-</h3>
+<div id="c.-charts-3" class="section level3" number="6.4.3">
+<h3><span class="header-section-number">6.4.3</span> 4.C. Charts</h3>
 <p>To create a chart, go to <strong>Select Report</strong> on the <strong>Build Reports</strong>
 screen to choose the report of interest from the drop-down menu, and
 then click the <strong>Chart</strong> link (see exhibit 19).</p>
@@ -711,15 +692,14 @@ then click the <strong>Chart</strong> link (see exhibit 19).</p>
 the available features and how they can be customized.</p>
 <p>Exhibit 19. Viewing reports as charts</p>
 <div class="float">
-<img src="images/chapter7/image18.png" style="width:6.5in;height:2.12569in" alt="Exhibit 19 is a screenshot from the ICILS IDE tool showing how to select the chart creating function in the Build Reports tab."><div class="figcaption">Exhibit 19 is a screenshot from the ICILS IDE tool showing how to
+<img src="images/chapter7/image18.png" style="width:6.5in;height:2.12569in" alt="Exhibit 19 is a screenshot from the ICILS IDE tool showing how to select the chart creating function in the Build Reports tab." />
+<div class="figcaption">Exhibit 19 is a screenshot from the ICILS IDE tool showing how to
 select the chart creating function in the Build Reports
 tab.</div>
 </div>
 </div>
-<div id="d.-create-charts-3" class="section level3" number="7.4.4">
-<h3>
-<span class="header-section-number">7.4.4</span> 4.D. Create Charts<a class="anchor" aria-label="anchor" href="#d.-create-charts-3"><i class="fas fa-link"></i></a>
-</h3>
+<div id="d.-create-charts-3" class="section level3" number="6.4.4">
+<h3><span class="header-section-number">6.4.4</span> 4.D. Create Charts</h3>
 <p>When you click <strong>Chart</strong>, you will first make selections of
 <strong>Jurisdiction</strong>, <strong>Year</strong>, <strong>and</strong> <strong>Statistic</strong> (see exhibit 20). All
 <strong>Jurisdictions</strong> and <strong>Years</strong> are selected by default, while you can
@@ -734,15 +714,14 @@ reporting data with only percentiles selected as the statistics option.</p>
 <strong>Chart</strong> button in the lower-right corner of the screen.</p>
 <p>Exhibit 20. Data options for charts</p>
 <div class="float">
-<img src="images/chapter7/image19.png" style="width:6.5in;height:6.64653in" alt="Exhibit 20 is a screenshot from the ICILS IDE tool showing the data options available in the chart creating function in the Build Reports tab."><div class="figcaption">Exhibit 20 is a screenshot from the ICILS IDE tool showing the data
+<img src="images/chapter7/image19.png" style="width:6.5in;height:6.64653in" alt="Exhibit 20 is a screenshot from the ICILS IDE tool showing the data options available in the chart creating function in the Build Reports tab." />
+<div class="figcaption">Exhibit 20 is a screenshot from the ICILS IDE tool showing the data
 options available in the chart creating function in the Build Reports
 tab.</div>
 </div>
 </div>
-<div id="e.-create-charts-chart-options-2" class="section level3" number="7.4.5">
-<h3>
-<span class="header-section-number">7.4.5</span> 4.E. Create Charts – Chart Options<a class="anchor" aria-label="anchor" href="#e.-create-charts-chart-options-2"><i class="fas fa-link"></i></a>
-</h3>
+<div id="e.-create-charts-chart-options-2" class="section level3" number="6.4.5">
+<h3><span class="header-section-number">6.4.5</span> 4.E. Create Charts – Chart Options</h3>
 <p>Next, you can make selections regarding the chart options located at the
 bottom of the same window.</p>
 <ol style="list-style-type: decimal">
@@ -763,7 +742,8 @@ bottom of the same window.</p>
 </ol>
 <p><strong>Exhibit 21. Chart options</strong></p>
 <div class="float">
-<img src="images/chapter7/image20.png" style="width:6.5in;height:6.66667in" alt="Exhibit 21 is a screenshot from the ICILS IDE tool showing the chart options available in the chart creating function in the Build Reports tab."><div class="figcaption">Exhibit 21 is a screenshot from the ICILS IDE tool showing the chart
+<img src="images/chapter7/image20.png" style="width:6.5in;height:6.66667in" alt="Exhibit 21 is a screenshot from the ICILS IDE tool showing the chart options available in the chart creating function in the Build Reports tab." />
+<div class="figcaption">Exhibit 21 is a screenshot from the ICILS IDE tool showing the chart
 options available in the chart creating function in the Build Reports
 tab.</div>
 </div>
@@ -778,13 +758,15 @@ an example of a <strong>Percentile Chart</strong> and exhibit 23 as an example o
 </ol>
 <p>Exhibit 22. Percentile chart</p>
 <div class="float">
-<img src="images/chapter7/image21.png" style="width:6.5in;height:5.05625in" alt="Exhibit 22 is a screenshot from the ICILS IDE tool showing a preview of a percentile chart in the chart creating function in the Build Reports tab."><div class="figcaption">Exhibit 22 is a screenshot from the ICILS IDE tool showing a preview
+<img src="images/chapter7/image21.png" style="width:6.5in;height:5.05625in" alt="Exhibit 22 is a screenshot from the ICILS IDE tool showing a preview of a percentile chart in the chart creating function in the Build Reports tab." />
+<div class="figcaption">Exhibit 22 is a screenshot from the ICILS IDE tool showing a preview
 of a percentile chart in the chart creating function in the Build
 Reports tab.</div>
 </div>
 <p>Exhibit 23. Bar chart</p>
 <div class="float">
-<img src="images/chapter7/image22.png" style="width:6.5in;height:4.28125in" alt="Exhibit 23 is a screenshot from the ICILS IDE tool showing a preview of a bar chart in the chart creating function in the Build Reports tab."><div class="figcaption">Exhibit 23 is a screenshot from the ICILS IDE tool showing a preview
+<img src="images/chapter7/image22.png" style="width:6.5in;height:4.28125in" alt="Exhibit 23 is a screenshot from the ICILS IDE tool showing a preview of a bar chart in the chart creating function in the Build Reports tab." />
+<div class="figcaption">Exhibit 23 is a screenshot from the ICILS IDE tool showing a preview
 of a bar chart in the chart creating function in the Build Reports
 tab.</div>
 </div>
@@ -806,10 +788,8 @@ want to save by clicking <strong>Done</strong> and using the <strong>Export Repo
 function before leaving the <strong>Build Reports</strong> screen. (For further
 information, see <strong>Section 4.I. Export Reports</strong>.)</p>
 </div>
-<div id="f.-significance-tests-3" class="section level3" number="7.4.6">
-<h3>
-<span class="header-section-number">7.4.6</span> 4.F. Significance Tests<a class="anchor" aria-label="anchor" href="#f.-significance-tests-3"><i class="fas fa-link"></i></a>
-</h3>
+<div id="f.-significance-tests-2" class="section level3" number="6.4.6">
+<h3><span class="header-section-number">6.4.6</span> 4.F. Significance Tests</h3>
 <p>Tests for statistical significance indicate whether observed differences
 between estimates are likely to have occurred because of sampling error
 or chance. “Significance” here does not imply any judgment about
@@ -840,7 +820,8 @@ exhibit 24):</p>
 &gt; variables. For <strong>Across Years</strong>, more than one year needs to be
 &gt; selected.</li>
 </ol>
-<!-- --><ol start="27" style="list-style-type: decimal">
+<!-- -->
+<ol start="27" style="list-style-type: decimal">
 <li><p>You can enter a <strong>Test Title</strong> limited to 25 characters, using only
 &gt; letters, numbers, spaces, underscores, and hyphens (otherwise, by
 &gt; default, the test is named “Sig Test 1”).</p></li>
@@ -864,7 +845,8 @@ exhibit 24):</p>
 </ol>
 <p>Exhibit 24. Significance test options</p>
 <div class="float">
-<img src="images/chapter7/image23.png" style="width:6.5in;height:5.05069in" alt="Exhibit 24 is a screenshot from the ICILS IDE tool showing the significance test options available in the Build Reports tab."><div class="figcaption">Exhibit 24 is a screenshot from the ICILS IDE tool showing the
+<img src="images/chapter7/image23.png" style="width:6.5in;height:5.05069in" alt="Exhibit 24 is a screenshot from the ICILS IDE tool showing the significance test options available in the Build Reports tab." />
+<div class="figcaption">Exhibit 24 is a screenshot from the ICILS IDE tool showing the
 significance test options available in the Build Reports
 tab.</div>
 </div>
@@ -900,7 +882,8 @@ years within the IDE take into account the linking errors applicable to
 each display.</p>
 <p>Exhibit 25. Significance test table output</p>
 <div class="float">
-<img src="images/chapter7/image24.png" style="width:6.5in;height:5.56667in" alt="Exhibit 25 is a screenshot from the ICILS IDE tool showing an example of a significance test table output in the Build Reports tab."><div class="figcaption">Exhibit 25 is a screenshot from the ICILS IDE tool showing an example
+<img src="images/chapter7/image24.png" style="width:6.5in;height:5.56667in" alt="Exhibit 25 is a screenshot from the ICILS IDE tool showing an example of a significance test table output in the Build Reports tab." />
+<div class="figcaption">Exhibit 25 is a screenshot from the ICILS IDE tool showing an example
 of a significance test table output in the Build Reports
 tab.</div>
 </div>
@@ -919,21 +902,21 @@ another country. You may also choose a different variable category for
 comparison by using the drop‑down menu above the map.</p>
 <p>Exhibit 26. Map of significance tests</p>
 <div class="float">
-<img src="images/chapter7/image25.png" style="width:6.5in;height:7.66736in" alt="Exhibit 26 is a screenshot from the ICILS IDE tool showing an example of a significance test map output in the Build Reports tab."><div class="figcaption">Exhibit 26 is a screenshot from the ICILS IDE tool showing an example
+<img src="images/chapter7/image25.png" style="width:6.5in;height:7.66736in" alt="Exhibit 26 is a screenshot from the ICILS IDE tool showing an example of a significance test map output in the Build Reports tab." />
+<div class="figcaption">Exhibit 26 is a screenshot from the ICILS IDE tool showing an example
 of a significance test map output in the Build Reports
 tab.</div>
 </div>
 </div>
-<div id="g.-gap-analysis-2" class="section level3" number="7.4.7">
-<h3>
-<span class="header-section-number">7.4.7</span> 4.G. Gap Analysis<a class="anchor" aria-label="anchor" href="#g.-gap-analysis-2"><i class="fas fa-link"></i></a>
-</h3>
+<div id="g.-gap-analysis-1" class="section level3" number="6.4.7">
+<h3><span class="header-section-number">6.4.7</span> 4.G. Gap Analysis</h3>
 <p>Gap analysis is included in the IDE to compare differences in gaps shown
 in a map, table, or chart. Gap differences can be compared between
 jurisdictions and/or across years.</p>
 <p>Exhibit 27. Gap analysis link selection</p>
 <div class="float">
-<img src="images/chapter7/image26.png" style="width:6.5in;height:2.14028in" alt="Exhibit 27 is a screenshot from the ICILS IDE tool showing how to select the gap analysis function in the Build Reports tab."><div class="figcaption">Exhibit 27 is a screenshot from the ICILS IDE tool showing how to
+<img src="images/chapter7/image26.png" style="width:6.5in;height:2.14028in" alt="Exhibit 27 is a screenshot from the ICILS IDE tool showing how to select the gap analysis function in the Build Reports tab." />
+<div class="figcaption">Exhibit 27 is a screenshot from the ICILS IDE tool showing how to
 select the gap analysis function in the Build Reports
 tab.</div>
 </div>
@@ -958,7 +941,8 @@ gap for females at two time points in another country.</p></li>
 </ul>
 <p>Exhibit 28. Gap analysis options</p>
 <div class="float">
-<img src="images/chapter7/image27.png" style="width:6.5in;height:5.05208in" alt="Exhibit 28 is a screenshot from the ICILS IDE tool showing the gap analysis options available in the Build Reports tab."><div class="figcaption">Exhibit 28 is a screenshot from the ICILS IDE tool showing the gap
+<img src="images/chapter7/image27.png" style="width:6.5in;height:5.05208in" alt="Exhibit 28 is a screenshot from the ICILS IDE tool showing the gap analysis options available in the Build Reports tab." />
+<div class="figcaption">Exhibit 28 is a screenshot from the ICILS IDE tool showing the gap
 analysis options available in the Build Reports
 tab.</div>
 </div>
@@ -996,7 +980,8 @@ differ from each other only when the gaps go in the same direction
 with a 15-point gender gap favoring females in another country).</p>
 <p>Exhibit 29. Gap analysis output</p>
 <div class="float">
-<img src="images/chapter7/image28.png" style="width:5.51042in;height:4.1875in" alt="Exhibit 29 is a screenshot from the ICILS IDE tool showing an example output report based on the gap analysis options."><div class="figcaption">Exhibit 29 is a screenshot from the ICILS IDE tool showing an example
+<img src="images/chapter7/image28.png" style="width:5.51042in;height:4.1875in" alt="Exhibit 29 is a screenshot from the ICILS IDE tool showing an example output report based on the gap analysis options." />
+<div class="figcaption">Exhibit 29 is a screenshot from the ICILS IDE tool showing an example
 output report based on the gap analysis
 options.</div>
 </div>
@@ -1006,10 +991,8 @@ will select the difference measure Between Groups, or, if you have
 selected percentiles as one of your statistics, you may choose Between
 Percentiles.</p>
 </div>
-<div id="h.-regression-analysis-2" class="section level3" number="7.4.8">
-<h3>
-<span class="header-section-number">7.4.8</span> 4.H. Regression Analysis<a class="anchor" aria-label="anchor" href="#h.-regression-analysis-2"><i class="fas fa-link"></i></a>
-</h3>
+<div id="h.-regression-analysis-1" class="section level3" number="6.4.8">
+<h3><span class="header-section-number">6.4.8</span> 4.H. Regression Analysis</h3>
 <p>Regression analysis is included in the IDE to test for the relationship
 between one or more independent variables with a dependent variable,
 with the independent variables controlling for each other. The type of
@@ -1021,7 +1004,8 @@ menu. Then click on the <strong>Regression Analysis</strong> link, which is to t
 right of the <strong>Gap Analysis</strong> link (see exhibit 30).</p>
 <p>Exhibit 30. Regression analysis link selection</p>
 <div class="float">
-<img src="images/chapter7/image29.png" style="width:6.5in;height:2.12569in" alt="Exhibit 30 is a screenshot from the ICILS IDE tool showing how to select the regression analysis function in the Build Reports tab."><div class="figcaption">Exhibit 30 is a screenshot from the ICILS IDE tool showing how to
+<img src="images/chapter7/image29.png" style="width:6.5in;height:2.12569in" alt="Exhibit 30 is a screenshot from the ICILS IDE tool showing how to select the regression analysis function in the Build Reports tab." />
+<div class="figcaption">Exhibit 30 is a screenshot from the ICILS IDE tool showing how to
 select the regression analysis function in the Build Reports
 tab.</div>
 </div>
@@ -1050,7 +1034,8 @@ screen to run the regression analysis.</p></li>
 </ol>
 <p>Exhibit 31: Regression analysis options</p>
 <div class="float">
-<img src="images/chapter7/image30.png" style="width:6.22916in;height:3.27083in" alt="Exhibit 31 is a screenshot from the ICILS IDE tool showing the options for the regression analysis output."><div class="figcaption">Exhibit 31 is a screenshot from the ICILS IDE tool showing the options
+<img src="images/chapter7/image30.png" style="width:6.22916in;height:3.27083in" alt="Exhibit 31 is a screenshot from the ICILS IDE tool showing the options for the regression analysis output." />
+<div class="figcaption">Exhibit 31 is a screenshot from the ICILS IDE tool showing the options
 for the regression analysis
 output.</div>
 </div>
@@ -1068,7 +1053,8 @@ both/only parent(s) born abroad” dummy variable (1 if yes, 0 if no). The
 reference group is excluded from the regression analysis.</p>
 <p>Exhibit 32. Regression analysis output</p>
 <div class="float">
-<img src="images/chapter7/image31.png" style="width:6.5in;height:3.35139in" alt="Exhibit 32 is a screenshot from the ICILS IDE tool showing an example of the regression analysis output."><div class="figcaption">Exhibit 32 is a screenshot from the ICILS IDE tool showing an example
+<img src="images/chapter7/image31.png" style="width:6.5in;height:3.35139in" alt="Exhibit 32 is a screenshot from the ICILS IDE tool showing an example of the regression analysis output." />
+<div class="figcaption">Exhibit 32 is a screenshot from the ICILS IDE tool showing an example
 of the regression analysis output.</div>
 </div>
 <p>Using the output from the regression analysis, you can compare the
@@ -1089,10 +1075,8 @@ Significance column in the output, you will see three possible signs:
 significant positive difference, and (3) x signifies the difference is
 not statistically significant.</p>
 </div>
-<div id="i.-export-reports-3" class="section level3" number="7.4.9">
-<h3>
-<span class="header-section-number">7.4.9</span> 4.I. Export Reports<a class="anchor" aria-label="anchor" href="#i.-export-reports-3"><i class="fas fa-link"></i></a>
-</h3>
+<div id="i.-export-reports-2" class="section level3" number="6.4.9">
+<h3><span class="header-section-number">6.4.9</span> 4.I. Export Reports</h3>
 <p>Click on the <strong>Export Reports</strong> button/arrow located on the right side
 of the <strong>Build Reports</strong> screen to save or print your tables, charts,
 and significance tests. The report names that appear in the <strong>Export
@@ -1109,7 +1093,8 @@ your ability to export, so please wait for the software errors to
 resolve.</p>
 <p>Exhibit 33. Export report options</p>
 <div class="float">
-<img src="images/chapter7/image32.png" style="width:3.34783in;height:3.46087in" alt="Exhibit 33 is a screenshot from the ICILS IDE tool showing the export options, including HTML, Excel, Word, and PDF."><div class="figcaption">Exhibit 33 is a screenshot from the ICILS IDE tool showing the export
+<img src="images/chapter7/image32.png" style="width:3.34783in;height:3.46087in" alt="Exhibit 33 is a screenshot from the ICILS IDE tool showing the export options, including HTML, Excel, Word, and PDF." />
+<div class="figcaption">Exhibit 33 is a screenshot from the ICILS IDE tool showing the export
 options, including HTML, Excel, Word, and
 PDF.</div>
 </div>
@@ -1117,68 +1102,27 @@ PDF.</div>
 </div>
 </div>
 </div>
-  <div class="chapter-nav">
-<div class="prev"><a href="taliswalkthrough.html"><span class="header-section-number">6</span> TALIS IDE Walkthrough</a></div>
-<div class="next"><a href="definitions.html"><span class="header-section-number">8</span> IDE definitions by study</a></div>
-</div></main><div class="col-md-3 col-lg-2 d-none d-md-block sidebar sidebar-chapter">
-    <nav id="toc" data-toggle="toc" aria-label="On this page"><h2>On this page</h2>
-      <ul class="nav navbar-nav">
-<li><a class="nav-link" href="#icilswalkthrough"><span class="header-section-number">7</span> ICILS IDE Walkthrough</a></li>
-<li>
-<a class="nav-link" href="#select-criteria-4"><span class="header-section-number">7.1</span> 1. Select Criteria</a><ul class="nav navbar-nav">
-<li><a class="nav-link" href="#a.-overview-16"><span class="header-section-number">7.1.1</span> 1.A. Overview</a></li>
-<li><a class="nav-link" href="#b.-choose-display"><span class="header-section-number">7.1.2</span> 1.B. Choose Display</a></li>
-<li><a class="nav-link" href="#c.-choose-year-1"><span class="header-section-number">7.1.3</span> 1.C. Choose Year</a></li>
-<li><a class="nav-link" href="#d.-choose-measure-1"><span class="header-section-number">7.1.4</span> 1.D. Choose Measure</a></li>
-<li><a class="nav-link" href="#e.-choose-jurisdiction-1"><span class="header-section-number">7.1.5</span> 1.E. Choose Jurisdiction</a></li>
-</ul>
-</li>
-<li>
-<a class="nav-link" href="#select-variables-4"><span class="header-section-number">7.2</span> 2. Select Variables</a><ul class="nav navbar-nav">
-<li><a class="nav-link" href="#a.-overview-17"><span class="header-section-number">7.2.1</span> 2.A. Overview</a></li>
-<li><a class="nav-link" href="#b.-search-using-category-and-sub-category-lists-2"><span class="header-section-number">7.2.2</span> 2.B. Search Using Category and Sub Category Lists</a></li>
-<li><a class="nav-link" href="#c.-search-function-3"><span class="header-section-number">7.2.3</span> 2.C. Search Function</a></li>
-</ul>
-</li>
-<li>
-<a class="nav-link" href="#edit-reports-4"><span class="header-section-number">7.3</span> 3. Edit Reports</a><ul class="nav navbar-nav">
-<li><a class="nav-link" href="#a.-overview-18"><span class="header-section-number">7.3.1</span> 3.A. Overview</a></li>
-<li><a class="nav-link" href="#b.-preview-report-4"><span class="header-section-number">7.3.2</span> 3.B. Preview Report</a></li>
-<li><a class="nav-link" href="#c.-edit-report-4"><span class="header-section-number">7.3.3</span> 3.C. Edit Report</a></li>
-<li><a class="nav-link" href="#d.-create-new-variables-4"><span class="header-section-number">7.3.4</span> 3.D. Create New Variables</a></li>
-<li><a class="nav-link" href="#e.-create-new-report-4"><span class="header-section-number">7.3.5</span> 3.E. Create New Report</a></li>
-<li><a class="nav-link" href="#f.-format-options-4"><span class="header-section-number">7.3.6</span> 3.F. Format Options</a></li>
-<li><a class="nav-link" href="#g.-statistics-options-4"><span class="header-section-number">7.3.7</span> 3.G. Statistics Options</a></li>
-<li><a class="nav-link" href="#h.-select-reports-to-build-4"><span class="header-section-number">7.3.8</span> 3.H. Select Reports to Build</a></li>
-</ul>
-</li>
-<li>
-<a class="nav-link" href="#build-reports-4"><span class="header-section-number">7.4</span> 4. Build Reports</a><ul class="nav navbar-nav">
-<li><a class="nav-link" href="#a.-overview-19"><span class="header-section-number">7.4.1</span> 4.A. Overview</a></li>
-<li><a class="nav-link" href="#b.-view-reports-as-data-tables-4"><span class="header-section-number">7.4.2</span> 4.B. View Reports as Data Tables</a></li>
-<li><a class="nav-link" href="#c.-charts-4"><span class="header-section-number">7.4.3</span> 4.C. Charts</a></li>
-<li><a class="nav-link" href="#d.-create-charts-3"><span class="header-section-number">7.4.4</span> 4.D. Create Charts</a></li>
-<li><a class="nav-link" href="#e.-create-charts-chart-options-2"><span class="header-section-number">7.4.5</span> 4.E. Create Charts – Chart Options</a></li>
-<li><a class="nav-link" href="#f.-significance-tests-3"><span class="header-section-number">7.4.6</span> 4.F. Significance Tests</a></li>
-<li><a class="nav-link" href="#g.-gap-analysis-2"><span class="header-section-number">7.4.7</span> 4.G. Gap Analysis</a></li>
-<li><a class="nav-link" href="#h.-regression-analysis-2"><span class="header-section-number">7.4.8</span> 4.H. Regression Analysis</a></li>
-<li><a class="nav-link" href="#i.-export-reports-3"><span class="header-section-number">7.4.9</span> 4.I. Export Reports</a></li>
-</ul>
-</li>
-</ul>
+  </main>
+
+  <div class="col-md-3 col-lg-2 d-none d-md-block sidebar sidebar-chapter">
+    <nav id="toc" data-toggle="toc" aria-label="On this page">
+      <h2>On this page</h2>
+      <div id="book-on-this-page"></div>
 
       <div class="book-extra">
         <ul class="list-unstyled">
-          
+          <li><a id="book-source" href="#">View source <i class="fab fa-github"></i></a></li>
+          <li><a id="book-edit" href="#">Edit this page <i class="fab fa-github"></i></a></li>
         </ul>
-</div>
+      </div>
     </nav>
-</div>
+  </div>
 
 </div>
 </div> <!-- .container -->
 
-<footer class="bg-primary text-light mt-5"><div class="container"><div class="row">
+<footer class="bg-primary text-light mt-5">
+  <div class="container"><div class="row">
 
   <div class="col-12 col-md-9 mt-3">
     <p>The <strong>International Data Explorer Help Guide</strong> was written by NCES IDE Team. <br>
@@ -1187,7 +1131,7 @@ PDF.</div>
   
   <div class="col-12 col-md-3 mt-3">
     <img class="float-right" src="ide-icon.png" alt="IDE Icon" style="height:45px">
-</div>
+  </div>
 
   <!-- 
   <div class="col-12 col-md-6 mt-3">
@@ -1196,7 +1140,11 @@ PDF.</div>
   -->
 
 </div></div>
-</footer><!-- dynamically load mathjax for compatibility with self-contained --><script>
+</footer>
+
+
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
   (function () {
     var script = document.createElement("script");
     script.type = "text/javascript";
@@ -1208,7 +1156,8 @@ PDF.</div>
     script.src = src;
     document.getElementsByTagName("head")[0].appendChild(script);
   })();
-</script><script type="text/x-mathjax-config">const popovers = document.querySelectorAll('a.footnote-ref[data-toggle="popover"]');
+</script>
+<script type="text/x-mathjax-config">const popovers = document.querySelectorAll('a.footnote-ref[data-toggle="popover"]');
 for (let popover of popovers) {
   const div = document.createElement('div');
   div.setAttribute('style', 'position: absolute; top: 0, left:0; width:0, height:0, overflow: hidden; visibility: hidden;');
@@ -1226,4 +1175,5 @@ for (let popover of popovers) {
 }
 </script>
 </body>
+
 </html>
