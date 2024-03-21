@@ -43,7 +43,6 @@ The IDE performs best under the following requirements.
 -	Screen resolution should be 1024 x 768 pixels or higher.
 -	Browsers: Google Chrome, Apple Safari, Internet Explorer (IE) version 10 or higher, FireFox 3.0 or higher.
 -	Enable JavaScript and pop-ups in your browser.
--	The TIMSS IDE requires Flash version 9.0.115 or higher (download Adobe Flash Player at http://get.adobe.com/flashplayer/).
 -	Exports of files to Microsoft Office can be opened with Office 2003 or later.
 -	Exports of files to PDF can be read with Adobe Acrobat Reader.
 -	Screen reader software should be JAWS 8.0 or higher.
