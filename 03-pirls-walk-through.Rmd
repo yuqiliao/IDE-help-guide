@@ -2,14 +2,8 @@
 
 There are four general steps for exploring each IDE page (see exhibit 3-1). Each step is described in more detail in the following sub-sections. 
 
-<<<<<<< Updated upstream
-Exhibit 3. What you will see in the IDE environment and what each step entails
-![](images/chapter3/four-steps.png){width="6.236430446194226in"
-height="5.361384514435696in"}
-=======
 Exhibit 3-1. What you will see in the IDE environment and what each step entails
 ![Exhibit 3-1 is a screenshot from the PIRLS IDE toolshowing what each step in the IDE environment entails.](images/chapter3/four-steps.png){width="100%" style="display: block; margin: 0 auto"}
->>>>>>> Stashed changes
 
 
 ## 1. Select Criteria
