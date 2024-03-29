@@ -1,9 +1,9 @@
 # TALIS IDE Walkthrough {#taliswalkthrough}
 
-There are four general steps for exploring each IDE page (see exhibit 3). Each step is described in more detail in the following sub-sections. 
+There are four general steps for exploring each IDE page (see exhibit 6-1). Each step is described in more detail in the following sub-sections. 
 
-Exhibit 3. What you will see in the IDE environment and what each step entails
-![](images/chapter6/four-steps.png){width="100%" style="display: block; margin: 0 auto"}
+Exhibit 6-1. What you will see in the IDE environment and what each step entails
+![Exhibit 6-1 is a screenshot from the TALIS IDE tool showing what each step in the IDE environment entails.](images/chapter6/four-steps.png){width="100%" style="display: block; margin: 0 auto"}
 
 
 ## 1. Select Criteria
@@ -11,7 +11,7 @@ Exhibit 3. What you will see in the IDE environment and what each step entails
 ### 1.A. Overview 
 
 Your data query in the TALIS IDE begins on the **Select Criteria**
-screen (see exhibit 2).
+screen (see exhibit 6-2).
 
 Select a **Subject** and **Education level** from the drop-down menus.
 Once the screen resets, you can choose one or more **Year**,
@@ -23,9 +23,9 @@ and begin again.
 Click on a blue sideways-facing arrow (►) to open up a category, and
 click on a blue downward-facing arrow (▼) to close a category.
 
-Exhibit 2. Selecting criteria
+Exhibit 6-2. Selecting criteria
 
-![](images/chapter6/image2.png){width="6.5in" height="5.277777777777778in"}
+![Exhibit 6-2 is a screenshot from the TALIS IDE tool showing the Select Criteria tab.](images/chapter6/image2.png){width="6.5in" height="5.277777777777778in"}
 
 ### 1.B. Choose a Subject
 
@@ -87,7 +87,7 @@ follows:
 
 1.  To open or close jurisdictions, click on the arrow. Jurisdictions in
     the group are open and can be selected when the blue arrow points
-    down (see exhibit 3).  
+    down (see exhibit 6-3).  
 
 2.  Click the checkboxes next to the specific jurisdictions that you are
     interested in, or uncheck those jurisdictions that you wish to
@@ -101,13 +101,13 @@ follows:
     group's arrow points to the right. Be advised that closing the group
     will not deselect your choices.
 
-Exhibit 3. Choosing jurisdictions
+Exhibit 6-3. Choosing jurisdictions
 
-![](images/chapter6/image2.png){width="6.5in" height="5.277777777777778in"}
+![Exhibit 6-3 is a screenshot from the TALIS IDE tool showing jurisdictions available in the Select Criteria tab.](images/chapter6/image2.png){width="6.5in" height="5.277777777777778in"}
 
 To continue in the IDE, click the **Select Variables** button at the
 bottom right of the page or the tab at the top of the page to go to the
-next screen (see exhibit 3).
+next screen (see exhibit 6-3).
 
 ## 2. Select Variables
 
@@ -119,12 +119,12 @@ criteria at step 1, **Select Criteria**.
 To continue your data query and edit a report, *you must choose at least
 one variable on this screen.* You can browse for variables using the
 **Category** or **Sub-category lists** or by using the **Search**
-function (see exhibit 4). You can return to this screen to change
+function (see exhibit 6-4). You can return to this screen to change
 variable selections at any time by clicking **Select Variables**.
 
-**Exhibit 4. Select variables overview**
+**Exhibit 6-4. Select variables overview**
 
-![](images/chapter6/image3.png){width="6.5in" height="4.478472222222222in"}
+![Exhibit 6-4 is a screenshot from the TALIS IDE tool showing an overview of the Select Variables tab.](images/chapter6/image3.png){width="6.5in" height="4.478472222222222in"}
 
 ### 2.B. Select Variables using Category and Sub Category Lists
 
@@ -144,13 +144,13 @@ criteria, return to step 1 by clicking on **Select Criteria**.
 To browse for variables and get details about them:
 
 1.  Click the blue arrows to open and close Category and Sub Category
-    lists of variables (see exhibit 5).
+    lists of variables (see exhibit 6-5).
 
 2.  Click **details** or **hide details** to show or hide the full title
     of a given variable, the TALIS IDE identification name (e.g.,
     SC10012), and the values (i.e., variable labels). Note that some
     variables have similar short titles, but comparing details will show
-    you how they differ. See the example in exhibit 5, which shows
+    you how they differ. See the example in exhibit 6-5, which shows
     **School location** and **School location (2013)**. The differences
     between these two variables are further described in the details.
 
@@ -170,9 +170,9 @@ To browse for variables and get details about them:
     **Section 2.C. Select Variables using the Search Function** on the
     next page for more details about this function.
 
-Exhibit 5. Select variables using category and sub category lists
+Exhibit 6-5. Select variables using category and sub category lists
 
-![](images/chapter6/image4.png){width="6.5in" height="4.686111111111111in"}
+![Exhibit 6-5 is a screenshot from the TALIS IDE tool showing how to select a variable from the categories and sub categories listed in the Select Variables tab.](images/chapter6/image4.png){width="6.5in" height="4.686111111111111in"}
 
 ### 2.C. Select Variables using the Search Function
 
@@ -181,16 +181,16 @@ on the **Select Variables** screen.  
 
 Type a term in the **Search** box and click **Go** (or hit "Enter" on
 your keyboard) to find variables by keywords in the variable title
-and/or details for the variable (see exhibit 6). The search function
+and/or details for the variable (see exhibit 6-6). The search function
 operates on whole words or on an exact phrase (if it is contained in
 quotes). To search for less than a whole word or exact phrase, include
 an asterisk (\*) after the search term. If you use multiple keywords,
 "and" is assumed. You can narrow your search by using "or," "not," or
 "and not."
 
-Exhibit 6. Select variables using the search function
+Exhibit 6-6. Select variables using the search function
 
-![](images/chapter6/image5.png){width="6.5in" height="3.0861111111111112in"}
+![Exhibit 6-6 is a screenshot from the TALIS IDE tool showing how to select a variable using the search function.](images/chapter6/image5.png){width="6.5in" height="3.0861111111111112in"}
 
 When you have selected the independent variable(s) you want to include,
 continue by clicking the **Edit Reports** button at the bottom of the
@@ -230,18 +230,18 @@ At this step, you can
 Using your chosen criteria, the TALIS IDE will return a separate data
 report for each variable you have chosen. If you have selected two or
 three independent variables (not counting **All Cases**), you will also
-see a **cross-tabulated report** for these variables (see exhibit 7). If
+see a **cross-tabulated report** for these variables (see exhibit 6-7). If
 you have chosen four or more variables, you will get data reports for
 each variable, but a cross-tabulation report will not be produced. If
 you have selected more than one **Measure** (e.g., a continuous variable
 from step 1, **Select Criteria**), a separate set of data reports will
 be generated for each **Measure**.
 
-**Exhibit 7. Edit reports overview**
-![](images/chapter6/image6.png){width="6.66382217847769in"
+**Exhibit 6-7. Edit reports overview**
+![Exhibit 6-7 is a screenshot from the TALIS IDE tool showing an overview of the Edit Reports tab.](images/chapter6/image6.png){width="6.66382217847769in"
 height="3.275667104111986in"}
 
-The **Edit Reports** step (see exhibit 7) shows detailed information on
+The **Edit Reports** step (see exhibit 6-7) shows detailed information on
 the layout of your reports.
 
 -   The **Report** column indicates the report, or cross-tabulation
@@ -269,24 +269,24 @@ the layout of your reports.
 
 ### 3.B. Preview Report
 
-Select **Preview,** in the **Action** column (see exhibit 7), to see how
+Select **Preview,** in the **Action** column (see exhibit 6-7), to see how
 your report will be laid out. The preview will not provide actual data,
 but will show how the data will be arranged in rows and columns (see
-exhibit 8). You can select **Preview** at any time to see how the
+exhibit 6-8). You can select **Preview** at any time to see how the
 changes you made during step 3, **Edit Reports,** will affect the
 report's final layout.
 
-Exhibit 8. Using preview report
+Exhibit 6-8. Using preview report
 
-![](images/chapter6/image7.png){width="5.250795056867892in"
+![Exhibit 6-8 is a screenshot from the TALIS IDE tool showing an example of the preview function that is available in the Edit Reports tab.](images/chapter6/image7.png){width="5.250795056867892in"
 height="3.915094050743657in"}
 
 ### 3.C. Edit Report
 
 To edit a report, select the **Edit** command in the **Action** column,
-next to the report number (see exhibit 7). (Another way to edit a report
+next to the report number (see exhibit 6-7). (Another way to edit a report
 is to select the **Edit** tab when you are previewing a report.) The
-following can be done using the **Edit** command (see exhibit 9):
+following can be done using the **Edit** command (see exhibit 6-9):
 
 1.  Name your report. You have the option of giving each report a
     distinctive name, up to a limit of 50 characters, using only
@@ -313,7 +313,7 @@ following can be done using the **Edit** command (see exhibit 9):
     the arrangements will not be permissible, but a pop-up alert will
     explain this.
 
-Exhibit 9. Editing reports ![](images/chapter6/image8.png){width="6.5in"
+Exhibit 6-9. Editing reports ![Exhibit 6-9 is a screenshot from the TALIS IDE tool showing an example of the editing report function that is available in the Edit Reports tab.](images/chapter6/image8.png){width="6.5in"
 height="4.840277777777778in"}
 
 To save changes, make sure to select **Done** in the upper-right portion
@@ -322,12 +322,12 @@ of the screen before closing the **Edit Report** window.
 ### 3.D. Create New Variables
 
 To create a new variable, select **Edit,** in the **Action** column, and
-select **Create new...** under **Variable** (see exhibit 9). The new
+select **Create new...** under **Variable** (see exhibit 6-9). The new
 variable is created by combining values for an existing variable. The
 steps are as follows:
 
 1.  Select the variable for which you wish to combine values (see
-    exhibit 10).
+    exhibit 6-10).
 
 2.  Select the values you want to combine by checking the boxes to the
     left of the value.
@@ -340,13 +340,13 @@ steps are as follows:
 
 The new variable will appear in the **Variable** list in the **Edit
 Report** window or **Create New Report** window, designated as
-"collapsed" (see exhibit 11). Check the box next to the new variable to
+"collapsed" (see exhibit 6-11). Check the box next to the new variable to
 view it in the report. You can click **Preview** to see how the table
 will be laid out before retrieving data.
 
-Exhibit 10. Creating new variables
+Exhibit 6-10. Creating new variables
 
-![](images/chapter6/image9.png){width="3.437369860017498in"
+![Exhibit 6-10 is a screenshot from the TALIS IDE tool showing an example of the creating new variable function that is available in the Edit Reports tab.](images/chapter6/image9.png){width="3.437369860017498in"
 height="3.4681299212598424in"}
 
 A new variable that you create is applicable *only* to a specific
@@ -371,32 +371,32 @@ If you selected two or three variables from which to create new
 variables, you can repeat the process for each of them. Using the
 **Create New Report** or **Edit Report** function, these collapsed
 variables will be listed and available for cross-tabulation (see exhibit
-11). If you have chosen four or more variables (not counting **All
+6-11). If you have chosen four or more variables (not counting **All
 Cases**), you won't get the cross-tabulation. You can click **Preview**
 to see how the table will be laid out before retrieving data.
 
-Exhibit 11. Edit reports with collapsed variables
+Exhibit 6-11. Edit reports with collapsed variables
 
-![](images/chapter6/image10.png){width="6.5in" height="4.81875in"}
+![Exhibit 6-11 is a screenshot from the TALIS IDE tool showing an example of the editing report with collapsed variables function that is available in the Edit Reports tab.](images/chapter6/image10.png){width="6.5in" height="4.81875in"}
 
 ### 3.E. Create New Report
 
 From the main **Edit Reports** screen, clicking on **Create New Report**
-(see exhibit 12a) brings up the same options as **Edit Report**, but
+(see exhibit 6-12a) brings up the same options as **Edit Report**, but
 with no checkboxes marked and without any new variables you may have
 created. Thus, **Create New Report** provides a clean slate for your
 selections from the first two steps, **Select Criteria** and **Select
-Variables** (see exhibit 12b). Each new report you create will appear at
+Variables** (see exhibit 6-12b). Each new report you create will appear at
 the end of the list of reports. If you do not give the report a specific
 name, it will be called "New Report."
 
-**Exhibit 12a. Creating new reports**
+**Exhibit 6-12a. Creating new reports**
 
-![](images/chapter6/image11.png){width="6.5in" height="3.2365562117235345in"}
+![Exhibit 6-12a is a screenshot from the TALIS IDE tool showing an example of the creating new report function that is available in the Edit Reports tab.](images/chapter6/image11.png){width="6.5in" height="3.2365562117235345in"}
 
-**Exhibit 12b. Creating new reports**
+**Exhibit 6-12b. Creating new reports**
 
-![](images/chapter6/image12.png){width="6.0188681102362205in"
+![Exhibit 6-12b is a screenshot from the TALIS IDE tool showing an example of the creating new report function that is available in the Edit Reports tab.](images/chapter6/image12.png){width="6.0188681102362205in"
 height="4.474925634295713in"}
 
 ### 3.F. Format Options 
@@ -404,7 +404,7 @@ height="4.474925634295713in"}
 From the main **Edit Reports** screen, clicking on **Format Options**
 will allow you to make formatting changes applicable to all the reports
 listed. The following formatting options are available using this
-function (see exhibit 13):
+function (see exhibit 6-13):
 
 1.  **Variable Labels (Long)** displays a more detailed description of
     the variables selected in a query than the default short label. For
@@ -440,11 +440,11 @@ function (see exhibit 13):
     default, standard errors are shown inside parentheses, but you have
     the option of choosing to show them without parentheses*.* You can
     preview the effects of your selection in the **Sample Display** area
-    (see the blue-shaded box at the bottom of exhibit 13 below).
+    (see the blue-shaded box at the bottom of exhibit 6-13 below).
 
-Exhibit 13. Format options
+Exhibit 6-13. Format options
 
-![](images/chapter6/image13.png){width="3.8963768591426073in"
+![Exhibit 6-13 is a screenshot from the TALIS IDE tool showing an example of the format options available in the Edit Reports tab.](images/chapter6/image13.png){width="3.8963768591426073in"
 height="5.854983595800525in"}
 
 Be advised that the choices you make in the **Format Options** window
@@ -463,7 +463,7 @@ selections you make are applicable to all the reports listed, although
 you can also change the statistics for an individual report when you
 edit it. (For further information, see **Section 3.C. Edit Report**.)
 
-The following statistics options are available (see exhibit 14):
+The following statistics options are available (see exhibit 6-14):
 
 1.  **Averages.** For the TALIS assessment, teacher and principal
     averages for continuous variables are in the same units as the
@@ -506,9 +506,9 @@ half scored above it)
     > square root of the variance. **\
     > **
 
-Exhibit 14. Statistics options
+Exhibit 6-14. Statistics options
 
-![](images/chapter6/image14.png){width="3.5107458442694663in"
+![Exhibit 6-14 is a screenshot from the TALIS IDE tool showing an example of the statistics options available in the Edit Reports tab.](images/chapter6/image14.png){width="3.5107458442694663in"
 height="4.5188681102362205in"}
 
 As previously noted, the selections you make in **Statistics Options**
@@ -548,12 +548,12 @@ default, all reports are checked. To uncheck one or more reports, you
 can either uncheck the reports individually or click on the **All** box.
 (Doing the latter will uncheck all of the reports and allow you to check
 only those for which you wish to retrieve data.) In the example that
-follows (see exhibit 15), all reports are checked, and their data will
+follows (see exhibit 6-15), all reports are checked, and their data will
 be retrieved.
 
-Exhibit 15. Selecting reports to build
+Exhibit 6-15. Selecting reports to build
 
-![](images/chapter6/image11.png){width="6.5in" height="3.236111111111111in"}
+![Exhibit 6-15 is a screenshot from the TALIS IDE tool showing how to select reports to build in the Edit Reports tab.](images/chapter6/image11.png){width="6.5in" height="3.236111111111111in"}
 
 1.  **Delete** is used in the **Action** column if you wish to delete a
     > report from the list of reports.
@@ -574,7 +574,7 @@ to the next screen.
 After step 1, **Select Criteria**, you may also go on to step 2,
 **Select Variables** and step 3, **Edit Reports** where you can select
 additional variables and edit reports, before moving on to step 4,
-**Build Reports**. In the **Build Reports** tab (see exhibit 16), you
+**Build Reports**. In the **Build Reports** tab (see exhibit 6-16), you
 can do the following:
 
 -   Generate a data table for each report selected in step 3, **Edit
@@ -593,44 +593,44 @@ can do the following:
 -   Select the **Significance Test** tab to run a significance test on
     your results, customize it, and export it.
 
-Exhibit 16. Build Reports overview
+Exhibit 6-16. Build Reports overview
 
-![](images/chapter6/image15.png){width="6.5in" height="3.1555555555555554in"}
+![Exhibit 6-16 is a screenshot from the TALIS IDE tool showing an overview of the Build Reports tab featuring the Select Report, Export Reports, Chart, and Significance Test options.](images/chapter6/image15.png){width="6.5in" height="3.1555555555555554in"}
 
 ### 4.B. View Reports as Data Tables
 
 Once you click on **Build Reports,** the reports will be generated
 (evidenced by the "Progress" percentage bar) and then appear on your
-screen as they complete (see exhibit 17). Some reports will take longer
+screen as they complete (see exhibit 6-17). Some reports will take longer
 than others to process, so please do not hit the "Back" button on your
 browser during this stage. To select a different report to view, go to
-the **Select Report** drop-down menu (see 4.B. in exhibit 16) and choose
+the **Select Report** drop-down menu (see 4.B. in exhibit 6-16) and choose
 the report of interest. To change the formatting or statistics options
 of a table or to generate a report not included in your selection,
 return to step 3, **Edit Reports**.
 
-Exhibit 17. Processing data
+Exhibit 6-17. Processing data
 
-![](images/chapter6/image16.png){width="6.5in" height="3.4375in"}
+![Exhibit 6-17 is a screenshot from the TALIS IDE tool showing an overview of the building reports page while data is processing.](images/chapter6/image16.png){width="6.5in" height="3.4375in"}
 
 ### 4.C. Charts
 
 To create a chart, go to **Select Report** on the **Build Reports**
 screen to choose the report of interest from the drop-down menu, and
-then click the **Chart** link (see exhibit 18).
+then click the **Chart** link (see exhibit 6-18).
 
 You will be able to create many types of charts and customize them.
 **Section 4.E. Create Charts -- Chart Options** provides a summary of
 the available features and how they can be customized.
 
-Exhibit 18. Viewing reports as
-charts![](images/chapter6/image15.png){width="6.5in"
+Exhibit 6-18. Viewing reports as
+charts![Exhibit 6-18 is a screenshot from the TALIS IDE tool showing how to select the chart creating function in the Build Reports tab.](images/chapter6/image15.png){width="6.5in"
 height="3.1555555555555554in"}
 
 ### 4.D. Create Charts 
 
 When you click **Chart,** you will first make selections pertaining to
-**Jurisdiction, Year/Study,** and **Statistic** (see exhibit 19). All
+**Jurisdiction, Year/Study,** and **Statistic** (see exhibit 6-19). All
 **Jurisdictions** and **Studies** are selected by default, while you can
 only choose one **Statistic**. You may uncheck any of the criteria that
 you do not wish to chart, as long as you have selected one in each
@@ -645,9 +645,9 @@ reporting data with only percentiles selected as the statistics option.
 Once you are finished with the Data Options, click the **Create**
 **Chart** button in the lower-right corner of the screen.
 
-Exhibit 19. Data options for charts
+Exhibit 6-19. Data options for charts
 
-![](images/chapter6/image17.png){width="6.185491032370954in"
+![Exhibit 6-19 is a screenshot from the TALIS IDE tool showing the data options available in the chart creating function in the Build Reports tab.](images/chapter6/image17.png){width="6.185491032370954in"
 height="8.05303258967629in"}
 
 ### 4.E. Create Charts -- Chart Options
@@ -656,29 +656,29 @@ Next, you can make selections regarding the chart options located below
 on the same page.
 
 1.  Select **Bar Chart**, **Column Chart**, **Line Chart,** or
-    > **Percentage Chart** (see 1 in exhibit 20). If the Percentiles
+    > **Percentage Chart** (see 1 in exhibit 6-20). If the Percentiles
     > Statistic is selected, you can also select from a **Percentile
     > Chart** option.
 
 2.  After selecting a chart type, change any data dimensions from the
     > drop-down menus for **Bar**, **Column**, or **Line Values** and
-    > **Values Grouped by** (see 2 in exhibit 20). Any new variables
+    > **Values Grouped by** (see 2 in exhibit 6-20). Any new variables
     > that you created at step 3, **Edit Reports**, will be available
     > for selection, but only if you selected the variables (by clicking
     > the checkbox next to them) and pressed **Done** after you edited
     > the report.
 
 3.  Create your chart by clicking the **Create Chart** button in the
-    > lower-right corner (see 3 in exhibit 20). **\
+    > lower-right corner (see 3 in exhibit 6-20). **\
     > **
 
-**Exhibit 20. Chart options**
+**Exhibit 6-20. Chart options**
 
-![](images/chapter6/image17.png){width="6.185491032370954in"
+![Exhibit 6-20 is a screenshot from the TALIS IDE tool showing the chart options available in the chart creating function in the Build Reports tab.](images/chapter6/image17.png){width="6.185491032370954in"
 height="8.05303258967629in"}
 
-While previewing your chart, you can do the following (see exhibit 21 as
-an example of a **Percentile Chart** and exhibit 22 as an example of a
+While previewing your chart, you can do the following (see exhibit 6-21 as
+an example of a **Percentile Chart** and exhibit 6-22 as an example of a
 **Bar Chart**):
 
 1.  Use the drop-down menus to change the jurisdiction and other
@@ -687,13 +687,10 @@ an example of a **Percentile Chart** and exhibit 22 as an example of a
 2.  Place your cursor over the bars of the chart to see the data points
     and value label(s).
 
-Exhibit 21. Percentile chart ![Graphical user interface, text,
-application Description automatically
-generated](images/chapter6/image18.png){width="6.5in"
+Exhibit 6-21. Percentile chart ![Exhibit 6-21 is a screenshot from the TALIS IDE tool showing a preview of a percentile chart in the chart creating function in the Build Reports tab.](images/chapter6/image18.png){width="6.5in"
 height="4.9534722222222225in"}
 
-Exhibit 22. Bar chart![A picture containing chart Description
-automatically generated](images/chapter6/image19.png){width="6.5in"
+Exhibit 6-22. Bar chart![Exhibit 6-22 is a screenshot from the TALIS IDE tool showing a preview of a bar chart in the chart creating function in the Build Reports tab.](images/chapter6/image19.png){width="6.5in"
 height="5.442361111111111in"}
 
 You can choose **"Back to Chart Options"** (located in the upper-left
@@ -726,22 +723,22 @@ only to the statistical nature of the difference and whether that
 difference likely reflects a true difference in the population.
 
 With your report of interest selected, click the **Significance Test**
-link, which is located to the right of the **Chart** link (see exhibits
-16). You first need to decide which variable you want to test and the
+link, which is located to the right of the **Chart** link (see exhibit
+6-16). You first need to decide which variable you want to test and the
 criterion by which you want to test it (i.e., between jurisdictions,
 within variables, or across years). You will compare or "look across"
 the variable's range of values, so it must have more than one value. You
 can look across jurisdictions for a variable (that is, compare between
 two or more jurisdictions) or you can look across the values within a
 variable for a single jurisdiction. For example, with the variables
-shown in exhibit 23, you could choose to compare percentages of female
+shown in exhibit 6-23, you could choose to compare percentages of female
 teachers between countries and subnational education systems, or you
 could choose to compare percentages of female teachers and male
 teachers. Once the primary criterion is chosen, all other criteria must
 be restricted to a single value.
 
 The general steps for running significance tests are as follows (see
-exhibit 23):
+exhibit 6-23):
 
 1.  In the **Significance Test** window, select either **Between
     Jurisdictions**, **Within Variables**, or **Across Years**. Then,
@@ -777,9 +774,9 @@ exhibit 23):
 7.  Click the **Done** button in the upper- or lower-right corner of the
     screen to run the significance tests.
 
-Exhibit 23. Significance test options
+Exhibit 6-23. Significance test options
 
-![](images/chapter6/image20.png){width="6.302084426946632in"
+![Exhibit 6-23 is a screenshot from the TALIS IDE tool showing the significance test options available in the Build Reports tab.](images/chapter6/image20.png){width="6.302084426946632in"
 height="4.8942136920384955in"}
 
 When the table option is selected, you will get a significance test
@@ -787,18 +784,18 @@ matrix in which you will see the differences and *p* values. Using the
 symbols shown in the legend of the matrix, an indication is also
 provided of whether one estimate is significantly lower or higher than
 another estimate or whether there is no significant difference (see
-exhibit 24). Most comparisons are independent with an alpha level of
+exhibit 6-24). Most comparisons are independent with an alpha level of
 .05, except for (1) within-variable tests for gender, where a dependent
 methodology is used; and (2) significance testing across years, where a
 linking error is used.
 
-Exhibit 24. Significance test table output
+Exhibit 6-24. Significance test table output
 
-![](images/chapter6/image21.png){width="6.5in" height="5.686804461942257in"}
+![Exhibit 6-24 is a screenshot from the TALIS IDE tool showing an example of a significance test table output in the Build Reports tab.](images/chapter6/image21.png){width="6.5in" height="5.686804461942257in"}
 
 When the **map option** is selected, a global map is shown with the
 countries and subnational education systems selected shaded (see exhibit
-25). The focal jurisdiction is shaded in teal green, with all other
+6-25). The focal jurisdiction is shaded in teal green, with all other
 countries compared to it. The other countries are shaded in colors that
 indicate whether they are higher, lower, or not significantly different
 from the focal jurisdiction on whatever measure has been selected. Note
@@ -812,9 +809,9 @@ jurisdiction by clicking on another country. You may also choose a
 different variable category for comparison by using the drop-down menu
 above the map.
 
-Exhibit 25. Map of significance tests
+Exhibit 6-25. Map of significance tests
 
-![](images/chapter6/image22.png){width="6.5in" height="7.472915573053369in"}
+![Exhibit 6-25 is a screenshot from the TALIS IDE tool showing an example of a significance test map output in the Build Reports tab.](images/chapter6/image22.png){width="6.5in" height="7.472915573053369in"}
 
 Please note that the IDE does not apply adjustments for multiple
 comparisons. This is consistent with current NCES statistical standards
@@ -826,13 +823,13 @@ Gap analysis is included in the IDE to compare differences in gaps shown
 in a table, map, or chart. Gap differences can be compared between
 jurisdictions and/or across years.
 
-**Exhibit 26. Gap analysis link selection**
+**Exhibit 6-26. Gap analysis link selection**
 
-![](images/chapter6/image15.png){width="6.5in" height="3.1555555555555554in"}
+![Exhibit 6-26 is a screenshot from the TALIS IDE tool showing how to select the gap analysis function in the Build Reports tab.](images/chapter6/image15.png){width="6.5in" height="3.1555555555555554in"}
 
 With your report of interest selected, click on the **Gap Analysis**
 link, which is located to the right of the **Significance Test** link
-(see exhibit 26). You will need to decide which variable you would like
+(see exhibit 6-26). You will need to decide which variable you would like
 to test (e.g., principal job satisfaction, good teacher-student
 relationships) and the criterion by which you want to test it (i.e.,
 between jurisdictions or across years). The difference measure, or gap,
@@ -860,11 +857,11 @@ countries, you can:
     country/subnational education system to the gap for ages below 40 at
     two time points in another country/subnational education system.
 
-**Exhibit 27. Gap analysis options**
+**Exhibit 6-27. Gap analysis options**
 
-![](images/chapter6/image23.png){width="6.5in" height="5.03333552055993in"}
+![Exhibit 6-27 is a screenshot from the TALIS IDE tool showing the gap analysis options available in the Build Reports tab.](images/chapter6/image23.png){width="6.5in" height="5.03333552055993in"}
 
-The steps for running a gap analysis (exhibit 27) are similar to those
+The steps for running a gap analysis (exhibit 6-27) are similar to those
 for conducting a statistical significance test. Thus, to run a gap
 analysis, follow the instructions under **Section 4.F. Significance
 Tests**, noting the following differences:
@@ -886,7 +883,7 @@ The gap analysis output is presented in a format similar to that of the
 significance test output, with one difference: the difference estimate
 shown in the output is the difference between the gaps selected for
 analysis. Note that you will still see the significance of these
-differences, just like in a significance test. For example, exhibit 28
+differences, just like in a significance test. For example, exhibit 6-28
 shows cross-national differences in the percentage gaps between two age
 groups (principals who are below 40 and who are 60 and above).
 
@@ -899,7 +896,7 @@ gaps go in the same direction.
 
 **Exhibit 28. Gap analysis output**
 
-![](images/chapter6/image24.png){width="5.66666447944007in"
+![Exhibit 6-28 is a screenshot from the TALIS IDE tool showing an example output report based on the gap analysis options.](images/chapter6/image24.png){width="5.66666447944007in"
 height="4.995263560804899in"}
 
 NOTE: A gap analysis across years cannot be combined with the **Between
@@ -916,14 +913,14 @@ feature of the IDE is referred to within the field of statistics as
 linear regression. To run a regression, first go to **Build Reports**
 and choose the report of interest from the drop-down **Select Report**
 menu. Then click on the **Regression Analysis** link, which is to the
-right of the **Gap Analysis** link (see exhibit 29).
+right of the **Gap Analysis** link (see exhibit 6-29).
 
-**Exhibit 29. Regression analysis link selection**
+**Exhibit 6-29. Regression analysis link selection**
 
-![](images/chapter6/image15.png){width="6.5in" height="3.1555555555555554in"}
+![Exhibit 6-29 is a screenshot from the TALIS IDE tool showing how to select the regression analysis function in the Build Reports tab.](images/chapter6/image15.png){width="6.5in" height="3.1555555555555554in"}
 
 The general steps for running a regression analysis are as follows (see
-exhibit 30):
+exhibit 6-30):
 
 1.  In the **Regression Analysis** pop-up window, enter a **Name**
     limited to 25 characters, using only letters, numbers, spaces,
@@ -948,27 +945,27 @@ Click the **Edit** tab in the upper-left corner of the screen if you
 wish to go back and make changes to the selections you made for running
 the analysis.
 
-**Exhibit 30. Regression analysis options**
+**Exhibit 6-30. Regression analysis options**
 
-![](images/chapter6/image25.png){width="6.5in" height="3.4229166666666666in"}
+![Exhibit 6-30 is a screenshot from the TALIS IDE tool showing the options for the regression analysis output.](images/chapter6/image25.png){width="6.5in" height="3.4229166666666666in"}
 
 After you have clicked **Done**, your regression analysis output will
-load onto the screen (see exhibit 31). A 0-1 contrast coding is used to
+load onto the screen (see exhibit 6-31). A 0-1 contrast coding is used to
 code the independent variable, where the first subgroup of the
 independent variable is the reference group. Using dummy-coded variables
 in a linear regression is useful for comparing each subgroup against a
-reference group. For example, in exhibit 31, the reference group for the
+reference group. For example, in exhibit 6-31, the reference group for the
 independent variable **Principal Age Groups (**SC10003**)** is the
 subgroup "Below 40," and it is coded as 0. Except for the reference
 group, each subgroup (e.g., ages "40-49," "50-59," and "60 and above")
 is contrast coded in a separate dummy variable (code 1) against all the
 other subgroups of the variable (coded 0).
 
-Exhibit 31. Regression analysis output
+Exhibit 6-31. Regression analysis output
 
-![](images/chapter6/image26.png){width="6.5in" height="3.265972222222222in"}
+![Exhibit 6-31 is a screenshot from the TALIS IDE tool showing an example of the regression analysis output.](images/chapter6/image26.png){width="6.5in" height="3.265972222222222in"}
 
-Using the output from exhibit 31, you can compare the mean percentage of
+Using the output from exhibit 6-31, you can compare the mean percentage of
 principals below age 40 to the mean percentage of those age 40 and
 above. When a single dummy-coded variable is used in a regression, the
 *intercept* is the mean of the reference group (e.g., 40.3598), and the
@@ -985,13 +982,13 @@ x signifies the difference is not significant.
 ### 4.I. Export Reports
 
 Click on the **Export Reports** button/arrow located on the right side
-of the **Build Reports** screen (see exhibit 29) to save or print your
+of the **Build Reports** screen (see exhibit 6-29) to save or print your
 tables, charts, and significance tests. The report names that appear in
 the **Export Reports** window are those that were checked off at step 3,
 **Edit Reports**.
 
 Check the files you want to export, and select one of the file formats:
-**HTML** (print-friendly), **Excel, Word,** or **PDF** (see exhibit 32).
+**HTML** (print-friendly), **Excel, Word,** or **PDF** (see exhibit 6-32).
 All reports that you select at the same time will be exported in one
 file. In the Excel format, you will be able to increase the decimal
 places visible (wherever more precision is available in the database).
@@ -1000,9 +997,9 @@ an error message with Excel or one of the other formats. Usually, this
 will not affect your ability to export, so please wait for the software
 errors to resolve.
 
-Exhibit 32. Export report options
+Exhibit 6-32. Export report options
 
-![](images/chapter6/image27.png){width="2.6641786964129484in"
+![Exhibit 6-32 is a screenshot from the TALIS IDE tool showing the export options, including HTML, Excel, Word, and PDF.](images/chapter6/image27.png){width="2.6641786964129484in"
 height="3.395278871391076in"}
 
 If you wish to edit tables or charts before saving or printing them,

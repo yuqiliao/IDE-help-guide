@@ -1,9 +1,9 @@
 # TIMSS IDE Walkthrough {#timsswalkthrough}
 
-There are four general steps for exploring each IDE page (see exhibit 3). Each step is described in more detail in the following sub-sections. 
+There are four general steps for exploring each IDE page (see exhibit 4-1). Each step is described in more detail in the following sub-sections. 
 
-Exhibit 3. What you will see in the IDE environment and what each step entails
-![](images/chapter4/four-steps.png){width="100%" style="display: block; margin: 0 auto"}
+Exhibit 4-1. What you will see in the IDE environment and what each step entails
+![Exhibit 4-1 is a screenshot from the TIMSS IDE tool showing what each step in the IDE environment entails.](images/chapter4/four-steps.png){width="100%" style="display: block; margin: 0 auto"}
 
 
 ## *1. Select Criteria* {#select-criteria .unnumbered}
@@ -11,7 +11,7 @@ Exhibit 3. What you will see in the IDE environment and what each step entails
 ### 1.A. Overview  {#a.-overview .unnumbered}
 
 Your data query in the IDE (International Data Explorer) begins on the
-**Select Criteria** screen (see exhibit 2).
+**Select Criteria** screen (see exhibit 4-2).
 
 Choose one **Subject**, one **Grade**, and one or more **Measures**,
 **Years,** and **Jurisdictions** for the data you wish to view or
@@ -25,10 +25,9 @@ Click on a red sideways-facing arrow (►) to open up a category and click
 on a red downward-facing arrow (▼) to close a category.**\
 **
 
-**Exhibit 2. Selecting criteria**
+**Exhibit 4-2. Selecting criteria**
 
-![Timeline Description automatically
-generated](images/chapter4/image2.png){width="6.5in"
+![Exhibit 4-2 is a screenshot from the TIMSS IDE tool showing the Select Criteria tab.](images/chapter4/image2.png){width="6.5in"
 height="5.774305555555555in"}
 
 ### 1.B. Choose Subject {#b.-choose-subject .unnumbered}
@@ -87,7 +86,7 @@ follows:
 
 1.  To open or close jurisdictions, click on the arrow. Jurisdictions in
     the group are open and can be selected when the red arrow points
-    down (see exhibit 3).  
+    down (see exhibit 4-3). 
 
 2.  Click the checkboxes next to the specific jurisdictions that you are
     interested in, or uncheck those jurisdictions that you wish to
@@ -101,12 +100,12 @@ follows:
     right. Be advised that closing the group will not deselect your
     choices.
 
-**Exhibit 3. Choosing jurisdictions**
-![](images/chapter4/image3.png){width="6.5in" height="5.289788932633421in"}
+**Exhibit 4-3. Choosing jurisdictions**
+![Exhibit 4-3 is a screenshot from the TIMSS IDE tool showing jurisdictions available in the Select Criteria tab.](images/chapter4/image3.png){width="6.5in" height="5.289788932633421in"}
 
 To continue in the IDE, click the **Select Variables** button at the
 bottom right of the page or the tab at the top of the page to go to the
-next screen (see exhibit 3).
+next screen (see exhibit 4-3).
 
 ## *2. Select Variables* {#select-variables .unnumbered}
 
@@ -118,11 +117,11 @@ criteria at step 1, **Select Criteria**.
 To continue your data query and edit a report, you must choose at least
 one variable on this screen*.* You can browse for variables using the
 **Category** and **Sub Category** lists or by using the **Search**
-function (see exhibit 4). You can return to this screen to change
+function (see exhibit 4-4). You can return to this screen to change
 variable selections at any time.
 
-**Exhibit 4. Selecting variables
-overview**![](images/chapter4/image4.png){width="6.5in"
+**Exhibit 4-4. Selecting variables
+overview**![Exhibit 4-4 is a screenshot from the TIMSS IDE tool showing an overview of the Select Variables tab.](images/chapter4/image4.png){width="6.5in"
 height="4.88472987751531in"}
 
 ###  2.B. Search Using Category and Sub Category Lists  {#b.-search-using-category-and-sub-category-lists .unnumbered}
@@ -142,13 +141,13 @@ To browse for variables, get details about them, select them, and view
 them:
 
 1.  Click the red arrows to open and close categories and subcategories
-    of variables (see exhibit 5).
+    of variables (see exhibit 4-5).
 
 2.  Click **details** or **hide details** to show or hide the full title
     of a given variable, the TIMSS ID, and the values (i.e., value
     labels). Note that some variables have the same or similar short
     titles, but comparing details will show you how they differ. See the
-    example in exhibit 5 below, which shows two variables titled
+    example in exhibit 4-5 below, which shows two variables titled
     **Gen\\speak language of test at home**. "Gen" refers to variables
     that are general cross-subject variables. The differences between
     these two variables are described in the details.
@@ -168,9 +167,9 @@ them:
 6.  Searching variables is an option from the **Search** box. See
     Section 2.C Search Function for more details about this function.
 
-**Exhibit 5. Select variables using category and sub category lists**
+**Exhibit 4-5. Select variables using category and sub category lists**
 
-![](images/chapter4/image5.png){width="6.326388888888889in"
+![Exhibit 4-5 is a screenshot from the TIMSS IDE tool showing how to select a variable from the categories and sub categories listed in the Select Variables tab.](images/chapter4/image5.png){width="6.326388888888889in"
 height="4.760638670166229in"}
 
 When you have selected the variable(s) you want to include, continue by
@@ -184,15 +183,13 @@ on the **Select Variables** screen.
 
 Type a term in the **Search** box and click **Go** (or hit "Enter" on
 your keyboard) to find variables by keywords in the question and/or
-details for the variable (see exhibit 6). If you use multiple keywords,
+details for the variable (see exhibit 4-6). If you use multiple keywords,
 "and" is assumed. You can narrow your search by using "or," "not," or
 "and not." The search function operates on an exact phrase if it is
 contained in quotes. The variable(s) that include the search term(s) in
 the question or its details will be listed.
 
-**Exhibit 6. Select variables using the search function**![Graphical
-user interface Description automatically
-generated](images/chapter4/image6.png){width="6.5in"
+**Exhibit 4-6. Select variables using the search function**![Exhibit 4-6 is a screenshot from the TIMSS IDE tool showing how to select a variable using the search function.](images/chapter4/image6.png){width="6.5in"
 height="4.979166666666667in"}
 
 When you have selected the variable(s) you want to include, continue by
@@ -236,12 +233,11 @@ more variables, you will get tables for each variable, but you will not
 get the cross-tabulation. If your selected criteria include more than
 one measure (e.g., overall science scale and one or more science
 subscales or continuous variables), a separate set of data reports will
-be generated for each measure (see exhibit 7).
+be generated for each measure (see exhibit 4-7).
 
-**Exhibit 7. Edit reports overview**
+**Exhibit 4-7. Edit reports overview**
 
-![Graphical user interface, text, email Description automatically
-generated](images/chapter4/image7.png){width="6.5in"
+![Exhibit 4-7 is a screenshot from the TIMSS IDE tool showing an overview of the Edit Reports tab.](images/chapter4/image7.png){width="6.5in"
 height="4.101388888888889in"}
 
 The **Edit Reports** step shows detailed information on the layout of
@@ -261,23 +257,23 @@ report-building phase.
 
 ### 3.B. Preview Report {#b.-preview-report .unnumbered}
 
-Select **Preview,** in the **Action** column (see exhibit 7), to see how
+Select **Preview,** in the **Action** column (see exhibit 4-7), to see how
 your report will be laid out. The preview will not provide actual data,
 but will show how the data will be arranged in rows and columns (see
-exhibit 8). You can select **Preview** at any time to see how your
+exhibit 4-8). You can select **Preview** at any time to see how your
 changes will affect the report's final layout.
 
-**Exhibit 8. Using preview report**
+**Exhibit 4-8. Using preview report**
 
-![](images/chapter4/image8.png){width="6.391298118985127in"
+![Exhibit 4-8 is a screenshot from the TIMSS IDE tool showing an example of the preview function that is available in the Edit Reports tab.](images/chapter4/image8.png){width="6.391298118985127in"
 height="2.3266601049868765in"}
 
 ### 3.C. Edit Report {#c.-edit-report .unnumbered}
 
 To edit the report, select the **Edit** command, in the **Action**
-column (see exhibit 7). (Another way to edit a report is to select the
+column (see exhibit 4-7). (Another way to edit a report is to select the
 **Edit** tab when you are previewing a report.) The following can be
-done using the edit function (see exhibit 9):
+done using the edit function (see exhibit 4-9):
 
 1.  Name your report. You have the option of giving each report a
     distinctive name, up to a limit of 50 characters, using only
@@ -307,9 +303,9 @@ done using the edit function (see exhibit 9):
     the arrangements will not be permissible, but a pop-up alert will
     explain this.
 
-**Exhibit 9. Editing reports**
+**Exhibit 4-9. Editing reports**
 
-![](images/chapter4/image9.png){width="6.40948053368329in"
+![Exhibit 4-9 is a screenshot from the TIMSS IDE tool showing an example of the editing report function that is available in the Edit Reports tab.](images/chapter4/image9.png){width="6.40948053368329in"
 height="4.835444006999125in"}
 
 To save changes, make sure to select **Done** in the upper-right portion
@@ -318,7 +314,7 @@ of the screen before closing the **Edit Report** window.
 ### 3.D. Create New Variables {#d.-create-new-variables .unnumbered}
 
 To create a new variable, select **Edit,** in the **Action** column, and
-select **Create new...** under **Variable** (see exhibit 9 above). The
+select **Create new...** under **Variable** (see exhibit 4-9 above). The
 new variable is created by collapsing values for an existing variable.
 The steps are as follows:
 
@@ -327,7 +323,7 @@ The steps are as follows:
 2.  Select the variable for which you wish to collapse values.
 
 3.  Select the values you want to collapse by checking the boxes to the
-    left of the values. In the example below (see exhibit 10a), "Always"
+    left of the values. In the example below (see exhibit 4-10a), "Always"
     and "Almost always" are checked
 
 4.  Create a name for the new value, and press **Create**. The collapsed
@@ -335,7 +331,7 @@ The steps are as follows:
     used.
 
 5.  Repeat steps 3 and 4 to collapse other values if applicable. In the
-    example below (see exhibit 10b), "Sometimes" and "Never" will be
+    example below (see exhibit 4-10b), "Sometimes" and "Never" will be
     collapsed into "Sometimes or Never". Note that it is also possible
     to leave "Sometimes" and "Never" uncollapsed, thus skipping step 5.
 
@@ -348,9 +344,9 @@ The steps are as follows:
     can click **Preview** to see how the table will be laid out before
     retrieving data.
 
-**Exhibit 10a. Creating new variables**
+**Exhibit 4-10a. Creating new variables**
 
-![](images/chapter4/image10.png){width="2.809640201224847in"
+![Exhibit 4-10a is a screenshot from the TIMS IDE tool showing an example of the creating new variable function that is available in the Edit Reports tab.](images/chapter4/image10.png){width="2.809640201224847in"
 height="3.123216316710411in"}
 
 **\
@@ -358,7 +354,7 @@ height="3.123216316710411in"}
 
 **Exhibit 10b. Creating new variables**
 
-![](images/chapter4/image11.png){width="2.8188024934383202in"
+![Exhibit 4-10b is a screenshot from the TIMSS IDE tool showing an example of how variables can be collapsed in the creating new variable function that is available in the Edit Reports tab.](images/chapter4/image11.png){width="2.8188024934383202in"
 height="3.126421697287839in"}
 
 A new variable that you create is applicable only to a specific report;
@@ -380,7 +376,7 @@ If you selected two or three variables from which to create new
 variables, you can repeat the process for each of them. Using the
 **Create New Report** or **Edit Report** function, these collapsed
 variables will be listed and available for cross-tabulation (see exhibit
-11). If you have chosen four or more variables (not counting **All
+4-11). If you have chosen four or more variables (not counting **All
 Students**), you won't get the cross-tabulation. You can click
 **Preview** to see how the table will be laid out before retrieving
 data.
@@ -388,9 +384,9 @@ data.
 **\
 **
 
-**Exhibit 11. Edit reports with collapsed variables**
+**Exhibit 4-11. Edit reports with collapsed variables**
 
-![](images/chapter4/image12.png){width="6.399992344706912in"
+![Exhibit 4-11 is a screenshot from the TIMSS IDE tool showing an example of the editing report with collapsed variables function that is available in the Edit Reports tab.](images/chapter4/image12.png){width="6.399992344706912in"
 height="4.870833333333334in"}
 
 ### 3.E. Create New Report {#e.-create-new-report .unnumbered}
@@ -400,17 +396,16 @@ brings up the same options as **Edit** **Report**, but with no
 checkboxes marked and without any new variables you may have created.
 Thus, **Create New Report** provides a clean slate for your selections
 from the first two steps, **Select Criteria** and **Select Variables**
-(see exhibit 12). Each new report you create will appear at the end of
+(see exhibit 4-12). Each new report you create will appear at the end of
 the list of reports. If you do not give the report a specific name, it
 will be called "New Report."
 
 **\
 **
 
-**Exhibit 12. Creating new reports**
+**Exhibit 4-12. Creating new reports**
 
-![Graphical user interface Description automatically
-generated](images/chapter4/image13.png){width="6.5in"
+![Exhibit 4-12 is a screenshot from the TIMSS IDE tool showing an example of the creating new report function that is available in the Edit Reports tab.](images/chapter4/image13.png){width="6.5in"
 height="4.834722222222222in"}
 
 ### 3.F. Format Options {#f.-format-options .unnumbered}
@@ -418,7 +413,7 @@ height="4.834722222222222in"}
 From the main **Edit Reports** screen, clicking on **Format Options**
 will allow you to make formatting changes applicable to all the reports
 listed. The following formatting options are available using this
-function (see exhibit 13):
+function (see exhibit 4-13):
 
 1.  **Variable Labels** gives you the option to display a more detailed
     description of the variables selected in a query (**Long**) than the
@@ -459,13 +454,11 @@ function (see exhibit 13):
     default, standard errors are shown inside parentheses, but you have
     the option of choosing to show them without parentheses*.* You can
     preview the effects of your selection in the **Sample Display** area
-    (see the blue-shaded box at the bottom of exhibit 13).
+    (see the blue-shaded box at the bottom of exhibit 4-13).
 
-**Exhibit 13. Format options**
+**Exhibit 4-13. Format options**
 
-![Graphical user interface, text, application, email Description
-automatically
-generated](images/chapter4/image14.png){width="2.523839676290464in"
+![Exhibit 4-13 is a screenshot from the TIMSS IDE tool showing an example of the format options available in the Edit Reports tab.](images/chapter4/image14.png){width="2.523839676290464in"
 height="3.755792869641295in"}
 
 Be advised that the choices you make in the **Format Options** window
@@ -483,7 +476,7 @@ selections you make are applicable to all the reports listed, although
 you can also change the statistics for an individual report when you
 edit it. (For further information, see Section 3.C. Edit Report.)
 
-The following statistics options are available (see exhibit 14):
+The following statistics options are available (see exhibit 4-14):
 
 1.  **Averages.** This statistic provides the average value for a
     selected continuous variable or score (i.e., overall score or
@@ -524,9 +517,9 @@ The following statistics options are available (see exhibit 14):
 **\
 **
 
-**Exhibit 14. Statistics options**
+**Exhibit 4-14. Statistics options**
 
-![](images/chapter4/image15.png){width="3.100948162729659in"
+![Exhibit 4-14 is a screenshot from the TIMSS IDE tool showing an example of the statistics options available in the Edit Reports tab.](images/chapter4/image15.png){width="3.100948162729659in"
 height="3.891535433070866in"}
 
 As previously noted, the selections you make in **Statistics Options**
@@ -589,12 +582,11 @@ default, all reports are checked. To uncheck one or more reports, you
 can either uncheck the reports individually or click on the **All** box.
 (Doing the latter will uncheck all of the reports and allow you to check
 only those for which you wish to retrieve data.) In the example that
-follows (see exhibit 15), data will be retrieved for all reports.
+follows (see exhibit 4-15), data will be retrieved for all reports.
 
-**Exhibit 15. Selecting reports to build**
+**Exhibit 4-15. Selecting reports to build**
 
-![Graphical user interface, text, application, email Description
-automatically generated](images/chapter4/image16.png){width="6.5in"
+![Exhibit 4-15 is a screenshot from the TIMSS IDE tool showing how to select reports to build in the Edit Reports tab.](images/chapter4/image16.png){width="6.5in"
 height="4.1097222222222225in"}
 
 If you wish to delete a report from the list of reports, click
@@ -621,71 +613,66 @@ additional variables and edit reports, before moving on to **Build
 Reports**. In **Build Reports**, you can do the following:
 
 1.  Generate a data table for each report, as shown in the **Select
-    Report** drop-down feature (see 1 in exhibit 16). By default, all
+    Report** drop-down feature (see 1 in exhibit 4-16). By default, all
     reports are checked, although you can uncheck any reports for which
     you do not wish to retrieve data. (For further information, see
     section 3.H. Select Reports to Build.)
 
 2.  Export and save data tables into various formats using the **Export
-    Reports** button (see 2 in exhibit 16). The output formats include
+    Reports** button (see 2 in exhibit 4-16). The output formats include
     HTML (print-friendly), Microsoft Excel, Microsoft Word, and Adobe
     PDF.
 
-3.  Select the **Chart** tab (see 3 in exhibit 16) to create and
+3.  Select the **Chart** tab (see 3 in exhibit 4-16) to create and
     customize charts for each report and save them for export in the
     above formats.
 
-4.  Select the **Significance Test** tab (see 4 in exhibit 16) to run a
+4.  Select the **Significance Test** tab (see 4 in exhibit 4-16) to run a
     significance test on your results, customize it, and export it.
 
-**Exhibit 16. Building reports overview**
+**Exhibit 4-16. Building reports overview**
 
-![Graphical user interface Description automatically
-generated](images/chapter4/image17.png){width="6.5in"
+![Exhibit 4-16 is a screenshot from the PIRLS IDE tool showing an overview of the Build Reports tab featuring the Select Report, Export Reports, Chart, and Significance Test options.](images/chapter4/image17.png){width="6.5in"
 height="4.346527777777778in"}
 
 ### 4.B. View Reports as Data Tables {#b.-view-reports-as-data-tables .unnumbered}
 
 Some reports will take longer than others to process, so please do not
 hit the "Back" button on your browser once you click on **Build
-Reports** (see exhibit 17). Your table will appear once the processing
+Reports** (see exhibit 4-17). Your table will appear once the processing
 is complete. To select a different table to view, go to the **Select
-Report** drop-down menu (see 1 in exhibit 16) and choose the table of
+Report** drop-down menu (see 1 in exhibit 4-16) and choose the table of
 interest. To change the formatting or statistics options of a table or
 to generate a table from a report not included in your selection, return
 to step 3, **Edit Reports**.
 
-**Exhibit 17. Processing data**![Graphical user interface, text,
-application Description automatically
-generated](images/chapter4/image18.png){width="6.5in"
+**Exhibit 4-17. Processing data**![Exhibit 4-17 is a screenshot from the TIMSS IDE tool showing an overview of the building reports page while data is processing.](images/chapter4/image18.png){width="6.5in"
 height="3.0833333333333335in"}
 
 ###  **4.C. Charts** {#c.-charts .unnumbered}
 
 To create a chart, go to **Select Report** on the **Build Reports**
 screen to choose the report of interest from the drop-down menu, and
-then click the **Chart** link (see exhibit 18).
+then click the **Chart** link (see exhibit 4-18).
 
 You will be able to create many types of charts and customize them.
 Section 4.E. Create Charts---Chart Options provides a summary of the
 available features and how they can be customized.
 
-**Exhibit 18. Viewing reports as charts**![Graphical user interface,
-application Description automatically
-generated](images/chapter4/image19.png){width="6.5in" height="2.0125in"}
+**Exhibit 4-18. Viewing reports as charts**![Exhibit 4-18 is a screenshot from the TIMSS IDE tool showing how to select the chart creating function in the Build Reports tab.](images/chapter4/image19.png){width="6.5in" height="2.0125in"}
 
 ### 4.D. Create Charts---Chart Options {#d.-create-chartschart-options .unnumbered}
 
 When you click **Chart,** your screen will present data options
 pertaining to **Jurisdiction, Year,** and **Statistic­** (see exhibit
-19). Only the statistics option(s) used to report data in the previous
+4-19). Only the statistics option(s) used to report data in the previous
 step will be presented, and only one statistics option can be selected
 at a time. For example, **Percentiles** will appear as the only data
 option to build the chart if the table created in the previous step is
 reporting data with only percentiles selected as the statistics option.
 
 Below, you can select **Bar Chart, Column Chart,** or **Line Chart**
-(see exhibit 20). If all of the percentiles are chosen as the statistics
+(see exhibit 4-20). If all of the percentiles are chosen as the statistics
 option, you also have the option of selecting a **Percentile Chart**.
 
 After selecting a chart type, change any data dimensions from the
@@ -698,27 +685,24 @@ after you edited the report.
 Once you are finished with the Chart Options, click the **Create Chart**
 button in the lower-right corner of the screen.
 
-**Exhibit 19. Data options for charts**
+**Exhibit 4-19. Data options for charts**
 
-![Graphical user interface, application Description automatically
-generated](images/chapter4/image20.png){width="5.34113845144357in"
+![Exhibit 4-19 is a screenshot from the TIMSS IDE tool showing the data options available in the chart creating function in the Build Reports tab.](images/chapter4/image20.png){width="5.34113845144357in"
 height="5.495779746281714in"}
 
-**Exhibit 20. Chart options**
+**Exhibit 4-20. Chart options**
 
-![Graphical user interface, application Description automatically
-generated](images/chapter4/image20.png){width="4.418926071741033in"
+![Exhibit 4-20 is a screenshot from the TIMSS IDE tool showing the chart options available in the chart creating function in the Build Reports tab.](images/chapter4/image20.png){width="4.418926071741033in"
 height="4.546865704286964in"}
 
 Clicking **Create Chart** takes you to the exportable version of the
-chart (see exhibit 21). You can subsequently click **"Back to Chart
+chart (see exhibit 4-21). You can subsequently click **"Back to Chart
 Options"** (located in the upper-left corner, below **Chart**) to make
 more changes.
 
-**Exhibit 21. Completed chart**
+**Exhibit 4-21. Completed chart**
 
-![Graphical user interface Description automatically
-generated](images/chapter4/image21.png){width="6.5in" height="5.125in"}
+![Exhibit 4-21 is a screenshot from the PIRLS IDE tool showing a preview of a completed chart in the chart creating function in the Build Reports tab.](images/chapter4/image21.png){width="6.5in" height="5.125in"}
 
 To make an additional chart from the same report or table, click the
 **Chart** link on the **Build Reports** screen. If you don't start the
@@ -747,19 +731,19 @@ reflects a true difference in the population.
 
 With your report of interest selected, click the **Significance Test**
 link, which is located to the right of the **Chart** link (see exhibit
-16 and 21). You first need to decide which variable you want to test and
+4-16 and 4-21). You first need to decide which variable you want to test and
 the criterion by which you want to test it (i.e., between jurisdictions,
 within variables, or across years). You will compare or look across the
 variable's range of values, so it must have more than one value. You can
 look across jurisdictions for a variable (that is, compare between two
 or more jurisdictions) or you can look across the values within a
 variable for a single jurisdiction. For example, with the variable shown
-in exhibit 22, you could choose to compare scores of female students
+in exhibit 4-22, you could choose to compare scores of female students
 between countries and subnational education systems, or you could choose
 to compare scores of female students and male students.
 
 The general steps for running significance tests are as follows (see
-exhibit 22):
+exhibit 4-22):
 
 1.  In the **Significance Test** window, select either **Between
     Jurisdictions**, **Within Variables**, or **Across Years**. Then,
@@ -795,10 +779,9 @@ exhibit 22):
 7.  Click the **Done** button in the upper- or lower-right corner of the
     screen to run the significance tests.
 
-**Exhibit 22. Significance test options**
+**Exhibit 4-22. Significance test options**
 
-![Graphical user interface Description automatically
-generated](images/chapter4/image22.png){width="6.5in"
+![Exhibit 4-22 is a screenshot from the TIMSS IDE tool showing the significance test options available in the Build Reports tab.](images/chapter4/image22.png){width="6.5in"
 height="5.032638888888889in"}
 
 When the table option is selected, you will get a significance test
@@ -806,7 +789,7 @@ matrix in which you will see the differences and *p* values. Using the
 symbols shown in the legend of the matrix, an indication is also
 provided of whether one estimate is significantly lower or higher than
 another estimate or whether there is no significant difference (see
-exhibit 23).
+exhibit 4-23).
 
 The alpha level to establish significance for all comparisons is .05.
 All comparisons within a jurisdiction, within the same year, are made
@@ -818,14 +801,13 @@ participating as a benchmarking entity (for instance, in order to
 compare scores between the United States and Massachusetts or Minnesota,
 since they each are an independent sample).
 
-**Exhibit 23. Significance test table output**
+**Exhibit 4-23. Significance test table output**
 
-![Table Description automatically
-generated](images/chapter4/image23.png){width="6.5in" height="5.75625in"}
+![Exhibit 4-23 is a screenshot from the TIMSS IDE tool showing an example of a significance test table output in the Build Reports tab.](images/chapter4/image23.png){width="6.5in" height="5.75625in"}
 
 When the **map option** is selected, a global map is shown with the
 countries and subnational education systems that were previously
-selected shaded (see exhibit 24). The focal jurisdiction is shaded in
+selected shaded (see exhibit 4-24). The focal jurisdiction is shaded in
 green, with all other countries compared to it. The other countries are
 shaded in colors that indicate whether they are higher, lower, or not
 significantly different from the focal jurisdiction on whatever measure
@@ -835,10 +817,9 @@ bubble pops up indicating the point estimates for that country and the
 focal jurisdiction. At any point, you may choose a different focal
 jurisdiction by clicking on another country.
 
-**Exhibit 24. Significance test map output**
+**Exhibit 4-24. Significance test map output**
 
-![Graphical user interface, application Description automatically
-generated](images/chapter4/image24.png){width="6.5in"
+![Exhibit 4-24 is a screenshot from the TIMSS IDE tool showing an example of a significance test map output in the Build Reports tab.](images/chapter4/image24.png){width="6.5in"
 height="7.135416666666667in"}
 
 ### 4.F. Gap Analysis {#f.-gap-analysis .unnumbered}
@@ -847,15 +828,14 @@ Gap Analysis is included in the IDE to compare differences in gaps shown
 in a map, table, or chart. These gap differences can be compared between
 jurisdictions and/or across years.
 
-**Exhibit 25. Gap analysis link selection**
+**Exhibit 4-25. Gap analysis link selection**
 
-![Graphical user interface, table Description automatically generated
-with medium confidence](images/chapter4/image25.png){width="6.5in"
+![Exhibit 4-25 is a screenshot from the TIMSS IDE tool showing how to select the gap analysis function in the Build Reports tab.](images/chapter4/image25.png){width="6.5in"
 height="3.436111111111111in"}
 
 With your report of interest selected, click on the **Gap Analysis**
 link, which is located to the right of the **Significance Test** link
-(see exhibit 25). You will need to decide which variable you would like
+(see exhibit 4-25). You will need to decide which variable you would like
 to test (e.g., gender) and the criterion by which you want to test it
 (i.e., between jurisdictions or across years). The difference measure,
 or gap, can be viewed between groups, between years, between groups and
@@ -878,14 +858,13 @@ points for males and females, you can:
 **\
 **
 
-**Exhibit 26. Gap analysis options**
+**Exhibit 4-26. Gap analysis options**
 
-![A screenshot of a computer Description automatically
-generated](images/chapter4/image26.png){width="6.5in"
+![Exhibit 4-26 is a screenshot from the TIMSS IDE tool showing the gap analysis options available in the Build Reports tab.(images/chapter4/image26.png){width="6.5in"
 height="5.030555555555556in"}
 
 The steps for running a gap analysis are similar to those for conducting
-a statistical significance test (see exhibit 26). Thus, to run a gap
+a statistical significance test (see exhibit 4-26). Thus, to run a gap
 analysis, follow the instructions under section **4.E. Significance
 Tests**, noting the following differences:
 
@@ -906,7 +885,7 @@ The gap analysis output is presented in a format similar to that of the
 significance test output, with one difference: the difference estimate
 shown in the output is the difference between the gaps selected for
 analysis. Note that you will still see the significance of these
-differences just like in a significance test. For example, exhibit 27
+differences just like in a significance test. For example, exhibit 4-27
 shows cross-national differences between male-female score gaps among
 8^th^ grade students.
 
@@ -920,9 +899,9 @@ differ from each other only when the gaps go in the same direction
 (e.g., comparing a 5-point gender gap favoring females in one country
 with a 15-point gender gap favoring females in another country).
 
-**Exhibit 27. Gap analysis output**
+**Exhibit 4-27. Gap analysis output**
 
-![](images/chapter4/image27.png){width="6.46875in"
+![Exhibit 4-27 is a screenshot from the TIMSS IDE tool showing an example output report based on the gap analysis options.](images/chapter4/image27.png){width="6.46875in"
 height="1.187399387576553in"}![Table Description automatically
 generated](images/chapter4/image28.png){width="6.5in"
 height="5.184722222222222in"}
@@ -942,26 +921,25 @@ analysis performed in this feature of the IDE is referred to as linear
 regression, with the dependent variable being a continuous variable
 selected at step 1.
 
-**Exhibit 28. Regression analysis link selection**
+**Exhibit 4-28. Regression analysis link selection**
 
-![Graphical user interface, text, application Description automatically
-generated](images/chapter4/image29.png){width="6.5in"
+![Exhibit 4-28 is a screenshot from the TIMSS IDE tool showing how to select the regression analysis function in the Build Reports tab.](images/chapter4/image29.png){width="6.5in"
 height="1.9041666666666666in"}
 
 A regression analysis can be performed based on the selections that were
 made to build your table in the IDE by selecting the **Regression
-Analysis** button above the table (see Exhibit 28). The **Measure**, or
+Analysis** button above the table (see Exhibit 4-28). The **Measure**, or
 continuous variable, that you selected in Step 1 and that is displayed
 in your table will automatically become your dependent variable for the
-regression analysis (in Exhibit 28 this is "TIMSS Mathematics Scale:
+regression analysis (in Exhibit 4-28 this is "TIMSS Mathematics Scale:
 Overall Mathematics"). Please note that continuous variables cannot be
 used as independent variables. The variables that you selected in Step 2
 and that are displayed in your table will become your independent
-variable options for the regression analysis (in Exhibit 28 this is "Sex
+variable options for the regression analysis (in Exhibit 4-28 this is "Sex
 of student").
 
 The general steps for running a regression analysis are as follows (see
-exhibit 29):
+exhibit 4-29):
 
 1.  In the **Regression Analysis** pop-up window, you can enter a
     **Name** limited to 25 characters, using only letters, numbers,
@@ -986,30 +964,28 @@ exhibit 29):
 5.  Click the **Done** button in the upper- or lower-right corner of the
     screen to run the regression analysis.
 
-**Exhibit 29. Regression analysis options**
+**Exhibit 4-29. Regression analysis options**
 
-![Table Description automatically
-generated](images/chapter4/image30.png){width="6.5in"
+![Exhibit 4-29 is a screenshot from the TIMSS IDE tool showing the options for the regression analysis output.](images/chapter4/image30.png){width="6.5in"
 height="3.4444444444444446in"}
 
 After you have clicked **Done**, your regression analysis output will
-load onto the screen (see exhibit 30). A 0-1 contrast coding is used to
+load onto the screen (see exhibit 4-30). A 0-1 contrast coding is used to
 code the independent variable, where the first subgroup of the
 independent variable is the reference group. Using dummy-coded variables
 in a linear regression is useful for comparing each subgroup against a
-reference group. For example, in exhibit 30, if the subgroup "Female" is
+reference group. For example, in exhibit 4-30, if the subgroup "Female" is
 the reference group for the independent variable **Sex of student
 \[ITSEX\]**, the IDE creates a "Male" dummy variable (1 for respondents
 who answered "Male", 0 otherwise). Reference group "Female" is excluded
 from the regression analysis.
 
-**Exhibit 30. Regression analysis output**
+**Exhibit 4-30. Regression analysis output**
 
-![Graphical user interface, text, application Description automatically
-generated](images/chapter4/image31.png){width="6.5in"
+![Exhibit 4-30 is a screenshot from the TIMSS IDE tool showing an example of the regression analysis output.](images/chapter4/image31.png){width="6.5in"
 height="3.484722222222222in"}
 
-Using the output from exhibit 30 you can compare the average mathematics
+Using the output from exhibit 4-30 you can compare the average mathematics
 achievement of 8^th^ grade students who are female to the average
 mathematics achievement of 8^th^ grade students who are female. When a
 single dummy-coded variable is used in a regression, the *intercept* is
@@ -1033,7 +1009,7 @@ Reports** window are those that were checked off at step 3, **Edit
 Reports**.
 
 Check the files you want to export, and select one of the file formats:
-**HTML** (print-friendly), **Excel, Word,** or **PDF** (see exhibit 31).
+**HTML** (print-friendly), **Excel, Word,** or **PDF** (see exhibit 4-31).
 All reports that you select at the same time will be exported in one
 file. In the Excel format, you will be able to increase the visible
 decimal places visible wherever more precision is available. Because
@@ -1049,10 +1025,9 @@ each one. If a chart or map that you wish to save or print is grayed out
 back to your chart or map, and be sure to click **Done** on the last
 screen. After that, it will be available for export.
 
-**Exhibit 31. Export report options**
+**Exhibit 4-31. Export report options**
 
-![Graphical user interface, application, Word Description automatically
-generated](images/chapter4/image32.png){width="4.010976596675415in"
+![Exhibit 4-31 is a screenshot from the TIMSS IDE tool showing the export options, including HTML, Excel, Word, and PDF.](images/chapter4/image32.png){width="4.010976596675415in"
 height="5.1361329833770775in"}
 
 
