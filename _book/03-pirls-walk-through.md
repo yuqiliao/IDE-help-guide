@@ -859,16 +859,9 @@ matrix in which you will see the differences and *p* values. Using the
 symbols shown in the legend of the matrix, an indication is also
 provided of whether one estimate is significantly lower or higher than
 another estimate or whether there is no significant difference (see
-exhibit 3-26). In the PIRLS IDE, most comparisons are independent with an
-alpha level of 0.05. The PIRLS IDE performs dependent t-tests only for
-basic male-female comparisons by country (with no additional variables
-included in the analysis). Published reports by IEA employ a dependent
-testing methodology for all male-female comparisons by country (i.e.,
-even when additional variables besides gender and country are included
-in the analysis). Currently the IDE does not have this capability. Thus,
-the statistical significance of male-female differences by country may
-vary slightly between published reports and the IDE. Please note that
-multiple comparisons are not available in the IDE.
+exhibit 3-26). 
+
+The alpha level for all *t*-tests is .05. All comparisons within a jurisdiction, within the same year, are made using dependent *t*-tests. Comparisons between jurisdictions are treated as independent. Non-achievement comparisons across years are treated as independent. Comparisons of achievement across years are made using independent *t*-tests with a linking error taken into account. A part-whole adjustment is implemented for comparisons between a jurisdiction and a group that the jurisdiction is part of (e.g. Average of Countries).
 
 Exhibit 3-26. Significance test table output
 

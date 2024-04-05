@@ -784,10 +784,9 @@ matrix in which you will see the differences and *p* values. Using the
 symbols shown in the legend of the matrix, an indication is also
 provided of whether one estimate is significantly lower or higher than
 another estimate or whether there is no significant difference (see
-exhibit 6-24). Most comparisons are independent with an alpha level of
-.05, except for (1) within-variable tests for gender, where a dependent
-methodology is used; and (2) significance testing across years, where a
-linking error is used.
+exhibit 6-24). 
+
+The alpha level for all *t*-tests is .05. All comparisons within a jurisdiction, within the same year, are made using dependent *t*-tests. Comparisons between jurisdictions are treated as independent. Comparisons across years are treated as independent. A part-whole adjustment is implemented for comparisons between a jurisdiction and a group that the jurisdiction is part of (e.g. Average of All Jurisdictions).
 
 Exhibit 6-24. Significance test table output
 

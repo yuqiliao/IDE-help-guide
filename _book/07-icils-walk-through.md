@@ -842,11 +842,7 @@ provided of whether one estimate is significantly lower or higher than
 another estimate or whether there is no significant difference (see
 exhibit 7-24).
 
-The alpha level for all *t* tests is .05. All comparisons within a
-jurisdiction, within the same year, are made using dependent *t* tests.
-Comparisons between jurisdictions are treated as independent, and
-comparisons of achievement scores across years are made using
-independent *t* tests with a linking error taken into account.
+The alpha level for all *t*-tests is .05. All comparisons within a jurisdiction, within the same year, are made using dependent *t*-tests. Comparisons between jurisdictions are treated as independent. Non-achievement comparisons across years are treated as independent. Comparisons of achievement across years are made using independent *t*-tests with a linking error taken into account. A part-whole adjustment is implemented for comparisons between a jurisdiction and a group that the jurisdiction is part of (e.g. Average of Countries).
 
 ICILS assessments are linked across years. That is, the sets of items
 used to assess computer and information literacy (CIL) across years
