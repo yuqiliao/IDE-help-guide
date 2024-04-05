@@ -2,8 +2,18 @@
 
 There are four general steps for exploring each IDE page (see exhibit 3-1). Each step is described in more detail in the following sub-sections. 
 
+<<<<<<< Updated upstream
+Exhibit 3. What you will see in the IDE environment and what each step entails
+<<<<<<< HEAD
+![](images/chapter3/four-steps.png){width="6.236430446194226in"
+height="5.361384514435696in"}
+=======
 Exhibit 3-1. What you will see in the IDE environment and what each step entails
 ![Exhibit 3-1 is a screenshot from the PIRLS IDE toolshowing what each step in the IDE environment entails.](images/chapter3/four-steps.png){width="100%" style="display: block; margin: 0 auto"}
+>>>>>>> Stashed changes
+=======
+![](images/chapter3/four-steps.png){width="100%" style="display: block; margin: 0 auto"}
+>>>>>>> main
 
 
 ## 1. Select Criteria
@@ -661,7 +671,7 @@ of the available features and how they can be customized.
 
 Exhibit 3-19. Viewing reports as charts
 
-![Exhibit 3-19 is a screenshot from the PIRLS IDE tool showing an overview of the Build Reports tab featuring the Select Report, Export Reports, Chart, and Significance Test options.](images/chapter3/image19.png){width="6.5in" height="5.289788932633421in"}[]{#_Toc257706705 .anchor}
+![Exhibit 3-19 is a screenshot from the PIRLS IDE tool showing how to select the chart creating function in the Build Reports tab.](images/chapter3/image19.png){width="6.5in" height="5.289788932633421in"}[]{#_Toc257706705 .anchor}
 
 ### 4.D. Create Charts---Data Options
 

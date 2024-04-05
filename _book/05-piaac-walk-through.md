@@ -1,9 +1,9 @@
 # PIAAC IDE Walkthrough {#piaacwalkthrough}
 
-There are four general steps for exploring each IDE page (see exhibit 3). Each step is described in more detail in the following sub-sections. 
+There are four general steps for exploring each IDE page (see exhibit 5-1). Each step is described in more detail in the following sub-sections. 
 
-Exhibit 3. What you will see in the IDE environment and what each step entails
-![](images/chapter5/four-steps.png){width="100%" style="display: block; margin: 0 auto"}
+Exhibit 5-1. What you will see in the IDE environment and what each step entails
+![Exhibit 5-1 is a screenshot from the PIAAC IDE tool showing what each step in the IDE environment entails.](images/chapter5/four-steps.png){width="100%" style="display: block; margin: 0 auto"}
 
 
 ## 1. Select Criteria
@@ -11,7 +11,7 @@ Exhibit 3. What you will see in the IDE environment and what each step entails
 ### 1.A. Overview 
 
 Your data query in the PIAAC IDE begins on the Step 1. **Select
-Criteria** screen (see exhibit 2, on next page).
+Criteria** screen (see exhibit 5-2, on next page).
 
 Select a **Display** from the drop-down menus. Once the screen resets,
 you can choose one or more of the years and studies or **All
@@ -23,9 +23,9 @@ clear selections and start over.
 Click on a blue sideways-facing arrow (►) to open up a category, and
 click on a blue downward-facing arrow (▼) to close a category.
 
-Exhibit 2. Selecting criteria
+Exhibit 5-2. Selecting criteria
 
-![](images/chapter5/image3.png){width="6.333659230096238in"
+![Exhibit 5-2 is a screenshot from the PIAAC IDE tool showing the Select Criteria tab.](images/chapter5/image3.png){width="6.333659230096238in"
 height="5.326662292213474in"}
 
 ### 1.B. Display
@@ -127,7 +127,7 @@ follows:
 
 1.  To open groups of jurisdictions, click on the arrow (►).
     Jurisdictions in the group are open and can be selected when the
-    blue arrow points down (▼) (see exhibit 3).
+    blue arrow points down (▼) (see exhibit 5-3).
 
 2.  Click the checkboxes next to the specific jurisdictions that you are
     interested in, or uncheck those jurisdictions that you wish to
@@ -151,14 +151,14 @@ follows:
     or one of the U.S. household samples, or select more than one for
     analysis as jurisdictions.
 
-Exhibit 3. Choosing jurisdictions
+Exhibit 5-3. Choosing jurisdictions
 
-![](images/chapter5/image4.png){width="6.2503215223097115in"
+![Exhibit 5-3 is a screenshot from the PIAAC IDE tool showing jurisdictions available in the Select Criteria tab.](images/chapter5/image4.png){width="6.2503215223097115in"
 height="5.319717847769029in"}
 
 To continue in the IDE, click the **Select Variables** button at the
 bottom right of the page or the tab at the top of the page to go to the
-next screen (see exhibit 3).
+next screen (see exhibit 5-3).
 
 ## 2. Select Variables
 
@@ -170,12 +170,12 @@ criteria at step 1, **Select Criteria**.
 To continue your data query and edit a report, *you must choose at least
 one variable on this screen.* You can browse for variables using the
 **Category** and **Sub Category** lists or by using the **Search**
-function (see exhibit 4). You can return to this screen to change
+function (see exhibit 5-4). You can return to this screen to change
 variable selections at any time.
 
-Exhibit 4. Select variables overview
+Exhibit 5-4. Select variables overview
 
-![](images/chapter5/image5.png){width="6.319769247594051in"
+![Exhibit 5-4 is a screenshot from the PIAAC IDE tool showing an overview of the Select Variables tab.](images/chapter5/image5.png){width="6.319769247594051in"
 height="4.847471566054243in"}
 
 ### 2.B. Search Using Category and Sub Category Lists
@@ -198,7 +198,7 @@ To browse for variables, get details about them, select them, and view
 them:
 
 1.  Click the blue arrows to open and close categories and subcategories
-    > of variables (see exhibit 5).
+    > of variables (see exhibit 5-5).
 
 ```{=html}
 <!-- -->
@@ -207,7 +207,7 @@ them:
     > of a given variable, the PIAAC ID (e.g., GENDERR), and the values
     > (i.e., variable labels). Note that some variables have the same or
     > similar short titles, but comparing details will show you how they
-    > differ. See the example in exhibit 5, which shows **Last job -
+    > differ. See the example in exhibit 5-5, which shows **Last job -
     > Employee or self-employed** and **Last Job - Economic sector.**
     > The differences between these two variables are described in the
     > details.
@@ -231,9 +231,9 @@ them:
     2.C Search Function** (on next page) for more details about this
     function.
 
-Exhibit 5. Select variables using category and sub category lists
+Exhibit 5-5. Select variables using category and sub category lists
 
-![](images/chapter5/image6.png){width="6.319769247594051in"
+![Exhibit 5-5 is a screenshot from the PIAAC IDE tool showing how to select a variable from the categories and sub categories listed in the Select Variables tab.](images/chapter5/image6.png){width="6.319769247594051in"
 height="4.8127471566054245in"}
 
 When you have selected the variable(s) you want to include, continue by
@@ -247,15 +247,15 @@ on the **Select Variables** screen.  
 
 Type a term in the **Search** box and click **Go** (or hit "Enter" on
 your keyboard) to find variables by keywords in the question and/or
-details for the variable (see exhibit 6). The search function operates
+details for the variable (see exhibit 5-6). The search function operates
 on whole words or on an exact phrase (if it is contained in quotes). To
 search for less than a whole word or exact phrase, include an asterisk
 (\*) after the search term. If you use multiple keywords, "and" is
 assumed. You can narrow your search by using "or," "not," or "and not."
 
-Exhibit 6. Select variables using the search function
+Exhibit 5-6. Select variables using the search function
 
-![](images/chapter5/image7.png){width="6.305879265091863in"
+![Exhibit 5-6 is a screenshot from the PIAAC IDE tool showing how to select a variable using the search function.](images/chapter5/image7.png){width="6.305879265091863in"
 height="4.8266371391076115in"}
 
 When you have selected the variable(s) you want to include, continue by
@@ -300,32 +300,32 @@ a cross-tabulation report will not be produced. If your selected
 criteria include more than one **Measure** (e.g., overall literacy scale
 and one or more continuous variable from step 1, **Select Criteria**), a
 separate set of data reports will be generated for each **Measure** (see
-exhibit 7).
+exhibit 5-7).
 
-Exhibit 7. Edit reports overview
-![](images/chapter5/image8.png){width="6.2642104111986in"
+Exhibit 5-7. Edit reports overview
+![Exhibit 5-7 is a screenshot from the PIAAC IDE tool showing an overview of the Edit Reports tab.](images/chapter5/image8.png){width="6.2642104111986in"
 height="3.555738188976378in"}
 
 ### 3.B. Preview Report
 
-Select **Preview,** in the **Action** column (see exhibit 7), to see how
+Select **Preview,** in the **Action** column (see exhibit 5-7), to see how
 your report will be laid out. The preview will not provide actual data
 but will show how the data will be arranged in rows and columns (see
-exhibit 8). You can select **Preview** at any time to see how your
+exhibit 5-8). You can select **Preview** at any time to see how your
 changes will affect the report's final layout.
 
-Exhibit 8. Using preview report
+Exhibit 5-8. Using preview report
 
-![](images/chapter5/image9.png){width="5.694483814523185in"
+![Exhibit 5-8 is a screenshot from the PIAAC IDE tool showing an example of the preview function that is available in the Edit Reports tab.](images/chapter5/image9.png){width="5.694483814523185in"
 height="4.264939851268592in"}
 
 ### 3.C. Edit Report
 
 To edit the report, select the **Edit** command, in the **Action**
-column, next to the report number (see exhibit 7). (Another way to edit
+column, next to the report number (see exhibit 5-7). (Another way to edit
 a report is to select the **Edit** tab when you are previewing a
 report.) The following can be done using the **Edit** command (see
-exhibit 9):
+exhibit 5-9):
 
 1.  [Name your report]{.underline}. You have the option of giving each
     > report a distinctive name, up to a limit of 50 characters, using
@@ -357,8 +357,8 @@ exhibit 9):
     > columns. Some of the arrangements will not permissible, but a
     > pop-up alert will explain this.
 
-> Exhibit 9. Editing
-> reports![](images/chapter5/image10.png){width="5.440339020122485in"
+> Exhibit 5-9. Editing
+> reports![Exhibit 5-9 is a screenshot from the PIAAC IDE tool showing an example of the editing report function that is available in the Edit Reports tab.](images/chapter5/image10.png){width="5.440339020122485in"
 > height="4.052113954505687in"}
 
 To save changes, make sure to select Done in the upper-right portion of
@@ -369,7 +369,7 @@ error.
 ### 3.D. Create New Variables
 
 To create a new variable, select **Edit,** in the **Action** column, and
-select **Create new...** under **Variable** (see exhibit 9). The new
+select **Create new...** under **Variable** (see exhibit 5-9). The new
 variable is created by combining values for an existing variable. The
 steps are as follows:
 
@@ -379,7 +379,7 @@ steps are as follows:
 <!-- -->
 ```
 12. Select the values you want to combine by checking the boxes to the
-    left of the values (see exhibit 10).
+    left of the values (see exhibit 5-10).
 
 13. Create a name for the new value, and press **Create**. The collapsed
     values will appear in gray to indicate that they have already been
@@ -387,9 +387,9 @@ steps are as follows:
 
 14. Wait for the screen to refresh, and press **Done**.
 
-Exhibit 10. Creating new variables
+Exhibit 5-10. Creating new variables
 
-> ![](images/chapter5/image11.png){width="3.1816043307086614in"
+> ![Exhibit 5-10 is a screenshot from the PIAAC IDE tool showing an example of the creating new variable function that is available in the Edit Reports tab.](images/chapter5/image11.png){width="3.1816043307086614in"
 > height="3.5614971566054243in"}
 
 15. The new variable will appear in the **Variable** list in the **Edit
@@ -421,14 +421,14 @@ If you selected two or three variables from which to create new
 variables, you can repeat the process for each of them. Using the
 **Create New Report** or **Edit Report** function, these collapsed
 variables will be listed and available for cross-tabulation (see exhibit
-11). If you have chosen four or more variables (not counting **All
+5-11). If you have chosen four or more variables (not counting **All
 adults**) you will not get the cross-tabulation. You can click
 **Preview** to see how the table will be laid out before retrieving
 data.
 
-Exhibit 11. Edit reports with collapsed variables
+Exhibit 5-11. Edit reports with collapsed variables
 
-![](images/chapter5/image12.png){width="5.041925853018372in"
+![Exhibit 5-11 is a screenshot from the PIAAC IDE tool showing an example of the editing report with collapsed variables function that is available in the Edit Reports tab.](images/chapter5/image12.png){width="5.041925853018372in"
 height="3.7571380139982504in"}
 
 ### 3.E. Create New Report
@@ -436,7 +436,7 @@ height="3.7571380139982504in"}
 From the main **Edit Reports** screen, clicking on **Create New Report**
 brings up the same options as **Edit Report**, but with no checkboxes
 marked and without any new variables you may have created. Thus,
-**Create New Report** (see exhibit 12a and 12b) provides a clean slate
+**Create New Report** (see exhibit 5-12a and 5-12b) provides a clean slate
 for your selections from the first two steps, **Select Criteria** and
 **Select Variables**. Each new report you create will appear at the end
 of the list of reports. If you do not give the report a specific name,
@@ -445,14 +445,14 @@ system will attempt to save it with the "New Report" name again;
 however, it will fail and will prompt you to enter a different name in
 the Name text box.
 
-Exhibit 12a. Creating new reports
+Exhibit 5-12a. Creating new reports
 
-![](images/chapter5/image13.png){width="6.2642104111986in"
+![Exhibit 5-12a is a screenshot from the PIAAC IDE tool showing an example of the creating new report function that is available in the Edit Reports tab.](images/chapter5/image13.png){width="6.2642104111986in"
 height="2.2709503499562556in"}
 
-Exhibit 12b. Creating new reports
+Exhibit 5-12b. Creating new reports
 
-![](images/chapter5/image14.png){width="6.399686132983377in"
+![Exhibit 5-12b is a screenshot from the PIAAC IDE tool showing an example of the creating new report function that is available in the Edit Reports tab.](images/chapter5/image14.png){width="6.399686132983377in"
 height="4.764407261592301in"}
 
 ### 3.F. Format Options 
@@ -460,7 +460,7 @@ height="4.764407261592301in"}
 From the main **Edit Reports** screen, clicking on **Format Options**
 will allow you to make formatting changes applicable to all the reports
 listed. The following formatting options are available using this
-function (see exhibit 13):
+function (see exhibit 5-13):
 
 1.  **Variable Labels (Long)** displays a more detailed description of
     the variables selected in a query than the default short label. For
@@ -505,11 +505,11 @@ function (see exhibit 13):
     default, standard errors are shown inside parentheses, but you have
     the option of choosing to show them without parentheses*.* You can
     preview the effects of your selection in the **Sample Display** area
-    (see the blue-shaded box at the bottom of exhibit 13).
+    (see the blue-shaded box at the bottom of exhibit 5-13).
 
-Exhibit 13. Format options
+Exhibit 5-13. Format options
 
-![](images/chapter5/image15.png){width="3.7040201224846894in"
+![Exhibit 5-13 is a screenshot from the PIAAC IDE tool showing an example of the format options available in the Edit Reports tab.](images/chapter5/image15.png){width="3.7040201224846894in"
 height="4.924821741032371in"}
 
 Be advised that the choices you make in the **Format Options** window
@@ -527,7 +527,7 @@ selections you make are applicable to all the reports listed, although
 you can also change the statistics for an individual report when you
 edit it. (For further information, see **Section 3.C. Edit Report**.)
 
-The following statistics options are available (see exhibit 14):
+The following statistics options are available (see exhibit 5-14):
 
 1.  **Averages.** For the PIAAC assessment, adult performance is
     reported on scales that range from 0 to 500. PIAAC reports the
@@ -569,9 +569,9 @@ The following statistics options are available (see exhibit 14):
 
     -   90^th^ percentile---the top 10 percent of adults
 
-Exhibit 14. Statistics options
+Exhibit 5-14. Statistics options
 
-![](images/chapter5/image16.png){width="2.985404636920385in"
+![Exhibit 5-14 is a screenshot from the TIMSS IDE tool showing an example of the statistics options available in the Edit Reports tab.](images/chapter5/image16.png){width="2.985404636920385in"
 height="3.8220581802274713in"}
 
 As previously noted, the selections you make in **Statistics Options**
@@ -627,16 +627,16 @@ default, all reports are checked. To uncheck one or more reports, you
 can either uncheck the reports individually or click on the **All** box.
 (Doing the latter will uncheck all of the reports and allow you to check
 only those for which you wish to retrieve data.) In the example that
-follows (see exhibit 15), data will be retrieved for all reports.
+follows (see exhibit 5-15), data will be retrieved for all reports.
 
-Exhibit 15. Selecting reports to build
+Exhibit 5-15. Selecting reports to build
 
-![](images/chapter5/image8.png){width="6.486347331583552in"
+![Exhibit 5-15 is a screenshot from the PIAAC IDE tool showing how to select reports to build in the Edit Reports tab.](images/chapter5/image8.png){width="6.486347331583552in"
 height="3.681829615048119in"}
 
 If you wish to delete a report from the list of reports, click
-**Delete** (see 1 in exhibit 15) in the **Action** column. Use the
-**Reset** button (see 2 in exhibit 15), located in the upper-right
+**Delete** (see 1 in exhibit 5-15) in the **Action** column. Use the
+**Reset** button (see 2 in exhibit 5-15), located in the upper-right
 portion of the screen (just below the **Help** button), to restore the
 deleted reports with the criteria and variables selected in the previous
 steps (although caution is advised, as this will not restore any new
@@ -646,7 +646,7 @@ action will also restore the **Format Options** and **Statistics
 Options** to the default settings).
 
 To continue to the last step in the IDE, click the **Build Reports**
-button at the bottom of the page (see 3 in exhibit 15) or the tab at the
+button at the bottom of the page (see 3 in exhibit 5-15) or the tab at the
 top of the page to go to the next screen.
 
 ## 4. Build Reports
@@ -676,15 +676,15 @@ variables and edit reports, before moving on to **Build Reports**. In
 -   Select the **Significance Test** tab to run a significance test on
     your results and customize it.
 
-**Exhibit 16. Building reports overview**
-![](images/chapter5/image17.png){width="6.236431539807524in"
+**Exhibit 5-16. Building reports overview**
+![Exhibit 5-16 is a screenshot from the PIAAC IDE tool showing an overview of the Build Reports tab featuring the Select Report, Export Reports, Chart, and Significance Test options.](images/chapter5/image17.png){width="6.236431539807524in"
 height="3.493234908136483in"}
 
 ### 4.B. View Reports as Data Tables
 
 Once you click on **Build Reports,** the sentence "Some queries may take
 up to two minutes to process." will appear on your screen (see exhibit
-17). Some reports will take longer than others to process, so please do
+5-17). Some reports will take longer than others to process, so please do
 not hit the "Back" button on your browser during this stage. Your table
 will appear once the processing is complete. To select a different table
 to view, go to the **Select Report** drop-down menu and choose the table
@@ -692,81 +692,81 @@ of interest. To change the formatting or statistics options of a table
 or to generate a table from a report not included in your selection,
 return to step 3, **Edit Reports**.
 
-Exhibit 17. Processing data
+Exhibit 5-17. Processing data
 
-![](images/chapter5/image18.png){width="6.291990376202975in"
+![Exhibit 5-17 is a screenshot from the PIAAC IDE tool showing an overview of the building reports page while data is processing.](images/chapter5/image18.png){width="6.291990376202975in"
 height="2.9885936132983377in"}
 
 ### 4.C. Charts
 
 To create a chart, go to **Select Report** on the **Build Reports**
 screen to choose the report of interest from the drop-down menu, and
-then click the **Chart** link (see exhibit 18).
+then click the **Chart** link (see exhibit 5-18).
 
 You will be able to create many types of charts and customize them.
 **Section 4.E. Create Charts -- Chart Options** provides a summary of
 the available features and how they can be customized.
 
-Exhibit 18. Viewing reports as charts
+Exhibit 5-18. Viewing reports as charts
 
-![](images/chapter5/image19.png){width="6.278100393700788in"
+![Exhibit 5-18 is a screenshot from the PIAAC IDE tool showing how to select the chart creating function in the Build Reports tab.](images/chapter5/image19.png){width="6.278100393700788in"
 height="2.0903849518810147in"}
 
 ### 4.D. Create Charts
 
 When you click **Chart,** you will first make selections pertaining to
 **Jurisdiction,** **Year/Study**, and **Statistic**, which are data
-options of the chart (see exhibit 19). All **Jurisdictions** and
+options of the chart (see exhibit 5-19). All **Jurisdictions** and
 **Studies** are selected by default, while you can only choose one
 **Statistic**. Uncheck any of the criteria that you do not wish to
 chart, as long as you have one selected in each category.
 
-**Exhibit 19. Data options for charts**
-![](images/chapter5/image20.png){width="6.613910761154855in"
+**Exhibit 5-19. Data options for charts**
+![Exhibit 5-19 is a screenshot from the PIAAC IDE tool showing the data options available in the chart creating function in the Build Reports tab.](images/chapter5/image20.png){width="6.613910761154855in"
 height="6.74410542432196in"}
 
 Next, you can make selections regarding the chart options located below
 on the same page.
 
 1.  Select **Bar Chart**, **Column Chart**, or **Line Chart** (see 1 in
-    > exhibit 20). If the Percentiles Statistic is selected, you can
+    > exhibit 5-20). If the Percentiles Statistic is selected, you can
     > also select from a **Percentiles Chart** option.
 
 2.  After selecting a chart type, change any data dimensions from the
     > drop-down menus for **Bar**, **Column**, or **Line Values** and
-    > **Values Grouped by** (see 2 in exhibit 20). Any new variables
+    > **Values Grouped by** (see 2 in exhibit 5-20). Any new variables
     > that you created at step 3, **Edit Reports**, will be available
     > for selection, but only if you selected the variables (by clicking
     > the checkbox next to them) and pressed **Done** after you edited
     > the report.
 
 3.  Create your chart by clicking the **Create Chart** button in the
-    > lower-right corner (see 3 in exhibit 20).
+    > lower-right corner (see 3 in exhibit 5-20).
 
 **\
 **
 
-**Exhibit 20. Chart options**
+**Exhibit 5-20. Chart options**
 
-![](images/chapter5/image20.png){width="6.5in" height="6.627987751531059in"}
+![Exhibit 5-20 is a screenshot from the PIAAC IDE tool showing the chart options available in the chart creating function in the Build Reports tab.](images/chapter5/image20.png){width="6.5in" height="6.627987751531059in"}
 
-After creating your chart, you can do the following (see exhibit 21 as
-an example of a **Percentile Chart** and exhibit 22 as an example of a
+After creating your chart, you can do the following (see exhibit 5-21 as
+an example of a **Percentile Chart** and exhibit 5-22 as an example of a
 **Bar Chart**):
 
 1.  Use the drop-down menus to change the jurisdiction and other
-    > variables as applicable (see 1 in exhibit 21).
+    > variables as applicable (see 1 in exhibit 5-21).
 
 2.  Place your cursor over the bars of the chart to see the data points
-    > and value label(s) (see 2 in exhibit 21).
+    > and value label(s) (see 2 in exhibit 5-21).
 
-Exhibit 21. Percentile chart
-![](images/chapter5/image21.png){width="6.607097550306212in"
+Exhibit 5-21. Percentile chart
+![Exhibit 5-21 is a screenshot from the PIAAC IDE tool showing a preview of a percentile chart in the chart creating function in the Build Reports tab.](images/chapter5/image21.png){width="6.607097550306212in"
 height="4.9259011373578305in"}
 
-Exhibit 22. Bar chart
+Exhibit 5-22. Bar chart
 
-![](images/chapter5/image22.png){width="6.5066021434820644in"
+![Exhibit 5-22 is a screenshot from the PIAAC IDE tool showing a preview of a bar chart in the chart creating function in the Build Reports tab.](images/chapter5/image22.png){width="6.5066021434820644in"
 height="4.375428696412948in"}
 
 You can choose **"Back to Chart Options"** (located in the upper-left
@@ -802,7 +802,7 @@ difference likely reflects a true difference in the population.
 
 With your report of interest selected, click the **Significance Test**
 link, which is located to the right of the **Chart** link (see exhibit
-22). You first need to decide which variable you want to test and the
+5-22). You first need to decide which variable you want to test and the
 criterion by which you want to test it (i.e., between jurisdictions,
 within variables, or across years). You will compare or "look across"
 the variable's range of values, so it must have more than one value. You
@@ -812,7 +812,7 @@ for a single jurisdiction. Once the primary criterion is chosen, all
 other criteria must be restricted to a single value.
 
 The general steps for running significance tests are as follows (see
-exhibit 23):
+exhibit 5-23):
 
 1.  In the **Significance Test** window, select **Between
     > Jurisdictions**, **Within Variables**, or **Across Years**. Then,
@@ -838,7 +838,7 @@ exhibit 23):
     > results on a world map, highlighting the selected jurisdictions
     > different from the one that has been identified as the benchmark.
     > Identifying a benchmark jurisdiction is done on the map itself
-    > (see exhibit 25). The map output is only available when **Between
+    > (see exhibit 5-25). The map output is only available when **Between
     > Jurisdictions** is selected in the first step.
 
 23. Additional options allow you to select **Show Score Details** to
@@ -856,9 +856,9 @@ exhibit 23):
 26. Click the **Done** button in the upper- or lower-right corner of the
     > screen to run the significance tests.
 
-Exhibit 23. Significance test options
+Exhibit 5-23. Significance test options
 
-![](images/chapter5/image23.png){width="6.4941185476815395in"
+![Exhibit 5-23 is a screenshot from the PIAAC IDE tool showing the significance test options available in the Build Reports tab.](images/chapter5/image23.png){width="6.4941185476815395in"
 height="4.465343394575678in"}
 
 When the table option is selected, you will get a significance test
@@ -866,7 +866,7 @@ matrix in which you will see the differences and *p* values. Using the
 symbols shown in the legend of the matrix, an indication is also
 provided of whether one estimate is significantly lower or higher than
 another estimate or whether there is no significant difference (see
-exhibit 24). Most comparisons are independent with an alpha level of
+exhibit 5-24). Most comparisons are independent with an alpha level of
 .05, except for within-jurisdiction comparisons on any given year, which
 are dependent with an alpha level of .05. For example, gender
 differences are treated as dependent samples with standard errors
@@ -876,18 +876,18 @@ For more information on the significance testing between years/studies,
 see section **5. Statistical Notations and Other Notes** under *Linking
 error*.
 
-Exhibit 24. Significance test table output
+Exhibit 5-24. Significance test table output
 
-![](images/chapter5/image24.png){width="2.9332928696412948in"
+![Exhibit 5-24 is a screenshot from the PIAAC IDE tool showing an example of a significance test table output in the Build Reports tab.](images/chapter5/image24.png){width="2.9332928696412948in"
 height="4.443720472440945in"}
 
-Exhibit 25. Map of significance tests
+Exhibit 5-25. Map of significance tests
 
-![](images/chapter5/image25.png){width="6.36410542432196in"
+![Exhibit 5-25 is a screenshot from the PIAAC IDE tool showing an example of a significance test map output in the Build Reports tab.](images/chapter5/image25.png){width="6.36410542432196in"
 height="7.170225284339457in"}
 
 When the map option is selected, a global map is shown with the selected
-jurisdictions shaded (see exhibit 25). The focal jurisdiction is shaded
+jurisdictions shaded (see exhibit 5-25). The focal jurisdiction is shaded
 in teal green and represents a comparison for all the other
 jurisdictions. The other jurisdictions are shaded in colors that
 indicate whether they are higher, lower, or not significantly different
@@ -906,14 +906,14 @@ Gap Analysis is included in the IDE to compare differences in gaps shown
 in a map, table, or chart. These gap differences can be compared between
 jurisdictions and/or across years.
 
-**Exhibit 26. Gap analysis link selection**
+**Exhibit 5-26. Gap analysis link selection**
 
-![](images/chapter5/image26.png){width="6.3927930883639545in"
+![Exhibit 5-26 is a screenshot from the PIAAC IDE tool showing how to select the gap analysis function in the Build Reports tab.](images/chapter5/image26.png){width="6.3927930883639545in"
 height="2.1225087489063865in"}
 
 With your report of interest selected, click on the **Gap Analysis**
 link, which is located to the right of the **Significance Test** link
-(see exhibit 26). You will need to decide which variable you would like
+(see exhibit 5-26). You will need to decide which variable you would like
 to test (e.g., gender) and the basis to use for comparison (i.e.,
 between jurisdictions or across years). The difference measure, or gap,
 can be viewed between groups, between years, between groups and years,
@@ -934,13 +934,13 @@ for males and females, you can:
 -   compare the gap for females at two time points in one jurisdiction
     to the gap for females at two time points in another jurisdiction.
 
-**Exhibit 27. Gap analysis options**
+**Exhibit 5-27. Gap analysis options**
 
-![](images/chapter5/image27.png){width="6.40424321959755in"
+![Exhibit 5-27 is a screenshot from the PIAAC IDE tool showing the gap analysis options available in the Build Reports tab.](images/chapter5/image27.png){width="6.40424321959755in"
 height="4.15873031496063in"}
 
 The steps for running a gap analysis are similar to those for conducting
-a statistical significance test (see exhibit 27). Thus, to run a gap
+a statistical significance test (see exhibit 5-27). Thus, to run a gap
 analysis, follow the instructions under **Section 4.E. Significance
 Tests**, noting the following differences:
 
@@ -961,7 +961,7 @@ The gap analysis output is presented in a format similar to that of the
 significance test output, with one difference: the difference estimate
 shown in the output is the difference between the gaps selected for
 analysis. Note that you will still see the significance of these
-differences just like in a significance test. For example, exhibit 28
+differences just like in a significance test. For example, exhibit 5-28
 shows the difference between jurisdictions in the average problem
 solving in technology-rich environments score gap between males and
 females.
@@ -975,9 +975,9 @@ only when the gaps go in the same direction (e.g., comparing a 5-point
 gender gap favoring females in one jurisdiction with a 15-point gender
 gap favoring females in another jurisdiction).
 
-**Exhibit 28. Gap analysis output**
+**Exhibit 5-28. Gap analysis output**
 
-![](images/chapter5/image28.png){width="3.4977198162729657in"
+![Exhibit 5-28 is a screenshot from the PIAAC IDE tool showing an example output report based on the gap analysis options.](images/chapter5/image28.png){width="3.4977198162729657in"
 height="3.467654199475066in"}
 
 NOTE: A gap analysis across years cannot be combined with the **Between
@@ -996,29 +996,29 @@ of statistics.
 **\
 **
 
-**Exhibit 29. Regression analysis link selection**
+**Exhibit 5-29. Regression analysis link selection**
 
-![](images/chapter5/image29.png){width="6.5in" height="2.1041666666666665in"}
+![Exhibit 5-29 is a screenshot from the PIAAC IDE tool showing how to select the regression analysis function in the Build Reports tab.](images/chapter5/image29.png){width="6.5in" height="2.1041666666666665in"}
 
 A regression analysis can be performed based on the selections that were
 made to build your table in the IDE by selecting the **Regression
-Analysis** button above the table (see exhibit 29). The Measure, or
+Analysis** button above the table (see exhibit 5-29). The Measure, or
 continuous variable, that you selected in Step 1 and that is displayed
 in your table will automatically become your dependent variable for the
-regression analysis (in exhibit 29 this is "PIAAC Literacy: Overall
+regression analysis (in exhibit 5-29 this is "PIAAC Literacy: Overall
 scale"). Please note that continuous variables cannot be used as
 independent variables. The variables that you selected in Step 2 and
 that are displayed in your table will become your independent variable
-options for the regression analysis (in exhibit 29 this is "About
+options for the regression analysis (in exhibit 5-29 this is "About
 yourself -- Learning strategies -- Relate to real life").
 
-**Exhibit 30. Regression analysis options**
+**Exhibit 5-30. Regression analysis options**
 
-![](images/chapter5/image30.png){width="6.4842421259842515in"
+![Exhibit 5-30 is a screenshot from the PIAAC IDE tool showing the options for the regression analysis output.](images/chapter5/image30.png){width="6.4842421259842515in"
 height="3.5262248468941384in"}
 
 The general steps for running a regression analysis are as follows (see
-exhibit 30):
+exhibit 5-30):
 
 1.  In the **Regression Analysis** pop-up window, enter a **Name**
     limited to 25 characters, using only letters, numbers, spaces,
@@ -1045,11 +1045,11 @@ exhibit 30):
     screen to run the regression analysis.
 
 After you have clicked **Done**, your regression analysis output will
-load onto the screen (see exhibit 31). A 0-1 contrast coding is used to
+load onto the screen (see exhibit 5-31). A 0-1 contrast coding is used to
 code the independent variable, where the first subgroup of the
 independent variable is the reference group. Using dummy-coded variables
 in a linear regression is useful for comparing each subgroup against a
-reference group. For example, in exhibit 31, if the subgroup "Not at
+reference group. For example, in exhibit 5-31, if the subgroup "Not at
 all" is the reference group for the independent variable **About
 yourself -- Learning strategies -- Relate to real life \[IQ04B\]**, the
 IDE creates a "Very little" dummy variable (1 for respondents who
@@ -1059,11 +1059,11 @@ high extent" dummy variable (1 for respondents who answered "To a high
 extent," 0 otherwise), and a "To a very high extent" dummy variable (1
 for respondents who answered "To a very high extent," 0 otherwise).
 
-**Exhibit 31. Regression analysis output**
+**Exhibit 5-31. Regression analysis output**
 
-![](images/chapter5/image31.png){width="6.5in" height="3.566666666666667in"}
+![Exhibit 5-31 is a screenshot from the PIAAC IDE tool showing an example of the regression analysis output.](images/chapter5/image31.png){width="6.5in" height="3.566666666666667in"}
 
-Using the output from exhibit 31 you can compare the average literacy
+Using the output from exhibit 5-31 you can compare the average literacy
 scores of adults who report "Not at all" to the background question to
 average literacy scores of adults who report "Very little," "To some
 extent," "To a high extent," or "To a very high extent" to the
@@ -1088,14 +1088,14 @@ and significance tests. The report names that appear in the **Export
 Reports** window are those that were checked off at step 3, **Edit
 Reports**.
 
-Exhibit 32. Export report options
+Exhibit 5-32. Export report options
 
-![](images/chapter5/image32.png){width="2.9932097550306214in"
+![Exhibit 5-32 is a screenshot from the PIAAC IDE tool showing the export options, including HTML, Excel, Word, and PDF.](images/chapter5/image32.png){width="2.9932097550306214in"
 height="3.8196402012248467in"}
 
 Check the files you want to export and select one of the file formats:
 **HTML** (print-friendly), **Excel**, **Word**, or **PDF** (see exhibit
-32). All reports that you select at the same time will be exported in
+5-32). All reports that you select at the same time will be exported in
 one file. In the Excel format, you will be able to increase the decimal
 places visible (wherever more precision is available in the database).
 Because there are many different operating systems in use, you may get
