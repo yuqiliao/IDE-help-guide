@@ -1,20 +1,17 @@
 # ICILS IDE Walkthrough {#icilswalkthrough}
-
 There are four general steps for exploring each IDE page (see exhibit 7-1). Each step is described in more detail in the following sub-sections. 
 
 Exhibit 7-1. What you will see in the IDE environment and what each step entails
 ![](images/chapter7/four-steps.png){width="100%" style="display: block; margin: 0 auto"}
 
 
-## 1. Select Criteria
-
-### 1.A. Overview
-
+## Select Criteria
+### Overview
 Your data query in the ICILS IDE begins on the **Select Criteria**
 screen (see exhibit 7-1).
 
 Select a **Display** from the drop-down menu. Once the screen resets,
-you can choose one or more **Years**, **Measures**, and
+you can choose one or more **Years**, **Dependent Variables**, and
 **Jurisdictions** for the data you wish to view or compare. Use the
 **Reset** button, located in the upper-right portion of the screen (just
 below the **Help** button), to cancel your selections and begin again.
@@ -23,13 +20,11 @@ Click on a blue sideways-facing arrow (►) to open up a category and
 click on a blue downward‑facing arrow (▼) to close a category.
 
 Exhibit 7-2. Selecting criteria
-
 ![Exhibit 7-2 is a screenshot from the ICILS IDE tool showing the Select
 Criteria tab.](images/chapter7/image2.png){width="6.5in"
 height="5.111805555555556in"}
 
-### 1.B. Choose Display
-
+### Choose Display
 Under **Display**, you have the choice of **Student** and **Teacher**,
 which corresponds to running either a student- or teacher-level
 analysis. Selecting the Student option in the display drop-down list
@@ -39,20 +34,18 @@ while selecting the Teacher option provides teacher or school
 information that is an attribute of teachers (with estimates reported,
 for example, in terms of the "percentage of teachers"). Once a display
 is chosen, the screen resets and you can select **Year**(s),
-**Measure**(s), and **Jurisdiction**(s).
+**Dependent Variable**(s), and **Jurisdiction**(s).
 
-### 1.C. Choose Year
-
-At the top of the **Measure** and **Jurisdiction** sections, you have
+### Choose Year
+At the top of the **Dependent Variable** and **Jurisdiction** sections, you have
 the choice of selecting 2018 and/or 2013 by checking the appropriate
 box. To include data from both years, check the "All Years" box to the
 left of the individual years. CIL data is available for both years, and
 CT data is available for 2018.
 
-### 1.D. Choose Measure
-
+### Choose Dependent Variable
 After choosing a display, you can choose one or more outcome variables
-under Measure, including the overall scales for CIL or CT (Student
+under Dependent Variable, including the overall scales for CIL or CT (Student
 display only) and other continuous variables. These variables fall into
 different categories. For example, the variable "Age of student" can be
 found in the Student demographics category in the Student display, and
@@ -65,9 +58,8 @@ the Student and Teacher displays, selecting the variable "Percentage
 across full sample" under the *Population* category will allow you to
 calculate percentage statistics based on the full sample.
 
-### 1.E. Choose Jurisdiction
-
-With your **Measure**(s) and **Year**(s) selected, next choose at least
+### Choose Jurisdiction
+With your **Dependent Variable**(s) and **Year**(s) selected, next choose at least
 one **Jurisdiction**.
 
 Jurisdictions are found under the following groups: **Countries** and
@@ -95,20 +87,17 @@ follows:
     > the group will not deselect your choices.
 
 Exhibit 7-3. Choosing jurisdictions
-
 ![Exhibit 7-3 is a screenshot from the ICILS IDE tool showing
 jurisdictions available in the Select Criteria
 tab.](images/chapter7/image3.png){width="6.5in" height="5.1305555555555555in"}
 
-To continue in the IDE, click the **Select Variables** button at the
+To continue in the IDE, click the **Select Grouping Variables** button at the
 bottom right of the page or the tab at the top of the page to go to the
 next screen (see exhibit 7-3).
 
-## 2. Select Variables
-
-### 2.A. Overview
-
-Step 2, **Select Variables**, can only be accessed after choosing
+## Select Grouping Variables
+### Overview
+Step 2, **Select Grouping Variables**, can only be accessed after choosing
 criteria at step 1, **Select Criteria**.
 
 To continue your data query and edit a report, *you must choose at least
@@ -117,22 +106,20 @@ one variable on this screen.* You can browse for variables using the
 function (see exhibit 7-4). You can return to this screen to change
 variable selections at any time.
 
-Exhibit 7-4. Select variables overview
-
+Exhibit 7-4. Select grouping variables overview
 ![Exhibit 7-4 is a screenshot from the ICILS IDE tool showing an overview
-of the Select Variables tab.](images/chapter7/image4.png){width="6.5in"
+of the Select Grouping Variables tab.](images/chapter7/image4.png){width="6.5in"
 height="4.470138888888889in"}
 
-### 2.B. Search Using Category and Sub Category Lists
-
-On the **Select Variables** screen, choose at least one variable for
+### Search Using Category and Sub Category Lists
+On the **Select Grouping Variables** screen, choose at least one variable for
 your report. One way to do this is to search for variables using the
 **Category** and **Sub Category** lists. If you don't wish to choose
 from any of the specified categories and subcategories, then select
-**All students** in the **All Students** category.
+**All cases** in the **All cases** category.
 
 The variables shown are tied to the criteria you selected at step 1
-(**Measure**, **Year**, and **Jurisdiction**), which are indicated at
+(**Dependent Variable**, **Year**, and **Jurisdiction**), which are indicated at
 the top of the screen. To change any of these criteria, return to step
 1, **Select Criteria**.
 
@@ -140,50 +127,45 @@ To browse for variables, get details about them, select them, and view
 them:
 
 1.  Click the blue arrows to open and close categories and subcategories
-    > of variables (see exhibit 7-5).
+    of variables (see exhibit 7-5).
 
-```{=html}
-<!-- -->
-```
-4.  Click **details** or **hide details** to show or hide the full title
-    > of a given variable, the ICILS ID, and the values (i.e., value
-    > labels). Note that some variables have the same or similar short
-    > titles, but comparing details will show you how they differ. See
-    > the example in exhibit 7-5, which shows two **Immigration status**
-    > variables (SIMMIG and SIMMBGR). The differences between these two
-    > variables are described in the details.
+2.  Click **details** or **hide details** to show or hide the full title
+    of a given variable, the ICILS ID, and the values (i.e., value
+    labels). Note that some variables have the same or similar short
+    titles, but comparing details will show you how they differ. See
+    the example in exhibit 7-5, which shows two **Immigration status**
+    variables (SIMMIG and SIMMBGR). The differences between these two
+    variables are described in the details.
 
-5.  Click the checkbox next to a variable to select it for your
-    > analysis/report. You will see the count increase next to **View
-    > Selected**.
+3.  Click the checkbox next to a variable to select it for your
+    analysis/report. You will see the count increase next to **View
+    Selected**.
 
-6.  Click the **View Selected** tab to see the variables you have
-    > chosen. To return to the full list of variables by category, click
-    > the **View All** tab.
+4.  Click the **View Selected** tab to see the variables you have
+    chosen. To return to the full list of variables by category, click
+    the **View All** tab.
 
-7.  Remember to select the year for which you wish to build a report and
-    > make sure that data are available for your chosen year and
-    > variables.
+5.  Remember to select the year for which you wish to build a report and
+    make sure that data are available for your chosen year and
+    variables.
 
-8.  Searching for variables is an option from the **Search** box. See
-    > **Section 2.C. Search Function** for more details about this
-    > function.
+6.  Searching for variables is an option from the **Search** box. See
+    **Section 2.C. Search Function** for more details about this
+    function.
 
-Exhibit 7-5. Select variables using category and sub category lists
-
+Exhibit 7-5. Select grouping variables using category and sub category lists
 ![Exhibit 7-5 is a screenshot from the ICILS IDE tool showing how to
 select a variable from the categories and sub categories listed in the
-Select Variables tab.](images/chapter7/image5.png){width="6.5in"
+Select Grouping Variables tab.](images/chapter7/image5.png){width="6.5in"
 height="4.495138888888889in"}
 
 When you have selected the variable(s) you want to include, continue by
 clicking the **Edit Reports** button at the bottom of the page or the
 tab at the top of the page to go to the next screen.
 
-### 2.C. Search Function
-
+### Search Function
 The second way to search for variables is to use the **Search** function
-on the **Select Variables** screen.
+on the **Select Grouping Variables** screen.
 
 Type a term in the **Search** box and click **Go** (or hit "Enter" on
 your keyboard) to find variables by keywords in the question and/or
@@ -193,8 +175,7 @@ details for the variable (see exhibit 7-6). If you use multiple keywords,
 contained in quotes. The variable(s) that include the search term(s) in
 the question or its details will be listed in the search results.
 
-Exhibit 7-6. Select variables using the search function
-
+Exhibit 7-6. Select grouping variables using the search function
 ![Exhibit 7-6 is a screenshot from the ICILS IDE tool showing how to
 select a variable using the search
 function.](images/chapter7/image6.png){width="6.5in"
@@ -204,10 +185,8 @@ When you have selected the variable(s) you want to include, continue by
 clicking the **Edit Reports** button at the bottom of the page or the
 tab at the top of the page to go to the next screen.
 
-## 3. Edit Reports
-
-### 3.A. Overview
-
+## Edit Reports
+### Overview
 You can access step 3, **Edit Reports**, after choosing criteria at step
 1, **Select Criteria**, and choosing variables at step 2, **Select
 Variables**. The IDE will automatically build reports based on your
@@ -239,12 +218,11 @@ variables (not counting **All Cases**), you will also see a
 cross-tabulated report for these variables. If you have chosen four or
 more variables, you will get tables for each variable, but you won't get
 the cross-tabulation. If your selected criteria include more than one
-measure (e.g., an overall scale and one or more continuous variables), a
-separate set of data reports will be generated for each measure (see
+dependent variable (e.g., an overall scale and one or more continuous variables), a
+separate set of data reports will be generated for each dependent variable (see
 exhibit 7-7).
 
 **Exhibit 7-7. Edit reports overview**
-
 ![Exhibit 7-7 is a screenshot from the ICILS IDE tool showing an overview
 of the Edit Reports tab.](images/chapter7/image7.png){width="6.5in"
 height="3.7284722222222224in"}
@@ -255,16 +233,15 @@ number based on the variable(s) chosen during the criteria selection.
 Under the **All** tab, reports may be chosen for the report-building
 phase, either by selecting **All** or selecting individual reports. The
 **Action** column gives you the option to **Preview**, **Edit**,
-**Delete**, or **Copy** the report. The **Measure** column shows which
-measure the report will portray. The **Variable** column indicates the
+**Delete**, or **Copy** the report. The **Dependent Variable** column shows which
+dependent variable the report will portray. The **Grouping Variable** column indicates the
 variable(s) included in the report. The **Year** column shows which
 years you have selected for comparison. The **Jurisdiction** column
 shows the countries and subnational education systems selected for
 comparison, and the **Statistic** column provides the type of statistic
 output that will be generated in the report-building phase.
 
-### 3.B. Preview Report
-
+### Preview Report
 Select **Preview**, in the **Action** column (see exhibit 7-7), to see how
 your report will be laid out. The preview will not provide actual data
 but will show how the data will be arranged in rows and columns (see
@@ -272,13 +249,11 @@ exhibit 7-8). You can select **Preview** at any time to see how your
 changes will affect the report's final layout.
 
 Exhibit 7-8. Using preview report
-
 ![Exhibit 7-8 is a screenshot from the ICILS IDE tool showing an example
 of the preview function that is available in the Edit Reports
 tab.](images/chapter7/image8.png){width="6.5in" height="2.8618055555555557in"}
 
-### 3.C. Edit Report
-
+### Edit Report
 To edit the report, select the **Edit** command, in the **Action**
 column, next to the report number (see exhibit 7-7). (Another way to edit
 a report is to select the **Edit** tab when you are previewing a
@@ -294,7 +269,7 @@ report.) The following can be done using the edit function (see exhibit
 ```{=html}
 <!-- -->
 ```
-9.  Select a measure. You can choose a measure if more than one was
+9.  Select a dependent variable. You can choose a dependent variable if more than one was
     > selected at step 1.
 
 10. Select which jurisdictions, variables, years (if applicable), and
@@ -305,7 +280,7 @@ report.) The following can be done using the edit function (see exhibit
     > Statistics Options**.)
 
 11. To create a new variable while editing a report, click on **Create
-    > New...** under the **Variable** heading. Section 3.D. below
+    > New...** under the **Grouping Variable** heading. Section 3.D. below
     > explains the process for creating a new variable.
 
 12. Change the table layout by dragging elements to determine which
@@ -314,7 +289,6 @@ report.) The following can be done using the edit function (see exhibit
     > will explain this.
 
 Exhibit 7-9. Editing reports
-
 ![Exhibit 7-9 is a screenshot from the ICILS IDE tool showing an example
 of the editing report function that is available in the Edit Reports
 tab.](images/chapter7/image9.png){width="6.5in" height="4.870138888888889in"}
@@ -322,15 +296,14 @@ tab.](images/chapter7/image9.png){width="6.5in" height="4.870138888888889in"}
 To save changes, make sure to select **Done** in the upper-right portion
 of the screen before closing the **Edit Report** window.
 
-### 3.D. Create New Variables
-
+### Create New Variables
 The levels of a categorical variable can be collapsed to create a new
 variable. To do so, select **Edit**, in the **Action** column, and
-select **Create new...** under **Variable** (see exhibit 7-9). The new
+select **Create new...** under **Grouping Variable** (see exhibit 7-9). The new
 variable is created by combining values for an existing variable. The
 steps are as follows:
 
-1.  Click **Create new\...** under the **Variable** heading.
+1.  Click **Create new\...** under the **Grouping Variable** heading.
 
 2.  Select the variable for which you wish to combine values.
 
@@ -346,7 +319,7 @@ steps are as follows:
 
 15. Wait for the screen to refresh, and press **Done**.
 
-16. The new variable will appear in the **Variable** list in the **Edit
+16. The new variable will appear in the **Grouping Variable** list in the **Edit
     > Report** window or **Create New Report** window, designated as
     > "collapsed."
 
@@ -355,7 +328,6 @@ steps are as follows:
     > retrieving data.
 
 Exhibit 7-10. Creating new variables
-
 ![Exhibit 7-10 is a screenshot from the ICILS IDE tool showing an example
 of the creating new variable function that is available in the Edit
 Reports tab.](images/chapter7/image10.png){width="3.590200131233596in"
@@ -363,13 +335,13 @@ height="4.0in"}
 
 A new variable that you create is applicable only to a specific report;
 it does not apply to the other reports listed on the **Edit Reports**
-screen. For example, if you selected multiple measures of the overall
+screen. For example, if you selected multiple dependent variables of the overall
 scale CIL for analysis, then you would need to create the new variable
-for each measure, or create a copy of the report and edit it
+for each dependent variable, or create a copy of the report and edit it
 accordingly. To do the latter, click on **Copy** report on the **Edit
 Reports** screen (see exhibit 7-7). The copied report will appear at the
 end of the list of reports. Then, for the new copy, click on **Edit**
-(using the above example, you can change the measure and give the report
+(using the above example, you can change the dependent variable and give the report
 a new name).
 
 You can repeat the process and combine different values of a variable to
@@ -387,31 +359,27 @@ Cases**), you won't get the cross-tabulation. You can click **Preview**
 to see how the table will be laid out before retrieving data.
 
 Exhibit 7-11. Edit reports with collapsed variables
-
 ![Exhibit 7-11 is a screenshot from the ICILS IDE tool showing an example
 of the editing report with collapsed variables function that is
 available in the Edit Reports tab.](images/chapter7/image11.png){width="6.5in"
 height="4.870138888888889in"}
 
-### 3.E. Create New Report
-
+### Create New Report
 From the main **Edit Reports** screen, clicking on **Create New Report**
 brings up the same options as **Edit Report**, but with no checkboxes
 marked and without any new variables you may have created. Thus,
 **Create New Report** provides a clean slate for your selections from
-the first two steps, **Select Criteria** and **Select Variables** (see
+the first two steps, **Select Criteria** and **Select Grouping Variables** (see
 exhibit 7-12). Each new report you create will appear at the end of the
 list of reports. If you do not give the report a specific name, it will
 be called "New Report."
 
 Exhibit 7-12. Creating new reports
-
 ![Exhibit 7-12 is a screenshot from the ICILS IDE tool showing an example
 of the creating new report menu that is available in the Edit Reports
 tab.](images/chapter7/image12.png){width="6.5in" height="4.854861111111111in"}
 
-### 3.F. Format Options
-
+### Format Options
 From the main **Edit Reports** screen, clicking on **Format Options**
 will allow you to make formatting changes applicable to all the reports
 listed. The following formatting options are available using this
@@ -464,7 +432,6 @@ function (see exhibit 7-13):
     > blue‑shaded box at the bottom of exhibit 7-13 below).
 
 Exhibit 7-13. Format options
-
 ![Exhibit 7-13 is a screenshot from the ICILS IDE tool showing an example
 of the format options available in the Edit Reports
 tab.](images/chapter7/image13.png){width="2.9212576552930885in"
@@ -477,8 +444,7 @@ Use the **Reset** button, located in the upper-right portion of the main
 **Format Options** to the default settings (although caution is advised,
 as this will also delete any new reports that you have created).
 
-### 3.G. Statistics Options
-
+### Statistics Options
 Available only from the main **Edit Reports** screen, clicking on
 **Statistics Options** allows you to designate up to two statistics. The
 selections you make are applicable to all the reports listed, although
@@ -493,7 +459,7 @@ The following statistics options are available (see exhibit 7-14):
     reported on scales that range from 100 to 700. By default, the
     standard errors of the scores are shown in parentheses.
 
-2.  **Standard deviations.** The standard deviation is a measure of how
+2.  **Standard deviations.** The standard deviation is a dependent variable of how
     widely or narrowly dispersed scores are for a particular dataset.
     Under general normality assumptions, 95 percent of the scores are
     within two standard deviations of the mean. For example, if the
@@ -524,7 +490,6 @@ The following statistics options are available (see exhibit 7-14):
     90^th^ percentile -- the top 10 percent of students
 
 Exhibit 7-14. Statistics options
-
 ![Exhibit 7-14 is a screenshot from the ICILS IDE tool showing an example
 of the statistics options available in the Edit Reports
 tab.](images/chapter7/image14.png){width="3.7291666666666665in" height="4.75in"}
@@ -562,8 +527,7 @@ those published by IEA or NCES. This is due to the use of different
 reporting standards, such as suppression rules related to sample size
 and suppression due to response rates.
 
-### 3.H. Select Reports to Build
-
+### Select Reports to Build
 As you edit your reports, you can give them distinct names (up to 50
 characters) to differentiate them, as well as make changes to the
 jurisdictions and variables previously selected, the statistics, and the
@@ -580,7 +544,6 @@ for which you wish to retrieve data.) In the example that follows (see
 exhibit 7-15), data will be retrieved for all reports.
 
 Exhibit 7-15. Selecting reports to build
-
 ![Exhibit 7-15 is a screenshot from the ICILS IDE tool showing how to
 select reports to build in the Edit Reports
 tab.](images/chapter7/image15.png){width="6.5in" height="3.790277777777778in"}
@@ -596,10 +559,8 @@ To continue to the last step in the IDE, click the **Build Reports**
 button at the bottom of the page (see 3 above) or the tab at the top of
 the page to go to the next screen.
 
-## 4. Build Reports
-
-### 4.A. Overview
-
+## Build Reports
+### Overview
 You can access step 4, **Build Reports**, after choosing criteria at
 step 1, **Select Criteria**, in which case the default report built will
 provide data for just averages and for the **All Cases** variable. After
@@ -636,14 +597,12 @@ Reports**. In **Build Reports**, you can do the following:
     > it.
 
 Exhibit 7-16. Building reports overview
-
 ![Exhibit 7-16 is a screenshot from the ICILS IDE tool showing an overview
 of the Build Reports tab featuring the Select Report, Export Reports,
 Chart, Significance Test, Gap Analysis, and Regression Analysis
 options.](images/chapter7/image16.png){width="6.5in" height="4.76875in"}
 
-### 4.B. View Reports as Data Tables
-
+### View Reports as Data Tables
 Some reports will take longer than others to process, so do not hit the
 "Back" button on your browser once you have clicked on **Build Reports**
 (see exhibit 7-17). Your table will appear once the processing is
@@ -657,8 +616,7 @@ Exhibit 7-17. Processing data![Exhibit 7-17 is a screenshot from the ICILS
 IDE tool showing data processing in the Build Reports
 tab.](images/chapter7/image17.png){width="6.5in" height="3.286111111111111in"}
 
-### 4.C. Charts
-
+### Charts
 To create a chart, go to **Select Report** on the **Build Reports**
 screen to choose the report of interest from the drop-down menu, and
 then click the **Chart** link (see exhibit 7-18).
@@ -668,13 +626,11 @@ You will be able to create many types of charts and customize them.
 the available features and how they can be customized.
 
 Exhibit 7-18. Viewing reports as charts
-
 ![Exhibit 7-18 is a screenshot from the ICILS IDE tool showing how to
 select the chart creating function in the Build Reports
 tab.](images/chapter7/image18.png){width="6.5in" height="2.1256944444444446in"}
 
-### 4.D. Create Charts
-
+### Create Charts
 When you click **Chart**, you will first make selections of
 **Jurisdiction**, **Year**, **and** **Statistic** (see exhibit 7-19). All
 **Jurisdictions** and **Years** are selected by default, while you can
@@ -691,13 +647,11 @@ Once you are finished with the Data Options, click the **Create**
 **Chart** button in the lower-right corner of the screen.
 
 Exhibit 7-19. Data options for charts
-
 ![Exhibit 7-19 is a screenshot from the ICILS IDE tool showing the data
 options available in the chart creating function in the Build Reports
 tab.](images/chapter7/image19.png){width="6.5in" height="6.646527777777778in"}
 
-### 4.E. Create Charts -- Chart Options
-
+### Create Charts -- Chart Options
 Next, you can make selections regarding the chart options located at the
 bottom of the same window.
 
@@ -719,7 +673,6 @@ bottom of the same window.
     > lower-right corner (see 3 in exhibit 7-20).
 
 **Exhibit 7-20. Chart options**
-
 ![Exhibit 7-20 is a screenshot from the ICILS IDE tool showing the chart
 options available in the chart creating function in the Build Reports
 tab.](images/chapter7/image20.png){width="6.5in" height="6.666666666666667in"}
@@ -735,13 +688,11 @@ an example of a **Percentile Chart** and exhibit 23 as an example of a
     > and value label(s).
 
 Exhibit 7-21. Percentile chart
-
 ![Exhibit 7-21 is a screenshot from the ICILS IDE tool showing a preview
 of a percentile chart in the chart creating function in the Build
 Reports tab.](images/chapter7/image21.png){width="6.5in" height="5.05625in"}
 
 Exhibit 7-22. Bar chart
-
 ![Exhibit 7-22 is a screenshot from the ICILS IDE tool showing a preview
 of a bar chart in the chart creating function in the Build Reports
 tab.](images/chapter7/image22.png){width="6.5in" height="4.28125in"}
@@ -761,13 +712,12 @@ in step 3, **Edit Reports**, go back to step 3, and check the ones you
 want. Then, when you advance to step 4, **Build Reports**, the reports
 will appear in the **Select Report** drop-down list. If you need to
 create new reports, go back to step 1, **Select Criteria**, and/or step
-2, **Select Variables**. Remember to export any completed charts you
+2, **Select Grouping Variables**. Remember to export any completed charts you
 want to save by clicking **Done** and using the **Export Reports**
 function before leaving the **Build Reports** screen. (For further
 information, see **Section 4.I. Export Reports**.)
 
-### 4.F. Significance Tests
-
+### Significance Tests
 Tests for statistical significance indicate whether observed differences
 between estimates are likely to have occurred because of sampling error
 or chance. "Significance" here does not imply any judgment about
@@ -830,7 +780,6 @@ exhibit 7-23):
     > screen to run the significance tests.
 
 Exhibit 7-23. Significance test options
-
 ![Exhibit 7-23 is a screenshot from the ICILS IDE tool showing the
 significance test options available in the Build Reports
 tab.](images/chapter7/image23.png){width="6.5in" height="5.050694444444445in"}
@@ -865,7 +814,6 @@ years within the IDE take into account the linking errors applicable to
 each display.
 
 Exhibit 7-24. Significance test table output
-
 ![Exhibit 7-24 is a screenshot from the ICILS IDE tool showing an example
 of a significance test table output in the Build Reports
 tab.](images/chapter7/image24.png){width="6.5in" height="5.566666666666666in"}
@@ -875,7 +823,7 @@ countries and subnational education systems selected shaded in different
 colors (see exhibit 7-25). The focal jurisdiction is shaded in teal green,
 with all other countries compared to it. The other countries are shaded
 in colors that indicate whether they are higher, lower, or not
-significantly different from the focal jurisdiction on whatever measure
+significantly different from the focal jurisdiction on whatever dependent variable
 has been selected. (Note that a light shade of gray is the default color
 for jurisdictions not selected for comparison.) When you hover over a
 jurisdiction, a text bubble displays the numerical difference in
@@ -885,19 +833,16 @@ another country. You may also choose a different variable category for
 comparison by using the drop‑down menu above the map.
 
 Exhibit 7-25. Map of significance tests
-
 ![Exhibit 7-25 is a screenshot from the ICILS IDE tool showing an example
 of a significance test map output in the Build Reports
 tab.](images/chapter7/image25.png){width="6.5in" height="7.667361111111111in"}
 
-### 4.G. Gap Analysis
-
+### Gap Analysis
 Gap analysis is included in the IDE to compare differences in gaps shown
 in a map, table, or chart. Gap differences can be compared between
 jurisdictions and/or across years.
 
 Exhibit 7-26. Gap analysis link selection
-
 ![Exhibit 7-26 is a screenshot from the ICILS IDE tool showing how to
 select the gap analysis function in the Build Reports
 tab.](images/chapter7/image26.png){width="6.5in" height="2.140277777777778in"}
@@ -906,7 +851,7 @@ With your report of interest selected, click on the **Gap Analysis**
 link, which is located to the right of the **Significance Test** link
 (see exhibit 7-26). You will need to decide which variable you would like
 to test (e.g., gender) and the criterion by which you want to test it
-(i.e., between jurisdictions or across years). The difference measure,
+(i.e., between jurisdictions or across years). The difference dependent variable,
 or gap, can be viewed between groups, between years, between groups and
 years, or between percentiles within the selected variable. For example,
 if you compute average CIL scores for two countries at two time points
@@ -925,7 +870,6 @@ for males and females, you can:
     gap for females at two time points in another country.
 
 Exhibit 7-27. Gap analysis options
-
 ![Exhibit 7-27 is a screenshot from the ICILS IDE tool showing the gap
 analysis options available in the Build Reports
 tab.](images/chapter7/image27.png){width="6.5in" height="5.052083333333333in"}
@@ -942,11 +886,11 @@ Tests**, noting the following differences:
     > analysis; the options are **Between Jurisdictions** and **Across
     > Years**.
 
-3.  The difference measure (gap) of analysis must be selected from the
+3.  The difference dependent variable (gap) of analysis must be selected from the
     > following: **Between Groups**, **Between Years**, **Between Groups
     > and Years**, and **Between Percentiles** (if variables are
-    > selected for which a difference measure is not feasible, the
-    > difference measure option will not appear as available in the Gap
+    > selected for which a difference dependent variable is not feasible, the
+    > difference dependent variable option will not appear as available in the Gap
     > Analysis menu).
 
 The gap analysis output is presented in a format similar to that of the
@@ -967,7 +911,6 @@ differ from each other only when the gaps go in the same direction
 with a 15-point gender gap favoring females in another country).
 
 Exhibit 7-28. Gap analysis output
-
 ![Exhibit 7-28 is a screenshot from the ICILS IDE tool showing an example
 output report based on the gap analysis
 options.](images/chapter7/image28.png){width="5.510415573053368in"
@@ -975,12 +918,11 @@ height="4.1875in"}
 
 Note that a gap analysis across years cannot be combined with the
 Between Years or Between Groups and Years difference measures, so you
-will select the difference measure Between Groups, or, if you have
+will select the difference dependent variable Between Groups, or, if you have
 selected percentiles as one of your statistics, you may choose Between
 Percentiles.
 
-### 4.H. Regression Analysis
-
+### Regression Analysis
 Regression analysis is included in the IDE to test for the relationship
 between one or more independent variables with a dependent variable,
 with the independent variables controlling for each other. The type of
@@ -992,7 +934,6 @@ menu. Then click on the **Regression Analysis** link, which is to the
 right of the **Gap Analysis** link (see exhibit 7-29).
 
 Exhibit 7-29. Regression analysis link selection
-
 ![Exhibit 7-29 is a screenshot from the ICILS IDE tool showing how to
 select the regression analysis function in the Build Reports
 tab.](images/chapter7/image29.png){width="6.5in" height="2.1256944444444446in"}
@@ -1011,7 +952,7 @@ exhibit 7-30):
     to be in your report. In order to use up to three independent
     variables, you must have already created and selected a
     cross-tabulated report (by selecting three variables in Step 2,
-    **Select Variables**).
+    **Select Grouping Variables**).
 
 3.  Click the **Preview** tab located in the upper-left corner to view
     the table format into which your output will be populated. In the
@@ -1025,7 +966,6 @@ exhibit 7-30):
     screen to run the regression analysis.
 
 Exhibit 7-30: Regression analysis options
-
 ![Exhibit 7-30 is a screenshot from the ICILS IDE tool showing the options
 for the regression analysis
 output.](images/chapter7/image30.png){width="6.22916447944007in"
@@ -1045,7 +985,6 @@ both/only parent(s) born abroad" dummy variable (1 if yes, 0 if no). The
 reference group is excluded from the regression analysis.
 
 Exhibit 7-31. Regression analysis output
-
 ![Exhibit 7-31 is a screenshot from the ICILS IDE tool showing an example
 of the regression analysis output.](images/chapter7/image31.png){width="6.5in"
 height="3.3513888888888888in"}
@@ -1068,8 +1007,7 @@ Significance column in the output, you will see three possible signs:
 significant positive difference, and (3) x signifies the difference is
 not statistically significant.
 
-### 4.I. Export Reports
-
+### Export Reports
 Click on the **Export Reports** button/arrow located on the right side
 of the **Build Reports** screen to save or print your tables, charts,
 and significance tests. The report names that appear in the **Export
@@ -1080,14 +1018,13 @@ Check the files you want to export and select one of the file formats:
 **HTML** (print-friendly), **Excel**, **Word**, or **PDF** (see exhibit
 7-32). All reports that you select at the same time will be exported in
 one file. In the Excel format, you will be able to increase the decimal
-places visible wherever more precision is available. Because there are
+places wherever more precision is available. Because there are
 many different operating systems in use, you may get an error message
 with Excel or one of the other formats. Usually, this will not affect
 your ability to export, so please wait for the software errors to
 resolve.
 
 Exhibit 7-32. Export report options
-
 ![Exhibit 7-32 is a screenshot from the ICILS IDE tool showing the export
 options, including HTML, Excel, Word, and
 PDF.](images/chapter7/image32.png){width="3.3478258967629047in"

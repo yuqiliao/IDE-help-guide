@@ -2,7 +2,7 @@
 
 ## What is the IDE? 
 
-The National Center for Education Statistics (NCES) has made it easy to explore and analyze large-scale international education study data via various tools, including the international Data Explorer (IDE). The IDE is an interactive online tool with data from the following studies: 
+The National Center for Education Statistics (NCES) has made it easy to explore and analyze large-scale international education study data via various tools, including the International Data Explorer (IDE). The IDE is an interactive online tool with data from the following studies: 
 
 -	[Program for International Student Assessment (PISA)](https://nces.ed.gov/surveys/pisa/){target="_blank"}
 -	[Progress in International Reading Literacy Study (PIRLS)](https://nces.ed.gov/surveys/pirls/index.asp){target="_blank"}
@@ -30,7 +30,7 @@ Exhibit 1-1. IDE Landing Page
 
 
 ## NCES data usage agreement
-In order to be able to enter the IDE, it is necessary to review and agree to the terms of the NCES Data Usage Agreement. You may see the following screen when visiting each of the IDE page from the IDE home page. After you click on the button agreeing to the terms, you will be taken to the Data Explorer. If you do not do this, you will be redirected to the IDE home page.
+To be able to enter the IDE, it is necessary to review and agree to the terms of the NCES Data Usage Agreement. You may see the following screen when visiting each IDE from the IDE home page. After you click on the button agreeing to the terms, you will be taken to the Data Explorer. If you do not do this, you will be redirected to the IDE home page.
 
 Exhibit 1-2. IDE Landing Page
 ![NCES data usage agreement](images/chapter1/user-agreement.png){width="50%" style="display: block; margin: 0 auto"}
