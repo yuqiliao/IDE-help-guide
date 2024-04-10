@@ -78,7 +78,7 @@ follows:
 
 1.  To open or close jurisdictions, click on the arrow. Jurisdictions in
     the group are open and can be selected when the blue arrow points
-    down (see exhibit 6-3).  
+    down (see exhibit 6-3).  
 
 2.  Click the checkboxes next to the specific jurisdictions that you are
     interested in, or uncheck those jurisdictions that you wish to
@@ -153,15 +153,14 @@ To browse for variables and get details about them:
     variables.
 
 6.  Searching for variables is an option from the **Search** box. See
-    **Section 2.C. Select Grouping Variables using the Search Function** on the
-    next page for more details about this function.
+    **Section Select Grouping Variables using the Search Function** for more details about this function.
 
 Exhibit 6-5. Select grouping variables using category and sub category lists
 ![Exhibit 6-5 is a screenshot from the TALIS IDE tool showing how to select a variable from the categories and sub categories listed in the Select Grouping Variables tab.](images/chapter6/image4.png){width="6.5in" height="4.686111111111111in"}
 
 ### Select Grouping Variables using the Search Function
 The second way to search for variables is to use the **Search** function
-on the **Select Grouping Variables** screen.  
+on the **Select Grouping Variables** screen.  
 
 Type a term in the **Search** box and click **Go** (or hit "Enter" on
 your keyboard) to find variables by keywords in the variable title
@@ -280,10 +279,10 @@ following can be done using the **Edit** command (see exhibit 6-9):
     1, **Select Criteria,** and step 2, **Select Grouping Variables**). You can
     select up to two statistics options from the following: **averages,
     percentages, percentiles** and **standard deviations.** (For further
-    information, see **Section 3.G. Statistics Options**.)
+    information, see **Section Statistics Options**.)
 
 4.  To create a new variable while editing a report, click on **Create
-    New...** under the **Grouping Variable** heading. **Section 3.D. Create New
+    New...** under the **Grouping Variable** heading. **Section Create New
     Variables** below explains the process for creating a new variable.
 
 5.  Change the table layout by dragging elements to determine which
@@ -340,7 +339,7 @@ example, you can change the dependent variable and give the report a new name).
 You can repeat the process and combine different values of a variable to
 create additional new variables. Using the **Create New Report**
 function, you can create a new report for each new variable that you
-create. (For further information, see **Section 3.E. Create New Report**
+create. (For further information, see **Section Create New Report**
 below.)
 
 If you selected two or three variables from which to create new
@@ -430,7 +429,7 @@ Available only from the main **Edit Reports** screen, clicking on
 **Statistics Options** allows you to designate up to two statistics. The
 selections you make are applicable to all the reports listed, although
 you can also change the statistics for an individual report when you
-edit it. (For further information, see **Section 3.C. Edit Report**.)
+edit it. (For further information, see **Section Edit Report**.)
 
 The following statistics options are available (see exhibit 6-14):
 
@@ -447,30 +446,28 @@ The following statistics options are available (see exhibit 6-14):
     subnational education system will display its own percentage
     distribution across its row. By default, percentage distributions do
     not include missing data. For information on how to show data for
-    values categorized as missing, see **Section 3.F. Format Options**.
+    values categorized as missing, see **Section Format Options**.
 
 3.  **Percentiles.** This statistic shows the threshold (or cut-point)
     score for the following:
 
-10^th^ percentile -- the bottom 10 percent of schools or teachers
+    -   10^th^ percentile -- the bottom 10 percent of schools or teachers
 
-25^th^ percentile -- the bottom quarter of schools or teachers
+    -   25^th^ percentile -- the bottom quarter of schools or teachers
 
-50^th^ percentile -- the median (half scored below the cut-point and
-half scored above it)
+    -   50^th^ percentile -- the median (half scored below the cut-point and half scored above it)
 
-75^th^ percentile -- the top quarter of schools or teachers
+    -   75^th^ percentile -- the top quarter of schools or teachers
 
-90^th^ percentile -- the top 10 percent of schools or teachers
+    -   90^th^ percentile -- the top 10 percent of schools or teachers
 
 4.  **Standard deviations.** The standard deviation is a dependent variable of how
-    > widely or narrowly dispersed scores are. Under general normality
-    > assumptions, 95 percent of the scores are within two standard
-    > deviations of the mean. For example, if the average score is 35
-    > and the standard deviation is 5, it means that 95 percent of the
-    > scores fall between 30 and 40. The standard deviation is the
-    > square root of the variance. **\
-    > **
+    widely or narrowly dispersed scores are. Under general normality
+    assumptions, 95 percent of the scores are within two standard
+    deviations of the mean. For example, if the average score is 35
+    and the standard deviation is 5, it means that 95 percent of the
+    scores fall between 30 and 40. The standard deviation is the
+    square root of the variance. 
 
 Exhibit 6-14. Statistics options
 ![Exhibit 6-14 is a screenshot from the TALIS IDE tool showing an example of the statistics options available in the Edit Reports tab.](images/chapter6/image14.png){width="3.5107458442694663in"
@@ -485,7 +482,7 @@ reports, the statistics options selected will overwrite your previously
 edited selections. If you wish to use the same criteria and variables in
 a report with a different selection of statistics, consider using the
 **Create New Report** function to generate a new report with different
-statistics. (For further information, see **Section 3.E. Create New
+statistics. (For further information, see **Section Create New
 Report**.) You can also make a copy of an individual report.
 
 You can use the **Reset** button, located in the upper-right portion of
@@ -519,12 +516,12 @@ Exhibit 6-15. Selecting reports to build
 ![Exhibit 6-15 is a screenshot from the TALIS IDE tool showing how to select reports to build in the Edit Reports tab.](images/chapter6/image11.png){width="6.5in" height="3.236111111111111in"}
 
 1.  **Delete** is used in the **Action** column if you wish to delete a
-    > report from the list of reports.
+    report from the list of reports.
 
 2.  You may use the **Reset** button to restore the deleted reports
-    > (although caution is advised, as this will also delete any new
-    > reports that you created and restore the **Format Options** and
-    > **Statistics Options** to the default settings).
+    (although caution is advised, as this will also delete any new
+    reports that you created and restore the **Format Options** and
+    **Statistics Options** to the default settings).
 
 To continue to the last step in the IDE, click the **Build Reports**
 button at the bottom of the page or the tab at the top of the page to go
@@ -563,7 +560,7 @@ Once you click on **Build Reports,** the reports will be generated
 screen as they complete (see exhibit 6-17). Some reports will take longer
 than others to process, so please do not hit the "Back" button on your
 browser during this stage. To select a different report to view, go to
-the **Select Report** drop-down menu (see 4.B. in exhibit 6-16) and choose
+the **Select Report** drop-down menu (see exhibit 6-16) and choose
 the report of interest. To change the formatting or statistics options
 of a table or to generate a report not included in your selection,
 return to step 3, **Edit Reports**.
@@ -577,7 +574,7 @@ screen to choose the report of interest from the drop-down menu, and
 then click the **Chart** link (see exhibit 6-18).
 
 You will be able to create many types of charts and customize them.
-**Section 4.E. Create Charts -- Chart Options** provides a summary of
+**Section Create Charts -- Chart Options** provides a summary of
 the available features and how they can be customized.
 
 Exhibit 6-18. Viewing reports as
@@ -606,25 +603,23 @@ Exhibit 6-19. Data options for charts
 height="8.05303258967629in"}
 
 ### Create Charts -- Chart Options
-Next, you can make selections regarding the chart options located below
-on the same page.
+Next, you can make selections regarding the chart options.
 
 1.  Select **Bar Chart**, **Column Chart**, **Line Chart,** or
-    > **Percentage Chart** (see 1 in exhibit 6-20). If the Percentiles
-    > Statistic is selected, you can also select from a **Percentile
-    > Chart** option.
+    **Percentage Chart** (see exhibit 6-20). If the Percentiles
+    Statistic is selected, you can also select from a **Percentile
+    Chart** option.
 
 2.  After selecting a chart type, change any data dimensions from the
-    > drop-down menus for **Bar**, **Column**, or **Line Values** and
-    > **Values Grouped by** (see 2 in exhibit 6-20). Any new variables
-    > that you created at step 3, **Edit Reports**, will be available
-    > for selection, but only if you selected the variables (by clicking
-    > the checkbox next to them) and pressed **Done** after you edited
-    > the report.
+    drop-down menus for **Bar**, **Column**, or **Line Values** and
+    **Values Grouped by** (see exhibit 6-20). Any new variables
+    that you created at step 3, **Edit Reports**, will be available
+    for selection, but only if you selected the variables (by clicking
+    the checkbox next to them) and pressed **Done** after you edited
+    the report.
 
 3.  Create your chart by clicking the **Create Chart** button in the
-    > lower-right corner (see 3 in exhibit 6-20). **\
-    > **
+    lower-right corner (see exhibit 6-20). 
 
 Exhibit 6-20. Chart options
 ![Exhibit 6-20 is a screenshot from the TALIS IDE tool showing the chart options available in the chart creating function in the Build Reports tab.](images/chapter6/image17.png){width="6.185491032370954in"
@@ -664,7 +659,7 @@ create new reports, go back to step 1, **Select Criteria**, and/or step
 2, **Select Grouping Variables**. Remember to export any completed charts you
 want to save by clicking **Done** and using the **Export Reports**
 function before leaving the **Build Reports** screen. (For further
-information, see **Section 4.I. Export Reports**.)
+information, see **Section Export Reports**.)
 
 ### Significance Tests
 Tests for statistical significance indicate whether observed differences
@@ -761,7 +756,7 @@ Please note that the IDE does not apply adjustments for multiple
 comparisons. This is consistent with current NCES statistical standards
 and practice.
 
-[]{#_Toc75343119 .anchor}**4.G. Gap Analysis**
+### Gap Analysis
 Gap analysis is included in the IDE to compare differences in gaps shown
 in a table, map, or chart. Gap differences can be compared between
 jurisdictions and/or across years.
@@ -783,15 +778,13 @@ countries, you can:
 
 -   at one time point, compare the age group (e.g., ages below 40 and
     between 40-49) gap in one country/subnational education system to
-    the age-group gap in another country/\
-    subnational education system;
+    the age-group gap in another country/subnational education system;
 
 -   compare the age-group gap at two time points within a
     country/subnational education system;
 
 -   compare the difference between the age-group gap at two time points
-    in country/\
-    subnational education system to the difference between the age-group
+    in country/subnational education system to the difference between the age-group
     gap at two time points in another country/subnational education
     system; or
 
@@ -804,7 +797,7 @@ Exhibit 6-27. Gap analysis options
 
 The steps for running a gap analysis (exhibit 6-27) are similar to those
 for conducting a statistical significance test. Thus, to run a gap
-analysis, follow the instructions under **Section 4.F. Significance
+analysis, follow the instructions under **Section Significance
 Tests**, noting the following differences:
 
 -   The **Gap Analysis** link should be selected, not the **Significance
@@ -845,7 +838,7 @@ will select the difference measure **Between Groups,** or, if you have
 selected percentiles as one of your statistics, you may choose **Between
 Percentiles.**
 
-[]{#_Toc438045539 .anchor}**4.H. Regression Analysis**
+### Regression Analysis
 Regression analysis is included in the IDE to test for trends across
 more than two data points. The type of analysis performed in this
 feature of the IDE is referred to within the field of statistics as

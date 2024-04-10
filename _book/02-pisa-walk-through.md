@@ -213,7 +213,7 @@ At this step, you can
     can overwrite previous edits);
 
 -   select reports to be built into tables and charts at step 4, **Build
-    Reports**; and  
+    Reports**; and  
 
 -   delete reports.
 
@@ -618,8 +618,7 @@ Exhibit 2-19. Data options for charts
 height="6.5347703412073495in"}
 
 ### Create Charts -- Chart Options
-Next, you can make selections regarding the chart options located below
-on the same page.
+Next, you can make selections regarding the chart options.
 
 1.  Select **Bar Chart**, **Column Chart**, or **Line Chart** (see 
     exhibit 2-20). If the Percentiles Statistic is selected, you can

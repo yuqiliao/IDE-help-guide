@@ -71,20 +71,20 @@ The general procedures for selecting one or more jurisdictions are as
 follows:
 
 1.  To open or close jurisdictions, click on the arrow. Jurisdictions in
-    > the group are open and can be selected when the blue arrow points
-    > down (see exhibit 7-3).
+    the group are open and can be selected when the blue arrow points
+    down (see exhibit 7-3).
 
 2.  Click the checkboxes next to the specific jurisdictions that you are
-    > interested in or uncheck those jurisdictions that you wish to
-    > deselect. If you click the checkbox next to the group name (e.g.,
-    > "Countries"), you will select all the jurisdictions within that
-    > group. If desired, uncheck the group name to deselect all.
+    interested in or uncheck those jurisdictions that you wish to
+    deselect. If you click the checkbox next to the group name (e.g.,
+    "Countries"), you will select all the jurisdictions within that
+    group. If desired, uncheck the group name to deselect all.
 
 3.  If you want to close a group (for example, close the list of
-    > countries in order to readily see the Benchmarking participant
-    > jurisdictions), click the blue arrow next to the group name. The
-    > closed group's arrow points to the right. Be advised that closing
-    > the group will not deselect your choices.
+    countries in order to readily see the Benchmarking participant
+    jurisdictions), click the blue arrow next to the group name. The
+    closed group's arrow points to the right. Be advised that closing
+    the group will not deselect your choices.
 
 Exhibit 7-3. Choosing jurisdictions
 ![Exhibit 7-3 is a screenshot from the ICILS IDE tool showing
@@ -150,7 +150,7 @@ them:
     variables.
 
 6.  Searching for variables is an option from the **Search** box. See
-    **Section 2.C. Search Function** for more details about this
+    **Section Search Function** for more details about this
     function.
 
 Exhibit 7-5. Select grouping variables using category and sub category lists
@@ -261,32 +261,27 @@ report.) The following can be done using the edit function (see exhibit
 7-9):
 
 1.  Name your report. You have the option of giving each report a
-    > distinctive name, up to a limit of 50 characters, using only
-    > letters, numbers, spaces, underscores, and hyphens. (Otherwise, by
-    > default, the report is named Report 1, Report 2, etc., or
-    > Cross-Tabulated Report 1, Cross-Tabulated Report 2, etc.)
+    distinctive name, up to a limit of 50 characters, using only
+    letters, numbers, spaces, underscores, and hyphens. (Otherwise, by
+    default, the report is named Report 1, Report 2, etc., or
+    Cross-Tabulated Report 1, Cross-Tabulated Report 2, etc.)
 
-```{=html}
-<!-- -->
-```
 9.  Select a dependent variable. You can choose a dependent variable if more than one was
-    > selected at step 1.
+    selected at step 1.
 
 10. Select which jurisdictions, grouping variables, years (if applicable), and
-    > statistics to include (out of the selections previously made at
-    > steps 1 and 2). You can select up to two statistics options from
-    > the following: averages, standard deviations, percentages, and
-    > percentiles. (For further information, see **Section 3.G.
-    > Statistics Options**.)
+    statistics to include (out of the selections previously made at
+    steps 1 and 2). You can select up to two statistics options from
+    the following: averages, standard deviations, percentages, and
+    percentiles. (For further information, see **Section Statistics Options**.)
 
 11. To create a new variable while editing a report, click on **Create
-    > New...** under the **Grouping Variable** heading. Section 3.D. below
-    > explains the process for creating a new variable.
+    New...** under the **Grouping Variable** heading.
 
 12. Change the table layout by dragging elements to determine which
-    > items will appear in rows and which will appear in columns. Some
-    > of the arrangements will not be permissible, but a pop-up alert
-    > will explain this.
+    items will appear in rows and which will appear in columns. Some
+    of the arrangements will not be permissible, but a pop-up alert
+    will explain this.
 
 Exhibit 7-9. Editing reports
 ![Exhibit 7-9 is a screenshot from the ICILS IDE tool showing an example
@@ -307,25 +302,22 @@ steps are as follows:
 
 2.  Select the variable for which you wish to combine values.
 
-```{=html}
-<!-- -->
-```
-13. Select the values you want to combine by checking the boxes to the
-    > left of the values (see exhibit 7-10).
+3. Select the values you want to combine by checking the boxes to the
+    left of the values (see exhibit 7-10).
 
-14. Create a name for the new value, and press **Create**. The collapsed
-    > values will appear in gray to indicate that they have already been
-    > used.
+4. Create a name for the new value, and press **Create**. The collapsed
+    values will appear in gray to indicate that they have already been
+    used.
 
-15. Wait for the screen to refresh, and press **Done**.
+5. Wait for the screen to refresh, and press **Done**.
 
-16. The new variable will appear in the **Grouping Variable** list in the **Edit
-    > Report** window or **Create New Report** window, designated as
-    > "collapsed."
+6. The new variable will appear in the **Grouping Variable** list in the **Edit
+    Report** window or **Create New Report** window, designated as
+    "collapsed."
 
-17. Check the box next to the new variable to view it in the report. You
-    > can click **Preview** to see how the table will be laid out before
-    > retrieving data.
+7. Check the box next to the new variable to view it in the report. You
+    can click **Preview** to see how the table will be laid out before
+    retrieving data.
 
 Exhibit 7-10. Creating new variables
 ![Exhibit 7-10 is a screenshot from the ICILS IDE tool showing an example
@@ -347,7 +339,7 @@ a new name).
 You can repeat the process and combine different values of a variable to
 create additional new variables. Using the **Create New Report**
 function, you can create a new report for each new variable that you
-create. (For further information, see **Section 3.E. Create New
+create. (For further information, see **Section Create New
 Report**, below.)
 
 If you selected two or three variables from which to create new
@@ -386,50 +378,47 @@ listed. The following formatting options are available using this
 function (see exhibit 7-13):
 
 1.  **Variable Labels (Long)** displays a more detailed description of
-    > the variables selected in a query than the default short label.
-    > For variables from questionnaires, the full text of the question
-    > is displayed. Be advised that the length of the extra detail may
-    > sometimes interfere with table formatting.
+    the variables selected in a query than the default short label.
+    For variables from questionnaires, the full text of the question
+    is displayed. Be advised that the length of the extra detail may
+    sometimes interfere with table formatting.
 
-```{=html}
-<!-- -->
-```
 18. **Show data for values categorized as "missing"** will include the
-    > percentage of students in the total sample or in a reporting group
-    > for whom membership in a particular response category is unknown
-    > because no response was given by the students, their teacher, or
-    > their school. The percentage of "missing" will be shown in the
-    > right-most table column. Missing data are available only for
-    > queries that involve percentages as the statistic type. Unless you
-    > check this option, the default is for missing responses not to be
-    > included in the percentage distribution shown.
+    percentage of students in the total sample or in a reporting group
+    for whom membership in a particular response category is unknown
+    because no response was given by the students, their teacher, or
+    their school. The percentage of "missing" will be shown in the
+    right-most table column. Missing data are available only for
+    queries that involve percentages as the statistic type. Unless you
+    check this option, the default is for missing responses not to be
+    included in the percentage distribution shown.
 
 19. **Year Order** gives you the option to display either the most
-    > recent year first or the oldest year first.
+    recent year first or the oldest year first.
 
 20. **Decimal Places** allows you to specify the level of precision for
-    > a particular statistic. Depending on the value range of the
-    > dependent variable---for example, the dependent variable "ICILS
-    > Computer and Information Literacy: Overall \[PVCIL\]" ranges from
-    > 100 to 700; the dependent variable "Computer experience in years
-    > \[SEXCOMP\]" ranges from 0 to 4---the default number of decimal
-    > places for a report can vary from zero to three. Also, standard
-    > errors will be shown to one more decimal place than is shown for
-    > their respective statistic. For example, if you request that
-    > average scores be displayed to one decimal place (by default,
-    > average scores are rounded to the nearest whole number), the
-    > corresponding standard errors will display two decimal places. If
-    > you export to Excel, you will be able to increase the number of
-    > decimal places in most cases. Note that only integer-level
-    > precision is allowed for percentages; that is, the number of
-    > decimal places is fixed at "none" for percentages, and the
-    > corresponding standard errors are shown to one decimal place.
+    a particular statistic. Depending on the value range of the
+    dependent variable---for example, the dependent variable "ICILS
+    Computer and Information Literacy: Overall [PVCIL]" ranges from
+    100 to 700; the dependent variable "Computer experience in years
+    [SEXCOMP]" ranges from 0 to 4---the default number of decimal
+    places for a report can vary from zero to three. Also, standard
+    errors will be shown to one more decimal place than is shown for
+    their respective statistic. For example, if you request that
+    average scores be displayed to one decimal place (by default,
+    average scores are rounded to the nearest whole number), the
+    corresponding standard errors will display two decimal places. If
+    you export to Excel, you will be able to increase the number of
+    decimal places in most cases. Note that only integer-level
+    precision is allowed for percentages; that is, the number of
+    decimal places is fixed at "none" for percentages, and the
+    corresponding standard errors are shown to one decimal place.
 
 21. **Include** gives you the option of showing standard errors. By
-    > default, standard errors are shown inside parentheses, but you can
-    > choose to show them without parentheses*.* You can preview the
-    > effects of your selection in the **Sample Display** area (see the
-    > blue‑shaded box at the bottom of exhibit 7-13 below).
+    default, standard errors are shown inside parentheses, but you can
+    choose to show them without parentheses*.* You can preview the
+    effects of your selection in the **Sample Display** area (see the
+    blue‑shaded box at the bottom of exhibit 7-13 below).
 
 Exhibit 7-13. Format options
 ![Exhibit 7-13 is a screenshot from the ICILS IDE tool showing an example
@@ -449,7 +438,7 @@ Available only from the main **Edit Reports** screen, clicking on
 **Statistics Options** allows you to designate up to two statistics. The
 selections you make are applicable to all the reports listed, although
 you can also change the statistics for an individual report when you
-edit it. (For further information, see **Section 3.C. Edit Report**.)
+edit it. (For further information, see **Section Edit Report**.)
 
 The following statistics options are available (see exhibit 7-14):
 
@@ -461,10 +450,10 @@ The following statistics options are available (see exhibit 7-14):
 
 2.  **Standard deviations.** The standard deviation is a dependent variable of how
     widely or narrowly dispersed scores are for a particular dataset.
-    Under general normality assumptions, 95 percent of the scores are
+    Under general normality assumptions, 95 percent of the scores are
     within two standard deviations of the mean. For example, if the
     average score of a dataset is 500 and the standard deviation is 100,
-    it means that 95 percent of the scores in this dataset fall between
+    it means that 95 percent of the scores in this dataset fall between
     300 and 700. The standard deviation is the square root of the
     variance.
 
@@ -473,21 +462,20 @@ The following statistics options are available (see exhibit 7-14):
     then each country will display its own percentage distribution
     across its row. By default, percentage distributions do not include
     missing data. For information on how to show data for values
-    categorized as missing, see **Section 3.F. Format Options**.
+    categorized as missing, see **Section Format Options**.
 
 4.  **Percentiles.** This statistic shows the threshold (or cutpoint)
     score for the following:
 
-    10^th^ percentile -- the bottom 10 percent of students
+    -  10^th^ percentile -- the bottom 10 percent of students
 
-    25^th^ percentile -- the bottom quarter of students
+    -  25^th^ percentile -- the bottom quarter of students
 
-    50^th^ percentile -- the median (half the students scored below the
-    cutpoint and half scored above it)
+    -  50^th^ percentile -- the median (half the students scored below the cutpoint and half scored above it)
 
-    75^th^ percentile -- the top quarter of students
+    -  75^th^ percentile -- the top quarter of students
 
-    90^th^ percentile -- the top 10 percent of students
+    -  90^th^ percentile -- the top 10 percent of students
 
 Exhibit 7-14. Statistics options
 ![Exhibit 7-14 is a screenshot from the ICILS IDE tool showing an example
@@ -503,7 +491,7 @@ will overwrite your previously edited selections. If you wish to use the
 same criteria and variables in a report with a different selection of
 statistics, consider using the **Create New Report** function to
 generate a new report with different statistics. (For further
-information, see **Section 3.E. Create New Report**.) You can also make
+information, see **Section Create New Report**.) You can also make
 a copy of an individual report.
 
 You can use the **Reset** button, located in the upper-right portion of
@@ -549,14 +537,14 @@ select reports to build in the Edit Reports
 tab.](images/chapter7/image15.png){width="6.5in" height="3.790277777777778in"}
 
 If you wish to delete a report from the list of reports, click
-**Delete** (see 1 above) in the **Action** column. Use the **Reset**
-button, located in the upper-right portion of the screen (see 2 above),
+**Delete** in the **Action** column. Use the **Reset**
+button, located in the upper-right portion of the screen,
 to restore the deleted reports (although caution is advised, as this
 will also delete any new reports that you created and restore the
 **Format Options** and **Statistics Options** to the default settings).
 
 To continue to the last step in the IDE, click the **Build Reports**
-button at the bottom of the page (see 3 above) or the tab at the top of
+button at the bottom of the page or the tab at the top of
 the page to go to the next screen.
 
 ## Build Reports
@@ -569,32 +557,29 @@ additional variables and edit reports, before moving on to **Build
 Reports**. In **Build Reports**, you can do the following:
 
 1.  Generate a data table for each report as shown in the **Select
-    > Report** drop-down feature (see 1 in exhibit 7-16). By default, all
-    > reports are checked at step 3, although you can uncheck any
-    > reports for which you do not wish to retrieve data. (For further
-    > information, see **Section 3.H. Select Reports to Build**.)
+    Report** drop-down feature (see exhibit 7-16). By default, all
+    reports are checked at step 3, although you can uncheck any
+    reports for which you do not wish to retrieve data. (For further
+    information, see **Section Select Reports to Build**.)
 
-```{=html}
-<!-- -->
-```
 22. Export and save data tables into various formats using the **Export
-    > Reports** button (see 2 in exhibit 7-16). The output formats include
-    > HTML (print-friendly), Microsoft Excel, Microsoft Word, and Adobe
-    > PDF.
+    Reports** button (see exhibit 7-16). The output formats include
+    HTML (print-friendly), Microsoft Excel, Microsoft Word, and Adobe
+    PDF.
 
-23. Select the **Chart** tab (see 3 in exhibit 7-16) to create and
-    > customize charts for each report and save them for export in the
-    > above formats.
+23. Select the **Chart** tab (see exhibit 7-16) to create and
+    customize charts for each report and save them for export in the
+    above formats.
 
-24. Select the **Significance Test** tab (see 4 in exhibit 7-16) to run a
-    > significance test on your results, customize it, and export it.
+24. Select the **Significance Test** tab (see exhibit 7-16) to run a
+    significance test on your results, customize it, and export it.
 
-25. Select the **Gap Analysis** tab (see 5 in exhibit 7-16) to run a gap
-    > analysis on your results, customize it, and export it.
+25. Select the **Gap Analysis** tab (see exhibit 7-16) to run a gap
+    analysis on your results, customize it, and export it.
 
-26. Select the **Regression Analysis** tab (see 6 in exhibit 7-16) to run
-    > a regression analysis on your results, customize it, and export
-    > it.
+26. Select the **Regression Analysis** tab (see exhibit 7-16) to run
+    a regression analysis on your results, customize it, and export
+    it.
 
 Exhibit 7-16. Building reports overview
 ![Exhibit 7-16 is a screenshot from the ICILS IDE tool showing an overview
@@ -607,7 +592,7 @@ Some reports will take longer than others to process, so do not hit the
 "Back" button on your browser once you have clicked on **Build Reports**
 (see exhibit 7-17). Your table will appear once the processing is
 complete. To select a different table to view, go to the **Select
-Report** drop‑down menu (see 1 in exhibit 7-16) and choose the table of
+Report** drop‑down menu (see exhibit 7-16) and choose the table of
 interest. To change the formatting or statistics options of a table or
 to generate a table from a report not included in your selection, return
 to step 3, **Edit Reports**.
@@ -622,7 +607,7 @@ screen to choose the report of interest from the drop-down menu, and
 then click the **Chart** link (see exhibit 7-18).
 
 You will be able to create many types of charts and customize them.
-**Section 4.E. Create Charts -- Chart Options** provides a summary of
+**Section Create Charts -- Chart Options** provides a summary of
 the available features and how they can be customized.
 
 Exhibit 7-18. Viewing reports as charts
@@ -655,22 +640,21 @@ tab.](images/chapter7/image19.png){width="6.5in" height="6.646527777777778in"}
 Next, you can make selections regarding the chart options located at the
 bottom of the same window.
 
-1.  Select **Bar Chart**, **Column Chart**, or **Line Chart** (see 1 in
-    > exhibit 7-20). If the Percentages Statistic is selected, you can
-    > select from a **Percentage Chart** option. If the Percentiles
-    > Statistic is selected, you can also select from a **Percentiles
-    > Chart** option.
+1.  Select **Bar Chart**, **Column Chart**, or **Line Chart** (see exhibit 7-20). If the Percentages Statistic is selected, you can
+    select from a **Percentage Chart** option. If the Percentiles
+    Statistic is selected, you can also select from a **Percentiles
+    Chart** option.
 
 2.  After selecting a chart type, change any data dimensions from the
-    > drop-down menus for **Bar**, **Column**, or **Line Values** and
-    > **Values Grouped by** (see 2 in exhibit 7-20). Any new variables
-    > that you created at step 3, **Edit Reports**, will be available
-    > for selection, but only if you selected the variables (by clicking
-    > the checkbox next to them) and clicked **Done** after you edited
-    > the report.
+    drop-down menus for **Bar**, **Column**, or **Line Values** and
+    **Values Grouped by** (see exhibit 7-20). Any new variables
+    that you created at step 3, **Edit Reports**, will be available
+    for selection, but only if you selected the variables (by clicking
+    the checkbox next to them) and clicked **Done** after you edited
+    the report.
 
 3.  Create your chart by clicking the **Create Chart** button in the
-    > lower-right corner (see 3 in exhibit 7-20).
+    lower-right corner (see exhibit 7-20).
 
 Exhibit 7-20. Chart options
 ![Exhibit 7-20 is a screenshot from the ICILS IDE tool showing the chart
@@ -682,10 +666,10 @@ an example of a **Percentile Chart** and exhibit 23 as an example of a
 **Bar Chart**):
 
 1.  Use the drop-down menus to change the jurisdiction and other
-    > variables as applicable.
+    variables as applicable.
 
 2.  Place your cursor over the bars of the chart to see the data points
-    > and value label(s).
+    and value label(s).
 
 Exhibit 7-21. Percentile chart
 ![Exhibit 7-21 is a screenshot from the ICILS IDE tool showing a preview
@@ -715,7 +699,7 @@ create new reports, go back to step 1, **Select Criteria**, and/or step
 2, **Select Grouping Variables**. Remember to export any completed charts you
 want to save by clicking **Done** and using the **Export Reports**
 function before leaving the **Build Reports** screen. (For further
-information, see **Section 4.I. Export Reports**.)
+information, see **Section Export Reports**.)
 
 ### Significance Tests
 Tests for statistical significance indicate whether observed differences
@@ -740,41 +724,38 @@ The general steps for running significance tests are as follows (see
 exhibit 7-23):
 
 1.  In the **Significance Test** window, select either **Between
-    > Jurisdictions**, **Within Grouping Variables**, or **Across Years**. Then,
-    > select the appropriate jurisdiction(s), variable(s), year(s), and
-    > statistic(s). For **Between Jurisdictions**, select at least two
-    > jurisdictions. For **Within Grouping Variables**, select at least two
-    > variables. For **Across Years**, more than one year needs to be
-    > selected.
+    Jurisdictions**, **Within Grouping Variables**, or **Across Years**. Then,
+    select the appropriate jurisdiction(s), variable(s), year(s), and
+    statistic(s). For **Between Jurisdictions**, select at least two
+    jurisdictions. For **Within Grouping Variables**, select at least two
+    variables. For **Across Years**, more than one year needs to be
+    selected.
 
-```{=html}
-<!-- -->
-```
-27. You can enter a **Test Title** limited to 25 characters, using only
-    > letters, numbers, spaces, underscores, and hyphens (otherwise, by
-    > default, the test is named "Sig Test 1").
+2. You can enter a **Test Title** limited to 25 characters, using only
+    letters, numbers, spaces, underscores, and hyphens (otherwise, by
+    default, the test is named "Sig Test 1").
 
-28. Select the output type as either **Table** or **Map**. The table
-    > option will show the significance test results as a matrix. The
-    > map option will show the significance test results on a world map,
-    > highlighting the countries and subnational education systems that
-    > have been selected. The map output is only available when
-    > **Between Jurisdictions** is selected in the first step.
+3. Select the output type as either **Table** or **Map**. The table
+    option will show the significance test results as a matrix. The
+    map option will show the significance test results on a world map,
+    highlighting the countries and subnational education systems that
+    have been selected. The map output is only available when
+    **Between Jurisdictions** is selected in the first step.
 
-29. Additional options allow you to select **Show Table Details** to
-    > display the estimates and standard errors for the table cells. If
-    > you selected a map, this option is not applicable, as the map will
-    > automatically show score details.
+4. Additional options allow you to select **Show Table Details** to
+    display the estimates and standard errors for the table cells. If
+    you selected a map, this option is not applicable, as the map will
+    automatically show score details.
 
-30. Click the **Preview** tab located in the upper-left corner or the
-    > **Preview** button located in the bottom-left corner.
+5. Click the **Preview** tab located in the upper-left corner or the
+    **Preview** button located in the bottom-left corner.
 
-31. Click the **Edit** tab in the upper-left corner of the screen if you
-    > wish to go back and make changes to the selections you made for
-    > running the significance tests.
+6. Click the **Edit** tab in the upper-left corner of the screen if you
+    wish to go back and make changes to the selections you made for
+    running the significance tests.
 
-32. Click the **Done** button in the upper- or lower-right corner of the
-    > screen to run the significance tests.
+7. Click the **Done** button in the upper- or lower-right corner of the
+    screen to run the significance tests.
 
 Exhibit 7-23. Significance test options
 ![Exhibit 7-23 is a screenshot from the ICILS IDE tool showing the
@@ -873,22 +854,22 @@ tab.](images/chapter7/image27.png){width="6.5in" height="5.052083333333333in"}
 
 The steps for running a gap analysis are similar to those for conducting
 a statistical significance test (see exhibit 7-27). Thus, to run a gap
-analysis, follow the instructions under **Section 4.F. Significance
+analysis, follow the instructions under **Section Significance
 Tests**, noting the following differences:
 
 1.  The **Gap Analysis** link should be selected, not the **Significance
-    > Test** link.
+    Test** link.
 
 2.  The gap analysis does not have a **Within Grouping Variables** option for
-    > analysis; the options are **Between Jurisdictions** and **Across
-    > Years**.
+    analysis; the options are **Between Jurisdictions** and **Across
+    Years**.
 
 3.  The difference measure (gap) of analysis must be selected from the
-    > following: **Between Groups**, **Between Years**, **Between Groups
-    > and Years**, and **Between Percentiles** (if variables are
-    > selected for which a difference measure is not feasible, the
-    > difference measure option will not appear as available in the Gap
-    > Analysis menu).
+    following: **Between Groups**, **Between Years**, **Between Groups
+    and Years**, and **Between Percentiles** (if variables are
+    selected for which a difference measure is not feasible, the
+    difference measure option will not appear as available in the Gap
+    Analysis menu).
 
 The gap analysis output is presented in a format similar to that of the
 significance test output, with one difference: the difference estimate
@@ -904,7 +885,7 @@ that the reference group for the gaps is kept constant during the
 analysis, as opposed to taking the absolute value of the gaps.
 Therefore, the gap analysis tests whether the magnitude of the gaps
 differ from each other only when the gaps go in the same direction
-(e.g., comparing a 5-point gender gap favoring females in one country
+(e.g., comparing a 5-point gender gap favoring females in one country
 with a 15-point gender gap favoring females in another country).
 
 Exhibit 7-28. Gap analysis output
@@ -939,7 +920,7 @@ The general steps for running a regression analysis are as follows (see
 exhibit 7-30):
 
 1.  In the **Regression Analysis** pop-up window, you can enter a
-    **Name** limited to 25 characters, using only letters, numbers,
+    **Name** limited to 25 characters, using only letters, numbers,
     spaces, underscores, and hyphens (otherwise, by default, the test
     will be named "Regression 1").
 

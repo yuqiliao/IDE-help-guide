@@ -18,8 +18,7 @@ screen (just below the **Help** button), to cancel your selections and
 begin again.
 
 Click on a red sideways-facing arrow (►) to open up a category and click
-on a red downward-facing arrow (▼) to close a category.**\
-**
+on a red downward-facing arrow (▼) to close a category.
 
 Exhibit 4-2. Selecting criteria
 ![Exhibit 4-2 is a screenshot from the TIMSS IDE tool showing the Select Criteria tab.](images/chapter4/image2.png){width="6.5in"
@@ -138,7 +137,7 @@ them:
     variables.
 
 6.  Searching variables is an option from the **Search** box. See
-    Section 2.C Search Function for more details about this function.
+    Section Search Function for more details about this function.
 
 Exhibit 4-5. Select grouping variables using category and sub category lists
 ![Exhibit 4-5 is a screenshot from the TIMSS IDE tool showing how to select a variable from the categories and sub categories listed in the Select Grouping Variables tab.](images/chapter4/image5.png){width="6.326388888888889in"
@@ -187,7 +186,7 @@ At this step, you can
     may also be changed in individual reports, but statistics options
     can overwrite previous edits);
 -   select reports to be built into tables and charts at step 4, **Build
-    Reports**; and  
+    Reports**; and  
 -   delete reports.
 
 Using your chosen criteria, the IDE will return a separate data report
@@ -417,7 +416,7 @@ The following statistics options are available (see exhibit 4-14):
     then each country will display its own percentage distribution
     across its row. By default, percentage distributions do not include
     missing data. For information on how to show data for values
-    categorized as missing, see Section 3.F. Format Options.
+    categorized as missing, see Section Format Options.
 
 3.  **Standard deviations.** The standard deviation is a measure of how
     widely or narrowly dispersed scores are for a particular variable.
@@ -495,8 +494,7 @@ cases where students have multiple teachers.
 As you edit your reports, you can give them distinct names (up to 50
 characters) to differentiate them, as well as make changes to the
 jurisdictions and variables previously selected, the statistics, and the
-layout of the rows and columns. (For further information, see section
-3.C. Edit Report.) You may make copies of reports with these changes. In
+layout of the rows and columns. (For further information, see section Edit Report.) You may make copies of reports with these changes. In
 order to proceed to step 4, **Build Reports**, each report for which you
 want to retrieve data should be previewed using the **Preview**
 function. To decrease processing time as you move to step 4, you can
@@ -512,15 +510,15 @@ Exhibit 4-15. Selecting reports to build
 height="4.1097222222222225in"}
 
 If you wish to delete a report from the list of reports, click
-**Delete** (see 1 above) in the **Action** column. Use the **Reset**
-button (see 2 above), located in the upper-right portion of the screen
+**Delete** in the **Action** column. Use the **Reset**
+button, located in the upper-right portion of the screen
 (just below the **Help** button), to restore the deleted reports
 (although caution is advised, as this will also delete any new reports
 that you created and restore the **Format Options** and **Statistics
 Options** to the default settings).
 
 To continue to the last step in the IDE, click the **Build Reports**
-button at the bottom of the page (see 3 above) or the tab at the top of
+button at the bottom of the page or the tab at the top of
 the page to go to the next screen.
 
 ## Build Reports
@@ -533,21 +531,21 @@ additional variables and edit reports, before moving on to **Build
 Reports**. In **Build Reports**, you can do the following:
 
 1.  Generate a data table for each report, as shown in the **Select
-    Report** drop-down feature (see 1 in exhibit 4-16). By default, all
+    Report** drop-down feature (see exhibit 4-16). By default, all
     reports are checked, although you can uncheck any reports for which
     you do not wish to retrieve data. (For further information, see
-    section 3.H. Select Reports to Build.)
+    section Select Reports to Build.)
 
 2.  Export and save data tables into various formats using the **Export
-    Reports** button (see 2 in exhibit 4-16). The output formats include
+    Reports** button (see exhibit 4-16). The output formats include
     HTML (print-friendly), Microsoft Excel, Microsoft Word, and Adobe
     PDF.
 
-3.  Select the **Chart** tab (see 3 in exhibit 4-16) to create and
+3.  Select the **Chart** tab (see exhibit 4-16) to create and
     customize charts for each report and save them for export in the
     above formats.
 
-4.  Select the **Significance Test** tab (see 4 in exhibit 4-16) to run a
+4.  Select the **Significance Test** tab (see exhibit 4-16) to run a
     significance test on your results, customize it, and export it.
 
 Exhibit 4-16. Building reports overview
@@ -558,7 +556,7 @@ Some reports will take longer than others to process, so please do not
 hit the "Back" button on your browser once you click on **Build
 Reports** (see exhibit 4-17). Your table will appear once the processing
 is complete. To select a different table to view, go to the **Select
-Report** drop-down menu (see 1 in exhibit 4-16) and choose the table of
+Report** drop-down menu (see exhibit 4-16) and choose the table of
 interest. To change the formatting or statistics options of a table or
 to generate a table from a report not included in your selection, return
 to step 3, **Edit Reports**.
@@ -754,7 +752,7 @@ height="5.030555555555556in"}
 
 The steps for running a gap analysis are similar to those for conducting
 a statistical significance test (see exhibit 4-26). Thus, to run a gap
-analysis, follow the instructions under section **4.E. Significance
+analysis, follow the instructions under section **Significance
 Tests**, noting the following differences:
 
 1.  The **Gap Analysis** link should be selected, not the **Significance

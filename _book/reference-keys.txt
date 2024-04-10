@@ -149,6 +149,8 @@ charts-4
 create-charts-2
 create-charts-chart-options-1
 significance-tests-4
+gap-analysis-4
+regression-analysis-4
 export-reports-4
 icilswalkthrough
 select-criteria-5
@@ -177,8 +179,8 @@ charts-5
 create-charts-3
 create-charts-chart-options-2
 significance-tests-5
-gap-analysis-4
-regression-analysis-4
+gap-analysis-5
+regression-analysis-5
 export-reports-5
 definitions
 pisa-ide

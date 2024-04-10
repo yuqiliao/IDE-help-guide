@@ -38,6 +38,7 @@ Each data query must include at least one selection from five criteria choices: 
    - Collaborative problem solving
 
 3. Year:
+   - 2022 (data available for mathematics, mathematics subscales, reading, science)
    - 2018 (data available for reading, reading subscales, mathematics, science, and financial literacy)
    - 2015 (data available for science, science subscales, reading, mathematics, financial literacy, and collaborative problem solving)
    - 2012 (data available for mathematics, mathematics subscales, reading, science, financial literacy, and problem solving)
@@ -57,6 +58,7 @@ Each data query must include at least one selection from five criteria choices: 
    - Mathematics subscale: Change and relationships
    - Mathematics subscale: Quantity
    - Mathematics subscale: Uncertainty
+   - Mathematics subscale: Reasoning
    - Reading subscale: Locate information
    - Reading subscale: Understand
    - Reading subscale: Evaluate and reflect
@@ -103,17 +105,19 @@ Although each administration of PISA assesses mathematics, reading, and science,
 
 In 2015 and 2006, science was the major domain, and reading and mathematics were minor domains. Therefore, for these years, subscales are only available for science data; only single composite scales are available for PISA reading and mathematics data. 
 
-In 2012 and 2003, mathematics was the major domain, and reading and science were minor domains. Therefore, for these years, subscales are only available for mathematics data; only single composite scales are available for PISA reading and science data. 
+In 2022, 2012 and 2003, mathematics was the major domain, and reading and science were minor domains. Therefore, for these years, subscales are only available for mathematics data; only single composite scales are available for PISA reading and science data. 
 
 In 2018, 2009, and 2000, reading was the major domain, and mathematics and science were minor domains. Therefore, for these years, subscales are only available for reading data; only single composite scales are available for PISA mathematics and reading data. 
 
 In addition, there are continuous variables other than scale scores that you may choose as a dependent variable of analysis.  These variables fall under different categories, such as Student and Family Characteristics and School and Classroom Climate, and include variables such as student age in years, size of class, and an index of computer availability.
 
 #### Years
-Currently, data availability in the IDE is dependent on the dependent variable selected. If the dependent variable chosen is an overall literacy scale, you can choose one or multiple years: 2018, 2015, 2012, 2009, 2006, 2003, and 2000. If the dependent variable chosen is one of the science subscales, you can choose 2015 and/or 2006. If you choose between any of the mathematics subscales, you can choose 2012 and/or 2003. If you choose any of the reading subscales, you can choose 2018, 2009, and/or 2000.  Subscales are not available for financial literacy, problem solving, or collaborative problem solving. 
+Currently, data availability in the IDE is dependent on the dependent variable selected. If the dependent variable chosen is an overall literacy scale, you can choose one or multiple years: 2022, 2018, 2015, 2012, 2009, 2006, 2003, and 2000. If the dependent variable chosen is one of the science subscales, you can choose 2015 and/or 2006. If you choose between any of the mathematics subscales, you can choose 2022, 2012 and/or 2003. If you choose any of the reading subscales, you can choose 2018, 2009, and/or 2000.  Subscales are not available for financial literacy, problem solving, or collaborative problem solving. 
 
 #### Jurisdictions
-All listed jurisdictions can be selected for any analyses, provided data are available for the selected year. In 2018, a total of 79 jurisdictions participated in the mathematics, reading, and science literacy PISA assessments: 37 Organization for Economic Cooperation and Development (OECD) countries and 42 non-OECD jurisdictions. The non-OECD jurisdictions include some subnational education systems, such as Hong Kong-China. Data are not available for some of these 79 jurisdictions for 2015, 2012, 2009, 2006, 2003, and/or 2000, either because they did not participate in that PISA cycle or because their data were suppressed due to reporting standards not being met (for example, PISA 2018 data for Vietnam were suppressed due to international reporting standards not being met, and PISA 2015 data for Argentina, Malaysia, and Kazakhstan were suppressed due to international reporting standards not being met). 
+All listed jurisdictions can be selected for any analyses, provided data are available for the selected year. In 2022, 81 education systems participated in PISA, including 37 member countries of the Organization for Economic Cooperation and Development (OECD) and 44 other countries and subnational education systems. The PISA 2022 results represent outcomes from the 8th cycle of PISA since its inception in 2000 and provide a global view of U.S. students' performance compared to their peers in the 80 other participating education systems.
+
+In 2018, a total of 79 jurisdictions participated in the mathematics, reading, and science literacy PISA assessments: 37 OECD countries and 42 non-OECD jurisdictions. The non-OECD jurisdictions include some subnational education systems, such as Hong Kong-China. Data are not available for some of these 79 jurisdictions for 2015, 2012, 2009, 2006, 2003, and/or 2000, either because they did not participate in that PISA cycle or because their data were suppressed due to reporting standards not being met (for example, PISA 2018 data for Vietnam were suppressed due to international reporting standards not being met, and PISA 2015 data for Argentina, Malaysia, and Kazakhstan were suppressed due to international reporting standards not being met). 
 
 Data are available for 73 jurisdictions (35 OECD and 38 non-OECD) in 2015, 65 jurisdictions (35 OECD and 30 non-OECD) in 2012, 65 jurisdictions (35 OECD and 30 non-OECD) in 2009, 57 jurisdictions (35 OECD and 22 non-OECD) in 2006, 41 jurisdictions (31 OECD and 10 non-OECD) in 2003, and 38 jurisdictions (29 OECD and 9 non-OECD) in 2000. 
 
@@ -134,18 +138,19 @@ Note that some variables might be similar in content, but not comparable over th
 #### Proficiency levels 
 Achievement results for PISA are reported using discrete proficiency levels for reading, mathematics, science, financial literacy, problem solving, and collaborative problem solving. Increasing levels represent the knowledge, skills, and capabilities needed to perform tasks of increasing complexity. Based on the statistics option chosen, IDE can report the average scores of students at each proficiency level or the percentage of students performing at each of the predefined levels for the chosen jurisdictions. Two statistics options, standard deviations and percentiles, will not generate reports as proficiency levels are not reportable using these statistical analyses. Proficiency levels for any subject should be analyzed with the scale of that same subject; for example, the reading literacy proficiency levels should be analyzed with the reading literacy scale.
 
-Mathematics literacy: Administered in all cycles (2000, 2003, 2006, 2009, 2012, 2015, 2018). In 2000, an interim scale was used, and cut-off points between mathematics literacy proficiency levels were not established. Thus, proficiency levels cannot be analyzed in the IDE for 2000 mathematics literacy. From 2003 to 2018, mathematics literacy results were reported using 6 proficiency levels (level 1–level 6); the IDE shows 7 categories (below level 1, level 1, level 2, level 3, level 4, level 5, level 6). 
+Mathematics literacy: Administered in all cycles (2000, 2003, 2006, 2009, 2012, 2015, 2018, 2022). In 2000, an interim scale was used, and cut-off points between mathematics literacy proficiency levels were not established. Thus, proficiency levels cannot be analyzed in the IDE for 2000 mathematics literacy. The IDE reports proficiency levels in 9 categories (Below level 1c, level 1c, level 1b, level 1a, level 2, level 3, level 4, level 5, level 6). 
 
-Science literacy: Administered in all cycles (2000, 2003, 2006, 2009, 2012, 2015, 2018). Proficiency levels did not have strict definitions until 2006, when science literacy was the major domain and had a non-interim scale for the first time. Thus, proficiency levels cannot be analyzed in the IDE for 2000 and 2003 science literacy. In 2006, 2009, and 2012, science literacy results were reported using 6 proficiency levels. In 2015 and 2018, science literacy results were reported using 7 proficiency levels, as level 1 was broken into level 1b and level 1a. The cutpoint score for level 1a in 2015 and 2018 is the same as level 1 in 2006, 2009, and 2012; the cutpoint score for level 1b is set significantly lower. IDE programmers have retroactively calculated level 1b for 2006, 2009, and 2012 to allow for trend comparisons, so the IDE shows 8 categories for all years (below level 1b, level 1b, level 1a, level 2, level 3, level 4, level 5, level 6).
+Science literacy: Administered in all cycles (2000, 2003, 2006, 2009, 2012, 2015, 2018, 2022). Proficiency levels did not have strict definitions until 2006, when science literacy was the major domain and had a non-interim scale for the first time. Thus, proficiency levels cannot be analyzed in the IDE for 2000 and 2003 science literacy. The IDE reports proficiency levels in 9 categories (Below level 1c, level 1c, level 1b, level 1a, level 2, level 3, level 4, level 5, level 6). 
 
-Reading literacy: Administered in all cycles (2000, 2003, 2006, 2009, 2012, 2015, 2018). In 2000, 2003, and 2006, 5 proficiency levels were used (level 1–level 5). Starting in 2009 and continuing in 2012 and 2015, reading literacy results were reported using 7 proficiency levels, with level 1 broken into level 1b and level 1a, followed by level 2 through 5 and a new top level (level 6). In 2018, a new lowest proficiency level (level 1c) was added, and the full list of 8 reading literacy proficiency levels became level 1c, level 1b, level 1a, level 2, level 3, level 4, level 5, and level 6. The cut point for level 1a from 2009 to 2018 is the same as for level 1 from 2000 to 2006. IDE programmers have retroactively calculated level 1c for pre-2018 years and level 1b and level 6 for pre-2009 years to allow for trend comparisons, so the IDE shows 9 categories for all years (below level 1c, level 1c, level 1b, level 1a, level 2, level 3, level 4, level 5, level 6).
+Reading literacy: Administered in all cycles (2000, 2003, 2006, 2009, 2012, 2015, 2018, 2022). The IDE reports proficiency levels in 9 categories (Below level 1c, level 1c, level 1b, level 1a, level 2, level 3, level 4, level 5, level 6). 
 
 Financial literacy: Administered in 2012, 2015, and 2018. In all 3 years, financial literacy results were reported using 5 proficiency levels (level 1–level 5); the IDE shows 6 categories (below level 1, level 1, level 2, level 3, level 4, level 5).
+
 Problem solving: Administered in 2012. Problem-solving results were reported using 6 proficiency levels (level 1–level 6); the IDE shows 7 categories (below level 1, level 1, level 2, level 3, level 4, level 5, level 6).
 
 Collaborative problem solving: Administered in 2015. Collaborative problem solving results were reported using 4 proficiency levels (level 1–level 4); the IDE shows 5 categories (below level 1, level 1, level 2, level 3, level 4).
 
-As noted above, the IDE also provides available data for students performing below proficiency level 1 for mathematics literacy, financial literacy, problem solving, and collaborative problem solving; below level 1b for science; and below level 1c for reading literacy. Patterns of responses for students in the proficiency levels below each subject’s lowest level (e.g., below level 1 for mathematics literacy, below level 1c for reading literacy, etc.) suggest that these students are unable to answer at least half of the items from those levels correctly; for this reason, the cognitive capabilities of students scoring below these levels are unclear and not defined by OECD. Proficiency at and below these low levels is sometimes combined in reports and referred to as below level 2 (e.g., for reading literacy, below level 2 refers to levels 1a, 1b, lc, and below level 1c.) Descriptions that characterize typical student performance at each proficiency level are shown in the following tables for reading, mathematics, and science literacy, as well as financial literacy, problem solving, and collaborative problem solving.
+As noted above, the IDE also provides available data for students performing below proficiency level 1 for mathematics literacy, financial literacy, problem solving, and collaborative problem solving; below level 1b for science; and below level 1c for reading literacy. Patterns of responses for students in the proficiency levels below each subject’s lowest level (e.g., below level 1c for mathematics literacy, below level 1c for reading literacy, etc.) suggest that these students are unable to answer at least half of the items from those levels correctly; for this reason, the cognitive capabilities of students scoring below these levels are unclear and not defined by OECD. Proficiency at and below these low levels is sometimes combined in reports and referred to as below level 2 (e.g., for reading literacy, below level 2 refers to levels 1a, 1b, lc, and below level 1c.) Descriptions that characterize typical student performance at each proficiency level are shown in the following tables for reading, mathematics, and science literacy, as well as financial literacy, problem solving, and collaborative problem solving.
 
 For more information on benchmarks, please visit https://nces.ed.gov/surveys/pisa/2018technotes-6.asp.
 
@@ -170,10 +175,10 @@ Information on indices for each year of administration can be found in the chapt
 
 The IDE reports PISA data with several statistics options:
 
-•	Averages
-•	Percentages
-•	Standard deviations
-•	Percentiles
+-	Averages
+-	Percentages
+-	Standard deviations
+-	Percentiles
 
 #### Averages
 This statistic provides the average value for a selected continuous variable or overall score for the combined literacy scale (for example, science literacy) or score for one of the subscales corresponding to the subject chosen (for example, the science competency subscale: interpret data and evidence scientifically).
@@ -189,11 +194,11 @@ The standard deviation is a dependent variable of how widely or narrowly dispers
 #### Percentiles  
 This statistic shows the threshold score (or cut point) for the following:
 
-•	10th percentile – the bottom 10 percent of students
-•	25th percentile – the bottom quarter of students
-•	50th percentile – the median (half the students scored below the cut point and half scored above it)
-•	75th percentile – the top quarter of students
-•	90th percentile – the top 10 percent of students
+-	10th percentile – the bottom 10 percent of students
+-	25th percentile – the bottom quarter of students
+-	50th percentile – the median (half the students scored below the cut point and half scored above it)
+-	75th percentile – the top quarter of students
+-	90th percentile – the top 10 percent of students
 
 
 ### Cross-tabulations
@@ -220,15 +225,15 @@ Jurisdictions listed in the IDE as OECD countries are those that are currently m
 
 Furthermore, there are certain OECD countries that are excluded from the OECD averages both in the IDE and published OECD reports due to issues listed below:
 
-•	Four current OECD countries (Estonia, the Slovak Republic, Slovenia, and Turkey) did not participate in 2000 and 2003. 
-•	Data for the Netherlands and the United Kingdom were suppressed in 2000 due to international reporting standards not being met.  
-•	The reading literacy scores are not reported in the 2006 cycle for the United States due to a printing error in the test booklets.^[While the Netherlands’ 2000 data were suppressed for the OECD release of the PISA 2000 results, the United Kingdom’s 2000 data were suppressed retroactively by the OECD after the release of the PISA 2000 results.] 
-•	The OECD average for the optional financial literacy assessment is calculated based on the average scores of the 14 participating countries in 2012.
-•	The OECD average for the optional problem-solving assessment is calculated based on the 28 participating countries in 2012.
-•	Data for Vietnam were suppressed in 2018 due to international reporting standards not being met. 
-•	The reading literacy scores for Spain were not reported in 2018 due to sub-optimal response behaviors from students. 
+-	Four current OECD countries (Estonia, the Slovak Republic, Slovenia, and Turkey) did not participate in 2000 and 2003. 
+-	Data for the Netherlands and the United Kingdom were suppressed in 2000 due to international reporting standards not being met.  
+-	The reading literacy scores are not reported in the 2006 cycle for the United States due to a printing error in the test booklets.^[While the Netherlands’ 2000 data were suppressed for the OECD release of the PISA 2000 results, the United Kingdom’s 2000 data were suppressed retroactively by the OECD after the release of the PISA 2000 results.] 
+-	The OECD average for the optional financial literacy assessment is calculated based on the average scores of the 14 participating countries in 2012.
+-	The OECD average for the optional problem-solving assessment is calculated based on the 28 participating countries in 2012.
+-	Data for Vietnam were suppressed in 2018 due to international reporting standards not being met. 
+-	The reading literacy scores for Spain were not reported in 2018 due to sub-optimal response behaviors from students. 
 
-Please note that OECD averages are affected by data suppression rules (discussed on the next page). This means that in some cases the OECD average generated by the IDE when a variable is chosen may not match the PISA 2018 OECD and NCES reports for that variable. This occurs when an OECD country’s data is suppressed in either the IDE or the OECD or NCES reports, but not both. If a country’s data is suppressed in the IDE, it will not be included in the calculation of the average score. For example, the OECD excluded Spain’s reading data from its first report presenting the results of the PISA 2018 survey (OECD, PISA 2018 Results (Volume I): What Students Know and Can Do, available at http://www.pisa.oecd.org) because of a concern over sub-optimal response behaviors from students. NCES also excluded these data from its 2018 report. After further investigation, the OECD decided to release all available PISA 2018 data for Spain, but this change was not reflected in the NCES report.
+Please note that OECD averages are affected by data suppression rules. This means that in some cases the OECD average generated by the IDE when a variable is chosen may not match the OECD and NCES reports for that variable. This occurs when an OECD country’s data is suppressed in either the IDE or the OECD or NCES reports, but not both. If a country’s data is suppressed in the IDE, it will not be included in the calculation of the average score. For example, the OECD excluded Spain’s reading data from its first report presenting the results of the PISA 2018 survey (OECD, PISA 2018 Results (Volume I): What Students Know and Can Do, available at http://www.pisa.oecd.org) because of a concern over sub-optimal response behaviors from students. NCES also excluded these data from its 2018 report. After further investigation, the OECD decided to release all available PISA 2018 data for Spain, but this change was not reflected in the NCES report.
 
 #### Statistical Comparisons 
 The alpha level for all *t*-tests is .05. All comparisons within a jurisdiction, within the same year, are made using dependent *t*-tests. Comparisons between jurisdictions are treated as independent. Non-achievement comparisons across years are treated as independent. Comparisons of achievement across years are made using independent *t*-tests with a linking error taken into account. A part-whole adjustment is implemented for comparisons between a jurisdiction and a group that the jurisdiction is part of (e.g. International Average (OECD Countries)).
@@ -325,11 +330,11 @@ Content category and subcategory titles may overlap, but specific variables appe
 In addition to average scale scores, achievement results for PIRLS and ePIRLS are reported using achievement levels. The achievement levels are international benchmarks based on collective judgments about what students should know and be able to do relative to the body of content reflected in each subject-area assessment. The overall reading literacy scale is divided into international benchmarks.
 International benchmarks for the reading levels are as follows:
 
-•	Below low—below 400
-•	At low—between 400 and 474
-•	At intermediate—between 475 and 549
-•	At high—between 550 and 624
-•	At advanced—at or above 625
+-	Below low—below 400
+-	At low—between 400 and 474
+-	At intermediate—between 475 and 549
+-	At high—between 550 and 624
+-	At advanced—at or above 625
 
 For more information on benchmarks, please visit https://nces.ed.gov/surveys/pirls/pirls2016/technotes_intlbenchmarks.asp.
 
@@ -363,10 +368,10 @@ the chapters referenced in the summary table below.
 
 The IDE reports PIRLS data with several statistics options:
 
-•	Averages
-•	Percentages
-•	Percentiles
-•	Standard deviations
+-	Averages
+-	Percentages
+-	Percentiles
+-	Standard deviations
 
 
 #### Averages
@@ -386,11 +391,11 @@ In the IDE, you may obtain standard deviations as one of your two choices for �
 
 #### Percentiles  
 This statistic shows the threshold (or cutpoint) score for the following:
-•	10th percentile—the bottom 10 percent of students
-•	25th percentile—the bottom quarter of students
-•	50th percentile—the bottom half of students (half the students scored at or below the cutpoint and half scored above it)
-•	75th percentile—the top quarter of students
-•	90th percentile—the top 10 percent of students
+-	10th percentile—the bottom 10 percent of students
+-	25th percentile—the bottom quarter of students
+-	50th percentile—the bottom half of students (half the students scored at or below the cutpoint and half scored above it)
+-	75th percentile—the top quarter of students
+-	90th percentile—the top 10 percent of students
 
 
 
@@ -405,12 +410,12 @@ Be advised that if you go back to add another variable without subtracting one t
 ### Statistical Notations and Other Notes
 Statistical notations and other notes are found at the end of a data table, as applicable to that table: 
 
-•	— Not available.
-•	† Not applicable. (For instance, the standard error for the statistic cannot be reported because the statistic does not meet reporting standards.)
-•	\# The statistic rounds to zero.
-•	‡ Reporting standards not met. (For instance, the sample size is insufficient to permit a reliable estimate.) 
-•	NOTE: A general note pertains to any special characteristics of the data in the table.
-•	SOURCE: Source information is listed for all PIRLS data and should be cited when data are used in a publication or presentation.
+-	— Not available.
+-	† Not applicable. (For instance, the standard error for the statistic cannot be reported because the statistic does not meet reporting standards.)
+-	\# The statistic rounds to zero.
+-	‡ Reporting standards not met. (For instance, the sample size is insufficient to permit a reliable estimate.) 
+-	NOTE: A general note pertains to any special characteristics of the data in the table.
+-	SOURCE: Source information is listed for all PIRLS data and should be cited when data are used in a publication or presentation.
 
 The general note (NOTE) warns users of jurisdiction-specific changes in population coverage, participation rates, or sampling procedures which deviated from international standards. Data from these jurisdictions have issues that interfere with proper trend analysis: Azerbaijan, Israel, Kuwait, Lithuania, Morocco, Poland, Qatar, and South Africa. Please be aware of these concerns for the following jurisdictions (years in parentheses): Alberta-CAN (11), Austria (16), Azerbaijan (11), Belgium (Flemish) (06), Belgium (French) (16, 11), Bulgaria (06), Canada (16, 11), Croatia (11), Denmark (16, 11, 06), England (11, 01), Florida-USA (11), Georgia (16, 11, 06), Greece (01), Hong Kong (16, 11), Israel (16, 11, 06, 01), Latvia (16), Lithuania (11, 01), Malta (16), Morocco (11, 01), the Netherlands (16, 11, 06, 01), Northern Ireland (11), Norway (11, 06), Oman (11), Ontario-CAN (11), Portugal (16), Qatar (11), Russian Federation (06, 01), Scotland (06, 01), Singapore (16, 11), the United States (16, 11, 06, 01), Quebec-CAN(16), and Madrid-ESP(16).
 Exclusion rates for Azerbaijan and Georgia for 2011 are slightly underestimated as some conflict zones were not covered and no official statistics were available.
@@ -560,10 +565,10 @@ Information on indices for each year of administration can be found in the chapt
 
 The IDE reports TIMSS data with several statistics options:
 
-•	Averages
-•	Percentages
-•	Standard deviations
-•	Percentiles
+-	Averages
+-	Percentages
+-	Standard deviations
+-	Percentiles
 
 
 #### Averages
@@ -585,11 +590,11 @@ The standard deviation is a dependent variable of how widely or narrowly dispers
 #### Percentiles  
 This statistic shows the threshold (or cutpoint) score for the following:
 
-•	10th percentile—the bottom 10 percent of students
-•	25th percentile—the bottom quarter of students
-•	50th percentile—the median (half the students scored below the cutpoint and half scored above it)
-•	75th percentile—the top quarter of students
-•	90th percentile—the top 10 percent of students
+-	10th percentile—the bottom 10 percent of students
+-	25th percentile—the bottom quarter of students
+-	50th percentile—the median (half the students scored below the cutpoint and half scored above it)
+-	75th percentile—the top quarter of students
+-	90th percentile—the top 10 percent of students
 
 
 
@@ -603,12 +608,12 @@ Be advised that if you go back to add another variable without subtracting one t
 ### Statistical Notations and Other Notes
 Statistical notations and other notes are found at the end of a data table, as applicable to that table: 
 
-•	— Not available.
-•	† Not applicable. (For instance, the standard error for the statistic cannot be reported because the statistic does not meet reporting standards.)
-•	\# The statistic rounds to zero.
-•	‡ Reporting standards not met. (For instance, the sample size is insufficient to permit a reliable estimate.) 
-•	NOTE: A general note pertains to any special characteristics of the data in the table. Population coverage, participation rates, sampling procedures, reliability standards, and trend comparability issues are addressed here. See details below.
-•	SOURCE: Source information is listed for all TIMSS and TIMSS Advanced data and should be cited when data are used in a publication or presentation.
+-	— Not available.
+-	† Not applicable. (For instance, the standard error for the statistic cannot be reported because the statistic does not meet reporting standards.)
+-	\# The statistic rounds to zero.
+-	‡ Reporting standards not met. (For instance, the sample size is insufficient to permit a reliable estimate.) 
+-	NOTE: A general note pertains to any special characteristics of the data in the table. Population coverage, participation rates, sampling procedures, reliability standards, and trend comparability issues are addressed here. See details below.
+-	SOURCE: Source information is listed for all TIMSS and TIMSS Advanced data and should be cited when data are used in a publication or presentation.
 
 Population coverage, participation rates, sampling procedures, or reliability standards deviated from international standards in the following jurisdictions: 
 
@@ -862,7 +867,7 @@ Note that some variables might be similar in content, but not comparable over th
 
 #### Proficiency levels 
 Proficiency levels are available in the Proficiency Levels sub-category in the Major Reporting Groups category. Achievement results for PIAAC are reported using achievement levels for literacy, numeracy, and problem solving in technology-rich environments (PS-TRE). Increasing levels represent the knowledge, skills, and capabilities needed to perform tasks of increasing complexity. As a result, the findings are reported in terms of percentages of the adult population at each of the predefined levels. Based on the statistics option chosen, the IDE can report the average scores of adults at each proficiency level or the percentage of the adults performing at each of the predefined levels for the chosen jurisdictions. The statistics options to choose standard deviations and percentiles will not generate reports as proficiency levels are not reportable using these statistical analyses.
-The IDE can report percentage distributions of variables among the adults at each proficiency level (for example, the percentage distribution of adult population that are employed, unemployed, and out of the labor force [employment status] within each proficiency level). To conduct this type of analysis, you can select the relevant Overall scale or Percentage across full sample at step 1, Select Criteria. At step 2, Select Criteria, you can select the relevant proficiency levels in addition to other variable(s) of interest. At the Edit Reports step, you can select the Edit command for the cross-tabulated report to change the table layout and move the proficiency levels variable to the row and one (or both) of the other selected variables to the column (this step may not be necessary depending on the order of the selected variables) and to select Percentages as the Statistic. Results for combined proficiency levels (for example, the combined level 4/5 proficiency level used in most reporting of PIAAC literacy and numeracy results) can be produced by creating a new variable within the Edit Report page. (For further information, see section 3.D. Create Variables.) You can then proceed to the Build Reports step.
+The IDE can report percentage distributions of variables among the adults at each proficiency level (for example, the percentage distribution of adult population that are employed, unemployed, and out of the labor force [employment status] within each proficiency level). To conduct this type of analysis, you can select the relevant Overall scale or Percentage across full sample at step 1, Select Criteria. At step 2, Select Criteria, you can select the relevant proficiency levels in addition to other variable(s) of interest. At the Edit Reports step, you can select the Edit command for the cross-tabulated report to change the table layout and move the proficiency levels variable to the row and one (or both) of the other selected variables to the column (this step may not be necessary depending on the order of the selected variables) and to select Percentages as the Statistic. Results for combined proficiency levels (for example, the combined level 4/5 proficiency level used in most reporting of PIAAC literacy and numeracy results) can be produced by creating a new variable within the Edit Report page. (For further information, see section Create Variables.) You can then proceed to the Build Reports step.
 Literacy and numeracy results in PIAAC 2012–2017 and ALL 2003–2008, and literacy results in IALS 1994–1998 were reported using six achievement levels: below level 1, level 1, level 2, level 3, level 4, and level 5. Literacy related non-response is also available. 
 The number of achievement levels in problem solving in technology-rich environments (PS-TRE) differs from the number in literacy and numeracy for PIAAC 2012–2017 where four achievement levels were used: below level 1, level 1, level 2, and level 3. Four other levels are also available in problem solving in technology-rich environments (PS-TRE) achievement levels: no computer experience, failed ICT core, refused CBA, and literacy related non-response (which are further explained in the Description of PIAAC problem solving in technology-rich environments (PS-TRE) achievement levels table below.)
 For more information on proficiency levels, please visit https://nces.ed.gov/surveys/piaac/dependent variable.asp.
@@ -872,10 +877,10 @@ For more information on proficiency levels, please visit https://nces.ed.gov/sur
 
 The IDE reports PIAAC data with several statistics options:
 
-•	Averages
-•	Percentages
-•	Standard deviations
-•	Percentiles
+-	Averages
+-	Percentages
+-	Standard deviations
+-	Percentiles
 
 
 #### Averages
@@ -892,11 +897,11 @@ The standard deviation is a dependent variable of how widely or narrowly dispers
 #### Percentiles  
 This statistic shows the threshold score (or cut point) for the following:
 
-•	10th percentile – the bottom 10 percent of students
-•	25th percentile – the bottom quarter of students
-•	50th percentile – the median (half the students scored below the cut point and half scored above it)
-•	75th percentile – the top quarter of students
-•	90th percentile – the top 10 percent of students
+-	10th percentile – the bottom 10 percent of students
+-	25th percentile – the bottom quarter of students
+-	50th percentile – the median (half the students scored below the cut point and half scored above it)
+-	75th percentile – the top quarter of students
+-	90th percentile – the top 10 percent of students
 
 
 ### Cross-tabulations
@@ -984,10 +989,10 @@ To select both years of TALIS for analysis, check the box for “All Years.”
 All listed jurisdictions can be selected for any analysis, provided data are available for the selected year of TALIS. 
 Please note the following inclusions and exclusions of TALIS participating country and subnational education system data in the OECD TALIS international reports and the NCES TALIS IDE:
 
-•	The Netherlands participated in TALIS 2008 but did not meet the sampling standards. Their data are not included in the TALIS IDE or in the OECD TALIS international report. 
-•	Cyprus’s data for TALIS 2013 were included in the OECD TALIS international report but were not made publicly available for use in the data files provided on the OECD website. Cyprus’s data for TALIS 2013 are not included in the TALIS IDE.
-•	Iceland’s data for TALIS 2013 and 2018 were included in the OECD TALIS international report but were not made publicly available for use in the data files provided on the OECD website. Iceland’s data for TALIS 2013, but not for TALIS 2018, are included in the TALIS IDE.
-•	In the OECD TALIS 2013 international report, all ISCED 2 estimates for the United States are shown separately from those for the other participating education systems. This is because the United States did not achieve an acceptable level of response based on the international response rate standards established for TALIS 2013. (To read more about the U.S. response rate, the steps taken to determine the level of bias in the estimates, and caveats about the U.S. data, see https://nces.ed.gov/surveys/talis/talis2013/index.asp.) However, in the TALIS IDE, report outputs do not show U.S. estimates separately from the estimates of all other jurisdictions.
+-	The Netherlands participated in TALIS 2008 but did not meet the sampling standards. Their data are not included in the TALIS IDE or in the OECD TALIS international report. 
+-	Cyprus’s data for TALIS 2013 were included in the OECD TALIS international report but were not made publicly available for use in the data files provided on the OECD website. Cyprus’s data for TALIS 2013 are not included in the TALIS IDE.
+-	Iceland’s data for TALIS 2013 and 2018 were included in the OECD TALIS international report but were not made publicly available for use in the data files provided on the OECD website. Iceland’s data for TALIS 2013, but not for TALIS 2018, are included in the TALIS IDE.
+-	In the OECD TALIS 2013 international report, all ISCED 2 estimates for the United States are shown separately from those for the other participating education systems. This is because the United States did not achieve an acceptable level of response based on the international response rate standards established for TALIS 2013. (To read more about the U.S. response rate, the steps taken to determine the level of bias in the estimates, and caveats about the U.S. data, see https://nces.ed.gov/surveys/talis/talis2013/index.asp.) However, in the TALIS IDE, report outputs do not show U.S. estimates separately from the estimates of all other jurisdictions.
 
 
 ### Variables
@@ -1013,10 +1018,10 @@ Information on the indices available for each year of administration can be foun
 
 The IDE reports TALIS data with several statistics options:
 
-•	Averages
-•	Percentages
-•	Standard deviations
-•	Percentiles
+-	Averages
+-	Percentages
+-	Standard deviations
+-	Percentiles
 
 #### Averages
 For the TALIS assessment, teacher and principal averages for continuous variables are in the same units as the variables themselves (e.g., average age of teachers). By default, the standard errors of the averages are shown in parentheses. Note that averages will only display in the TALIS IDE if you have selected a continuous variable as a dependent variable.
@@ -1030,11 +1035,11 @@ The standard deviation is a dependent variable of how widely or narrowly dispers
 #### Percentiles  
 This statistic shows the threshold (or cut-point) for the following:
 
-•	10th percentile – Bottom 10 percent of teachers or schools
-•	25th percentile – Bottom quarter of teachers or schools
-•	50th percentile – Median (i.e., half the teachers or schools reported values below the cut-point and half reported values above it)
-•	75th percentile – Top quarter of teachers and schools
-•	90th percentile – Top 10 percent of teachers and schools
+-	10th percentile – Bottom 10 percent of teachers or schools
+-	25th percentile – Bottom quarter of teachers or schools
+-	50th percentile – Median (i.e., half the teachers or schools reported values below the cut-point and half reported values above it)
+-	75th percentile – Top quarter of teachers and schools
+-	90th percentile – Top 10 percent of teachers and schools
 
 
 
@@ -1069,13 +1074,13 @@ Data suppression may be handled slightly differently in the TALIS IDE and the OE
 #### ISCED
 The International Standard Classification of Education (ISCED) is an internationally comparable method for describing levels of education across countries, created by the United Nations Educational, Scientific and Cultural Organization (UNESCO). TALIS used the ISCED classification system for all administration cycles. ISCED levels are defined as follows:
 
-•	Level 0 – The initial stage of organized instruction, designed primarily to introduce very young children to a school-type environment. ISCED level 0 programs can either be center or school based. Preschool and kindergarten programs in the United States fall into the level 0 category.
-•	Level 1 – Consists of primary education, which usually lasts 4 to 6 years. ISCED level 1 typically begins between ages 5 and 7, and is the stage where students begin to study basic subjects, such as reading, writing, and mathematics. In the United States, elementary school (grades 1 through 6) is classified as level 1.
-•	Level 2 – Also known as lower secondary education. Students continue to learn the basic subjects taught at level 1, but this level is typically more subject specific than level 1 and may be taught by specialized teachers. ISCED level 2 usually lasts 2 to 6 years and begins around the age of 11. Middle school and junior high (grades 7 through 9) in the United States are classified as level 2.
-•	Level 3 – Also known as upper secondary education, student coursework at this level is generally subject specific and often taught by specialized teachers. Students often enter upper secondary education at the age of 15 or 16 and attend anywhere from 2 to 5 years. ISCED level 3 can prepare students for university, further schooling, or the labor force. Senior high school (grades 10 through 12) is considered level 3 in the United States.
-•	Level 4 – Consists primarily of vocational education, and courses are taken after the completion of secondary school, although the content is not more advanced than the content of secondary school courses. ISCED level 4 programs in the United States are often in the form of 1-year certificate programs.
-•	Level 5 – Divided into levels 5A and 5B, this level focuses on tertiary education. ISCED level 5A refers to academic higher education below the doctoral level. Level 5A programs are intended to provide sufficient qualifications to gain entry into advanced research programs and professions with high skill requirements. In the United States, bachelor’s, master’s, and first-professional degree programs are classified as ISCED level 5A. ISCED level 5B refers to vocational higher education. Level 5B programs provide a higher level of career and technical education and are designed to prepare students for the labor market. In the United States, associate’s degree programs are classified as level 5B. 
-•	Level 6 – Refers to the doctoral level of academic higher education. Level 6 programs usually require the completion of a research thesis or dissertation.
+-	Level 0 – The initial stage of organized instruction, designed primarily to introduce very young children to a school-type environment. ISCED level 0 programs can either be center or school based. Preschool and kindergarten programs in the United States fall into the level 0 category.
+-	Level 1 – Consists of primary education, which usually lasts 4 to 6 years. ISCED level 1 typically begins between ages 5 and 7, and is the stage where students begin to study basic subjects, such as reading, writing, and mathematics. In the United States, elementary school (grades 1 through 6) is classified as level 1.
+-	Level 2 – Also known as lower secondary education. Students continue to learn the basic subjects taught at level 1, but this level is typically more subject specific than level 1 and may be taught by specialized teachers. ISCED level 2 usually lasts 2 to 6 years and begins around the age of 11. Middle school and junior high (grades 7 through 9) in the United States are classified as level 2.
+-	Level 3 – Also known as upper secondary education, student coursework at this level is generally subject specific and often taught by specialized teachers. Students often enter upper secondary education at the age of 15 or 16 and attend anywhere from 2 to 5 years. ISCED level 3 can prepare students for university, further schooling, or the labor force. Senior high school (grades 10 through 12) is considered level 3 in the United States.
+-	Level 4 – Consists primarily of vocational education, and courses are taken after the completion of secondary school, although the content is not more advanced than the content of secondary school courses. ISCED level 4 programs in the United States are often in the form of 1-year certificate programs.
+-	Level 5 – Divided into levels 5A and 5B, this level focuses on tertiary education. ISCED level 5A refers to academic higher education below the doctoral level. Level 5A programs are intended to provide sufficient qualifications to gain entry into advanced research programs and professions with high skill requirements. In the United States, bachelor’s, master’s, and first-professional degree programs are classified as ISCED level 5A. ISCED level 5B refers to vocational higher education. Level 5B programs provide a higher level of career and technical education and are designed to prepare students for the labor market. In the United States, associate’s degree programs are classified as level 5B. 
+-	Level 6 – Refers to the doctoral level of academic higher education. Level 6 programs usually require the completion of a research thesis or dissertation.
 
 
 
@@ -1150,10 +1155,10 @@ Information on indices for each year of administration can be found in the IEA p
 
 The IDE reports ICILS data with several statistics options:
 
-•	Averages
-•	Percentages
-•	Standard deviations
-•	Percentiles
+-	Averages
+-	Percentages
+-	Standard deviations
+-	Percentiles
 
 #### Averages
 This statistic provides the average value for a selected continuous variable or overall scale.
@@ -1169,11 +1174,11 @@ The standard deviation is a dependent variable of how widely or narrowly dispers
 #### Percentiles  
 This statistic shows the threshold score (or cut point) for the following:
 
-•	10th percentile – the bottom 10 percent of students
-•	25th percentile – the bottom quarter of students
-•	50th percentile – the median (half the students scored below the cut point and half scored above it)
-•	75th percentile – the top quarter of students
-•	90th percentile – the top 10 percent of students
+-	10th percentile – the bottom 10 percent of students
+-	25th percentile – the bottom quarter of students
+-	50th percentile – the median (half the students scored below the cut point and half scored above it)
+-	75th percentile – the top quarter of students
+-	90th percentile – the top 10 percent of students
 
 
 

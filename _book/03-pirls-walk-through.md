@@ -257,8 +257,7 @@ Exhibit 3-10. Editing reports
     Options.)
 
 4. To create a new variable while editing a report, click on **Create
-    New...** under the **Grouping Variable** heading. Section 3.D below further
-    explains the process for creating a new variable.
+    New...** under the **Grouping Variable** heading. 
 
 5. Change the table layout by dragging elements to determine which
     items will appear in rows and which will appear in columns. Some of
@@ -535,8 +534,8 @@ Exhibit 3-16. Selecting reports to build
 ![Exhibit 3-16 is a screenshot from the PIRLS IDE tool showing how to select reports to build in the Edit Reports tab.](images/chapter3/image16.png){width="6.5in" height="5.289788932633421in"}
 
 If you wish to delete a report from the list of reports, click
-**Delete** (see 1 above) in the **Action** column. Use the **Reset**
-button (see 2 above) located in the upper right portion of the screen
+**Delete** in the **Action** column. Use the **Reset**
+button located in the upper right portion of the screen
 (just below the **Help** button) to restore the deleted reports (a word
 of caution: this will also delete any new reports that you have created
 and restore the Format Options and Statistics Options to the default
@@ -544,7 +543,7 @@ settings).
 
 To continue to the last step in the IDE, click the **Build Reports**
 button at the bottom of the page or the tab at the top of the page to go
-to the next screen (see 3 above).
+to the next screen.
 
 ## Build Reports
 ### Overview
@@ -556,21 +555,21 @@ variables and edit reports, before moving on to **Build Reports**. In
 **Build Reports**, you can do the following:
 
 1.  Generate a data table for each report selected in step 3, as shown
-    by the **Select Reports** drop-down feature (see 1 in exhibit 3-17).
+    by the **Select Reports** drop-down feature (see exhibit 3-17).
     By default, all reports are checked, though you can uncheck any
     reports for which you do not wish to retrieve data. (For further
     information, see Section Select Reports to Build).
 
 2. Export and save data tables into various formats using the **Export
-    Reports** button (see 2 in exhibit 3-17). The output formats include
+    Reports** button (see exhibit 3-17). The output formats include
     HTML (print-friendly), Microsoft Word, Microsoft Excel, and Adobe
     PDF.
 
-3. Select the **Chart** tab (see 3 in exhibit 3-17) to create and
+3. Select the **Chart** tab (see exhibit 3-17) to create and
     customize charts for each report and save them for export in the
     above formats.
 
-4. Select the **Significance Test** tab (see 4 in exhibit 3-17) to run a
+4. Select the **Significance Test** tab (see exhibit 3-17) to run a
     significance test on your results, customize it, and export it.
 
 Exhibit 3-17. Building reports overview ![Exhibit 3-17 is a screenshot from the PIRLS IDE tool showing an overview of the Build Reports tab featuring the Select Report, Export Reports, Chart, and Significance Test options.](images/chapter3/image17.png){width="6.5in" height="5.289788932633421in"}
@@ -580,7 +579,7 @@ Once you click on **Build Reports,** the words "Processing Data" will
 appear on your screen (see exhibit 3-17). Some reports will take longer
 than others to process, so please do not hit the "Back" button during
 this stage. To view a table, go to the **Select Report** drop-down menu
-(see 1 in exhibit 3-17) and choose a table of interest. Your table will
+(see exhibit 3-17) and choose a table of interest. Your table will
 appear once the processing is complete (see exhibit 3-18). To change the
 formatting or statistics options of a table or to generate a table from
 a report not included in your selection, return to step 3, **Edit
@@ -594,7 +593,7 @@ Go to **Select Report** to choose the report of interest from the
 drop-down menu, and then click the **Chart** link (see exhibit 3-19).
 
 You will be able to create many types of charts and customize them.
-Section 4.E. Create Charts---Chart Options provides a summary
+Section Create Charts---Chart Options provides a summary
 of the available features and how they can be customized.
 
 Exhibit 3-19. Viewing reports as charts
@@ -827,7 +826,7 @@ Exhibit 3-29. Gap analysis options
 
 The steps for running a gap analysis are similar to those for conducting
 a statistical significance test (see exhibit 3-29). Thus, to run a gap
-analysis, follow the instructions under section **4.F. Significance
+analysis, follow the instructions under section **Significance
 Tests**, noting the following differences:
 
 1.  The **Gap Analysis** link should be selected, not the **Significance
