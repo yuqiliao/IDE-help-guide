@@ -2,19 +2,8 @@
 
 There are four general steps for exploring each IDE page (see exhibit 3-1). Each step is described in more detail in the following sub-sections. 
 
-<<<<<<< Updated upstream
-Exhibit 3. What you will see in the IDE environment and what each step entails
-<<<<<<< HEAD
-![](images/chapter3/four-steps.png){width="6.236430446194226in"
-height="5.361384514435696in"}
-=======
 Exhibit 3-1. What you will see in the IDE environment and what each step entails
 ![Exhibit 3-1 is a screenshot from the PIRLS IDE toolshowing what each step in the IDE environment entails.](images/chapter3/four-steps.png){width="100%" style="display: block; margin: 0 auto"}
->>>>>>> Stashed changes
-=======
-![](images/chapter3/four-steps.png){width="100%" style="display: block; margin: 0 auto"}
->>>>>>> main
-
 
 ## Select Criteria
 ### Overview
@@ -57,7 +46,7 @@ each year for the grid of dots (which means data are available) or the
 "No data" slash.
 
 Exhibit 3-3. Dependent Variables
-![Exhibit 3-3 is a screenshot from the PIRLS IDE tool showing how to select dependent variables in the Select Criteria tab.](images/chapter3/image3.png){width="6.5in" height="5.289788932633421in"}
+![Exhibit 3-3 is a screenshot from the PIRLS IDE tool showing how to select dependent variables in the Select Criteria tab.](images/chapter3/image3.png){width="100%" style="display: block; margin: 0 auto"}
 
 ### Choose Jurisdiction
 With your dependent variable selected, next choose at least one **Jurisdiction.**
@@ -91,7 +80,7 @@ follows:
     not deselect your choices.
 
 Exhibit 3-4. Choosing jurisdictions
-![Exhibit 3-4 is a screenshot from the PIRLS IDE tool showing jurisdictions available in the Select Criteria tab.](images/chapter3/image4.png){width="6.5in" height="5.289788932633421in"}
+![Exhibit 3-4 is a screenshot from the PIRLS IDE tool showing jurisdictions available in the Select Criteria tab.](images/chapter3/image4.png){width="100%" style="display: block; margin: 0 auto"}
 
 To continue in the IDE, click the **Select Grouping Variables** button at the
 bottom of the page or the tab at the top of the page to go to the next
@@ -109,7 +98,7 @@ using the **Category** and **Sub Category** lists or by using the
 change variable selections at any time.
 
 Exhibit 3-5. Selecting variables overview
-![Exhibit 3-5 is a screenshot from the PIRLS IDE tool showing an overview of the Select Grouping Variables tab.](images/chapter3/image5.png){width="6.5in" height="5.289788932633421in"}
+![Exhibit 3-5 is a screenshot from the PIRLS IDE tool showing an overview of the Select Grouping Variables tab.](images/chapter3/image5.png){width="100%" style="display: block; margin: 0 auto"}
 
 ### Search Using Category and Subcategory Lists
 Choose at least one variable on this screen for your report. One way to
@@ -126,36 +115,31 @@ To browse for variables, get details about them, select them, and view
 them:
 
 1.  Click the blue arrows to open and close categories and subcategories
-    of variables\
-    (see exhibit 3-6).
+    of variables (see exhibit 3-6).
 
-```{=html}
-<!-- -->
-```
-7.  Click **details** or **hide details** to show or hide the full title
+2.  Click **details** or **hide details** to show or hide the full title
     of a given variable, the PIRLS ID, and the values (i.e., variable
     labels). Note that some variables have the same or similar short
     titles but comparing details will show you how they differ. See the
     example in exhibit 3-6, which shows general things in the student's
     home (ASBGBOOK and ASBGTA1).
 
-8.  Click the checkbox next to a variable to select it for your
+3.  Click the checkbox next to a variable to select it for your
     analysis/report. You will see the count increase next to **View
     Selected**.
 
-9.  Click the **View Selected** tab to see the variables you have
+4.  Click the **View Selected** tab to see the variables you have
     chosen. To return to the full list of variables by category, click
     the **View All** tab.
 
-10. Remember to select the year for which you wish to build a report and
+5. Remember to select the year for which you wish to build a report and
     make sure that data are available for your chosen year and
     variables.
 
-11. Searching variables is an option from the Search box. See section
-    2.C, page 12, for more details about this function.
+6. Searching variables is an option from the Search box.
 
 Exhibit 3-6. Select grouping variables using category and subcategory lists
-![Exhibit 3-6 is a screenshot from the PIRLS IDE tool showing how to select a variable from the categories and sub categories listed in the Select Grouping Variables tab.](images/chapter3/image6.png){width="6.5in" height="5.289788932633421in"}
+![Exhibit 3-6 is a screenshot from the PIRLS IDE tool showing how to select a variable from the categories and sub categories listed in the Select Grouping Variables tab.](images/chapter3/image6.png){width="100%" style="display: block; margin: 0 auto"}
 
 When you have selected the variable(s) you want to include, continue by
 clicking the **Edit Reports** button at the bottom of the page or the
@@ -173,12 +157,12 @@ or "and not." The search function operates on an exact phrase if it is
 contained in quotes. The variable(s) that include the search term(s) in
 the question or its details will be listed.
 
-See Section 2.B. Search Using Category and Subcategory Lists (page 11)
+See Section Search Using Category and Subcategory Lists
 for information on how to get details about variables, selecting
 variables, and viewing variables.
 
 Exhibit 3-7. Select grouping variables using the search function
-![Exhibit 3-7 is a screenshot from the PIRLS IDE tool showing how to select a variable using the search function.](images/chapter3/image7.png){width="6.5in" height="5.289788932633421in"}
+![Exhibit 3-7 is a screenshot from the PIRLS IDE tool showing how to select a variable using the search function.](images/chapter3/image7.png){width="100%" style="display: block; margin: 0 auto"}
 
 When you have selected the variable(s) you want to include, continue by
 clicking the **Edit Reports** button at the bottom of the page or the
@@ -217,7 +201,7 @@ variables (not counting **All cases**), you will also see a
 cross-tabulated report that crosses these variables. If your selected
 criteria include more than one dependent variable (e.g., combined reading scale and
 age), a separate set of data reports will be generated for each dependent variable
-(see exhibit 3-8, page 14).
+(see exhibit 3-8).
 
 Exhibit 3-8. Edit reports overview
 ![Exhibit 3-8 is a screenshot from the PIRLS IDE tool showing an overview of the Edit Reports tab.](images/chapter3/image8.png){width="6.5in" height="5.289788932633421in"}
@@ -240,11 +224,11 @@ the report-building phase.
 Select **Preview** under the **Action** column to see how your report
 will be laid out (see exhibit 3-8). The preview will not provide actual
 data, but will show how the data will be arranged in rows and columns
-(see exhibit 3-9, page 15). You can select **Preview** at any time to see
+(see exhibit 3-9). You can select **Preview** at any time to see
 how your changes will affect the report's final layout.
 
 Exhibit 3-9. Using preview report
-![Exhibit 3-9 is a screenshot from the PIRLS IDE tool showing an example of the preview function that is available in the Edit Reports tab.](images/chapter3/image9.png){width="6.5in" height="5.289788932633421in"}
+![Exhibit 3-9 is a screenshot from the PIRLS IDE tool showing an example of the preview function that is available in the Edit Reports tab.](images/chapter3/image9.png){width="100%" style="display: block; margin: 0 auto"}
 
 ### Edit Report
 To edit the report, select the command under the **Action** column next
@@ -261,25 +245,22 @@ Exhibit 3-10. Editing reports
     default name is Report 1, Report 2, etc., and Cross-Tabulated Report
     1, Cross-Tabulated Report 2, etc.).
 
-```{=html}
-<!-- -->
-```
-12. Select a dependent variable. You can choose a dependent variable if more than one was
+2. Select a dependent variable. You can choose a dependent variable if more than one was
     selected at step 1.
 
-13. Select which jurisdictions, grouping variables, years (if applicable), and
+3. Select which jurisdictions, grouping variables, years (if applicable), and
     statistics to include (out of the selections previously made at
     steps 1 and 2). You can select up to two statistics options from the
     following: averages, percentages, achievement levels---discrete,
     achievement levels---cumulative, percentiles, and standard
-    deviations. (For further information, see Section 3.G. Statistics
-    Options, page 19.)
+    deviations. (For further information, see Section Statistics
+    Options.)
 
-14. To create a new variable while editing a report, click on **Create
+4. To create a new variable while editing a report, click on **Create
     New...** under the **Grouping Variable** heading. Section 3.D below further
     explains the process for creating a new variable.
 
-15. Change the table layout by dragging elements to determine which
+5. Change the table layout by dragging elements to determine which
     items will appear in rows and which will appear in columns. Some of
     the arrangements will not be permissible, but a pop-up alert will
     explain this.
@@ -317,7 +298,7 @@ The steps are as follows:
     out before retrieving data.
 
 Exhibit 3-11. Creating new variables
-![Exhibit 3-11 is a screenshot from the PIRLS IDE tool showing an example of the creating new variable function that is available in the Edit Reports tab.](images/chapter3/image11.png){width="6.5in" height="5.289788932633421in"}
+![Exhibit 3-11 is a screenshot from the PIRLS IDE tool showing an example of the creating new variable function that is available in the Edit Reports tab.](images/chapter3/image11.png){width="3.5in" height="4in"}
 
 A new variable that you create is applicable to that specific report; it
 does not apply to the other reports appearing in the **Edit Reports**
@@ -332,8 +313,7 @@ dependent variable and give the report a new name).
 You can repeat the process and combine different values of a variable to
 create additional new variables. Using the **Create New Report**
 function, you can create a new report for each new variable that you
-create. (For further information, see Section 3.E. Create New Report,
-page 19.)
+create. (For further information, see Section Create New Report)
 
 If you selected two or three variables from which to create new
 variables, you can repeat the process for each of them. Using the
@@ -392,10 +372,7 @@ this function (see exhibit 3-14):
     export to Excel, you will be able to increase the number of decimal
     places in most cases.
 
-```{=html}
-<!-- -->
-```
-16. **Include** gives you the option to show standard errors of the
+4. **Include** gives you the option to show standard errors of the
     estimates and, if you choose to show them, the option to show them
     inside parentheses/brackets. Unless you indicate otherwise, the
     default is to show standard errors inside parentheses. You can
@@ -403,7 +380,7 @@ this function (see exhibit 3-14):
     (see the blue-shaded box at the bottom of exhibit 3-14).
 
 Exhibit 3-14. Format options
-![Exhibit 3-14 is a screenshot from the PIRLS IDE tool showing an example of the format options available in the Edit Reports tab.](images/chapter3/image14.png){width="6.5in" height="5.289788932633421in"}
+![Exhibit 3-14 is a screenshot from the PIRLS IDE tool showing an example of the format options available in the Edit Reports tab.](images/chapter3/image14.png){width="3.5in" height="4in"}
 
 Be advised that choices you make in the **Format Options** window will
 apply to all reports (i.e., they cannot be changed for individual
@@ -417,8 +394,7 @@ Available only from the main **Edit Reports** screen, clicking on
 **Statistics Options** allows you to designate up to two statistics. The
 selections made are applicable to *all* the reports listed, although you
 can also change the statistics for an individual report when you edit
-that report. (For further information, see Section 3.C. Edit Report,
-page 15.)
+that report. (For further information, see Section Edit Report)
 
 The following statistics options are available (see exhibit 3-15):
 
@@ -431,19 +407,16 @@ The following statistics options are available (see exhibit 3-15):
     average scale score in reading for literary purposes for female
     students).
 
-```{=html}
-<!-- -->
-```
-17. **Percentages.** This statistic shows the percentage of students as
+2. **Percentages.** This statistic shows the percentage of students as
     a row percentage. For example, if the first column lists countries,
     then each country will display its own percentage distribution
     across its row. If the table cell for Black female students in the
     United States is 9 percent, then Black females constituted 9 percent
     of U.S. fourth-graders. By default, percentage distributions do not
     include missing data. For information on how to show data for values
-    categorized as missing, see Section 3.F. Format Options, above.
+    categorized as missing, see Section Format Options.
 
-18. **Achievement levels---discrete.** Discrete achievement levels are
+3. **Achievement levels---discrete.** Discrete achievement levels are
     reported as the percentage of students performing *at* each
     international benchmark (*low, intermediate, high,* or *advanced)*,
     counted separately from the other benchmarks:
@@ -458,7 +431,7 @@ The following statistics options are available (see exhibit 3-15):
 
     -   *At* *advanced*---above 625
 
-19. **Achievement levels---cumulative.** Cumulative achievement levels
+4. **Achievement levels---cumulative.** Cumulative achievement levels
     are reported as the percentage of students performing *at or above*
     each international benchmark:
 
@@ -470,7 +443,7 @@ The following statistics options are available (see exhibit 3-15):
 
     -   *At advanced*---above 625
 
-20. **Percentiles.** This statistic shows the threshold (or cutpoint)
+5. **Percentiles.** This statistic shows the threshold (or cutpoint)
     score for the following:
 
     -   10^th^ percentile---the bottom 10 percent of students
@@ -485,18 +458,18 @@ The following statistics options are available (see exhibit 3-15):
 
     -   90^th^ percentile---the top 10 percent of students
 
-21. **Standard deviations.** The standard deviation is a dependent variable of how
+6. **Standard deviations.** The standard deviation is a dependent variable of how
     widely or narrowly dispersed scores are for a particular dataset.
-    Under general normality assumptions,\
+    Under general normality assumptions, 
     95 percent of the scores are within two standard deviations of the
-    mean. For example,\
+    mean. For example, 
     if the average score of a dataset is 500 and the standard deviation
-    is 100, it means that\
+    is 100, it means that 
     95 percent of the scores in this dataset fall between 300 and 700.
     The standard deviation is the square root of the variance.
 
 Exhibit 3-15. Statistics options
-![Exhibit 3-15 is a screenshot from the PIRLS IDE tool showing an example of the statistics options available in the Edit Reports tab.](images/chapter3/image15.png){width="6.5in" height="5.289788932633421in"}
+![Exhibit 3-15 is a screenshot from the PIRLS IDE tool showing an example of the statistics options available in the Edit Reports tab.](images/chapter3/image15.png){width="4.5in" height="5.289788932633421in"}
 
 The selections you make in **Statistics Options** will be applied
 automatically to all reports, although you can change the statistics for
@@ -506,8 +479,7 @@ your individual reports, the statistics options selected will overwrite
 your previously edited selections. If you wish to use the same criteria
 and variables in a report with a different selection of statistics,
 consider using the **Create New Report** function to generate a new
-report with different statistics. (For further information, see Section
-3.E. Create New Report, page 19.) You can also make a copy of an
+report with different statistics. (For further information, see Section Create New Report). You can also make a copy of an
 individual report.
 
 You can use the **Reset** button located in the upper right portion of
@@ -547,8 +519,7 @@ student.
 As you edit your reports, you can give them distinct names (up to 50
 characters) to differentiate them, as well as make changes to the
 jurisdictions and variables previously selected, the statistics, and the
-layout of the rows and columns. (For further information, see Section
-3.C. Edit Report, page 15.) You may make copies of reports with these
+layout of the rows and columns. (For further information, see Section Edit Report). You may make copies of reports with these
 changes. In order to proceed to step 4, **Build Reports**, each report
 for which you want to retrieve data should be previewed/inspected using
 the **Preview** function. To decrease processing time as you move to
@@ -588,21 +559,18 @@ variables and edit reports, before moving on to **Build Reports**. In
     by the **Select Reports** drop-down feature (see 1 in exhibit 3-17).
     By default, all reports are checked, though you can uncheck any
     reports for which you do not wish to retrieve data. (For further
-    information, see Section 3.H. Select Reports to Build, page 24.)
+    information, see Section Select Reports to Build).
 
-```{=html}
-<!-- -->
-```
-22. Export and save data tables into various formats using the **Export
+2. Export and save data tables into various formats using the **Export
     Reports** button (see 2 in exhibit 3-17). The output formats include
     HTML (print-friendly), Microsoft Word, Microsoft Excel, and Adobe
     PDF.
 
-23. Select the **Chart** tab (see 3 in exhibit 3-17) to create and
+3. Select the **Chart** tab (see 3 in exhibit 3-17) to create and
     customize charts for each report and save them for export in the
     above formats.
 
-24. Select the **Significance Test** tab (see 4 in exhibit 3-17) to run a
+4. Select the **Significance Test** tab (see 4 in exhibit 3-17) to run a
     significance test on your results, customize it, and export it.
 
 Exhibit 3-17. Building reports overview ![Exhibit 3-17 is a screenshot from the PIRLS IDE tool showing an overview of the Build Reports tab featuring the Select Report, Export Reports, Chart, and Significance Test options.](images/chapter3/image17.png){width="6.5in" height="5.289788932633421in"}
@@ -626,11 +594,12 @@ Go to **Select Report** to choose the report of interest from the
 drop-down menu, and then click the **Chart** link (see exhibit 3-19).
 
 You will be able to create many types of charts and customize them.
-Section 4.E. Create Charts---Chart Options (page 29) provides a summary
+Section 4.E. Create Charts---Chart Options provides a summary
 of the available features and how they can be customized.
 
 Exhibit 3-19. Viewing reports as charts
-![Exhibit 3-19 is a screenshot from the PIRLS IDE tool showing how to select the chart creating function in the Build Reports tab.](images/chapter3/image19.png){width="6.5in" height="5.289788932633421in"}[]{#_Toc257706705 .anchor}
+![Exhibit 3-19 is a screenshot from the PIRLS IDE tool showing how to select the chart creating function in the Build Reports tab.](images/chapter3/image19.png){width="100%" style="display: block; margin: 0 auto"}
+
 ### Create Charts---Data Options
 When you click **Chart,** your screen will present **Data Options**
 pertaining to **Statistic, Year,** and **Jurisdiction.** All are
@@ -698,10 +667,7 @@ an example of a **Discrete Chart** and exhibit 3-23 as an example of a
     on the thumbnail to reveal a color grid, and then select the color
     you desire.
 
-```{=html}
-<!-- -->
-```
-25. Change the pattern of the bars with a single click on each level in
+6. Change the pattern of the bars with a single click on each level in
     the bars. Continuous clicking brings up various patterns to choose
     from.
 
@@ -740,7 +706,7 @@ create new reports, go back to step 1, **Select Criteria**, and/or step
 2, **Select Grouping Variables**. Remember to export any completed charts you
 want to save by clicking **Done** and using the **Export Reports**
 function before leaving the **Build Reports** screen. (For further
-information, see Section 4.G. Export Reports, page 36.)
+information, see Section Export Reports).
 
 ### Significance Tests
 Tests for statistical significance indicate whether observed differences
@@ -758,20 +724,16 @@ variable values or across years). You will compare or "look across" the
 variable's range of values, so it must have more than one value. You can
 look across jurisdictions for a variable (that is, compare between two
 or more jurisdictions) or you can look across the values within a
-variable for a single jurisdiction. For example, with the variables
-shown in exhibit 3-25, you could choose to compare female scores between
-countries, or you could choose to compare male and female scores within
-a country. Once the primary criterion is chosen, all other criteria must
-be restricted to a single value.
+variable for a single jurisdiction.
 
 The general steps for running significance tests are as follows (see
 exhibit 3-25):
 
 1.  In the **Significance Test** window, select either **Between
-    Jurisdictions**, **Within Variables**, or **Across Years.** Then,
+    Jurisdictions**, **Within Grouping Variables**, or **Across Years.** Then,
     select the appropriate jurisdiction(s), variable(s), and
     statistic(s). For **Between Jurisdictions**, select at least two
-    jurisdictions. For **Within Variables**, select one or more
+    jurisdictions. For **Within Grouping Variables**, select one or more
     jurisdictions. For **Across Years,** more than one year needs to be
     selected.
 
@@ -835,8 +797,8 @@ Gap Analysis is included in the IDE to compare differences in gaps shown
 in a map, table, or chart. These gap differences can be compared between
 jurisdictions and/or across years.
 
-**Exhibit 3-28. Gap analysis link selection**
-![Exhibit 3-28 is a screenshot from the PIRLS IDE tool showing how to select the gap analysis function in the Build Reports tab.](images/chapter3/image28.png){width="6.5in" height="5.289788932633421in"}
+Exhibit 3-28. Gap analysis link selection
+![Exhibit 3-28 is a screenshot from the PIRLS IDE tool showing how to select the gap analysis function in the Build Reports tab.](images/chapter3/image28.png){width="100%" style="display: block; margin: 0 auto"}
 
 With your report of interest selected, click on the **Gap Analysis**
 link, which is located to the right of the **Significance Test** link
@@ -860,7 +822,7 @@ two time points for males and females, you can:
 -   compare the gap for females at two time points in one country to the
     gap for females at two time points in another country.
 
-**Exhibit 3-29. Gap analysis options**
+Exhibit 3-29. Gap analysis options
 ![Exhibit 3-29 is a screenshot from the PIRLS IDE tool showing the gap analysis options available in the Build Reports tab.](images/chapter3/image29.png){width="6.5in" height="5.289788932633421in"}
 
 The steps for running a gap analysis are similar to those for conducting
@@ -871,14 +833,14 @@ Tests**, noting the following differences:
 1.  The **Gap Analysis** link should be selected, not the **Significance
     Test** link.
 
-2.  The gap analysis does not have a **Within Variables** option for
+2.  The gap analysis does not have a **Within Grouping Variables** option for
     analysis; the options are **Between Jurisdictions** and **Across
     Years.**
 
-3.  The difference dependent variable (gap) of analysis must be selected from the
+3.  The difference measure (gap) of analysis must be selected from the
     following: **Between Groups, Between Years, Between Groups and
     Years,** and **Between Percentiles** (if variables are selected for
-    which a difference dependent variable is not feasible, the difference dependent variable
+    which a difference measure is not feasible, the difference measure
     option will not appear as available in the Gap Analysis menu).
 
 The gap analysis output is presented in a format similar to that of the
@@ -898,12 +860,12 @@ only when the gaps go in the same direction (e.g., comparing a 5-point
 gender gap favoring females in one country with a 15-point gender gap
 favoring females in another country).
 
-**Exhibit 3-30. Gap analysis output**
+Exhibit 3-30. Gap analysis output
 ![Exhibit 3-30 is a screenshot from the PIRLS IDE tool showing an example output report based on the gap analysis options.](images/chapter3/image30.png){width="6.5in" height="5.289788932633421in"}
 
 **Note**: A gap analysis across years cannot be combined with the
 Between Years or Between Groups and Years difference measures, so you
-will select the difference dependent variable Between Groups, or, if you have
+will select the difference measure Between Groups, or, if you have
 selected percentiles as one of your statistics, you may choose Between
 Percentiles.
 
@@ -916,8 +878,8 @@ choose the report of interest from the drop-down **Select Report** menu.
 Then click on the **Regression Analysis** link, which is to the right of
 the **Gap Analysis** link (see exhibit 3-31).
 
-**Exhibit 3-31. Regression analysis link selection**
-![Exhibit 3-31 is a screenshot from the PIRLS IDE tool showing how to select the regression analysis function in the Build Reports tab.](images/chapter3/image31.png){width="6.5in" height="5.289788932633421in"}
+Exhibit 3-31. Regression analysis link selection
+![Exhibit 3-31 is a screenshot from the PIRLS IDE tool showing how to select the regression analysis function in the Build Reports tab.](images/chapter3/image31.png){width="100%" style="display: block; margin: 0 auto"}
 
 The general steps for running a regression analysis are as follows (see
 exhibit 3-32):
@@ -945,7 +907,7 @@ exhibit 3-32):
 5.  Click the **Done** button in the upper- or lower-right corner of the
     screen to run the regression analysis.
 
-**Exhibit 3-32: Regression analysis options**
+Exhibit 3-32: Regression analysis options
 ![Exhibit 3-32 is a screenshot from the PIRLS IDE tool showing the options for the regression analysis output.](images/chapter3/image32.png){width="6.5in" height="5.289788932633421in"}
 
 After you have clicked **Done**, your regression analysis output will
@@ -955,13 +917,13 @@ independent variable is the reference group. Using dummy-coded variables
 in a linear regression is useful for comparing each subgroup against a
 reference group. For example, in exhibit 3-33, if the subgroup \"Like
 reading\" is the reference group for the independent variable **Index of
-Students like Reading (2016) \[ASDGSLR\]**, the IDE creates a "Somewhat
+Students like Reading (2016) [ASDGSLR]**, the IDE creates a "Somewhat
 like reading" dummy variable (1 for respondents who answered "Somewhat
 like reading", 0 otherwise), a "Do not like reading" dummy variable (1
 for respondents who answered "Do not like reading", 0 otherwise).
 Reference group "Like reading" is excluded from the regression analysis.
 
-**Exhibit 3-33. Regression analysis output**
+Exhibit 3-33. Regression analysis output
 ![Exhibit 3-33 is a screenshot from the PIRLS IDE tool showing an example of the regression analysis output.](images/chapter3/image33.png){width="6.5in" height="5.289788932633421in"}
 
 Using the output from exhibit 3-33 you can compare the mean reading score
@@ -996,15 +958,14 @@ will not affect your ability to export, so please wait for software
 "errors" to resolve themselves.
 
 Charts for each report will only be available on this menu if you saved
-them by clicking **Done**\
-on the last screen after you created them. If a chart that you wish to
+them by clicking **Done** on the last screen after you created them. If a chart that you wish to
 save or print is grayed out (not available for selection), cancel the
 **Export Reports** tool, go back to the chart, and be sure to click
 **Done** on the last screen. After that, it will be available for
 export.
 
 Exhibit 3-34. Export report options
-![Exhibit 3-34 is a screenshot from the PIRLS IDE tool showing the export options, including HTML, Excel, Word, and PDF.](images/chapter3/image34.png){width="6.5in" height="5.289788932633421in"}
+![Exhibit 3-34 is a screenshot from the PIRLS IDE tool showing the export options, including HTML, Excel, Word, and PDF.](images/chapter3/image34.png){width="4.5in" height="5.289788932633421in"}
 
 If you wish to edit tables or charts before saving or printing them,
 remember to do this via the **Export Reports** function before leaving

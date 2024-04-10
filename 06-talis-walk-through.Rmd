@@ -110,7 +110,7 @@ one variable on this screen.* You can browse for variables using the
 function (see exhibit 6-4). You can return to this screen to change
 variable selections at any time by clicking **Select Grouping Variables**.
 
-**Exhibit 6-4. Select grouping variables overview**
+Exhibit 6-4. Select grouping variables overview
 ![Exhibit 6-4 is a screenshot from the TALIS IDE tool showing an overview of the Select Grouping Variables tab.](images/chapter6/image3.png){width="6.5in" height="4.478472222222222in"}
 
 ### Select Grouping Variables using Category and Sub Category Lists
@@ -218,7 +218,7 @@ you have selected more than one **Dependent Variable** (e.g., a continuous varia
 from step 1, **Select Criteria**), a separate set of data reports will
 be generated for each **Dependent Variable**.
 
-**Exhibit 6-7. Edit reports overview**
+Exhibit 6-7. Edit reports overview
 ![Exhibit 6-7 is a screenshot from the TALIS IDE tool showing an overview of the Edit Reports tab.](images/chapter6/image6.png){width="6.66382217847769in"
 height="3.275667104111986in"}
 
@@ -364,10 +364,10 @@ Variables** (see exhibit 6-12b). Each new report you create will appear at
 the end of the list of reports. If you do not give the report a specific
 name, it will be called "New Report."
 
-**Exhibit 6-12a. Creating new reports**
+Exhibit 6-12a. Creating new reports
 ![Exhibit 6-12a is a screenshot from the TALIS IDE tool showing an example of the creating new report function that is available in the Edit Reports tab.](images/chapter6/image11.png){width="6.5in" height="3.2365562117235345in"}
 
-**Exhibit 6-12b. Creating new reports**
+Exhibit 6-12b. Creating new reports
 ![Exhibit 6-12b is a screenshot from the TALIS IDE tool showing an example of the creating new report function that is available in the Edit Reports tab.](images/chapter6/image12.png){width="6.0188681102362205in"
 height="4.474925634295713in"}
 
@@ -626,7 +626,7 @@ on the same page.
     > lower-right corner (see 3 in exhibit 6-20). **\
     > **
 
-**Exhibit 6-20. Chart options**
+Exhibit 6-20. Chart options
 ![Exhibit 6-20 is a screenshot from the TALIS IDE tool showing the chart options available in the chart creating function in the Build Reports tab.](images/chapter6/image17.png){width="6.185491032370954in"
 height="8.05303258967629in"}
 
@@ -682,21 +682,17 @@ within variables, or across years). You will compare or "look across"
 the variable's range of values, so it must have more than one value. You
 can look across jurisdictions for a variable (that is, compare between
 two or more jurisdictions) or you can look across the values within a
-variable for a single jurisdiction. For example, with the variables
-shown in exhibit 6-23, you could choose to compare percentages of female
-teachers between countries and subnational education systems, or you
-could choose to compare percentages of female teachers and male
-teachers. Once the primary criterion is chosen, all other criteria must
+variable for a single jurisdiction. Once the primary criterion is chosen, all other criteria must
 be restricted to a single value.
 
 The general steps for running significance tests are as follows (see
 exhibit 6-23):
 
 1.  In the **Significance Test** window, select either **Between
-    Jurisdictions**, **Within Variables**, or **Across Years**. Then,
+    Jurisdictions**, **Within Grouping Variables**, or **Across Years**. Then,
     select the appropriate jurisdiction(s), variable(s), year(s), and
     statistic(s). For **Between Jurisdictions**, select at least two
-    jurisdictions. For **Within Variables**, select one or more
+    jurisdictions. For **Within Grouping Variables**, select one or more
     jurisdictions. For **Across Years**, more than one year needs to be
     selected.
 
@@ -770,7 +766,7 @@ Gap analysis is included in the IDE to compare differences in gaps shown
 in a table, map, or chart. Gap differences can be compared between
 jurisdictions and/or across years.
 
-**Exhibit 6-26. Gap analysis link selection**
+Exhibit 6-26. Gap analysis link selection
 ![Exhibit 6-26 is a screenshot from the TALIS IDE tool showing how to select the gap analysis function in the Build Reports tab.](images/chapter6/image15.png){width="6.5in" height="3.1555555555555554in"}
 
 With your report of interest selected, click on the **Gap Analysis**
@@ -778,7 +774,7 @@ link, which is located to the right of the **Significance Test** link
 (see exhibit 6-26). You will need to decide which variable you would like
 to test (e.g., principal job satisfaction, good teacher-student
 relationships) and the criterion by which you want to test it (i.e.,
-between jurisdictions or across years). The difference dependent variable, or gap,
+between jurisdictions or across years). The difference measure, or gap,
 can be viewed **Between Groups**, **Between Years**, **Between Groups
 and Years**, or **Between Percentiles** within the selected variable.
 For example, if you compute the difference in administrative and
@@ -803,7 +799,7 @@ countries, you can:
     country/subnational education system to the gap for ages below 40 at
     two time points in another country/subnational education system.
 
-**Exhibit 6-27. Gap analysis options**
+Exhibit 6-27. Gap analysis options
 ![Exhibit 6-27 is a screenshot from the TALIS IDE tool showing the gap analysis options available in the Build Reports tab.](images/chapter6/image23.png){width="6.5in" height="5.03333552055993in"}
 
 The steps for running a gap analysis (exhibit 6-27) are similar to those
@@ -814,14 +810,14 @@ Tests**, noting the following differences:
 -   The **Gap Analysis** link should be selected, not the **Significance
     Test** link.
 
--   The gap analysis does not have a **Within Variables** option for
+-   The gap analysis does not have a **Within Grouping Variables** option for
     analysis; the options are **Between Jurisdictions** and **Across
     Years.**
 
--   The difference dependent variable (gap) of analysis must be selected from the
+-   The difference measure (gap) of analysis must be selected from the
     following: **Between Groups, Between Years, Between Groups and
     Years,** and **Between Percentages** (if variables are selected for
-    which a difference dependent variable is not feasible, the difference dependent variable
+    which a difference measure is not feasible, the difference measure
     option will not appear as available in the **Gap Analysis** menu).
 
 The gap analysis output is presented in a format similar to that of the
@@ -839,13 +835,13 @@ taking the absolute value of the gaps. Therefore, the gap analysis tests
 whether the magnitude of the gaps differ from each other only when the
 gaps go in the same direction.
 
-**Exhibit 28. Gap analysis output**
+Exhibit 28. Gap analysis output
 ![Exhibit 6-28 is a screenshot from the TALIS IDE tool showing an example output report based on the gap analysis options.](images/chapter6/image24.png){width="5.66666447944007in"
 height="4.995263560804899in"}
 
 NOTE: A gap analysis across years cannot be combined with the **Between
 Years** or **Between Groups and** **Years** difference measures, so you
-will select the difference dependent variable **Between Groups,** or, if you have
+will select the difference measure **Between Groups,** or, if you have
 selected percentiles as one of your statistics, you may choose **Between
 Percentiles.**
 
@@ -858,7 +854,7 @@ and choose the report of interest from the drop-down **Select Report**
 menu. Then click on the **Regression Analysis** link, which is to the
 right of the **Gap Analysis** link (see exhibit 6-29).
 
-**Exhibit 6-29. Regression analysis link selection**
+Exhibit 6-29. Regression analysis link selection
 ![Exhibit 6-29 is a screenshot from the TALIS IDE tool showing how to select the regression analysis function in the Build Reports tab.](images/chapter6/image15.png){width="6.5in" height="3.1555555555555554in"}
 
 The general steps for running a regression analysis are as follows (see
@@ -887,7 +883,7 @@ Click the **Edit** tab in the upper-left corner of the screen if you
 wish to go back and make changes to the selections you made for running
 the analysis.
 
-**Exhibit 6-30. Regression analysis options**
+Exhibit 6-30. Regression analysis options
 ![Exhibit 6-30 is a screenshot from the TALIS IDE tool showing the options for the regression analysis output.](images/chapter6/image25.png){width="6.5in" height="3.4229166666666666in"}
 
 After you have clicked **Done**, your regression analysis output will

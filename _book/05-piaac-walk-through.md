@@ -314,7 +314,7 @@ exhibit 5-9):
 8.  [Select a Dependent Variable]{.underline}. You can choose a dependent variable if more
     > than one was selected at step 1, Select Criteria.
 
-9.  [Select which jurisdictions, variables, years (if applicable), and
+9.  [Select which jurisdictions, grouping variables, years (if applicable), and
     > statistics to include]{.underline} (out of the selections
     > previously made at steps 1 and 2). You can select up to two
     > statistics options from the following: **averages**,
@@ -638,7 +638,7 @@ variables and edit reports, before moving on to **Build Reports**. In
 -   Select the **Significance Test** tab to run a significance test on
     your results and customize it.
 
-**Exhibit 5-16. Building reports overview**
+Exhibit 5-16. Building reports overview
 ![Exhibit 5-16 is a screenshot from the PIAAC IDE tool showing an overview of the Build Reports tab featuring the Select Report, Export Reports, Chart, and Significance Test options.](images/chapter5/image17.png){width="6.236431539807524in"
 height="3.493234908136483in"}
 
@@ -678,7 +678,7 @@ options of the chart (see exhibit 5-19). All **Jurisdictions** and
 **Statistic**. Uncheck any of the criteria that you do not wish to
 chart, as long as you have one selected in each category.
 
-**Exhibit 5-19. Data options for charts**
+Exhibit 5-19. Data options for charts
 ![Exhibit 5-19 is a screenshot from the PIAAC IDE tool showing the data options available in the chart creating function in the Build Reports tab.](images/chapter5/image20.png){width="6.613910761154855in"
 height="6.74410542432196in"}
 
@@ -703,7 +703,7 @@ on the same page.
 **\
 **
 
-**Exhibit 5-20. Chart options**
+Exhibit 5-20. Chart options
 ![Exhibit 5-20 is a screenshot from the PIAAC IDE tool showing the chart options available in the chart creating function in the Build Reports tab.](images/chapter5/image20.png){width="6.5in" height="6.627987751531059in"}
 
 After creating your chart, you can do the following (see exhibit 5-21 as
@@ -769,7 +769,7 @@ The general steps for running significance tests are as follows (see
 exhibit 5-23):
 
 1.  In the **Significance Test** window, select **Between
-    > Jurisdictions**, **Within Variables**, or **Across Years**. Then,
+    > Jurisdictions**, **Within Grouping Variables**, or **Across Years**. Then,
     > select the appropriate jurisdiction(s), variable(s), one or more
     > of the years and studies, and statistic(s). For **Between
     > Jurisdictions**, select at least two jurisdictions. For **Within
@@ -854,7 +854,7 @@ Gap Analysis is included in the IDE to compare differences in gaps shown
 in a map, table, or chart. These gap differences can be compared between
 jurisdictions and/or across years.
 
-**Exhibit 5-26. Gap analysis link selection**
+Exhibit 5-26. Gap analysis link selection
 ![Exhibit 5-26 is a screenshot from the PIAAC IDE tool showing how to select the gap analysis function in the Build Reports tab.](images/chapter5/image26.png){width="6.3927930883639545in"
 height="2.1225087489063865in"}
 
@@ -862,7 +862,7 @@ With your report of interest selected, click on the **Gap Analysis**
 link, which is located to the right of the **Significance Test** link
 (see exhibit 5-26). You will need to decide which variable you would like
 to test (e.g., gender) and the basis to use for comparison (i.e.,
-between jurisdictions or across years). The difference dependent variable, or gap,
+between jurisdictions or across years). The difference measure, or gap,
 can be viewed between groups, between years, between groups and years,
 or between percentiles within the selected variable. For example, if you
 compute average literacy scores for two jurisdictions at two time points
@@ -881,7 +881,7 @@ for males and females, you can:
 -   compare the gap for females at two time points in one jurisdiction
     to the gap for females at two time points in another jurisdiction.
 
-**Exhibit 5-27. Gap analysis options**
+Exhibit 5-27. Gap analysis options
 ![Exhibit 5-27 is a screenshot from the PIAAC IDE tool showing the gap analysis options available in the Build Reports tab.](images/chapter5/image27.png){width="6.40424321959755in"
 height="4.15873031496063in"}
 
@@ -893,14 +893,14 @@ Tests**, noting the following differences:
 -   The **Gap Analysis** link should be selected, not the **Significance
     Test** link.
 
--   The gap analysis does not have a **Within Variables** option for
+-   The gap analysis does not have a **Within Grouping Variables** option for
     analysis; the options are **Between Jurisdictions** and **Across
     Years.**
 
--   The difference dependent variable (gap) of analysis must be selected from the
+-   The difference measure (gap) of analysis must be selected from the
     following: **Between Groups, Between Years, Between Groups and
     Years,** and **Between Percentiles** (if variables are selected for
-    which a difference dependent variable is not feasible, the difference dependent variable
+    which a difference measure is not feasible, the difference measure
     option will not appear as available in the Gap Analysis menu).
 
 The gap analysis output is presented in a format similar to that of the
@@ -921,13 +921,13 @@ only when the gaps go in the same direction (e.g., comparing a 5-point
 gender gap favoring females in one jurisdiction with a 15-point gender
 gap favoring females in another jurisdiction).
 
-**Exhibit 5-28. Gap analysis output**
+Exhibit 5-28. Gap analysis output
 ![Exhibit 5-28 is a screenshot from the PIAAC IDE tool showing an example output report based on the gap analysis options.](images/chapter5/image28.png){width="3.4977198162729657in"
 height="3.467654199475066in"}
 
 NOTE: A gap analysis across years cannot be combined with the **Between
 Years** or **Between Groups** and **Years** difference measures, so you
-will select the difference dependent variable **Between Groups**, or, if you have
+will select the difference measure **Between Groups**, or, if you have
 selected percentiles as one of your statistics, you may choose **Between
 Percentiles**.
 
@@ -940,7 +940,7 @@ of statistics.
 **\
 **
 
-**Exhibit 5-29. Regression analysis link selection**
+Exhibit 5-29. Regression analysis link selection
 ![Exhibit 5-29 is a screenshot from the PIAAC IDE tool showing how to select the regression analysis function in the Build Reports tab.](images/chapter5/image29.png){width="6.5in" height="2.1041666666666665in"}
 
 A regression analysis can be performed based on the selections that were
@@ -955,7 +955,7 @@ that are displayed in your table will become your independent variable
 options for the regression analysis (in exhibit 5-29 this is "About
 yourself -- Learning strategies -- Relate to real life").
 
-**Exhibit 5-30. Regression analysis options**
+Exhibit 5-30. Regression analysis options
 ![Exhibit 5-30 is a screenshot from the PIAAC IDE tool showing the options for the regression analysis output.](images/chapter5/image30.png){width="6.4842421259842515in"
 height="3.5262248468941384in"}
 
@@ -1001,7 +1001,7 @@ high extent" dummy variable (1 for respondents who answered "To a high
 extent," 0 otherwise), and a "To a very high extent" dummy variable (1
 for respondents who answered "To a very high extent," 0 otherwise).
 
-**Exhibit 5-31. Regression analysis output**
+Exhibit 5-31. Regression analysis output
 ![Exhibit 5-31 is a screenshot from the PIAAC IDE tool showing an example of the regression analysis output.](images/chapter5/image31.png){width="6.5in" height="3.566666666666667in"}
 
 Using the output from exhibit 5-31 you can compare the average literacy

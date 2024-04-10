@@ -222,7 +222,7 @@ dependent variable (e.g., an overall scale and one or more continuous variables)
 separate set of data reports will be generated for each dependent variable (see
 exhibit 7-7).
 
-**Exhibit 7-7. Edit reports overview**
+Exhibit 7-7. Edit reports overview
 ![Exhibit 7-7 is a screenshot from the ICILS IDE tool showing an overview
 of the Edit Reports tab.](images/chapter7/image7.png){width="6.5in"
 height="3.7284722222222224in"}
@@ -272,7 +272,7 @@ report.) The following can be done using the edit function (see exhibit
 9.  Select a dependent variable. You can choose a dependent variable if more than one was
     > selected at step 1.
 
-10. Select which jurisdictions, variables, years (if applicable), and
+10. Select which jurisdictions, grouping variables, years (if applicable), and
     > statistics to include (out of the selections previously made at
     > steps 1 and 2). You can select up to two statistics options from
     > the following: averages, standard deviations, percentages, and
@@ -672,7 +672,7 @@ bottom of the same window.
 3.  Create your chart by clicking the **Create Chart** button in the
     > lower-right corner (see 3 in exhibit 7-20).
 
-**Exhibit 7-20. Chart options**
+Exhibit 7-20. Chart options
 ![Exhibit 7-20 is a screenshot from the ICILS IDE tool showing the chart
 options available in the chart creating function in the Build Reports
 tab.](images/chapter7/image20.png){width="6.5in" height="6.666666666666667in"}
@@ -734,19 +734,16 @@ within variables, or across years). You will compare or look across the
 variable's range of values, so it must have more than one value. You can
 look across jurisdictions for a variable (that is, compare between two
 or more jurisdictions) or you can look across the values within a
-variable for a single jurisdiction. For example, with the variable shown
-in exhibit 7-23, you could choose to compare scores of female students
-between countries and subnational education systems, or you could choose
-to compare scores of female students and male students.
+variable for a single jurisdiction.
 
 The general steps for running significance tests are as follows (see
 exhibit 7-23):
 
 1.  In the **Significance Test** window, select either **Between
-    > Jurisdictions**, **Within Variables**, or **Across Years**. Then,
+    > Jurisdictions**, **Within Grouping Variables**, or **Across Years**. Then,
     > select the appropriate jurisdiction(s), variable(s), year(s), and
     > statistic(s). For **Between Jurisdictions**, select at least two
-    > jurisdictions. For **Within Variables**, select at least two
+    > jurisdictions. For **Within Grouping Variables**, select at least two
     > variables. For **Across Years**, more than one year needs to be
     > selected.
 
@@ -851,7 +848,7 @@ With your report of interest selected, click on the **Gap Analysis**
 link, which is located to the right of the **Significance Test** link
 (see exhibit 7-26). You will need to decide which variable you would like
 to test (e.g., gender) and the criterion by which you want to test it
-(i.e., between jurisdictions or across years). The difference dependent variable,
+(i.e., between jurisdictions or across years). The difference measure,
 or gap, can be viewed between groups, between years, between groups and
 years, or between percentiles within the selected variable. For example,
 if you compute average CIL scores for two countries at two time points
@@ -882,15 +879,15 @@ Tests**, noting the following differences:
 1.  The **Gap Analysis** link should be selected, not the **Significance
     > Test** link.
 
-2.  The gap analysis does not have a **Within Variables** option for
+2.  The gap analysis does not have a **Within Grouping Variables** option for
     > analysis; the options are **Between Jurisdictions** and **Across
     > Years**.
 
-3.  The difference dependent variable (gap) of analysis must be selected from the
+3.  The difference measure (gap) of analysis must be selected from the
     > following: **Between Groups**, **Between Years**, **Between Groups
     > and Years**, and **Between Percentiles** (if variables are
-    > selected for which a difference dependent variable is not feasible, the
-    > difference dependent variable option will not appear as available in the Gap
+    > selected for which a difference measure is not feasible, the
+    > difference measure option will not appear as available in the Gap
     > Analysis menu).
 
 The gap analysis output is presented in a format similar to that of the
@@ -918,7 +915,7 @@ height="4.1875in"}
 
 Note that a gap analysis across years cannot be combined with the
 Between Years or Between Groups and Years difference measures, so you
-will select the difference dependent variable Between Groups, or, if you have
+will select the difference measure Between Groups, or, if you have
 selected percentiles as one of your statistics, you may choose Between
 Percentiles.
 

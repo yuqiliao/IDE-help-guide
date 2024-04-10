@@ -276,11 +276,11 @@ report.) The following can be done using the edit function (see exhibit
     statistics to include (out of the selections previously made at
     steps 1 and 2). You can select up to two statistics options from the
     following: averages, percentages, standard deviations, and
-    percentiles. (For further information, see Section 3.G. Statistics
+    percentiles. (For further information, see Section Statistics
     Options.)
 
 4. To create a new variable while editing a report, click on **Create
-    New...** under the **Grouping Variable** heading. Section 3.D below explains
+    New...** under the **Grouping Variable** heading. Section Create New Variables below explains
     the process for creating a new variable.
 
 5. Change the table layout by dragging elements to determine which
@@ -305,23 +305,20 @@ steps are as follows:
 
 2.  Select the variable for which you wish to combine values.
 
-```{=html}
-<!-- -->
-```
-13. Select the values you want to combine by checking the boxes to the
+3. Select the values you want to combine by checking the boxes to the
     left of the values (see exhibit 2-10).
 
-14. Create a name for the new value, and press **Create**. The collapsed
+4. Create a name for the new value, and press **Create**. The collapsed
     values will appear in gray to indicate that they have already been
     used.
 
-15. Wait for the screen to refresh, and press **Done**.
+5. Wait for the screen to refresh, and press **Done**.
 
-16. The new variable will appear in the **Grouping Variable** list in the **Edit
+6. The new variable will appear in the **Grouping Variable** list in the **Edit
     Report** window or **Create New Report** window, designated as
     "collapsed."
 
-17. Check the box next to the new variable to view it in the report. You
+7. Check the box next to the new variable to view it in the report. You
     can click **Preview** to see how the table will be laid out before
     retrieving data.
 
@@ -342,15 +339,14 @@ example, you can change the dependent variable and give the report a new name).
 You can repeat the process and combine different values of a variable to
 create additional new variables. Using the **Create New Report**
 function, you can create a new report for each new variable that you
-create. (For further information, see section 3.E. Create New Report,
+create. (For further information, see section Create New Report,
 below.)
 
 If you selected two or three variables from which to create new
 variables, you can repeat the process for each of them. Using the
 **Create New Report** or **Edit Report** function, these collapsed
 variables will be listed and available for cross-tabulation (see exhibit
-2-11). If you have chosen four or more variables (not counting **All
-Students**) you won't get the cross-tabulation. You can click
+2-11). If you have chosen four or more variables (not counting **All Cases**) you won't get the cross-tabulation. You can click
 **Preview** to see how the table will be laid out before retrieving
 data.
 
@@ -383,10 +379,7 @@ function (see exhibit 2-13):
     displayed. Be advised that the length of the extra detail may
     sometimes interfere with table formatting.
 
-```{=html}
-<!-- -->
-```
-18. **Show data for values categorized as "missing"** will include the
+2. **Show data for values categorized as "missing"** will include the
     percentage of students in the total sample or in a reporting group
     for whom membership in a particular response category is unknown
     because no response was given by the students, their teacher, or
@@ -396,12 +389,12 @@ function (see exhibit 2-13):
     this option, the default is for missing responses not to be included
     in the percentage distribution shown.
 
-19. **Decimal Places** allows you to specify the level of precision for
+3. **Decimal Places** allows you to specify the level of precision for
     a particular statistic. Depending on the value range of the
     dependent variable (for example, the dependent variable "PISA
-    Mathematics Scale: Overall Mathematics \[PVMATH\]" ranges from 0 to
+    Mathematics Scale: Overall Mathematics [PVMATH]" ranges from 0 to
     1,000; the dependent variable "Index economic, social and cultural
-    status \[ESCS15\]" ranges from -5 to 5), the default decimal places
+    status [ESCS15]" ranges from -5 to 5), the default decimal places
     for a report could be from zero to three. Also, standard errors will
     be shown to one more decimal place than is shown for their
     respective statistic. For example, if you request that average
@@ -414,7 +407,7 @@ function (see exhibit 2-13):
     "none" for percentages and the corresponding standard errors are
     shown to one decimal place.
 
-20. **Include** gives you the option of showing standard errors. By
+4. **Include** gives you the option of showing standard errors. By
     default, standard errors are shown inside parentheses, but you can
     choose to show them without parentheses*.* You can preview the
     effects of your selection in the **Sample Display** area (see the
@@ -436,7 +429,7 @@ Available only from the main **Edit Reports** screen, clicking on
 **Statistics Options** allows you to designate up to two statistics. The
 selections you make are applicable to all the reports listed, although
 you can also change the statistics for an individual report when you
-edit it. (For further information, see Section 3.C. Edit Report.)
+edit it. (For further information, see Section Edit Report.)
 
 The following statistics options are available (see exhibit 2-14):
 
@@ -451,7 +444,7 @@ The following statistics options are available (see exhibit 2-14):
     then each country will display its own percentage distribution
     across its row. By default, percentage distributions do not include
     missing data. For information on how to show data for values
-    categorized as missing, see Section 3.F. Format Options.
+    categorized as missing, see Section Format Options.
 
 3.  **Standard deviations.** The standard deviation is a dependent variable of how
     widely or narrowly dispersed scores are for a particular dataset.
@@ -489,7 +482,7 @@ will overwrite your previously edited selections. If you wish to use the
 same criteria and variables in a report with a different selection of
 statistics, consider using the **Create New Report** function to
 generate a new report with different statistics. (For further
-information, see Section 3.E. Create New Report.) You can also make a
+information, see Section Create New Report.) You can also make a
 copy of an individual report.
 
 You can use the **Reset** button, located in the upper-right portion of
@@ -520,8 +513,7 @@ are fewer than 30 students or fewer than 5 schools with valid data.
 As you edit your reports, you can give them distinct names (up to 50
 characters) to differentiate them, as well as make changes to the
 jurisdictions and variables previously selected, the statistics, and the
-layout of the rows and columns. (For further information, see section
-3.C. Edit Report.) You may make copies of reports with these changes. In
+layout of the rows and columns. (For further information, see section Edit Report.) You may make copies of reports with these changes. In
 order to proceed to step 4, **Build Reports**, each report for which you
 want to retrieve data should be previewed using the **Preview**
 function. To decrease processing time as you move to step 4, you can
@@ -537,15 +529,15 @@ Exhibit 2-15. Selecting reports to build
 height="3.319615048118985in"}
 
 If you wish to delete a report from the list of reports, click
-**Delete** (see 1 above) in the **Action** column. Use the **Reset**
-button (see 2 above), located in the upper-right portion of the screen
+**Delete** in the **Action** column. Use the **Reset**
+button, located in the upper-right portion of the screen
 (just below the **Help** button), to restore the deleted reports
 (although caution is advised, as this will also delete any new reports
 that you created and restore the **Format Options** and **Statistics
 Options** to the default settings).
 
 To continue to the last step in the IDE, click the **Build Reports**
-button at the bottom of the page (see 3 above) or the tab at the top of
+button at the bottom of the page or the tab at the top of
 the page to go to the next screen.
 
 ## Build Reports
@@ -555,27 +547,24 @@ step 1, **Select Criteria**, in which case the default report built will
 provide data for just averages and for the **All cases** variable.
 After step 1, you may also go on to steps 2 and 3, where you can select
 additional variables and edit reports, before moving on to **Build
-Reports**. In **Build Reports**, you can do the following:
+Reports**. In **Build Reports**, you can do the following (see exhibit 2-16):
 
 1.  Generate a data table for each report as shown in the **Select
-    Report** drop-down feature (see 1 in exhibit 2-16). By default, all
+    Report** drop-down feature. By default, all
     reports are checked at step 3, although you can uncheck any reports
     for which you do not wish to retrieve data. (For further
-    information, see section 3.H. Select Reports to Build.)
+    information, see section Select Reports to Build.)
 
-```{=html}
-<!-- -->
-```
-21. Export and save data tables into various formats using the **Export
-    Reports** button (see 2 in exhibit 2-16). The output formats include
+2. Export and save data tables into various formats using the **Export
+    Reports** button. The output formats include
     HTML (print-friendly), Microsoft Excel, Microsoft Word, and Adobe
     PDF.
 
-22. Select the **Chart** tab (see 3 in exhibit 2-16) to create and
+3. Select the **Chart** tab to create and
     customize charts for each report and save them for export in the
     above formats.
 
-23. Select the **Significance Test** tab (see 4 in exhibit 2-16) to run a
+4. Select the **Significance Test** tab to run a
     significance test on your results, customize it, and export it.
 
 Exhibit 2-16. Building reports overview
@@ -587,7 +576,7 @@ Some reports will take longer than others to process, so please do not
 hit the "Back" button on your browser once you click on **Build
 Reports** (see exhibit 2-17). Your table will appear once the processing
 is complete. To select a different table to view, go to the **Select
-Report** drop-down menu (see 1 in exhibit 2-16) and choose the table of
+Report** drop-down menu and choose the table of
 interest. To change the formatting or statistics options of a table or
 to generate a table from a report not included in your selection, return
 to step 3, **Edit Reports**.
@@ -601,7 +590,7 @@ screen to choose the report of interest from the drop-down menu, and
 then click the **Chart** link (see exhibit 2-18).
 
 You will be able to create many types of charts and customize them.
-Section 4.E. Create Charts -- Chart Options provides a summary of the
+Section Create Charts -- Chart Options provides a summary of the
 available features and how they can be customized.
 
 Exhibit 2-18. Viewing reports as charts
@@ -632,20 +621,20 @@ height="6.5347703412073495in"}
 Next, you can make selections regarding the chart options located below
 on the same page.
 
-1.  Select **Bar Chart**, **Column Chart**, or **Line Chart** (see 1 in
-    > exhibit 2-20). If the Percentiles Statistic is selected, you can
-    > also select from a **Percentiles Chart** option.
+1.  Select **Bar Chart**, **Column Chart**, or **Line Chart** (see 
+    exhibit 2-20). If the Percentiles Statistic is selected, you can
+    also select from a **Percentiles Chart** option.
 
 2.  After selecting a chart type, change any data dimensions from the
-    > drop-down menus for **Bar**, **Column**, or **Line Values** and
-    > **Values Grouped by** (see 2 in exhibit 2-20). Any new variables
-    > that you created at step 3, **Edit Reports**, will be available
-    > for selection, but only if you selected the variables (by clicking
-    > the checkbox next to them) and pressed **Done** after you edited
-    > the report.
+    drop-down menus for **Bar**, **Column**, or **Line Values** and
+    **Values Grouped by** (see exhibit 2-20). Any new variables
+    that you created at step 3, **Edit Reports**, will be available
+    for selection, but only if you selected the variables (by clicking
+    the checkbox next to them) and pressed **Done** after you edited
+    the report.
 
 3.  Create your chart by clicking the **Create Chart** button in the
-    > lower-right corner (see 3 in exhibit 2-20).
+    lower-right corner (see exhibit 2-20).
 
 Exhibit 2-20. Chart options
 ![Exhibit 2-20 is a screenshot from the PISA IDE tool showing the chart options available in the chart creating function in the Build Reports tab.](images/chapter2/image2-19.png){width="6.413897637795276in"
@@ -656,10 +645,10 @@ an example of a **Percentile Chart** and exhibit 2-22 as an example of a
 **Bar Chart**):
 
 1.  Use the drop-down menus to change the jurisdiction and other
-    > variables as applicable.
+    variables as applicable.
 
 2.  Place your cursor over the bars of the chart to see the data points
-    > and value label(s).
+    and value label(s).
 
 Exhibit 2-21. Percentile chart ![Exhibit 2-21 is a screenshot from the PISA IDE tool showing a preview of a percentile chart in the chart creating function in the Build Reports tab.](images/chapter2/image20.png){width="6.5in"
 height="6.060416666666667in"}
@@ -686,7 +675,7 @@ create new reports, go back to step 1, **Select Criteria**, and/or step
 2, **Select Grouping Variables**. Remember to export any completed charts you
 want to save by clicking **Done** and using the **Export Reports**
 function before leaving the **Build Reports** screen. (For further
-information, see **Section 4.I. Export Reports**.)
+information, see **Section Export Reports**.)
 
 ### Significance Tests
 Tests for statistical significance indicate whether observed differences
@@ -698,55 +687,49 @@ reflects a true difference in the population.
 
 With your report of interest selected, click the **Significance Test**
 link, which is located to the right of the **Chart** link (see exhibits
-2-16 and 2-23). You first need to decide which variable you want to test and
+2-16). You first need to decide which variable you want to test and
 the criterion by which you want to test it (i.e., between jurisdictions,
 within variables, or across years). You will compare or look across the
 variable's range of values, so it must have more than one value. You can
 look across jurisdictions for a variable (that is, compare between two
 or more jurisdictions) or you can look across the values within a
-variable for a single jurisdiction. For example, with the variable shown
-in exhibit 2-23, you could choose to compare scores of female students
-between countries and subnational education systems, or you could choose
-to compare scores of female students and male students.
+variable for a single jurisdiction.
 
 The general steps for running significance tests are as follows (see
 exhibit 2-23):
 
 1.  In the **Significance Test** window, select either **Between
-    Jurisdictions**, **Within Variables**, or **Across Years**. Then,
+    Jurisdictions**, **Within Grouping Variables**, or **Across Years**. Then,
     select the appropriate jurisdiction(s), variable(s), year(s), and
     statistic(s). For **Between Jurisdictions**, select at least two
-    jurisdictions. For **Within Variables**, select one or more
+    jurisdictions. For **Within Grouping Variables**, select one or more
     jurisdictions. For **Across Years**, more than one year needs to be
     selected.
 
-```{=html}
-<!-- -->
-```
-24. You can enter a **Test Title** limited to 25 characters, using only
+2. You can enter a **Test Title** limited to 25 characters, using only
     letters, numbers, spaces, underscores, and hyphens (otherwise, by
     default, the test is named "Sig Test 1").
 
-25. Select the output type as either **Table** or **Map**. The table
+3. Select the output type as either **Table** or **Map**. The table
     option will show the significance test results as a matrix. The map
     option will show the significance test results on a world map,
     highlighting countries and subnational education systems that have
     been selected. The map output is only available when **Between
     Jurisdictions** is selected in the first step.
 
-26. Additional options allow you to select **Show Score Details** to
+4. Additional options allow you to select **Show Score Details** to
     display the estimates and standard errors for the table cells. If
     you selected a map, this option is not applicable, as the map will
     automatically show score details.
 
-27. Click the **Preview** tab located in the upper-left corner, or the
+5. Click the **Preview** tab located in the upper-left corner, or the
     **Preview** button located in the bottom-left corner.
 
-28. Click the **Edit** tab in the upper-left corner of the screen if you
+6. Click the **Edit** tab in the upper-left corner of the screen if you
     wish to go back and make changes to the selections you made for
     running the significance tests.
 
-29. Click the **Done** button in the upper- or lower-right corner of the
+7. Click the **Done** button in the upper- or lower-right corner of the
     screen to run the significance tests.
 
 Exhibit 2-23. Significance test options
@@ -826,7 +809,7 @@ With your report of interest selected, click on the **Gap Analysis**
 link, which is located to the right of the **Significance Test** link
 (see exhibit 2-26). You will need to decide which variable you would like
 to test (e.g., gender) and the criterion by which you want to test it
-(i.e., between jurisdictions or across years). The difference dependent variable,
+(i.e., between jurisdictions or across years). The difference measure,
 or gap, can be viewed between groups, between years, between groups and
 years, or between percentiles within the selected variable. For example,
 if you compute average mathematics literacy scores for two countries at
@@ -850,20 +833,20 @@ height="4.900762248468942in"}
 
 The steps for running a gap analysis are similar to those for conducting
 a statistical significance test (see exhibit 2-27). Thus, to run a gap
-analysis, follow the instructions under section **4.F. Significance
-Tests**, noting the following differences:
+analysis, follow the instructions under section Significance
+Tests, noting the following differences:
 
 1.  The **Gap Analysis** link should be selected, not the **Significance
     Test** link.
 
-2.  The gap analysis does not have a **Within Variables** option for
+2.  The gap analysis does not have a **Within Grouping Variables** option for
     analysis; the options are **Between Jurisdictions** and **Across
     Years.**
 
-3.  The difference dependent variable (gap) of analysis must be selected from the
+3.  The difference measure (gap) of analysis must be selected from the
     following: **Between Groups, Between Years, Between Groups and
     Years,** and **Between Percentiles** (if variables are selected for
-    which a difference dependent variable is not feasible, the difference dependent variable
+    which a difference measure is not feasible, the difference measure
     option will not appear as available in the Gap Analysis menu).
 
 The gap analysis output is presented in a format similar to that of the
@@ -889,7 +872,7 @@ height="4.833333333333333in"}
 
 Note that a gap analysis across years cannot be combined with the
 Between Years or Between Groups and Years difference measures, so you
-will select the difference dependent variable Between Groups, or, if you have
+will select the difference measure Between Groups, or, if you have
 selected percentiles as one of your statistics, you may choose Between
 Percentiles.
 
@@ -960,10 +943,10 @@ Using the output from exhibit 2-31, you can compare the average
 mathematics literacy scores of first- and second-generation students to
 scores of native-born students. When a single dummy-coded variable is
 used in a regression, the *intercept* is the mean of the reference group
-(e.g., 510.009), and the *regression coefficient* is the difference
+(e.g., 469.9625), and the *regression coefficient* is the difference
 between the mean of the reference group and the group identified
-(coded 1) with the dummy-coded variable (e.g., 1.8959 for second
-generation and -31.2536 for first generation.) Since the regression
+(coded 1) with the dummy-coded variable (e.g., -4.3027 for second
+generation and -28.8162 for first generation.) Since the regression
 coefficients are presented with a standard error and a *t* value, they
 can be used to test whether a difference between means is statistically
 significant. Under the Significance column in the output you will see
