@@ -25,7 +25,7 @@ Exhibit 4-2. Selecting criteria
 height="5.774305555555555in"}
 
 ### Choose Subject 
-Choose Subject **TIMSS Advanced: Advanced Mathematics**, or **TIMSS Advanced:Physics**.
+Choose Subject **TIMSS Advanced: Advanced Mathematics**, or **TIMSS Advanced: Physics**.
 
 ### Choose Grade 
 Under **Grade**, choose **Grade 4**, **Grade 8**, or **End of High School**. Once a grade is chosen, the
@@ -34,7 +34,7 @@ screen resets and you can **Year**(s), **Dependent Variable**(s), and **Jurisdic
 ### Choose Year 
 At the top of the **Dependent Variable** and **Jurisdiction** sections, you have
 the choice of selecting 2019, 2015, 2011, 2007, 2003, 1999, and/or 1995 by checking the appropriate box. To include data
-from all years, check the “All Years” box to the left of the individual years. Mathematics andscience data are available for 2019, 2015, 2011, 2007, 2003, 1999, and
+from all years, check the “All Years” box to the left of the individual years. Mathematics and science data are available for 2019, 2015, 2011, 2007, 2003, 1999, and
 1995. In 1999, no data for grade 4 were collected in mathematics or
 science. Advanced mathematics and physics data are available for 2015
 only.

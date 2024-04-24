@@ -323,6 +323,7 @@ steps are as follows:
     retrieving data.
 
 Exhibit 2-10. Creating new variables
+<br>
 ![Exhibit 2-10 is a screenshot from the PISA IDE tool showing an example of the creating new variable function that is available in the Edit Reports tab.](images/chapter2/image2-10.png){width="3.909073709536308in"
 height="4.354166666666667in"}
 

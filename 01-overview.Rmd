@@ -1,17 +1,17 @@
-# Overview of the International Data Explorer (IDE) {#overview}
+# Overview of the NCES International Data Explorer (IDE) {#overview}
 
 ## What is the IDE? 
 
-The National Center for Education Statistics (NCES) has made it easy to explore and analyze large-scale international education study data via various tools, including the International Data Explorer (IDE). The IDE is an interactive online tool with data from the following studies: 
+The National Center for Education Statistics (NCES) has made it easy to explore and analyze large-scale international education study data via the International Data Explorer (IDE). The IDE is an interactive online tool with data from the following studies: 
 
--	[Program for International Student Assessment (PISA)](https://nces.ed.gov/surveys/pisa/){target="_blank"}
--	[Progress in International Reading Literacy Study (PIRLS)](https://nces.ed.gov/surveys/pirls/index.asp){target="_blank"}
--	[Trends in International Mathematics and Science Study (TIMSS)](https://nces.ed.gov/timss/){target="_blank"}
--	[Program for the International Assessment of Adult Competencies (PIAAC)](https://nces.ed.gov/surveys/piaac/index.asp){target="_blank"}
--	[Teaching and Learning International Survey (TALIS)](https://nces.ed.gov/surveys/talis/){target="_blank"}
--	[International Computer and Information Literacy Study (ICILS)](https://nces.ed.gov/surveys/icils/){target="_blank"}
+  - [Program for International Student Assessment (PISA)](https://nces.ed.gov/surveys/pisa/){target="_blank"} ([Overview](https://nces.ed.gov/surveys/pisa/overview.asp){target="_blank"})
+  - [Progress in International Reading Literacy Study (PIRLS)](https://nces.ed.gov/surveys/pirls/index.asp){target="_blank"} ([Overview](https://nces.ed.gov/surveys/pirls/overview.asp){target="_blank"})
+  - [Trends in International Mathematics and Science Study (TIMSS)](https://nces.ed.gov/timss/){target="_blank"} ([Overview](https://nces.ed.gov/timss/overview.asp){target="_blank"})
+  - [Program for the International Assessment of Adult Competencies (PIAAC)](https://nces.ed.gov/surveys/piaac/index.asp){target="_blank"} ([Overview](https://nces.ed.gov/surveys/piaac/about.asp){target="_blank"})
+  - [Teaching and Learning International Survey (TALIS)](https://nces.ed.gov/surveys/talis/){target="_blank"} ([Overview](https://nces.ed.gov/surveys/talis/overview.asp){target="_blank"})
+  - [International Computer and Information Literacy Study (ICILS)](https://nces.ed.gov/surveys/icils/){target="_blank"} ([Overview](https://nces.ed.gov/surveys/icils/overview.asp){target="_blank"})
 
-The IDE provides a wide set of functions, including:
+The IDE provides a wide set of functions. For example users can:
 
 -	Explore student and adult performance on international assessments
 -	Explore survey questionnaire data for thousands of variables
@@ -22,8 +22,8 @@ The IDE provides a wide set of functions, including:
 
 ## How do I access the IDE?
 
-1. Visit the IDE home page [https://nces.ed.gov/surveys/international/ide/](https://nces.ed.gov/surveys/international/ide/){target="_blank"}.
-2. Select the assessment or survey of interest and start exploring. View “What does this IDE provide?” under each study to learn more
+1. Visit the IDE home page at [https://nces.ed.gov/surveys/international/ide/](https://nces.ed.gov/surveys/international/ide/){target="_blank"}.
+2. Select the assessment or survey of interest and start exploring. View “What does this IDE provide?” under each study to learn more.
 
 Exhibit 1-1. IDE Landing Page
 ![IDE Landing Page](images/chapter1/landing-page.png){width="70%" style="display: block; margin: 0 auto"}
@@ -38,7 +38,7 @@ Exhibit 1-2. IDE Landing Page
 
 
 ## Computer requirements for the IDE
-The IDE performs best under the following requirements.
+The IDE performs best under the following requirements:
 
 -	Screen resolution should be 1024 x 768 pixels or higher.
 -	Browsers: Google Chrome, Apple Safari, Internet Explorer (IE) version 10 or higher, FireFox 3.0 or higher.

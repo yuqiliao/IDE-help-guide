@@ -1,4 +1,4 @@
-# IDE definitions by study {#definitions}
+# IDE Definitions by Study {#definitions}
 
 This section provides an overview of the definitions in each IDE, including the kinds of criteria and variables that are used to form data queries, as well as the kinds of data that are available and the statistical methods used to assess them. Each of the subsections below covers the same topics and provides a detailed description of the definitions used in each IDE study.
 
@@ -123,7 +123,7 @@ Data are available for 73 jurisdictions (35 OECD and 38 non-OECD) in 2015, 65 ju
 
 Also included in the IDE are the 5 U.S. states or territories that participated in PISA 2012 and PISA 2015. Data from the 43 jurisdictions that participated in the administration of the problem-solving assessment in 2012 are included in the IDE, as well as the 51 jurisdictions that participated in the 2015 collaborative problem-solving assessment. All jurisdictions that participated in the financial literacy assessment in at least one year (2012, 2015, 2018) are included in the IDE. 
 
-Jurisdictions for which data are not available for a selected year are identified by the icon representing “no data”. Note that the IDE contains a few U.S.-specific background variables (e.g., race/ethnicity) that, when selected, will not yield information for any other jurisdictions.
+Jurisdictions for which data are not available for a selected year are identified by the icon representing “no data” ![](images/no-data.gif). Note that the IDE contains a few U.S.-specific background variables (e.g., race/ethnicity) that, when selected, will not yield information for any other jurisdictions.
 
 Jurisdictions listed in the IDE as OECD countries are those that are currently members of the OECD. In some cases, countries which are current members of the OECD were not members during a prior administration or release of PISA. For example, Latvia was an OECD country at the time of the 2015 PISA release, but not during earlier PISA cycles. The IDE recalculates OECD averages for previous PISA cycles based on the current count of 37 OECD countries as of the 2018 release. Please note that the recalculation of the OECD average based on the current count explains why OECD averages calculated by the IDE for earlier years (e.g., 2015 or 2012) do not match the OECD averages from OECD and NCES reports published in earlier years.
 
@@ -133,7 +133,7 @@ In the PISA IDE, questions from two types of questionnaires (student and school)
 
 Content category and subcategory titles may overlap, but specific variables appear only once in a subcategory. Use Search in the Select Grouping Variables step to locate variables.
 
-Note that some variables might be similar in content, but not comparable over the years, either due to differences in the question asked or differences in their response categories. For example, an index variable for students’ family structure is available for 2012, 2009, 2003, and 2000. Each index variable is based on students’ responses to the same question asking who usually lived at home with them. However, these three variables (STP5437 in 2012, FAMSTR09 in 2009 and FAMSTR00 in 2003 and 2000) are not comparable due to differences in response categories. In 2012, the response categories were “single-parent (natural or otherwise),” “two parents (natural or otherwise),” and “other”; in 2009, the categories were “single-parent family,” “two-parent family,” and “other”; and in 2003 and 2000, the categories were “single-parent family,” “two-parent family,” “mixed,” and “other.” The icon representing “no data”— —will help in identifying the year for which the variable has data available for analysis.
+Note that some variables might be similar in content, but not comparable over the years, either due to differences in the question asked or differences in their response categories. For example, an index variable for students’ family structure is available for 2012, 2009, 2003, and 2000. Each index variable is based on students’ responses to the same question asking who usually lived at home with them. However, these three variables (STP5437 in 2012, FAMSTR09 in 2009 and FAMSTR00 in 2003 and 2000) are not comparable due to differences in response categories. In 2012, the response categories were “single-parent (natural or otherwise),” “two parents (natural or otherwise),” and “other”; in 2009, the categories were “single-parent family,” “two-parent family,” and “other”; and in 2003 and 2000, the categories were “single-parent family,” “two-parent family,” “mixed,” and “other.” The icon representing “no data”— ![](images/no-data.gif) —will help in identifying the year for which the variable has data available for analysis.
 
 #### Proficiency levels 
 Achievement results for PISA are reported using discrete proficiency levels for reading, mathematics, science, financial literacy, problem solving, and collaborative problem solving. Increasing levels represent the knowledge, skills, and capabilities needed to perform tasks of increasing complexity. Based on the statistics option chosen, IDE can report the average scores of students at each proficiency level or the percentage of students performing at each of the predefined levels for the chosen jurisdictions. Two statistics options, standard deviations and percentiles, will not generate reports as proficiency levels are not reportable using these statistical analyses. Proficiency levels for any subject should be analyzed with the scale of that same subject; for example, the reading literacy proficiency levels should be analyzed with the reading literacy scale.
@@ -152,7 +152,7 @@ Collaborative problem solving: Administered in 2015. Collaborative problem solvi
 
 As noted above, the IDE also provides available data for students performing below proficiency level 1 for mathematics literacy, financial literacy, problem solving, and collaborative problem solving; below level 1b for science; and below level 1c for reading literacy. Patterns of responses for students in the proficiency levels below each subject’s lowest level (e.g., below level 1c for mathematics literacy, below level 1c for reading literacy, etc.) suggest that these students are unable to answer at least half of the items from those levels correctly; for this reason, the cognitive capabilities of students scoring below these levels are unclear and not defined by OECD. Proficiency at and below these low levels is sometimes combined in reports and referred to as below level 2 (e.g., for reading literacy, below level 2 refers to levels 1a, 1b, lc, and below level 1c.) Descriptions that characterize typical student performance at each proficiency level are shown in the following tables for reading, mathematics, and science literacy, as well as financial literacy, problem solving, and collaborative problem solving.
 
-For more information on benchmarks, please visit https://nces.ed.gov/surveys/pisa/2018technotes-6.asp.
+For more information on proficiency levels and the cut scores, please visit [https://nces.ed.gov/surveys/pisa/2018technotes-6.asp](https://nces.ed.gov/surveys/pisa/2018technotes-6.asp){target="_blank"}.
 
 #### Index Variables
 In addition to scale scores representing performance in various subjects, PISA uses indices derived from the student, parent, teacher, and school questionnaires to contextualize PISA results or to estimate trends that account for demographic changes over time. 
@@ -190,6 +190,8 @@ This statistic shows the percentage of students as a row percentage. For example
 
 #### Standard deviations
 The standard deviation is a dependent variable of how widely or narrowly dispersed scores are for a particular dataset. Under general normality assumptions, 95 percent of the scores are within two standard deviations of the mean. For example, if the average score of a dataset is 500 and the standard deviation is 100, it means that 95 percent of the scores in this dataset fall between 300 and 700. The standard deviation is the square root of the variance. 
+
+In the IDE, you may obtain standard deviations as one of your two choices for “Statistics Options” in the Edit Reports step. 
 
 #### Percentiles  
 This statistic shows the threshold score (or cut point) for the following:
@@ -303,8 +305,11 @@ PIRLS is a study of the reading literacy, and ePIRLS is a study of online inform
 
 #### Dependent Variables
 PIRLS focuses on overall reading literacy, but within this broad category, four subscales are available: two focusing on the purposes of reading (literary experience and acquire and use information) and two focusing on the processes used for reading (interpreting, integrating, and evaluating and retrieving and straightforward inferencing). The 2001 and 2006 reading subscales have been rescaled to allow for comparisons to 2011 and later years. Subscales are constituent parts of the composite subject scale for an assessment and are specified by the assessment framework. The weighted average of these is the basis for the reading composite scale, as described in the PIRLS framework.
+
 Subscales are based on fewer observations than the combined scale and, as a result, may have larger standard errors.
+
 ePIRLS which focuses on online informational reading does not include subscales focusing on the purposes of reading, since the entire assessment focuses on reading to acquire and use information. ePIRLS does include two subscales focusing on the processes used for reading (interpreting, integrating, and evaluating and retrieving and straightforward inferencing). Similar to PIRLS, ePIRLS also includes a composite online reading scale. 
+
 In addition, there are a number of dependent (or continuous) variables, other than scale scores, that you may choose as a dependent variable. These variables fall under different categories, such as Student and Family Characteristics and School Characteristics.
 
 
@@ -313,10 +318,15 @@ Currently 2001, 2006, 2011, and 2016 PIRLS data, 2016 ePIRLS data are available 
 
 #### Jurisdictions
 In 2001, there were 35 countries and subnational education systems that participated in PIRLS. Two benchmarking jurisdictions also participated, the Canadian provinces of Ontario and Quebec. In addition, Sweden assessed a smaller sample of 3rd-graders.
+
 In 2006, there were 45 countries and subnational education systems that participated in PIRLS, and 5 benchmarking jurisdictions that participated. In addition, Norway and Iceland assessed a smaller sample of 5th-graders.
+
 In 2011, there were 57 countries and subnational education systems that participated in PIRLS, and 9 benchmarking jurisdictions that participated. The total of 57 includes 4 education systems that only gave the 4th-grade assessment to 5th- or 6th-graders.
+
 In 2016, there were 50 countries and subnational education systems that participated in PIRLS, and 11 benchmarking jurisdictions that participated. Denmark administered the 4th-grade assessment to both 3rd- and 4th-graders. South Africa administered the 4th-grade assessment to 5th-graders who spoke English, Afrikaans, and Zulu. In 2016, Norway chose to assess fifth and ninth grades to obtain better comparisons with Sweden and Finland, but also collected benchmark data at fourth and eighth grades to maintain trend with previous PIRLS cycles. At the 4th grade, five education systems participated in PIRLS Literacy (Egypt, Iran, Kuwait, Morocco, and South Africa), and two of these education systems completed both PIRLS and PIRLS Literacy (Iran and Morocco). Because Iran and Morocco participated both in PIRLS and PIRLS Literacy, their data reported is based on the average of both assessments. 
+
 There were 14 countries and subnational education systems that participated in ePIRLS, and 2 benchmarking jurisdictions that participated.
+
 All listed jurisdictions can be selected for any analyses. However, the IDE contains a few U.S.-specific background variables (e.g., race/ethnicity) that, when selected, will not yield information for any other jurisdictions.
 
 
@@ -326,9 +336,8 @@ In the PIRLS IDE, questions from three types of questionnaires (student, teacher
 Content category and subcategory titles may overlap, but specific variables appear only once in a subcategory. Use “Search” in the Select Grouping Variables step to locate variables.
 
 
-#### Achievement Levels
-In addition to average scale scores, achievement results for PIRLS and ePIRLS are reported using achievement levels. The achievement levels are international benchmarks based on collective judgments about what students should know and be able to do relative to the body of content reflected in each subject-area assessment. The overall reading literacy scale is divided into international benchmarks.
-International benchmarks for the reading levels are as follows:
+#### Benchmarks
+In addition to average scale scores, achievement results for PIRLS and ePIRLS are reported using benchmarks. The benchmarks are internationally set levels developed to provide a concrete interpretation of what the scores on the PIRLS achievement scale means. PIRLS uses scale anchoring to describe student performance at various points along the scale. . The overall reading literacy scale is divided into international benchmarks. International benchmarks for the reading levels are as follows:
 
 -	Below low—below 400
 -	At low—between 400 and 474
@@ -336,7 +345,7 @@ International benchmarks for the reading levels are as follows:
 -	At high—between 550 and 624
 -	At advanced—at or above 625
 
-For more information on benchmarks, please visit https://nces.ed.gov/surveys/pirls/pirls2016/technotes_intlbenchmarks.asp.
+For more information on benchmarks, please visit [https://nces.ed.gov/surveys/pirls/pirls2016/technotes_intlbenchmarks.asp](https://nces.ed.gov/surveys/pirls/pirls2016/technotes_intlbenchmarks.asp){target="_blank"}.
 
 #### Index Variables
 
@@ -383,28 +392,27 @@ For the PIRLS assessment, student performance is reported on scales that range f
 This statistic shows the percentage of students as a row percentage. For example, if the first column lists countries, then each country will display its own percentage distribution across its row. If the table cell for Black female students in the United States is 9 percent, then Black females constituted 9 percent of U.S. fourth-graders. By default, percentage distributions do not include missing data, though there is an option to include the missing data.
 
 #### Standard deviations
-The standard deviation is a dependent variable of how widely or narrowly dispersed scores are for a particular dataset. Under general normality assumptions, 95 percent of the scores are within 
-two standard deviations of the mean. For example, if the average score of a dataset is 500 and 
-the standard deviation is 100, it means that 95 percent of the scores in this dataset fall between 300 and 700. The standard deviation is the square root of the variance.
-In the IDE, you may obtain standard deviations as one of your two choices for “Statistics Options” in the Edit Reports step.
+The standard deviation is a dependent variable of how widely or narrowly dispersed scores are for a particular dataset. Under general normality assumptions, 95 percent of the scores are within two standard deviations of the mean. For example, if the average score of a dataset is 500 and the standard deviation is 100, it means that 95 percent of the scores in this dataset fall between 300 and 700. The standard deviation is the square root of the variance. 
+
+In the IDE, you may obtain standard deviations as one of your two choices for “Statistics Options” in the Edit Reports step. 
 
 
 #### Percentiles  
 This statistic shows the threshold (or cutpoint) score for the following:
--	10th percentile—the bottom 10 percent of students
--	25th percentile—the bottom quarter of students
--	50th percentile—the bottom half of students (half the students scored at or below the cutpoint and half scored above it)
--	75th percentile—the top quarter of students
--	90th percentile—the top 10 percent of students
+
+-	10th percentile – the bottom 10 percent of students
+-	25th percentile – the bottom quarter of students
+-	50th percentile – the bottom half of students (half the students scored at or below the cutpoint and half scored above it)
+-	75th percentile – the top quarter of students
+-	90th percentile – the top 10 percent of students
 
 
 
 ### Cross-tabulations
-Cross-tabulation is a method of combining separate variables into a single table. Normally, 
-each variable has its own table. If you have selected two or three variables (not counting All cases), when you go to the Edit Reports step, you will automatically get one table for each variable (including one for All cases); at the end of that list, you will get one cross-tabulation for the two or three variables selected.
+Cross-tabulation is a method of combining separate variables into a single table. Normally, each variable has its own table. If you have selected two or three variables (not counting All cases), when you go to the Edit Reports step, you will automatically get one table for each variable (including one for All cases); at the end of that list, you will get one cross-tabulation for the two or three variables selected.
+
 If you have chosen four or more variables (not counting All cases), you will get tables for each variable, but you won’t get the cross-tabulation.
 Be advised that if you go back to add another variable without subtracting one to keep the total under four, you will lose any edits you might have made to the cross-tabulation.
-
 
 
 ### Statistical Notations and Other Notes
@@ -418,11 +426,12 @@ Statistical notations and other notes are found at the end of a data table, as a
 -	SOURCE: Source information is listed for all PIRLS data and should be cited when data are used in a publication or presentation.
 
 The general note (NOTE) warns users of jurisdiction-specific changes in population coverage, participation rates, or sampling procedures which deviated from international standards. Data from these jurisdictions have issues that interfere with proper trend analysis: Azerbaijan, Israel, Kuwait, Lithuania, Morocco, Poland, Qatar, and South Africa. Please be aware of these concerns for the following jurisdictions (years in parentheses): Alberta-CAN (11), Austria (16), Azerbaijan (11), Belgium (Flemish) (06), Belgium (French) (16, 11), Bulgaria (06), Canada (16, 11), Croatia (11), Denmark (16, 11, 06), England (11, 01), Florida-USA (11), Georgia (16, 11, 06), Greece (01), Hong Kong (16, 11), Israel (16, 11, 06, 01), Latvia (16), Lithuania (11, 01), Malta (16), Morocco (11, 01), the Netherlands (16, 11, 06, 01), Northern Ireland (11), Norway (11, 06), Oman (11), Ontario-CAN (11), Portugal (16), Qatar (11), Russian Federation (06, 01), Scotland (06, 01), Singapore (16, 11), the United States (16, 11, 06, 01), Quebec-CAN(16), and Madrid-ESP(16).
+
 Exclusion rates for Azerbaijan and Georgia for 2011 are slightly underestimated as some conflict zones were not covered and no official statistics were available.
+
 The TIMSS & PIRLS International Study Center has reservations about the reliability of the average 2011 achievement scores of Morocco and Oman because the percentage of students with achievement too low for estimation exceeds 15 percent.
+
 Results for Canada (Ontario) in 2006 may differ slightly from the IEA PIRLS 2006 International Report because the 2006 data shown include public and private schools, whereas the IEA report excluded private schools from trend analysis for Canada (Ontario) in 2006 to match its 2001 sample.
-
-
 
 #### Linking Teacher Data
 Results shown in the PIRLS IDE may differ slightly from those in the International Association for the Evaluation of Educational Achievement (IEA) PIRLS International Reports because of a slightly different procedure used in linking teacher data to the students. In the IEA report, when a student has more than one teacher, the student’s weight is distributed equally amongst the teachers, and all the teacher data are used in the analysis. For the same case, the IDE randomly selects one of the teachers for the student, and the entire weight for the student is assigned to this teacher.
@@ -510,9 +519,10 @@ TIMSS is a study of mathematics and science, and those are the subjects that can
 
 #### Dependent Variables
 TIMSS focuses on overall mathematics and science knowledge, but within these broad categories a variety of subscales are available each year, including the environmental awareness subscale introduced in TIMSS 2019. Subscales are constituent parts of the composite subject scale for an assessment, and are specified by the assessment framework for that year. The weighted average of these is the basis for the mathematics and science composite scales, as described in the TIMSS and TIMSS Advanced frameworks. 
-Subscales are based on fewer observations than the composite scales and, as a result, may have larger standard errors.
-In addition, there are a number of continuous variables other than scale and subscale scores that you may choose as a dependent variable of analysis.  These variables fall under different categories, such as Student and Family Characteristics and School Characteristics, and include variables such as age, teaching experience, and class size.
 
+Subscales are based on fewer observations than the composite scales and, as a result, may have larger standard errors.
+
+In addition, there are a number of continuous variables other than scale and subscale scores that you may choose as a dependent variable of analysis.  These variables fall under different categories, such as Student and Family Characteristics and School Characteristics, and include variables such as age, teaching experience, and class size.
 
 #### Jurisdictions & Years
 Note that some country counts overlap because some countries participated at both the fourth- and eighth-grade levels. Also, benchmarking participants are currently available in the IDE for 2019, 2015, 2011, 2007, and 2003. So they are only listed below for those years.
@@ -531,14 +541,19 @@ In 1995, there were 29 countries and subnational education systems that particip
 ### Variables
 
 In the TIMSS IDE, questions from three types of questionnaires (student, teacher, and school) as well as variables that are derived from background information are organized into categories that have shared characteristics and can be selected as a group when examining and generating tables. 
+
 Content category and subcategory titles may overlap, but specific variables appear only once in a subcategory. Use *Search* in the *Select Grouping Variables* step to locate variables. 
 
 
 #### Benchmarks 
-In addition to average scale scores, achievement results for TIMSS and TIMSS Advanced are reported using benchmarks. The benchmarks are internationally set levels based on collective judgments about what students should know and be able to do relative to the body of content reflected in each subject-area assessment. Using score cutpoints, the average scale scores are divided into four international benchmarks for TIMSS (low, intermediate, high, and advanced) and three international benchmarks for TIMSS Advanced (intermediate, high, and advanced).
+In addition to average scale scores, achievement results for TIMSS and TIMSS Advanced are reported using benchmarks. The benchmarks are internationally set levels developed to provide a concrete interpretation of what the scores on the TIMSS achievement scales mean. TIMSS uses scale anchoring to describe student performance at various points along the scale. Using score cutpoints, the average scale scores are divided into four international benchmarks for TIMSS (low, intermediate, high, and advanced) and three international benchmarks for TIMSS Advanced (intermediate, high, and advanced).
+
 TIMSS benchmark data for grades 4 and 8 are presented in a discrete format. This “discrete” format presents the percentage of students performing at each international benchmark: at low, at intermediate, at high, and at advanced, with an additional category created for those students scoring below the low benchmark (below low). (Note that there is simply too little information to know what students scoring below the low benchmark can actually do.)
+
 TIMSS Advanced benchmark data are presented in a discrete format. This “discrete” format presents the percentage of students performing at each international benchmark: at intermediate, at high, and at advanced, with an additional category created for those students scoring below the intermediate benchmark (below intermediate). Please note that the TIMSS assessment is not designed to assess students scoring below the intermediate benchmark.
-For more information on benchmarks, please visit https://nces.ed.gov/timss/technotes.asp#_Toc94791995.
+
+For more information on benchmarks, please visit [https://nces.ed.gov/timss/technotes.asp#_Toc94791995](https://nces.ed.gov/timss/technotes.asp#_Toc94791995){target="_blank"}.
+
 
 
 #### Index Variables
@@ -587,19 +602,22 @@ This statistic shows the percentage of students as a row percentage. For example
 #### Standard deviations
 The standard deviation is a dependent variable of how widely or narrowly dispersed scores are for a particular dataset. Under general normality assumptions, 95 percent of the scores are within two standard deviations of the mean. For example, if the average score of a dataset is 500 and the standard deviation is 100, it means that 95 percent of the scores in this dataset fall between 300 and 700. The standard deviation is the square root of the variance.
 
+In the IDE, you may obtain standard deviations as one of your two choices for “Statistics Options” in the Edit Reports step. 
+
 #### Percentiles  
 This statistic shows the threshold (or cutpoint) score for the following:
 
--	10th percentile—the bottom 10 percent of students
--	25th percentile—the bottom quarter of students
--	50th percentile—the median (half the students scored below the cutpoint and half scored above it)
--	75th percentile—the top quarter of students
--	90th percentile—the top 10 percent of students
+-	10th percentile – the bottom 10 percent of students
+-	25th percentile – the bottom quarter of students
+-	50th percentile – the median (half the students scored below the cutpoint and half scored above it)
+-	75th percentile – the top quarter of students
+-	90th percentile – the top 10 percent of students
 
 
 
 ### Cross-tabulations
 Cross-tabulation is a method of combining separate variables into a single table. Normally, each variable has its own table. If you have selected two or three variables (not counting *All cases*) and when you go to the *Edit Reports* step, you will automatically get one table for each variable (including one for *All cases*); at the end of that list, you will get one cross-tabulation for the two or three variables selected. 
+
 If you have chosen four or more variables (not counting *All cases*), you will get tables for each variable, but you won’t get the cross-tabulation. 
 Be advised that if you go back to add another variable without subtracting one to keep the total under four, you will lose any edits you might have made to the cross-tabulation. 
 
@@ -619,7 +637,7 @@ Population coverage, participation rates, sampling procedures, or reliability st
 
 *Grade 4*:
 
-| Region/Country              | Years Participated                    |
+| Region/Country              | Years Participated (last 2 digits of cycle year shown)                   |
 |-----------------------------|---------------------------------------|
 | Abu Dhabi-UAE               | 15                                    |
 | Alberta-CAN                 | 11, 07                                |
@@ -676,7 +694,7 @@ Population coverage, participation rates, sampling procedures, or reliability st
 
 *Grade 8*:
 
-| Region/Country             | Years Participated                       |
+| Region/Country             | Years Participated (last 2 digits of cycle year shown)                      |
 |----------------------------|------------------------------------------|
 | Abu Dhabi-UAE              | 19                                       |
 | Alabama-US                 | 11                                       |
@@ -744,7 +762,7 @@ Population coverage, participation rates, sampling procedures, or reliability st
 
 *TIMSS Advanced*:
 
-| Region/Country    | Years Participated |
+| Region/Country    | Years Participated (last 2 digits of cycle year shown) |
 |-------------------|--------------------|
 | Lebanon           | 15                 |
 | Portugal          | 15                 |
@@ -832,18 +850,21 @@ The PIAAC IDE contains three different adult sample populations which can be sel
 
 #### Dependent Variables
 You can choose the overall scale, which is each subject's default dependent variable in the PIAAC IDE or there are also a number of continuous variables other than scale scores that you may choose as a dependent variable of analysis. These variables are continuous variables from the international and U.S. national background questionnaire (such as earnings or hours of work per week) and derived variables from PIAAC, ALL, and IALS. Derived variables from PIAAC include indices of literacy, numeracy, and computer use at work and at home and imputed years of formal education, among others. 
-A fourth domain, called Reading Components, measures literacy at the very low end of the spectrum, in areas such as sentence completion, passage comprehension, and vocabulary. This domain was given to respondents who decided not to take the computer-based assessment or who did not pass a set of core information and computer technology tasks and a set of core literacy/numeracy tasks. 
+
+A fourth domain, called Reading Components, measures literacy at the very low end of the spectrum, in areas such as sentence completion, passage comprehension, and vocabulary. This domain was given to respondents who decided not to take the computer-based assessment or who did not pass a set of core information and computer technology tasks and a set of core literacy/numeracy tasks.
+
 The adults in the sample population that did not answer the assessment will be displayed along with those that did answer the assessment if you select *Percentage across full sample* under the *Population* category.
 
 
 #### Years/Studies
 Currently, data availability in the PIAAC IDE is dependent on the *Display* and *Dependent Variable* selected in step 1, *Select Criteria*.
+
 If the *Display* chosen is *U.S. Adults, 16–74 (Household and Prison)* you can choose one or more years and studies between *PIAAC 2017* and *PIAAC 2012/14*. If the *Display* chosen is *Adults, 16–65* or *Young Adults, 16–34* you can choose one or more years and studies between *PIAAC 2012-2017*, *ALL 2003–2008*, and *IALS 1994–1998*. 
 
 
 #### Jurisdictions
 All listed jurisdictions can be selected for any analyses, provided data are available for the selected years/studies range. When PIAAC was first administered in 2012, a total of 24 jurisdictions participated, including the United States. Nine additional jurisdictions administered PIAAC in 2014 and five additional jurisdictions administered PIAAC in 2017. Data for these jurisdictions, with the exception of three, are available within the Adults, age 16–65 and Adults, age 16–34 displays. Data for three jurisdictions, Australia, Jakarta (Indonesia), and Russian Federation, are not available: Australia’s data are suppressed in the PIAAC IDE because of national restrictions on the use of their data; Jakarta’s data are suppressed because their data file is not publicly available; and Russian Federation’s data are suppressed in the PIAAC IDE because the data do not represent the entire resident population aged 16–65 years in Russia. Jurisdictions include some subnational entities, such as England/Northern Ireland. Data are not available for some of the 33 PIAAC-participating jurisdictions for ALL 2003–2008 or IALS 1994–1998, either because they did not participate in that assessment or because their data were suppressed due to reporting standards not being met (see Table 2). 
-Data are available for 6 jurisdictions in ALL 2003–2008, and 15 jurisdictions in IALS 1994–1998. Jurisdictions for which data are not available for a selected year are identified by the icon representing “no data”— .
+Data are available for 6 jurisdictions in ALL 2003–2008, and 15 jurisdictions in IALS 1994–1998. Jurisdictions for which data are not available for a selected year are identified by the icon representing “no data”— ![](images/no-data.gif).
 
 Table 2. PIAAC IDE jurisdictions with available data by year/study
 
@@ -861,14 +882,19 @@ Table 2. PIAAC IDE jurisdictions with available data by year/study
 ### Variables
 
 PIAAC requires in-person interviews to complete the background questionnaire before administering the direct assessments (i.e., literacy, numeracy, reading components, and/or problem solving in technology-rich environments (PS-TRE)). In the PIAAC IDE, dependent variables are derived from two instruments: the computer-based assessment (CBA), given to respondents who were comfortable taking the assessment on a computer, and the paper-based assessment (PBA), given to respondents that were not familiar with computers or chose not to take the assessment on a computer. Variables derived from the background questionnaire were administered to each participating adult. Variables are organized into categories that have shared characteristics and can be selected as a group (category) when examining and generating tables. 
+
 Content category and subcategory titles may overlap, but specific variables appear only once in a subcategory. Use *Search* in the *Select Grouping Variables* step to locate variables.
-Note that some variables might be similar in content, but not comparable over the years, either due to differences in the question asked or differences in their response categories. The icon representing “no data”—   —will help in identifying the year for which the variable has data available for analysis. Except for the estimates for *All Adults*, the variables that can be compared across years are located under a special category called *Trend Variables*, sub-category *Trends to IALS and ALL*. Note that common variables such as age and gender, among others, can appear in other categories and sub-categories with the “no data” icon, but have data when selected under the *Trends Variables* category.  
+
+Note that some variables might be similar in content, but not comparable over the years, either due to differences in the question asked or differences in their response categories. The icon representing “no data”— ![](images/no-data.gif) —will help in identifying the year for which the variable has data available for analysis. Except for the estimates for *All Adults*, the variables that can be compared across years are located under a special category called *Trend Variables*, sub-category *Trends to IALS and ALL*. Note that common variables such as age and gender, among others, can appear in other categories and sub-categories with the “no data” icon ![](images/no-data.gif), but have data when selected under the *Trends Variables* category.  
 
 
 #### Proficiency levels 
 Proficiency levels are available in the Proficiency Levels sub-category in the Major Reporting Groups category. Achievement results for PIAAC are reported using achievement levels for literacy, numeracy, and problem solving in technology-rich environments (PS-TRE). Increasing levels represent the knowledge, skills, and capabilities needed to perform tasks of increasing complexity. As a result, the findings are reported in terms of percentages of the adult population at each of the predefined levels. Based on the statistics option chosen, the IDE can report the average scores of adults at each proficiency level or the percentage of the adults performing at each of the predefined levels for the chosen jurisdictions. The statistics options to choose standard deviations and percentiles will not generate reports as proficiency levels are not reportable using these statistical analyses.
+
 The IDE can report percentage distributions of variables among the adults at each proficiency level (for example, the percentage distribution of adult population that are employed, unemployed, and out of the labor force [employment status] within each proficiency level). To conduct this type of analysis, you can select the relevant Overall scale or Percentage across full sample at step 1, Select Criteria. At step 2, Select Criteria, you can select the relevant proficiency levels in addition to other variable(s) of interest. At the Edit Reports step, you can select the Edit command for the cross-tabulated report to change the table layout and move the proficiency levels variable to the row and one (or both) of the other selected variables to the column (this step may not be necessary depending on the order of the selected variables) and to select Percentages as the Statistic. Results for combined proficiency levels (for example, the combined level 4/5 proficiency level used in most reporting of PIAAC literacy and numeracy results) can be produced by creating a new variable within the Edit Report page. (For further information, see section Create Variables.) You can then proceed to the Build Reports step.
+
 Literacy and numeracy results in PIAAC 2012–2017 and ALL 2003–2008, and literacy results in IALS 1994–1998 were reported using six achievement levels: below level 1, level 1, level 2, level 3, level 4, and level 5. Literacy related non-response is also available. 
+
 The number of achievement levels in problem solving in technology-rich environments (PS-TRE) differs from the number in literacy and numeracy for PIAAC 2012–2017 where four achievement levels were used: below level 1, level 1, level 2, and level 3. Four other levels are also available in problem solving in technology-rich environments (PS-TRE) achievement levels: no computer experience, failed ICT core, refused CBA, and literacy related non-response (which are further explained in the Description of PIAAC problem solving in technology-rich environments (PS-TRE) achievement levels table below.)
 For more information on proficiency levels, please visit https://nces.ed.gov/surveys/piaac/dependent variable.asp.
 
@@ -894,6 +920,8 @@ The adults in the sample population that did not answer the assessment will be d
 #### Standard deviations
 The standard deviation is a dependent variable of how widely or narrowly dispersed scores are for a particular variable. Under general normality assumptions, 95 percent of the scores are within two standard deviations of the mean. For example, if the average value of a variable is 500 and the standard deviation is 100, it means that 95 percent of the values in this variable fall between 300 and 700. The standard deviation is the square root of the variance. 
 
+In the IDE, you may obtain standard deviations as one of your two choices for “Statistics Options” in the Edit Reports step. 
+
 #### Percentiles  
 This statistic shows the threshold score (or cut point) for the following:
 
@@ -906,7 +934,9 @@ This statistic shows the threshold score (or cut point) for the following:
 
 ### Cross-tabulations
 Cross-tabulation is a method of combining separate variables into a single table. Normally, each variable has its own table. If you have selected two or three variables (not counting All Adults), when you go to the Edit Reports step, you will automatically get a list with one table for each variable (including one for All Adults); at the end of that list, you will get one cross-tabulation for the two or three variables selected.
+
 If you have chosen four or more variables (not counting All Adults) you will get tables for each variable, but you will not get the cross-tabulation. 
+
 Be advised that if you go back to add another variable without removing one variable (to keep the total under four) you will lose any edits you might have made to the cross-tabulation.
 
 
@@ -929,13 +959,10 @@ Please note that there might be differences between the averages generated by th
 
 #### Linking error 
 PIAAC 2012–2017, ALL 2003–2008, and IALS 1994–1998 are linked assessments. That is, the sets of items used to assess literacy and numeracy in these years and studies include a subset of common items, referred to as trend items. To establish common reporting metrics for PIAAC, the difficulty of the link items, measured on different occasions, is compared. The comparison of the item difficulties on the different occasions is used to determine a score transformation that allows the reporting of the data on a common scale.
+
 As each item provides slightly different information about the link transformation, it follows that the chosen sample of link items will influence the estimated transformation. The consequence is an uncertainty in the transformation due to the sampling of link items, just as there is an uncertainty in jurisdiction means due to the sampling of adults.
+
 The uncertainty that results from the link-item sampling is referred to as linking error, and this error must be taken into account when making certain comparisons using the PIAAC 2012–2017, ALL 2003–2008, and IALS 1994–1998 data. As with sampling errors, the likely range of magnitude for the errors is represented as a standard error. Significance tests for scores across years within the IDE take into account the linking errors applicable to each subject.
-
-
-
-
-
 
 ## TALIS IDE
 
@@ -998,7 +1025,9 @@ Please note the following inclusions and exclusions of TALIS participating count
 ### Variables
 
 In the TALIS IDE, variables are derived from two types of questionnaires: the school questionnaire (answered by school principals) and the teacher questionnaire (answered by teachers). TALIS gives teachers and school principals the opportunity to provide their perspectives on the state of education in their own countries in six reporting areas: (1) Learning environment, (2) Appraisal and feedback, (3) Teaching practices and classroom environment, (4) Development and support, (5) School leadership, and (6) Self-efficacy and job satisfaction.
+
 Variables are organized into categories (and subcategories) that have shared characteristics and can be selected as a group when examining and generating tables. Note that variable titles in the TALIS IDE may overlap or be repeated under categories or subcategories, but specific variables appear only once. Some variables might be similar in title and content, but not comparable over the years, either due to differences in the question asked or differences in their response categories.
+
 Use *Search* in the *Select Grouping Variables* step to locate and select variables in the TALIS IDE.
 
 
@@ -1031,6 +1060,8 @@ Percentages are the default statistic used for analysis in the TALIS IDE. This s
 
 #### Standard deviations
 The standard deviation is a dependent variable of how widely or narrowly dispersed scores are. Under general normality assumptions, 95 percent of the scores are within two standard deviations of the mean. Thus, if the average score is 35 and the standard deviation is 5, it means that 95 percent of the scores fall between 30 and 40. The standard deviation is the square root of the variance.
+
+In the IDE, you may obtain standard deviations as one of your two choices for “Statistics Options” in the Edit Reports step. 
 
 #### Percentiles  
 This statistic shows the threshold (or cut-point) for the following:
@@ -1123,20 +1154,26 @@ Data from ICILS 2013 and 2018 are available in the IDE. Currently, data availabi
 
 #### Jurisdictions
 All listed jurisdictions can be selected for any analyses, provided data are available for the selected year. In 2018, a total of 12 countries and 2 benchmarking participants took part in the ICILS CIL assessment. Of those participants, 8 countries and 1 benchmarking participant opted into the ICILS CT assessment.
+
 In 2013, some 18 countries and 3 benchmarking participants took part in the ICILS CIL assessment.
-Jurisdictions for which data are not available for a selected year are identified by the icon representing “no data”— . Note that the IDE contains a few U.S.-specific background variables (e.g., race/ethnicity, or NAT\DERIVED RACE-COLLAPSED) that, when selected, will not yield information for any non-U.S. jurisdictions.
+
+Jurisdictions for which data are not available for a selected year are identified by the icon representing “no data”— ![](images/no-data.gif). Note that the IDE contains a few U.S.-specific background variables (e.g., race/ethnicity, or NAT\DERIVED RACE-COLLAPSED) that, when selected, will not yield information for any non-U.S. jurisdictions.
 
 
 ### Variables
 
 In the ICILS IDE, variables from the student, teacher, principal, and ICT coordinator questionnaires are organized into categories that have shared characteristics. Content category and subcategory titles may overlap, but specific variables appear only once in a subcategory. Use Search in the Select Grouping Variables step to locate variables.
+
 Note that some variables might be similar in content, but not comparable over the years, either due to differences in the question asked or differences in their response categories. For example, a student background questionnaire variable, “In what country were you and your parents born/Mother or [female guardian]”, which is only available in 2013, is similar but not comparable to the variable “In what country were you and your parents born/[Parent or guardian 1]”, which is only available in 2018.
-The icon representing “no data”— —will help in identifying the year for which the variable has data available for analysis.
+
+The icon representing “no data”— ![](images/no-data.gif)—will help in identifying the year for which the variable has data available for analysis.
 
 
 #### Proficiency levels 
 Achievement results for ICILS are reported using discrete proficiency levels for CIL and CT. Higher levels represent the knowledge, skills, and capabilities needed to perform tasks of increasing complexity. Based on the statistics option chosen, IDE can report the average scores of students at each proficiency level or the percentage of students performing at each of the predefined levels for the chosen jurisdictions. Two statistics options, standard deviations and percentiles, will not generate reports as proficiency levels are not reportable using these statistical analyses. Proficiency levels for any subject should be analyzed with the scale of that same subject; for example, the CIL proficiency levels should be analyzed with the overall CIL scale.
+
 Computer and Information Literacy: Administered in 2013 and 2018. In both years, CIL results were reported using four proficiency levels (levels 1–level 4); the IDE shows five categories (below level 1, level 1, level 2, level 3, level 4).
+
 Computational Thinking: Administered in 2018. CT results were reported using three proficiency levels (lower region, middle region, upper region); the IDE shows these three categories.
 Descriptions that characterize typical student performance at each proficiency level are shown in the following tables for CIL and CT. For more information about the development of the proficiency levels, please see the [ICILS 2018 Technical Report](https://www.iea.nl/sites/default/files/2020-05/ICILS 2018 Technical Report-FINAL_0.pdf.
 
@@ -1170,6 +1207,8 @@ This statistic shows the percentage of students as a row percentage. For example
 
 #### Standard deviations
 The standard deviation is a dependent variable of how widely or narrowly dispersed scores are for a particular dataset. Under general normality assumptions, 95 percent of the scores are within two standard deviations of the mean. For example, if the average score of a dataset is 500 and the standard deviation is 100, it means that 95 percent of the scores in this dataset fall between 300 and 700. The standard deviation is the square root of the variance.
+
+In the IDE, you may obtain standard deviations as one of your two choices for “Statistics Options” in the Edit Reports step. 
 
 #### Percentiles  
 This statistic shows the threshold score (or cut point) for the following:

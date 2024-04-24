@@ -43,7 +43,7 @@ You may also choose the survey year (All years, 2016, 2011, 2006, or
 2001) at the top of either step 1 or 2. Notice for which years a
 dependent variable, jurisdiction, or variable data are available by looking below
 each year for the grid of dots (which means data are available) or the
-"No data" slash.
+"No data" icon ![](images/no-data.gif).
 
 Exhibit 3-3. Dependent Variables
 ![Exhibit 3-3 is a screenshot from the PIRLS IDE tool showing how to select dependent variables in the Select Criteria tab.](images/chapter3/image3.png){width="100%" style="display: block; margin: 0 auto"}
