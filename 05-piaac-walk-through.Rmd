@@ -362,6 +362,7 @@ steps are as follows:
     retrieving data.
 
 Exhibit 5-10. Creating new variables
+<br>
 ![Exhibit 5-10 is a screenshot from the PIAAC IDE tool showing an example of the creating new variable function that is available in the Edit Reports tab.](images/chapter5/image11.png){width="3.1816043307086614in" height="3.5614971566054243in"}
 
 A new variable that you create is applicable *only* to a specific
@@ -462,6 +463,7 @@ function (see exhibit 5-13):
     (see the blue-shaded box at the bottom of exhibit 5-13).
 
 Exhibit 5-13. Format options
+<br>
 ![Exhibit 5-13 is a screenshot from the PIAAC IDE tool showing an example of the format options available in the Edit Reports tab.](images/chapter5/image15.png){width="3.7040201224846894in"
 height="4.924821741032371in"}
 
@@ -521,6 +523,7 @@ The following statistics options are available (see exhibit 5-14):
     -   90^th^ percentile---the top 10 percent of adults
 
 Exhibit 5-14. Statistics options
+<br>
 ![Exhibit 5-14 is a screenshot from the TIMSS IDE tool showing an example of the statistics options available in the Edit Reports tab.](images/chapter5/image16.png){width="2.985404636920385in"
 height="3.8220581802274713in"}
 
@@ -797,6 +800,7 @@ exhibit 5-24).
 The alpha level for all *t*-tests is .05. All comparisons within a jurisdiction, within the same year, are made using dependent *t*-tests. Comparisons between jurisdictions are treated as independent. Non-achievement comparisons across years are treated as independent. Comparisons of achievement across years are made using independent *t*-tests with a linking error taken into account. A part-whole adjustment is implemented for comparisons between a jurisdiction and a group that the jurisdiction is part of (e.g. Average of All Jurisdictions).
 
 Exhibit 5-24. Significance test table output
+<br>
 ![Exhibit 5-24 is a screenshot from the PIAAC IDE tool showing an example of a significance test table output in the Build Reports tab.](images/chapter5/image24.png){width="2.9332928696412948in"
 height="4.443720472440945in"}
 
@@ -891,6 +895,7 @@ gender gap favoring females in one jurisdiction with a 15-point gender
 gap favoring females in another jurisdiction).
 
 Exhibit 5-28. Gap analysis output
+<br>
 ![Exhibit 5-28 is a screenshot from the PIAAC IDE tool showing an example output report based on the gap analysis options.](images/chapter5/image28.png){width="3.4977198162729657in"
 height="3.467654199475066in"}
 
@@ -959,7 +964,7 @@ independent variable is the reference group. Using dummy-coded variables
 in a linear regression is useful for comparing each subgroup against a
 reference group. For example, in exhibit 5-31, if the subgroup "Not at
 all" is the reference group for the independent variable **About
-yourself -- Learning strategies -- Relate to real life \[IQ04B\]**, the
+yourself -- Learning strategies -- Relate to real life [IQ04B]**, the
 IDE creates a "Very little" dummy variable (1 for respondents who
 answered "Very little," 0 otherwise), a "To some extent" dummy variable
 (1 for respondents who answered "To some extent," 0 otherwise), a "To a
@@ -995,6 +1000,7 @@ Reports** window are those that were checked off at step 3, **Edit
 Reports**.
 
 Exhibit 5-32. Export report options
+<br>
 ![Exhibit 5-32 is a screenshot from the PIAAC IDE tool showing the export options, including HTML, Excel, Word, and PDF.](images/chapter5/image32.png){width="2.9932097550306214in"
 height="3.8196402012248467in"}
 

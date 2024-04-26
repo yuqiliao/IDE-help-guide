@@ -38,7 +38,7 @@ Each data query must include at least one selection from five criteria choices: 
    - Collaborative problem solving
 
 3. Year:
-   - 2022 (data available for mathematics, mathematics subscales, reading, science)
+   - 2022 (data available for mathematics, mathematics subscales, reading, science, and financial literacy)
    - 2018 (data available for reading, reading subscales, mathematics, science, and financial literacy)
    - 2015 (data available for science, science subscales, reading, mathematics, financial literacy, and collaborative problem solving)
    - 2012 (data available for mathematics, mathematics subscales, reading, science, financial literacy, and problem solving)
@@ -96,7 +96,7 @@ Each data query must include at least one selection from five criteria choices: 
 The PISA IDE currently provides the option to view all steps of the IDE and build reports in English or Spanish. The Help Guide currently is only offered in English.
 
 #### Subject
-PISA assesses reading literacy, mathematics literacy, and science literacy at each administration. In addition, the IDE contains data from the administration of the 2012, 2015, and 2018 PISA financial literacy assessments, the 2012 PISA problem-solving assessments, and the 2015 PISA collaborative problem-solving assessment.
+PISA assesses reading literacy, mathematics literacy, and science literacy at each administration. In addition, the IDE contains data from the administration of the 2012, 2015, 2018, and 2022 PISA financial literacy assessments, the 2012 PISA problem-solving assessments, and the 2015 PISA collaborative problem-solving assessment.
 
 #### Dependent Variables
 The PISA IDE includes dependent variables for each subject when selected, such as an overall scale, subscales (if applicable), and continuous variables. 
@@ -150,9 +150,17 @@ Problem solving: Administered in 2012. Problem-solving results were reported usi
 
 Collaborative problem solving: Administered in 2015. Collaborative problem solving results were reported using 4 proficiency levels (level 1–level 4); the IDE shows 5 categories (below level 1, level 1, level 2, level 3, level 4).
 
-As noted above, the IDE also provides available data for students performing below proficiency level 1 for mathematics literacy, financial literacy, problem solving, and collaborative problem solving; below level 1b for science; and below level 1c for reading literacy. Patterns of responses for students in the proficiency levels below each subject’s lowest level (e.g., below level 1c for mathematics literacy, below level 1c for reading literacy, etc.) suggest that these students are unable to answer at least half of the items from those levels correctly; for this reason, the cognitive capabilities of students scoring below these levels are unclear and not defined by OECD. Proficiency at and below these low levels is sometimes combined in reports and referred to as below level 2 (e.g., for reading literacy, below level 2 refers to levels 1a, 1b, lc, and below level 1c.) Descriptions that characterize typical student performance at each proficiency level are shown in the following tables for reading, mathematics, and science literacy, as well as financial literacy, problem solving, and collaborative problem solving.
+As noted above, the IDE also provides available data for students performing below proficiency level 1 for financial literacy, problem solving, and collaborative problem solving; and below level 1c for mathematics, science, and reading literacy. Patterns of responses for students in the proficiency levels below each subject’s lowest level suggest that these students are unable to answer at least half of the items from those levels correctly; for this reason, the cognitive capabilities of students scoring below these levels are unclear and not defined by OECD. Proficiency at and below these low levels is sometimes combined in reports and referred to as below level 2 (e.g., for reading literacy, below level 2 refers to levels 1a, 1b, lc, and below level 1c.) Descriptions that characterize typical student performance at each proficiency level are shown in the following tables for reading, mathematics, and science literacy, as well as financial literacy, problem solving, and collaborative problem solving.
 
-For more information on proficiency levels and the cut scores, please visit [https://nces.ed.gov/surveys/pisa/2018technotes-6.asp](https://nces.ed.gov/surveys/pisa/2018technotes-6.asp){target="_blank"}.
+
+| Scale names                   | Location of the summary descriptions of the   proficiency levels | Links                                                                                                                                         |
+|-------------------------------|------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------|
+| Reading                       | Table 15.3, on page 12                                           | https://www.oecd.org/pisa/data/pisa2018technicalreport/PISA2018%20TecReport-Ch-15-Proficiency-Scales.pdf                                      |
+| Mathematics                   | Table 17.3, on page 12                                           | https://www.oecd.org/pisa/data/pisa2022technicalreport/PISA-2022-Technical-Report-Ch-17-PISA-Proficiency-Scale-Constructions-Core-Domains.pdf |
+| Science                       | Figure 15.4, on page 13                                          | https://www.oecd.org/pisa/data/2015-technical-report/PISA-2015-Technical-Report-Chapter-15-Proficiency-Scale-Construction.pdf                 |
+| Financial literacy            | Figure 15.14, on page 302                                        | https://www.oecd.org/pisa/pisaproducts/PISA%202012%20Technical%20Report_Chapter%2015.pdf                                                      |
+| Problem Solving               | Figure 15.13, on page 302                                        | https://www.oecd.org/pisa/pisaproducts/PISA%202012%20Technical%20Report_Chapter%2015.pdf                                                      |
+| Collaborative problem solving | Exhibit CPS1                                                     | https://nces.ed.gov/surveys/pisa/pisa2015/pisa2015highlights_12a_1.asp                                                                        |
 
 #### Index Variables
 In addition to scale scores representing performance in various subjects, PISA uses indices derived from the student, parent, teacher, and school questionnaires to contextualize PISA results or to estimate trends that account for demographic changes over time. 

@@ -320,6 +320,7 @@ steps are as follows:
     retrieving data.
 
 Exhibit 7-10. Creating new variables
+<br>
 ![Exhibit 7-10 is a screenshot from the ICILS IDE tool showing an example
 of the creating new variable function that is available in the Edit
 Reports tab.](images/chapter7/image10.png){width="3.590200131233596in"
@@ -421,6 +422,7 @@ function (see exhibit 7-13):
     blue‑shaded box at the bottom of exhibit 7-13 below).
 
 Exhibit 7-13. Format options
+<br>
 ![Exhibit 7-13 is a screenshot from the ICILS IDE tool showing an example
 of the format options available in the Edit Reports
 tab.](images/chapter7/image13.png){width="2.9212576552930885in"
@@ -478,6 +480,7 @@ The following statistics options are available (see exhibit 7-14):
     -  90^th^ percentile -- the top 10 percent of students
 
 Exhibit 7-14. Statistics options
+<br>
 ![Exhibit 7-14 is a screenshot from the ICILS IDE tool showing an example
 of the statistics options available in the Edit Reports
 tab.](images/chapter7/image14.png){width="3.7291666666666665in" height="4.75in"}
@@ -1003,6 +1006,7 @@ your ability to export, so please wait for the software errors to
 resolve.
 
 Exhibit 7-32. Export report options
+<br>
 ![Exhibit 7-32 is a screenshot from the ICILS IDE tool showing the export
 options, including HTML, Excel, Word, and
 PDF.](images/chapter7/image32.png){width="3.3478258967629047in"

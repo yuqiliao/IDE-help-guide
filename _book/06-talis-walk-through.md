@@ -321,6 +321,7 @@ view it in the report. You can click **Preview** to see how the table
 will be laid out before retrieving data.
 
 Exhibit 6-10. Creating new variables
+<br>
 ![Exhibit 6-10 is a screenshot from the TALIS IDE tool showing an example of the creating new variable function that is available in the Edit Reports tab.](images/chapter6/image9.png){width="3.437369860017498in"
 height="3.4681299212598424in"}
 
@@ -413,6 +414,7 @@ function (see exhibit 6-13):
     (see the blue-shaded box at the bottom of exhibit 6-13 below).
 
 Exhibit 6-13. Format options
+<br>
 ![Exhibit 6-13 is a screenshot from the TALIS IDE tool showing an example of the format options available in the Edit Reports tab.](images/chapter6/image13.png){width="3.8963768591426073in"
 height="5.854983595800525in"}
 
@@ -470,6 +472,7 @@ The following statistics options are available (see exhibit 6-14):
     square root of the variance. 
 
 Exhibit 6-14. Statistics options
+<br>
 ![Exhibit 6-14 is a screenshot from the TALIS IDE tool showing an example of the statistics options available in the Edit Reports tab.](images/chapter6/image14.png){width="3.5107458442694663in"
 height="4.5188681102362205in"}
 
@@ -926,6 +929,7 @@ will not affect your ability to export, so please wait for the software
 errors to resolve.
 
 Exhibit 6-32. Export report options
+<br>
 ![Exhibit 6-32 is a screenshot from the TALIS IDE tool showing the export options, including HTML, Excel, Word, and PDF.](images/chapter6/image27.png){width="2.6641786964129484in"
 height="3.395278871391076in"}
 

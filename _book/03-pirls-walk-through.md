@@ -297,6 +297,7 @@ The steps are as follows:
     out before retrieving data.
 
 Exhibit 3-11. Creating new variables
+<br>
 ![Exhibit 3-11 is a screenshot from the PIRLS IDE tool showing an example of the creating new variable function that is available in the Edit Reports tab.](images/chapter3/image11.png){width="3.5in" height="4in"}
 
 A new variable that you create is applicable to that specific report; it
@@ -379,7 +380,8 @@ this function (see exhibit 3-14):
     (see the blue-shaded box at the bottom of exhibit 3-14).
 
 Exhibit 3-14. Format options
-![Exhibit 3-14 is a screenshot from the PIRLS IDE tool showing an example of the format options available in the Edit Reports tab.](images/chapter3/image14.png){width="3.5in" height="4in"}
+<br>
+![Exhibit 3-14 is a screenshot from the PIRLS IDE tool showing an example of the format options available in the Edit Reports tab.](images/chapter3/image14.png){width="3.3in" height="3.8in"}
 
 Be advised that choices you make in the **Format Options** window will
 apply to all reports (i.e., they cannot be changed for individual
@@ -468,7 +470,8 @@ The following statistics options are available (see exhibit 3-15):
     The standard deviation is the square root of the variance.
 
 Exhibit 3-15. Statistics options
-![Exhibit 3-15 is a screenshot from the PIRLS IDE tool showing an example of the statistics options available in the Edit Reports tab.](images/chapter3/image15.png){width="4.5in" height="5.289788932633421in"}
+<br>
+![Exhibit 3-15 is a screenshot from the PIRLS IDE tool showing an example of the statistics options available in the Edit Reports tab.](images/chapter3/image15.png){width="4in" height="4.5in"}
 
 The selections you make in **Statistics Options** will be applied
 automatically to all reports, although you can change the statistics for

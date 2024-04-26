@@ -415,8 +415,9 @@ function (see exhibit 2-13):
     blue-shaded box at the bottom of exhibit 2-13 below).
 
 Exhibit 2-13. Format options
-![Exhibit 2-13 is a screenshot from the PISA IDE tool showing an example of the format options available in the Edit Reports tab.](images/chapter2/image13.png){width="2.2777766841644795in"
-height="3.4166666666666665in"}
+<br>
+![Exhibit 2-13 is a screenshot from the PISA IDE tool showing an example of the format options available in the Edit Reports tab.](images/chapter2/image13.png){width="3.2in"
+height="4.7in"}
 
 Be advised that the choices you make in the **Format Options** window
 will apply to all reports and cannot be changed for individual reports.
@@ -471,6 +472,7 @@ The following statistics options are available (see exhibit 2-14):
     -   90^th^ percentile -- the top 10 percent of students
 
 Exhibit 2-14. Statistics options
+<br>
 ![Exhibit 2-14 is a screenshot from the PISA IDE tool showing an example of the statistics options available in the Edit Reports tab.](images/chapter2/image14.png){width="2.7916666666666665in"
 height="3.5369531933508314in"}
 
@@ -785,7 +787,7 @@ drop-down menu above the map.
 
 Exhibit 2-25. Map of significance tests
 ![Exhibit 2-25 is a screenshot from the PISA IDE tool showing an example of a significance test map output in the Build Reports tab.](images/chapter2/image2-25.png){width="6.362637795275591in"
-height="8.490845363079615in"}
+height="5.5in"}
 
 Please note that the IDE does not apply adjustments for multiple
 comparisons. This is consistent with current NCES statistical standards
@@ -971,7 +973,8 @@ affect your ability to export, so please wait for the software errors to
 resolve.
 
 Exhibit 2-32. Export report options
-![Exhibit 2-32 is a screenshot from the PISA IDE tool showing the export options, including HTML, Excel, Word, and PDF.](images/chapter2/image31.png){width="3.3478258967629047in"
-height="3.4608694225721783in"}
+<br>
+![Exhibit 2-32 is a screenshot from the PISA IDE tool showing the export options, including HTML, Excel, Word, and PDF.](images/chapter2/image31.png){width="3.2in"
+height="4in"}
 
 

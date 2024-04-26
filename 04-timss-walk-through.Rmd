@@ -295,10 +295,12 @@ The steps are as follows:
     retrieving data.
 
 Exhibit 4-10a. Creating new variables
+<br>
 ![Exhibit 4-10a is a screenshot from the TIMS IDE tool showing an example of the creating new variable function that is available in the Edit Reports tab.](images/chapter4/image10.png){width="2.809640201224847in" height="3.123216316710411in"}
 
 
 Exhibit 4-10b. Creating new variables
+<br>
 ![Exhibit 4-10b is a screenshot from the TIMSS IDE tool showing an example of how variables can be collapsed in the creating new variable function that is available in the Edit Reports tab.](images/chapter4/image11.png){width="2.8188024934383202in" height="3.126421697287839in"}
 
 A new variable that you create is applicable only to a specific report;
@@ -387,6 +389,7 @@ function (see exhibit 4-13):
     (see the blue-shaded box at the bottom of exhibit 4-13).
 
 Exhibit 4-13. Format options
+<br>
 ![Exhibit 4-13 is a screenshot from the TIMSS IDE tool showing an example of the format options available in the Edit Reports tab.](images/chapter4/image14.png){width="2.523839676290464in" height="3.755792869641295in"}
 
 Be advised that the choices you make in the **Format Options** window
@@ -443,6 +446,7 @@ The following statistics options are available (see exhibit 4-14):
 
 
 Exhibit 4-14. Statistics options
+<br>
 ![Exhibit 4-14 is a screenshot from the TIMSS IDE tool showing an example of the statistics options available in the Edit Reports tab.](images/chapter4/image15.png){width="3.100948162729659in" height="3.891535433070866in"}
 
 As previously noted, the selections you make in **Statistics Options**
@@ -603,6 +607,7 @@ Exhibit 4-19. Data options for charts
 ![Exhibit 4-19 is a screenshot from the TIMSS IDE tool showing the data options available in the chart creating function in the Build Reports tab.](images/chapter4/image20.png){width="5.34113845144357in" height="5.495779746281714in"}
 
 Exhibit 4-20. Chart options
+<br>
 ![Exhibit 4-20 is a screenshot from the TIMSS IDE tool showing the chart options available in the chart creating function in the Build Reports tab.](images/chapter4/image20.png){width="4.418926071741033in" height="4.546865704286964in"}
 
 Clicking **Create Chart** takes you to the exportable version of the
@@ -902,5 +907,6 @@ back to your chart or map, and be sure to click **Done** on the last
 screen. After that, it will be available for export.
 
 Exhibit 4-31. Export report options
+<br>
 ![Exhibit 4-31 is a screenshot from the TIMSS IDE tool showing the export options, including HTML, Excel, Word, and PDF.](images/chapter4/image32.png){width="4.010976596675415in"
 height="5.1361329833770775in"}
