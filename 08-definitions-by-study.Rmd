@@ -150,32 +150,35 @@ Problem solving: Administered in 2012. Problem-solving results were reported usi
 
 Collaborative problem solving: Administered in 2015. Collaborative problem solving results were reported using 4 proficiency levels (level 1–level 4); the IDE shows 5 categories (below level 1, level 1, level 2, level 3, level 4).
 
-As noted above, the IDE also provides available data for students performing below proficiency level 1 for financial literacy, problem solving, and collaborative problem solving; and below level 1c for mathematics, science, and reading literacy. Patterns of responses for students in the proficiency levels below each subject’s lowest level suggest that these students are unable to answer at least half of the items from those levels correctly; for this reason, the cognitive capabilities of students scoring below these levels are unclear and not defined by OECD. Proficiency at and below these low levels is sometimes combined in reports and referred to as below level 2 (e.g., for reading literacy, below level 2 refers to levels 1a, 1b, lc, and below level 1c.) Descriptions that characterize typical student performance at each proficiency level are shown in the following tables for reading, mathematics, and science literacy, as well as financial literacy, problem solving, and collaborative problem solving.
+As noted above, the IDE also provides available data for students performing below proficiency level 1 for financial literacy, problem solving, and collaborative problem solving; and below level 1c for mathematics, science, and reading literacy. Patterns of responses for students in the proficiency levels below each subject’s lowest level suggest that these students are unable to answer at least half of the items from those levels correctly; for this reason, the cognitive capabilities of students scoring below these levels are unclear and not defined by OECD. Proficiency at and below these low levels is sometimes combined in reports and referred to as below level 2 (e.g., for reading literacy, below level 2 refers to levels 1a, 1b, lc, and below level 1c.) 
 
+Descriptions that characterize typical student performance at each proficiency level for different scales can be found in the PISA technical report as summarized in the following table.
 
-| Scale names                   | Location of the summary descriptions of the   proficiency levels | Links                                                                                                                                         |
-|-------------------------------|------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------|
-| Reading                       | Table 15.3, on page 12                                           | https://www.oecd.org/pisa/data/pisa2018technicalreport/PISA2018%20TecReport-Ch-15-Proficiency-Scales.pdf                                      |
-| Mathematics                   | Table 17.3, on page 12                                           | https://www.oecd.org/pisa/data/pisa2022technicalreport/PISA-2022-Technical-Report-Ch-17-PISA-Proficiency-Scale-Constructions-Core-Domains.pdf |
-| Science                       | Figure 15.4, on page 13                                          | https://www.oecd.org/pisa/data/2015-technical-report/PISA-2015-Technical-Report-Chapter-15-Proficiency-Scale-Construction.pdf                 |
-| Financial literacy            | Figure 15.14, on page 302                                        | https://www.oecd.org/pisa/pisaproducts/PISA%202012%20Technical%20Report_Chapter%2015.pdf                                                      |
-| Problem Solving               | Figure 15.13, on page 302                                        | https://www.oecd.org/pisa/pisaproducts/PISA%202012%20Technical%20Report_Chapter%2015.pdf                                                      |
-| Collaborative problem solving | Exhibit CPS1                                                     | https://nces.ed.gov/surveys/pisa/pisa2015/pisa2015highlights_12a_1.asp                                                                        |
+| Scale name  | PISA technical report | Links |
+|-----------------------------|-----------------------|-------|
+| Reading                       	| Table 15.3, on page 12    	| [Link](https://www.oecd.org/pisa/data/pisa2018technicalreport/PISA2018%20TecReport-Ch-15-Proficiency-Scales.pdf){target="_blank"}                                      	|
+| Mathematics                   	| Table 17.3, on page 12    	| [Link](https://www.oecd.org/pisa/data/pisa2022technicalreport/PISA-2022-Technical-Report-Ch-17-PISA-Proficiency-Scale-Constructions-Core-Domains.pdf){target="_blank"} 	|
+| Science                       	| Figure 15.4, on page 13   	| [Link](https://www.oecd.org/pisa/data/2015-technical-report/PISA-2015-Technical-Report-Chapter-15-Proficiency-Scale-Construction.pdf){target="_blank"}                 	|
+| Financial Literacy            	| Figure 15.14, on page 302 	| [Link](https://www.oecd.org/pisa/pisaproducts/PISA%202012%20Technical%20Report_Chapter%2015.pdf){target="_blank"}                                                      	|
+| Problem Solving               	| Figure 15.13, on page 302 	| [Link](https://www.oecd.org/pisa/pisaproducts/PISA%202012%20Technical%20Report_Chapter%2015.pdf){target="_blank"}                                                      	|
+| Collaborative Problem Solving 	| Exhibit CPS1              	| [Link](https://nces.ed.gov/surveys/pisa/pisa2015/pisa2015highlights_12a_1.asp){target="_blank"}                                                                        	|
+
 
 #### Index Variables
 In addition to scale scores representing performance in various subjects, PISA uses indices derived from the student, parent, teacher, and school questionnaires to contextualize PISA results or to estimate trends that account for demographic changes over time. 
 
-Information on indices for each year of administration can be found in the chapters referenced in the summary table below. The PISA technical reports can be found on the OECD PISA publications page (http://www.oecd.org/pisa/publications/).	
+Information on indices for each year of administration can be found in the chapters referenced in the summary table below. The PISA technical reports can be found on the [OECD PISA publications page](http://www.oecd.org/pisa/publications/){target="_blank"}.	
 
 | Year of PISA administration | PISA technical report | Links |
 |-----------------------------|-----------------------|-------|
-| 2018                        | Chapter 16            | [Link](http://www.oecd.org/pisa/data/33688233.pdf) |
-| 2015                        | Chapter 16            | [Link](http://www.oecd.org/pisa/data/pisa2003technicalreport.htm) |
-| 2012                        | Chapter 16            | [Link](http://www.oecd.org/pisa/data/42025182.pdf) |
-| 2009                        | Chapter 16            | [Link](http://www.oecd.org/pisa/data/pisa2009technicalreport.htm) |
-| 2006                        | Chapter 16            | [Link](http://www.oecd.org/pisa/data/pisa2012technicalreport.htm) |
-| 2003                        | Chapter 17            | [Link](http://www.oecd.org/pisa/data/2015-technical-report/) |
-| 2000                        | Chapter 17            | [Link](http://www.oecd.org/pisa/data/pisa2018technicalreport/) |
+| 2022                        | Chapter 19            | [Link](https://www.oecd.org/pisa/data/pisa2022technicalreport/#d.en.668808){target="_blank"} |
+| 2018                        | Chapter 16            | [Link](http://www.oecd.org/pisa/data/pisa2018technicalreport/){target="_blank"} |
+| 2015                        | Chapter 16            | [Link](http://www.oecd.org/pisa/data/2015-technical-report/){target="_blank"} |
+| 2012                        | Chapter 16            | [Link](http://www.oecd.org/pisa/data/pisa2012technicalreport.htm){target="_blank"} |
+| 2009                        | Chapter 16            | [Link](http://www.oecd.org/pisa/data/pisa2009technicalreport.htm){target="_blank"} |
+| 2006                        | Chapter 16            | [Link](http://www.oecd.org/pisa/data/42025182.pdf){target="_blank"} |
+| 2003                        | Chapter 17            | [Link](http://www.oecd.org/pisa/data/pisa2003technicalreport.htm){target="_blank"} |
+| 2000                        | Chapter 17            | [Link](http://www.oecd.org/pisa/data/33688233.pdf){target="_blank"} |
 
 
 
@@ -212,9 +215,9 @@ This statistic shows the threshold score (or cut point) for the following:
 
 
 ### Cross-tabulations
-Cross-tabulation is a method of combining separate variables into a single table. Normally, each variable has its own table. If you have selected two or three variables (not counting *All cases*) and when you go to the *Edit Reports* step, you will automatically get a list with one table for each variable (including one for *All cases*); at the end of that list you will get one cross-tabulation for the two or three variables selected.
+Cross-tabulation is a method of combining separate variables into a single table. Normally, each variable has its own table. If you have selected two or three variables (not counting **All cases**) and when you go to the **Edit Reports** step, you will automatically get a list with one table for each variable (including one for **All cases**); at the end of that list you will get one cross-tabulation for the two or three variables selected.
 
-If you have chosen four or more variables (not counting *All cases*), you will get tables for each variable, but you won’t get the cross-tabulation. 
+If you have chosen four or more variables (not counting **All cases**), you will get tables for each variable, but you won’t get the cross-tabulation. 
 Be advised that if you go back to add another variable without subtracting one to keep the total under four, you will lose any edits you might have made to the cross-tabulation.
 
 
@@ -243,7 +246,7 @@ Furthermore, there are certain OECD countries that are excluded from the OECD av
 -	Data for Vietnam were suppressed in 2018 due to international reporting standards not being met. 
 -	The reading literacy scores for Spain were not reported in 2018 due to sub-optimal response behaviors from students. 
 
-Please note that OECD averages are affected by data suppression rules. This means that in some cases the OECD average generated by the IDE when a variable is chosen may not match the OECD and NCES reports for that variable. This occurs when an OECD country’s data is suppressed in either the IDE or the OECD or NCES reports, but not both. If a country’s data is suppressed in the IDE, it will not be included in the calculation of the average score. For example, the OECD excluded Spain’s reading data from its first report presenting the results of the PISA 2018 survey (OECD, PISA 2018 Results (Volume I): What Students Know and Can Do, available at http://www.pisa.oecd.org) because of a concern over sub-optimal response behaviors from students. NCES also excluded these data from its 2018 report. After further investigation, the OECD decided to release all available PISA 2018 data for Spain, but this change was not reflected in the NCES report.
+Please note that OECD averages are affected by data suppression rules. This means that in some cases the OECD average generated by the IDE when a variable is chosen may not match the OECD and NCES reports for that variable. This occurs when an OECD country’s data is suppressed in either the IDE or the OECD or NCES reports, but not both. If a country’s data is suppressed in the IDE, it will not be included in the calculation of the average score. For example, the OECD excluded Spain’s reading data from its first report presenting the results of the PISA 2018 survey (OECD, PISA 2018 Results (Volume I): What Students Know and Can Do, available at [http://www.pisa.oecd.org](http://www.pisa.oecd.org){target="_blank"}) because of a concern over sub-optimal response behaviors from students. NCES also excluded these data from its 2018 report. After further investigation, the OECD decided to release all available PISA 2018 data for Spain, but this change was not reflected in the NCES report.
 
 #### Statistical Comparisons 
 The alpha level for all *t*-tests is .05. All comparisons within a jurisdiction, within the same year, are made using dependent *t*-tests. Comparisons between jurisdictions are treated as independent. Non-achievement comparisons across years are treated as independent. Comparisons of achievement across years are made using independent *t*-tests with a linking error taken into account. A part-whole adjustment is implemented for comparisons between a jurisdiction and a group that the jurisdiction is part of (e.g. International Average (OECD Countries)).
@@ -263,7 +266,13 @@ Each data query must include at least one selection from three criteria choices:
    - PIRLS
    - ePIRLS
 
-2. Dependent Variable
+2. Year
+   - 2016
+   - 2011
+   - 2006
+   - 2001
+
+3. Dependent Variable
    - Scale scores
      1. PIRLS
         - PIRLS Reading Scale: Combined Reading
@@ -291,19 +300,12 @@ Each data query must include at least one selection from three criteria choices:
    - Teacher Collaboration
    - Principal Characteristics
 
-3. Jurisdiction
+4. Jurisdiction
    - Average of Countries 
    - Average for Selected Countries/Participants
    - Countries
    - Benchmarking Participants
    - Off-Grade Participants
-
-4. Years
-   - 2001
-   - 2006
-   - 2011
-   - 2016
-   - All Years
 
 
 
@@ -325,15 +327,15 @@ In addition, there are a number of dependent (or continuous) variables, other th
 Currently 2001, 2006, 2011, and 2016 PIRLS data, 2016 ePIRLS data are available through the IDE. Each year can be selected separately or all years can be selected together, by selecting All Years. 
 
 #### Jurisdictions
-In 2001, there were 35 countries and subnational education systems that participated in PIRLS. Two benchmarking jurisdictions also participated, the Canadian provinces of Ontario and Quebec. In addition, Sweden assessed a smaller sample of 3rd-graders.
-
-In 2006, there were 45 countries and subnational education systems that participated in PIRLS, and 5 benchmarking jurisdictions that participated. In addition, Norway and Iceland assessed a smaller sample of 5th-graders.
-
-In 2011, there were 57 countries and subnational education systems that participated in PIRLS, and 9 benchmarking jurisdictions that participated. The total of 57 includes 4 education systems that only gave the 4th-grade assessment to 5th- or 6th-graders.
-
 In 2016, there were 50 countries and subnational education systems that participated in PIRLS, and 11 benchmarking jurisdictions that participated. Denmark administered the 4th-grade assessment to both 3rd- and 4th-graders. South Africa administered the 4th-grade assessment to 5th-graders who spoke English, Afrikaans, and Zulu. In 2016, Norway chose to assess fifth and ninth grades to obtain better comparisons with Sweden and Finland, but also collected benchmark data at fourth and eighth grades to maintain trend with previous PIRLS cycles. At the 4th grade, five education systems participated in PIRLS Literacy (Egypt, Iran, Kuwait, Morocco, and South Africa), and two of these education systems completed both PIRLS and PIRLS Literacy (Iran and Morocco). Because Iran and Morocco participated both in PIRLS and PIRLS Literacy, their data reported is based on the average of both assessments. 
 
 There were 14 countries and subnational education systems that participated in ePIRLS, and 2 benchmarking jurisdictions that participated.
+
+In 2011, there were 57 countries and subnational education systems that participated in PIRLS, and 9 benchmarking jurisdictions that participated. The total of 57 includes 4 education systems that only gave the 4th-grade assessment to 5th- or 6th-graders.
+
+In 2006, there were 45 countries and subnational education systems that participated in PIRLS, and 5 benchmarking jurisdictions that participated. In addition, Norway and Iceland assessed a smaller sample of 5th-graders.
+
+In 2001, there were 35 countries and subnational education systems that participated in PIRLS. Two benchmarking jurisdictions also participated, the Canadian provinces of Ontario and Quebec. In addition, Sweden assessed a smaller sample of 3rd-graders.
 
 All listed jurisdictions can be selected for any analyses. However, the IDE contains a few U.S.-specific background variables (e.g., race/ethnicity) that, when selected, will not yield information for any other jurisdictions.
 
@@ -353,7 +355,16 @@ In addition to average scale scores, achievement results for PIRLS and ePIRLS ar
 -	At high—between 550 and 624
 -	At advanced—at or above 625
 
-For more information on benchmarks, please visit [https://nces.ed.gov/surveys/pirls/pirls2016/technotes_intlbenchmarks.asp](https://nces.ed.gov/surveys/pirls/pirls2016/technotes_intlbenchmarks.asp){target="_blank"}.
+Achievement-level data are presented in a discrete or cumulative format. In the “discrete” format, the percentage of students performing within each international benchmark is counted separately from the percentage of students at the other benchmarks. These categories are the percentages of students scoring below low, at low, at intermediate, at high, and at advanced. The “cumulative” format shows the percentage of students performing at or above each international benchmark. These categories are the percentages of students scoring at or above low, at or above intermediate, at or above high, and at advanced. Scoring below low indicates that a student’s abilities could not be accurately described based on his or her responses. 
+
+Descriptions that characterize typical student performance at each international benchmark can be found in the technical reports as summarized in the following table.
+
+
+| Scale name  | Technical report | Links |
+|-----------------------------|-----------------------|-------|
+| PIRLS Reading                       	| Exhibit 2    	| [Link](https://nces.ed.gov/surveys/pirls/pirls2016/tables/pirls2016_exhibit02.asp){target="_blank"}                                      	|
+| ePIRLS Reading                   	| Exhibit 3    	| [Link](https://nces.ed.gov/surveys/pirls/pirls2016/tables/pirls2016_exhibit03.asp){target="_blank"} 	|
+
 
 #### Index Variables
 
@@ -365,20 +376,13 @@ trends that account for demographic changes over time.
 Information on indices for each year of administration can be found in
 the chapters referenced in the summary table below.
 
-  ----------------------------------------------------------------------------------------------
-  **Year of PIRLS     **PIRLS        **Links**
-  administration**   User Guide**      
-  ------------------ ------------- -------------------------------------------------------------
-  2021               Supplement 3  <https://pirls2021.org/data/>
+| Year of PIRLS administration | PIRLS user guide | Links |
+|-----------------------------|-----------------------|-------|
+| 2016                        | Supplement 1            | [Link](https://timssandpirls.bc.edu/pirls2016/international-database/index.html){target="_blank"} |
+| 2011                        | Supplement 1            | [Link](https://timssandpirls.bc.edu/pirls2011/international-database.html){target="_blank"} |
+| 2006                        | Supplement 1            | [Link](https://timssandpirls.bc.edu/pirls2006/user_guide.html){target="_blank"} |
+| 2001                        | Supplement 1            | [Link](https://timssandpirls.bc.edu/pirls2001i/PIRLS2001_Pubs_UG.html){target="_blank"} |
 
-  2016               Supplement 1  <https://timssandpirls.bc.edu/pirls2016/international-database/index.html>
-
-  2011               Supplement 1  <https://timssandpirls.bc.edu/pirls2011/international-database.html>
-
-  2006               Supplement 1  <https://timssandpirls.bc.edu/pirls2006/user_guide.html/>
-
-  2001               Supplement 1  <https://timssandpirls.bc.edu/pirls2001i/PIRLS2001_Pubs_UG.html>
-  ----------------------------------------------------------------------------------------------
 
 
 ### Statistics Options
@@ -550,7 +554,7 @@ In 1995, there were 29 countries and subnational education systems that particip
 
 In the TIMSS IDE, questions from three types of questionnaires (student, teacher, and school) as well as variables that are derived from background information are organized into categories that have shared characteristics and can be selected as a group when examining and generating tables. 
 
-Content category and subcategory titles may overlap, but specific variables appear only once in a subcategory. Use *Search* in the *Select Grouping Variables* step to locate variables. 
+Content category and subcategory titles may overlap, but specific variables appear only once in a subcategory. Use **Search** in the **Select Grouping Variables** step to locate variables. 
 
 
 #### Benchmarks 
@@ -560,26 +564,33 @@ TIMSS benchmark data for grades 4 and 8 are presented in a discrete format. This
 
 TIMSS Advanced benchmark data are presented in a discrete format. This “discrete” format presents the percentage of students performing at each international benchmark: at intermediate, at high, and at advanced, with an additional category created for those students scoring below the intermediate benchmark (below intermediate). Please note that the TIMSS assessment is not designed to assess students scoring below the intermediate benchmark.
 
-For more information on benchmarks, please visit [https://nces.ed.gov/timss/technotes.asp#_Toc94791995](https://nces.ed.gov/timss/technotes.asp#_Toc94791995){target="_blank"}.
+Descriptions that characterize typical student performance at each international benchmark for different scales can be found in the TIMSS international report as summarized in the following table.
 
+| Scale name  | TIMSS international report | Links |
+|-----------------------------|-----------------------|-------|
+| Grade 4 Mathematics | Exhibit 1.7 | [Link](https://timss2019.org/reports/achievement/index.html#math-4){target="_blank"} |
+| Grade 8 Mathematics | Exhibit 3.7 | [Link](https://timss2019.org/reports/achievement/index.html#math-8){target="_blank"} |
+| Grade 4 Science | Exhibit 2.7 | [Link](https://timss2019.org/reports/achievement/index.html#science-4){target="_blank"} |
+| Grade 8 Science | Exhibit 4.7 	| [Link](https://timss2019.org/reports/achievement/index.html#science-8){target="_blank"} |
+| Grade 12 Advanced Mathematics | Exhibit M2.1 | [Link](https://timssandpirls.bc.edu/timss2015/international-results/advanced/timss-advanced-2015/mathematics/performance-at-international-benchmarks/item-map-and-summary-of-international-benchmarks/){target="_blank"}  |
+| Grade 12 Physics 	| Exhibit P2.1 | [Link](https://timssandpirls.bc.edu/timss2015/international-results/advanced/timss-advanced-2015/physics/performance-at-international-benchmarks/item-map-and-summary-of-international-benchmarks/){target="_blank"} |
 
 
 #### Index Variables
 In addition to scale scores representing performance in various subjects, TIMSS and TIMSS Advanced use indices derived from the student, teacher, and school questionnaires to contextualize results or estimate trends that account for demographic changes over time. 
 Information on indices for each year of administration can be found in the chapters referenced in the summary table below.
 
-
-| Study Name       | Study Year | Links                                                                                      |
-|------------------|------------|--------------------------------------------------------------------------------------------|
-| TIMSS            | 2019       | [Link](https://timss2019.org/international-database/downloads/T19_UG_Supp3-derived-context-variables.pdf) |
-| TIMSS            | 2015       | [Link](http://timssandpirls.bc.edu/timss2015/international-database/downloads/T15_UG_Supplement3.pdf)     |
-| TIMSS            | 2011       | [Link](https://timssandpirls.bc.edu/timss2011/downloads/T11_UG_Supplement3.pdf)             |
-| TIMSS            | 2007       | [Link](https://timssandpirls.bc.edu/TIMSS2007/PDF/T07_UserGuide_Supp3.zip)                  |
-| TIMSS            | 2003       | [Link](https://timssandpirls.bc.edu/timss2003i/PDF/t03_ug_s3.pdf)                           |
-| TIMSS            | 1999       | [Link](https://timssandpirls.bc.edu/timss1999i/data/bm2_supplement3.pdf)                    |
-| TIMSS            | 1995       | [Link](https://timssandpirls.bc.edu/timss1995i/database/UG1_Sup4.pdf)                       |
-| TIMSS Advanced   | 2015       | [Link](https://timssandpirls.bc.edu/timss2015/advanced-international-database/downloads/TA15_UG_Supplement3.pdf) |
-| TIMSS Advanced   | 1995       | [Link](https://timssandpirls.bc.edu/timss1995i/database/UG3_Sup3.pdf)                       |
+| Study Name | Study Year | Links |
+|-----------------------------|-----------------------|-------|
+| TIMSS            | 2019       | [Link](https://timss2019.org/international-database/downloads/T19_UG_Supp3-derived-context-variables.pdf){target="_blank"} |
+| TIMSS            | 2015       | [Link](http://timssandpirls.bc.edu/timss2015/international-database/downloads/T15_UG_Supplement3.pdf){target="_blank"}     |
+| TIMSS            | 2011       | [Link](https://timssandpirls.bc.edu/timss2011/downloads/T11_UG_Supplement3.pdf){target="_blank"}             |
+| TIMSS            | 2007       | [Link](https://timssandpirls.bc.edu/TIMSS2007/PDF/T07_UserGuide_Supp3.zip){target="_blank"}                  |
+| TIMSS            | 2003       | [Link](https://timssandpirls.bc.edu/timss2003i/PDF/t03_ug_s3.pdf){target="_blank"}                           |
+| TIMSS            | 1999       | [Link](https://timssandpirls.bc.edu/timss1999i/data/bm2_supplement3.pdf){target="_blank"}                    |
+| TIMSS            | 1995       | [Link](https://timssandpirls.bc.edu/timss1995i/database/UG1_Sup4.pdf){target="_blank"}                       |
+| TIMSS Advanced   | 2015       | [Link](https://timssandpirls.bc.edu/timss2015/advanced-international-database/downloads/TA15_UG_Supplement3.pdf){target="_blank"} |
+| TIMSS Advanced   | 1995       | [Link](https://timssandpirls.bc.edu/timss1995i/database/UG3_Sup3.pdf){target="_blank"}                       |
 
 
 
@@ -624,9 +635,9 @@ This statistic shows the threshold (or cutpoint) score for the following:
 
 
 ### Cross-tabulations
-Cross-tabulation is a method of combining separate variables into a single table. Normally, each variable has its own table. If you have selected two or three variables (not counting *All cases*) and when you go to the *Edit Reports* step, you will automatically get one table for each variable (including one for *All cases*); at the end of that list, you will get one cross-tabulation for the two or three variables selected. 
+Cross-tabulation is a method of combining separate variables into a single table. Normally, each variable has its own table. If you have selected two or three variables (not counting **All cases**) and when you go to the **Edit Reports** step, you will automatically get one table for each variable (including one for **All cases**); at the end of that list, you will get one cross-tabulation for the two or three variables selected. 
 
-If you have chosen four or more variables (not counting *All cases*), you will get tables for each variable, but you won’t get the cross-tabulation. 
+If you have chosen four or more variables (not counting **All cases**), you will get tables for each variable, but you won’t get the cross-tabulation. 
 Be advised that if you go back to add another variable without subtracting one to keep the total under four, you will lose any edits you might have made to the cross-tabulation. 
 
 
@@ -645,8 +656,8 @@ Population coverage, participation rates, sampling procedures, or reliability st
 
 *Grade 4*:
 
-| Region/Country              | Years Participated (last 2 digits of cycle year shown)                   |
-|-----------------------------|---------------------------------------|
+| Region/Country    | Years Participated (last 2 digits of cycle year shown) |
+|-------------------|--------------------|
 | Abu Dhabi-UAE               | 15                                    |
 | Alberta-CAN                 | 11, 07                                |
 | Australia                   | 03, 95                                |
@@ -702,8 +713,8 @@ Population coverage, participation rates, sampling procedures, or reliability st
 
 *Grade 8*:
 
-| Region/Country             | Years Participated (last 2 digits of cycle year shown)                      |
-|----------------------------|------------------------------------------|
+| Region/Country    | Years Participated (last 2 digits of cycle year shown) |
+|-------------------|--------------------|
 | Abu Dhabi-UAE              | 19                                       |
 | Alabama-US                 | 11                                       |
 | Alberta-CAN                | 11                                       |
@@ -725,8 +736,9 @@ Population coverage, participation rates, sampling procedures, or reliability st
 | England-GBR                | 11, 07, 03, 99, 95                       |
 | Florida-USA                | 15, 11                                   |
 | Gauteng-ZAF                | 19                                       |
-| Georgia                    | 19, 15, 11, 07                           |
 | Greece                     | 95                                       |
+| Georgia                    | 19, 15, 11, 07                           |
+| Germany                    | 95                                       |
 | Honduras-Grade 9           | 11                                       |
 | Hong Kong-CHN              | 19, 07, 03, 99                           |
 | Indiana-USA                | 11                                       |
@@ -758,7 +770,6 @@ Population coverage, participation rates, sampling procedures, or reliability st
 | Scotland-GBR               | 07, 03, 95                               |
 | Serbia                     | 07, 03                                   |
 | Singapore                  | 19, 15, 11                               |
-| Slovak Republic            | 19                                       |
 | Slovenia                   | 95                                       |
 | South Africa               | 19                                       |
 | Sweden                     | 19                                       |
@@ -784,9 +795,9 @@ In TIMSS Advanced 2015, the Russian Federation participated with two populations
 
 In 2015, Armenia tested the same cohort of students as other countries, but later in the assessment year.
 
-Data from these jurisdictions have issues that interfere with proper trend analysis: Armenia, Australia, Botswana, Canada, Finland, Indonesia, Israel, Italy, Kazakhstan, Kuwait, Latvia, Morocco, Norway, Philippines, Poland, Qatar, Saudi Arabia, Slovenia, South Africa, Syrian Arab Republic, Thailand, Turkey, and Yemen. For more details on trends with 2019 data, see Appendix A in the IEA [TIMSS 2019 International Reports](https://timss2019.org/reports/), which lists all countries with previous years of data not comparable for measuring trends to 2019, primarily due to countries improving translations or increasing population coverage.  
+Data from these jurisdictions have issues that interfere with proper trend analysis: Armenia, Australia, Botswana, Canada, Finland, Indonesia, Israel, Italy, Kazakhstan, Kuwait, Latvia, Morocco, Norway, Philippines, Poland, Qatar, Saudi Arabia, Slovenia, South Africa, Syrian Arab Republic, Thailand, Turkey, and Yemen. For more details on trends with 2019 data, see Appendix A in the IEA [TIMSS 2019 International Reports](https://timss2019.org/reports/){target="_blank"}, which lists all countries with previous years of data not comparable for measuring trends to 2019, primarily due to countries improving translations or increasing population coverage.  
 
-See the [IEA TIMSS 2015 International Reports](http://timssandpirls.bc.edu/timss2015/),  [IEA TIMSS 2011 International Reports](http://timssandpirls.bc.edu/timss2011/index.html), the [IEA TIMSS 2007 International Reports](http://timss.bc.edu/TIMSS2007/intl_reports.html), and the [IEA TIMSS 2003 International Reports](http://timss.bc.edu/timss2015-advanced/frameworks.html) for further information on specific trend issues in previous years. 
+See the [IEA TIMSS 2015 International Reports](http://timssandpirls.bc.edu/timss2015/){target="_blank"},  [IEA TIMSS 2011 International Reports](http://timssandpirls.bc.edu/timss2011/index.html){target="_blank"}, the [IEA TIMSS 2007 International Reports](http://timss.bc.edu/TIMSS2007/intl_reports.html){target="_blank"}, and the [IEA TIMSS 2003 International Reports](http://timss.bc.edu/timss2015-advanced/frameworks.html){target="_blank"} for further information on specific trend issues in previous years. 
 
 Because of national-level changes in the starting age/date of school, 1999 data for Australia and Slovenia cannot be compared to 2003 data.  Because of changes in the population tested, 1995 data for Israel, Italy, New Zealand, and South Africa and 1999 data for Morocco cannot be used for trend analyses.  Because only Latvian-speaking schools were included in 1995 and 1999 data for Latvia, 1995 and 1999 data cannot be compared to 2003, 2007, and 2011 data.  Data for Kuwait, Indonesia, Saudi Arabia, Morocco, and Turkey cannot be used for trend analyses because comparable data across years are not available. 
 
@@ -804,8 +815,7 @@ The alpha level for all *t*-tests is .05. All comparisons within a jurisdiction,
 #### Data Suppression 
 Data suppression may be handled slightly differently in the TIMSS IDE and the IEA TIMSS International Reports. For the IDE, the Rule of 62 is applied to suppress data to avoid reporting results for groups about which little of interest could be said due to lack of power. The Rule of 62 is borrowed from the IDE’s counterpart, the National Assessment of Educational Progress (NAEP) Data Explorer (NDE). This rule states that statistics for a group are suppressed if they are based on less than 62 cases. Statistics are: means, standard errors, standard deviations and a set of percentiles. The rule serves to assure a minimum power requirement to detect moderate differences at a nominal significance level (0.05). The minimum power is 0.80 and the moderate effect size is 0.5 standard deviation units. A design effect of 2 is assumed to derive an appropriate complex sample standard deviation.
 
-For information on creating and interpreting the TIMSS 2019 context questionnaire scales, see [Methods and Procedures: TIMSS 2019 Technical Report](https://timssandpirls.bc.edu/timss2019/methods/chapter-16.html).
-
+For information on creating and interpreting the TIMSS 2019 context questionnaire scales, see [Methods and Procedures: TIMSS 2019 Technical Report](https://timssandpirls.bc.edu/timss2019/methods/chapter-16.html){target="_blank"}.
 
 
 
@@ -845,13 +855,13 @@ Each data query must include at least one selection from four criteria choices: 
      - Partners
 
 #### Display
-The PIAAC IDE contains three different adult sample populations which can be selected for analysis from the *Display* drop down menu.
+The PIAAC IDE contains three different adult sample populations which can be selected for analysis from the **Display** drop down menu.
 
-- *U.S. Adults, 16–74 (Household and Prison)*: This display contains U.S.-only comparable data from the PIAAC, including the 2017 U.S. Household Data (for ages 
+- **U.S. Adults, 16–74 (Household and Prison)**: This display contains U.S.-only comparable data from the PIAAC, including the 2017 U.S. Household Data (for ages 
 16–74, and 16–65), combined 2012 and 2014 U.S. Household Data (for ages 16–74, and 16–65),  and Prison Data (for ages 16–74).
-- *Young Adults, 16–34*: This display contains internationally comparable data from the 
+- **Young Adults, 16–34**: This display contains internationally comparable data from the 
 3 international rounds of PIAAC (2012-2017 for all countries, except the U.S. which combined 2012-2014 data only) Household Data, ages 16–34. This display does not include the 2017 U.S. Household Data.
-- *Adults, 16–65*: This display contains internationally comparable data from the 
+- **Adults, 16–65**: This display contains internationally comparable data from the 
 3 international rounds of PIAAC (2012–2017 for all countries, except the U.S. which combined 2012–2014 data only) Household Data, ages 16–65. This display does not include the 2017 U.S. Household Data.
 
 
@@ -861,20 +871,20 @@ You can choose the overall scale, which is each subject's default dependent vari
 
 A fourth domain, called Reading Components, measures literacy at the very low end of the spectrum, in areas such as sentence completion, passage comprehension, and vocabulary. This domain was given to respondents who decided not to take the computer-based assessment or who did not pass a set of core information and computer technology tasks and a set of core literacy/numeracy tasks.
 
-The adults in the sample population that did not answer the assessment will be displayed along with those that did answer the assessment if you select *Percentage across full sample* under the *Population* category.
+The adults in the sample population that did not answer the assessment will be displayed along with those that did answer the assessment if you select **Percentage across full sample** under the **Population** category.
 
 
 #### Years/Studies
-Currently, data availability in the PIAAC IDE is dependent on the *Display* and *Dependent Variable* selected in step 1, *Select Criteria*.
+Currently, data availability in the PIAAC IDE is dependent on the **Display** and **Dependent Variable** selected in step 1, **Select Criteria**.
 
-If the *Display* chosen is *U.S. Adults, 16–74 (Household and Prison)* you can choose one or more years and studies between *PIAAC 2017* and *PIAAC 2012/14*. If the *Display* chosen is *Adults, 16–65* or *Young Adults, 16–34* you can choose one or more years and studies between *PIAAC 2012-2017*, *ALL 2003–2008*, and *IALS 1994–1998*. 
+If the **Display** chosen is **U.S. Adults, 16–74 (Household and Prison)** you can choose one or more years and studies between **PIAAC 2017** and **PIAAC 2012/14**. If the **Display** chosen is **Adults, 16–65** or **Young Adults, 16–34** you can choose one or more years and studies between **PIAAC 2012-2017**, **ALL 2003–2008**, and **IALS 1994–1998**. 
 
 
 #### Jurisdictions
-All listed jurisdictions can be selected for any analyses, provided data are available for the selected years/studies range. When PIAAC was first administered in 2012, a total of 24 jurisdictions participated, including the United States. Nine additional jurisdictions administered PIAAC in 2014 and five additional jurisdictions administered PIAAC in 2017. Data for these jurisdictions, with the exception of three, are available within the Adults, age 16–65 and Adults, age 16–34 displays. Data for three jurisdictions, Australia, Jakarta (Indonesia), and Russian Federation, are not available: Australia’s data are suppressed in the PIAAC IDE because of national restrictions on the use of their data; Jakarta’s data are suppressed because their data file is not publicly available; and Russian Federation’s data are suppressed in the PIAAC IDE because the data do not represent the entire resident population aged 16–65 years in Russia. Jurisdictions include some subnational entities, such as England/Northern Ireland. Data are not available for some of the 33 PIAAC-participating jurisdictions for ALL 2003–2008 or IALS 1994–1998, either because they did not participate in that assessment or because their data were suppressed due to reporting standards not being met (see Table 2). 
+All listed jurisdictions can be selected for any analyses, provided data are available for the selected years/studies range. When PIAAC was first administered in 2012, a total of 24 jurisdictions participated, including the United States. Nine additional jurisdictions administered PIAAC in 2014 and five additional jurisdictions administered PIAAC in 2017. Data for these jurisdictions, with the exception of three, are available within the **Adults, age 16–65** and **Adults, age 16–34** displays. Data for three jurisdictions, Australia, Jakarta (Indonesia), and Russian Federation, are not available: Australia’s data are suppressed in the PIAAC IDE because of national restrictions on the use of their data; Jakarta’s data are suppressed because their data file is not publicly available; and Russian Federation’s data are suppressed in the PIAAC IDE because the data do not represent the entire resident population aged 16–65 years in Russia. Jurisdictions include some subnational entities, such as England/Northern Ireland. Data are not available for some of the 33 PIAAC-participating jurisdictions for ALL 2003–2008 or IALS 1994–1998, either because they did not participate in that assessment or because their data were suppressed due to reporting standards not being met (see table below). 
 Data are available for 6 jurisdictions in ALL 2003–2008, and 15 jurisdictions in IALS 1994–1998. Jurisdictions for which data are not available for a selected year are identified by the icon representing “no data”— ![](images/no-data.gif).
 
-Table 2. PIAAC IDE jurisdictions with available data by year/study
+PIAAC IDE jurisdictions with available data by year/study
 
 | Jurisdiction Groups          | PIAAC 2012–2017 | ALL 2003–2008 | IALS 1994–1998 |
 |------------------------------|-----------------|---------------|----------------|
@@ -891,20 +901,28 @@ Table 2. PIAAC IDE jurisdictions with available data by year/study
 
 PIAAC requires in-person interviews to complete the background questionnaire before administering the direct assessments (i.e., literacy, numeracy, reading components, and/or problem solving in technology-rich environments (PS-TRE)). In the PIAAC IDE, dependent variables are derived from two instruments: the computer-based assessment (CBA), given to respondents who were comfortable taking the assessment on a computer, and the paper-based assessment (PBA), given to respondents that were not familiar with computers or chose not to take the assessment on a computer. Variables derived from the background questionnaire were administered to each participating adult. Variables are organized into categories that have shared characteristics and can be selected as a group (category) when examining and generating tables. 
 
-Content category and subcategory titles may overlap, but specific variables appear only once in a subcategory. Use *Search* in the *Select Grouping Variables* step to locate variables.
+Content category and subcategory titles may overlap, but specific variables appear only once in a subcategory. Use **Search** in the **Select Grouping Variables** step to locate variables.
 
-Note that some variables might be similar in content, but not comparable over the years, either due to differences in the question asked or differences in their response categories. The icon representing “no data”— ![](images/no-data.gif) —will help in identifying the year for which the variable has data available for analysis. Except for the estimates for *All Adults*, the variables that can be compared across years are located under a special category called *Trend Variables*, sub-category *Trends to IALS and ALL*. Note that common variables such as age and gender, among others, can appear in other categories and sub-categories with the “no data” icon ![](images/no-data.gif), but have data when selected under the *Trends Variables* category.  
+Note that some variables might be similar in content, but not comparable over the years, either due to differences in the question asked or differences in their response categories. The icon representing “no data”— ![](images/no-data.gif) —will help in identifying the year for which the variable has data available for analysis. Except for the estimates for **All Adults**, the variables that can be compared across years are located under a special category called **Trend Variables**, sub-category **Trends to IALS and ALL**. Note that common variables such as age and gender, among others, can appear in other categories and sub-categories with the “no data” icon ![](images/no-data.gif), but have data when selected under the **Trends Variables** category.  
 
 
 #### Proficiency levels 
 Proficiency levels are available in the Proficiency Levels sub-category in the Major Reporting Groups category. Achievement results for PIAAC are reported using achievement levels for literacy, numeracy, and problem solving in technology-rich environments (PS-TRE). Increasing levels represent the knowledge, skills, and capabilities needed to perform tasks of increasing complexity. As a result, the findings are reported in terms of percentages of the adult population at each of the predefined levels. Based on the statistics option chosen, the IDE can report the average scores of adults at each proficiency level or the percentage of the adults performing at each of the predefined levels for the chosen jurisdictions. The statistics options to choose standard deviations and percentiles will not generate reports as proficiency levels are not reportable using these statistical analyses.
 
-The IDE can report percentage distributions of variables among the adults at each proficiency level (for example, the percentage distribution of adult population that are employed, unemployed, and out of the labor force [employment status] within each proficiency level). To conduct this type of analysis, you can select the relevant Overall scale or Percentage across full sample at step 1, Select Criteria. At step 2, Select Criteria, you can select the relevant proficiency levels in addition to other variable(s) of interest. At the Edit Reports step, you can select the Edit command for the cross-tabulated report to change the table layout and move the proficiency levels variable to the row and one (or both) of the other selected variables to the column (this step may not be necessary depending on the order of the selected variables) and to select Percentages as the Statistic. Results for combined proficiency levels (for example, the combined level 4/5 proficiency level used in most reporting of PIAAC literacy and numeracy results) can be produced by creating a new variable within the Edit Report page. (For further information, see section Create Variables.) You can then proceed to the Build Reports step.
+The IDE can report percentage distributions of variables among the adults at each proficiency level (for example, the percentage distribution of adult population that are employed, unemployed, and out of the labor force [employment status] within each proficiency level). To conduct this type of analysis, you can select the relevant Overall scale or Percentage across full sample at step 1, **Select Criteria**. At step 2, **Select Grouping Variables**, you can select the relevant proficiency levels in addition to other variable(s) of interest. At the **Edit Reports** step, you can select the **Edit** command for the cross-tabulated report to change the table layout and move the proficiency levels variable to the row and one (or both) of the other selected variables to the column (this step may not be necessary depending on the order of the selected variables) and to select Percentages as the Statistic. Results for combined proficiency levels (for example, the combined level 4/5 proficiency level used in most reporting of PIAAC literacy and numeracy results) can be produced by creating a new variable within the Edit Report page. (For further information, see section Create Variables.) You can then proceed to the **Build Reports** step.
 
-Literacy and numeracy results in PIAAC 2012–2017 and ALL 2003–2008, and literacy results in IALS 1994–1998 were reported using six achievement levels: below level 1, level 1, level 2, level 3, level 4, and level 5. Literacy related non-response is also available. 
+Literacy and numeracy results in **PIAAC 2012–2017** and **ALL 2003–2008**, and literacy results in **IALS 1994–1998** were reported using six achievement levels: **below level 1**, **level 1**, **level 2**, **level 3**, **level 4**, and **level 5**. **Literacy related non-response** is also available. 
 
-The number of achievement levels in problem solving in technology-rich environments (PS-TRE) differs from the number in literacy and numeracy for PIAAC 2012–2017 where four achievement levels were used: below level 1, level 1, level 2, and level 3. Four other levels are also available in problem solving in technology-rich environments (PS-TRE) achievement levels: no computer experience, failed ICT core, refused CBA, and literacy related non-response (which are further explained in the Description of PIAAC problem solving in technology-rich environments (PS-TRE) achievement levels table below.)
-For more information on proficiency levels, please visit https://nces.ed.gov/surveys/piaac/dependent variable.asp.
+The number of achievement levels in problem solving in technology-rich environments (PS-TRE) differs from the number in literacy and numeracy for **PIAAC 2012–2017** where four achievement levels were used: **below level 1**, **level 1**, **level 2**, and **level 3**. Four other levels are also available in problem solving in technology-rich environments (PS-TRE) achievement levels: **no computer experience**, **failed ICT core**, **refused CBA**, and **literacy related non-response** (which are further explained in the Description of PIAAC problem solving in technology-rich environments (PS-TRE) achievement levels table referenced below.)
+
+Descriptions that characterize typical adult performance in literacy, numeracy, and problem solving in technology-rich environments (PS-TRE) at each achievement level available in the IDE can be found in the PIAAC international report as summarized in the following table.
+
+| Scale name  | PIAAC international report | Links |
+|-----------------------------|-----------------------|-------|
+| Literacy | Table 2.1, on page 40 | [Link](https://www.oecd.org/skills/piaac/Skills_Matter_Further_Results_from_the_Survey_of_Adult_Skills.pdf){target="_blank"} |
+| Numeracy | Table 2.2, on page 48  | [Link](https://www.oecd.org/skills/piaac/Skills_Matter_Further_Results_from_the_Survey_of_Adult_Skills.pdf){target="_blank"} |
+| Problem Solving in Technology-Rich Environments (PS-TRE) | Table 2.3, on page 53 | [Link](https://www.oecd.org/skills/piaac/Skills_Matter_Further_Results_from_the_Survey_of_Adult_Skills.pdf){target="_blank"} |
+
 
 
 ### Statistics Options
@@ -922,7 +940,8 @@ This statistic provides the average value for a selected continuous variable or 
 
 #### Percentages
 This statistic shows the percentage of adults as a row percentage. For example, if the first column lists jurisdictions, then each jurisdiction will display its own percentage distribution across its row. By default, percentage distributions do not include missing data, although there is an option to include them. 
-The adults in the sample population that did not answer the assessment will be displayed along with those that did answer the assessment if you select Percentage across full sample under the Population category.
+
+The adults in the sample population that did not answer the assessment will be displayed along with those that did answer the assessment if you select **Percentage across full sample** under the **Population** category.
  
 
 #### Standard deviations
@@ -941,9 +960,9 @@ This statistic shows the threshold score (or cut point) for the following:
 
 
 ### Cross-tabulations
-Cross-tabulation is a method of combining separate variables into a single table. Normally, each variable has its own table. If you have selected two or three variables (not counting All Adults), when you go to the Edit Reports step, you will automatically get a list with one table for each variable (including one for All Adults); at the end of that list, you will get one cross-tabulation for the two or three variables selected.
+Cross-tabulation is a method of combining separate variables into a single table. Normally, each variable has its own table. If you have selected two or three variables (not counting **All Adults**), when you go to the **Edit Reports** step, you will automatically get a list with one table for each variable (including one for **All Adults**); at the end of that list, you will get one cross-tabulation for the two or three variables selected.
 
-If you have chosen four or more variables (not counting All Adults) you will get tables for each variable, but you will not get the cross-tabulation. 
+If you have chosen four or more variables (not counting **All Adults**) you will get tables for each variable, but you will not get the cross-tabulation. 
 
 Be advised that if you go back to add another variable without removing one variable (to keep the total under four) you will lose any edits you might have made to the cross-tabulation.
 
@@ -960,17 +979,17 @@ Statistical notations and other notes are found at the end of a data table, as a
 -	SOURCE: Source information is listed for all PIAAC data and should be cited when data are used in a publication or presentation.
 
 #### Calculation of OECD averages
-The IDE generates the average of all jurisdictions included in the IDE for the selected dependent variables and variables if Average of All Jurisdictions is chosen under Jurisdiction. This average generated by the IDE is based on 27 OECD national and 2 sub-national entities [Flanders (Belgium), England and Northern Ireland (UK)] and 6 partner jurisdictions in PIAAC 2012–2017, 6 OECD national or sub-national entities in ALL 2003–2008, and 18 OECD national or sub-national entities in IALS 1994–1998. 
+The IDE generates the average of all jurisdictions included in the IDE for the selected dependent variables and variables if **Average of All Jurisdictions** is chosen under **Jurisdiction**. This average generated by the IDE is based on 27 OECD national and 2 sub-national entities [Flanders (Belgium), England and Northern Ireland (UK)] and 6 partner jurisdictions in **PIAAC 2012–2017**, 6 OECD national or sub-national entities in **ALL 2003–2008**, and 18 OECD national or sub-national entities in **IALS 1994–1998**. 
 
-Please note that there might be differences between the averages generated by the IDE and the OECD averages for literacy, numeracy and problem solving in technology-rich environments (PS-TRE) published in the PIAAC 2012/2014 OECD and NCES reports. Furthermore, the Average of All Jurisdictions generated by the IDE might differ from previously published results in OECD and NCES reports using PIAAC 2012–2017, ALL 2003–2008, and IALS 1994–1998 data. These differences might be due to the jurisdiction composition of the averages.
+Please note that there might be differences between the averages generated by the IDE and the OECD averages for literacy, numeracy and problem solving in technology-rich environments (PS-TRE) published in the **PIAAC 2012/2014** OECD and NCES reports. Furthermore, the **Average of All Jurisdictions** generated by the IDE might differ from previously published results in OECD and NCES reports using **PIAAC 2012–2017**, **ALL 2003–2008**, and **IALS 1994–1998** data. These differences might be due to the jurisdiction composition of the averages.
 
 
 #### Linking error 
-PIAAC 2012–2017, ALL 2003–2008, and IALS 1994–1998 are linked assessments. That is, the sets of items used to assess literacy and numeracy in these years and studies include a subset of common items, referred to as trend items. To establish common reporting metrics for PIAAC, the difficulty of the link items, measured on different occasions, is compared. The comparison of the item difficulties on the different occasions is used to determine a score transformation that allows the reporting of the data on a common scale.
+**PIAAC 2012–2017**, **ALL 2003–2008**, and **IALS 1994–1998** are linked assessments. That is, the sets of items used to assess literacy and numeracy in these years and studies include a subset of common items, referred to as trend items. To establish common reporting metrics for PIAAC, the difficulty of the link items, measured on different occasions, is compared. The comparison of the item difficulties on the different occasions is used to determine a score transformation that allows the reporting of the data on a common scale.
 
 As each item provides slightly different information about the link transformation, it follows that the chosen sample of link items will influence the estimated transformation. The consequence is an uncertainty in the transformation due to the sampling of link items, just as there is an uncertainty in jurisdiction means due to the sampling of adults.
 
-The uncertainty that results from the link-item sampling is referred to as linking error, and this error must be taken into account when making certain comparisons using the PIAAC 2012–2017, ALL 2003–2008, and IALS 1994–1998 data. As with sampling errors, the likely range of magnitude for the errors is represented as a standard error. Significance tests for scores across years within the IDE take into account the linking errors applicable to each subject.
+The uncertainty that results from the link-item sampling is referred to as linking error, and this error must be taken into account when making certain comparisons using the **PIAAC 2012–2017**, **ALL 2003–2008**, and **IALS 1994–1998** data. As with sampling errors, the likely range of magnitude for the errors is represented as a standard error. Significance tests for scores across years within the IDE take into account the linking errors applicable to each subject.
 
 ## TALIS IDE
 
@@ -1015,7 +1034,7 @@ You can choose the full population estimate, which is the default dependent vari
 #### Years
 The TALIS IDE includes data from 2018, 2013, and 2008, the three years in which TALIS was administered to teachers and principals. Some of the variables included across years may differ; for example, the “culture of sharing success” variable under the School Climate and Safety (reported by Principal) subcategory has data available in TALIS 2013, but not in TALIS 2018 or 2008. 
 
-When a certain variable is not available for a corresponding year in the TALIS IDE, it will be noted with the symbol “  ”. The participating countries and subnational education systems across years also vary (more information provided under Jurisdiction(s) below). 
+When a certain variable is not available for a corresponding year in the TALIS IDE, it will be noted with the symbol “![](images/no-data.gif)”. The participating countries and subnational education systems across years also vary (more information provided under Jurisdiction(s) below). 
 
 To select both years of TALIS for analysis, check the box for “All Years.”
 
@@ -1024,11 +1043,10 @@ To select both years of TALIS for analysis, check the box for “All Years.”
 All listed jurisdictions can be selected for any analysis, provided data are available for the selected year of TALIS. 
 Please note the following inclusions and exclusions of TALIS participating country and subnational education system data in the OECD TALIS international reports and the NCES TALIS IDE:
 
--	The Netherlands participated in TALIS 2008 but did not meet the sampling standards. Their data are not included in the TALIS IDE or in the OECD TALIS international report. 
--	Cyprus’s data for TALIS 2013 were included in the OECD TALIS international report but were not made publicly available for use in the data files provided on the OECD website. Cyprus’s data for TALIS 2013 are not included in the TALIS IDE.
 -	Iceland’s data for TALIS 2013 and 2018 were included in the OECD TALIS international report but were not made publicly available for use in the data files provided on the OECD website. Iceland’s data for TALIS 2013, but not for TALIS 2018, are included in the TALIS IDE.
--	In the OECD TALIS 2013 international report, all ISCED 2 estimates for the United States are shown separately from those for the other participating education systems. This is because the United States did not achieve an acceptable level of response based on the international response rate standards established for TALIS 2013. (To read more about the U.S. response rate, the steps taken to determine the level of bias in the estimates, and caveats about the U.S. data, see https://nces.ed.gov/surveys/talis/talis2013/index.asp.) However, in the TALIS IDE, report outputs do not show U.S. estimates separately from the estimates of all other jurisdictions.
-
+-	Cyprus’s data for TALIS 2013 were included in the OECD TALIS international report but were not made publicly available for use in the data files provided on the OECD website. Cyprus’s data for TALIS 2013 are not included in the TALIS IDE.
+-	In the OECD TALIS 2013 international report, all ISCED 2 estimates for the United States are shown separately from those for the other participating education systems. This is because the United States did not achieve an acceptable level of response based on the international response rate standards established for TALIS 2013. (To read more about the U.S. response rate, the steps taken to determine the level of bias in the estimates, and caveats about the U.S. data, see [https://nces.ed.gov/surveys/talis/talis2013/index.asp](https://nces.ed.gov/surveys/talis/talis2013/index.asp){target="_blank"}.) However, in the TALIS IDE, report outputs do not show U.S. estimates separately from the estimates of all other jurisdictions.
+-	The Netherlands participated in TALIS 2008 but did not meet the sampling standards. Their data are not included in the TALIS IDE or in the OECD TALIS international report. 
 
 ### Variables
 
@@ -1036,19 +1054,18 @@ In the TALIS IDE, variables are derived from two types of questionnaires: the sc
 
 Variables are organized into categories (and subcategories) that have shared characteristics and can be selected as a group when examining and generating tables. Note that variable titles in the TALIS IDE may overlap or be repeated under categories or subcategories, but specific variables appear only once. Some variables might be similar in title and content, but not comparable over the years, either due to differences in the question asked or differences in their response categories.
 
-Use *Search* in the *Select Grouping Variables* step to locate and select variables in the TALIS IDE.
+Use **Search** in the **Select Grouping Variables** step to locate and select variables in the TALIS IDE.
 
 
 #### Index Variables
 TALIS uses indices derived from the teacher and school questionnaires to contextualize TALIS results and to estimate trends that account for demographic changes over time. 
 Information on the indices available for each year of administration can be found in the chapters referenced in the summary table below. 
 	
-
-| Year of TALIS administration | TALIS report chapter | TALIS technical report links                                   |
-|------------------------------|----------------------|----------------------------------------------------------------|
-| 2018                         | Chapter 11           | [Link](https://www.oecd.org/education/talis/TALIS_2018_Technical_Report.pdf) |
-| 2013                         | Chapter 10           | [Link](https://www.oecd.org/education/school/TALIS-technical-report-2013.pdf) |
-| 2008                         | Chapter 11           | [Link](https://www.oecd.org/education/school/44978960.pdf)                    |
+| Year of TALIS administration | TALIS technical report| Links |
+|-----------------------------|-----------------------|-------|
+| 2018                         | Chapter 11           | [Link](https://www.oecd.org/education/talis/TALIS_2018_Technical_Report.pdf){target="_blank"} |
+| 2013                         | Chapter 10           | [Link](https://www.oecd.org/education/school/TALIS-technical-report-2013.pdf){target="_blank"} |
+| 2008                         | Chapter 11           | [Link](https://www.oecd.org/education/school/44978960.pdf){target="_blank"}                    |
 
 
 ### Statistics Options
@@ -1083,9 +1100,9 @@ This statistic shows the threshold (or cut-point) for the following:
 
 
 ### Cross-tabulations
-Cross-tabulation is a method of combining separate variables into a single table. Normally, each variable has its own table. If you have selected two or three variables (not counting *All cases*) and when you go to the *Edit Reports* step, you will automatically get a list with one table for each variable (including one for *All cases*); at the end of that list you will get one cross-tabulation for the two or three variables selected.
+Cross-tabulation is a method of combining separate variables into a single table. Normally, each variable has its own table. If you have selected two or three variables (not counting **All cases**) and when you go to the **Edit Reports** step, you will automatically get a list with one table for each variable (including one for **All cases**); at the end of that list you will get one cross-tabulation for the two or three variables selected.
 
-If you have chosen four or more variables (not counting *All cases*), you will get tables for each variable, but you won’t get the cross-tabulation. 
+If you have chosen four or more variables (not counting **All cases**), you will get tables for each variable, but you won’t get the cross-tabulation. 
 Be advised that if you go back to add another variable without subtracting one to keep the total under four, you will lose any edits you might have made to the cross-tabulation.
 
 
@@ -1100,7 +1117,7 @@ Statistical notations and other notes are found at the end of a data table, as a
 -	SOURCE: Source information is listed for all TALIS data and should be cited when data are used in a publication or presentation.
 
 #### Calculation of Average of All Jurisdictions in the TALIS IDE
-For each ISCED level, the *Average of All Jurisdictions* option under *Jurisdiction* within step 1, *Select Criteria*, includes all jurisdictions with data for the year of interest.  
+For each ISCED level, the **Average of All Jurisdictions** option under **Jurisdiction** within step 1, **Select Criteria**, includes all jurisdictions with data for the year of interest.  
 
 
 #### Statistical Comparisons 
@@ -1132,15 +1149,15 @@ Each data query must include at least one selection from five criteria choices: 
    - Student
    - Teacher
 
-2. Dependent Variable(s):
-   - Computer and Information Literacy (CIL): Overall
-   - Computational Thinking (CT): Overall
-
-3. Year(s):
+2. Year:
    - 2018 (data available for CIL and CT)
    - 2013 (data available for CIL)
 
-4. Jurisdiction(s):
+3. Dependent Variable:
+   - Computer and Information Literacy (CIL): Overall
+   - Computational Thinking (CT): Overall
+
+4. Jurisdiction:
    - Average of Countries
    - Average of the Selected Jurisdictions
    - Countries
@@ -1183,17 +1200,25 @@ Achievement results for ICILS are reported using discrete proficiency levels for
 Computer and Information Literacy: Administered in 2013 and 2018. In both years, CIL results were reported using four proficiency levels (levels 1–level 4); the IDE shows five categories (below level 1, level 1, level 2, level 3, level 4).
 
 Computational Thinking: Administered in 2018. CT results were reported using three proficiency levels (lower region, middle region, upper region); the IDE shows these three categories.
-Descriptions that characterize typical student performance at each proficiency level are shown in the following tables for CIL and CT. For more information about the development of the proficiency levels, please see the [ICILS 2018 Technical Report](https://www.iea.nl/sites/default/files/2020-05/ICILS 2018 Technical Report-FINAL_0.pdf.
+
+Descriptions that characterize typical student performance at each proficiency level for different scales can be found in the ICILS international report as summarized in the following table.
+
+| Scale name  | ICILS international report | Links |
+|-----------------------------|-----------------------|-------|
+| Computer and Information Literacy (CIL) | Table 3.2, on page 57 | [Link](https://www.iea.nl/sites/default/files/2020-04/IEA%20International%20Computer%20and%20Information%20Literacy%20Study%202018%20International%20Report.pdf){target="_blank"} |
+| Computational Thinking (CT) | Page 92 | [Link](https://www.iea.nl/sites/default/files/2020-04/IEA%20International%20Computer%20and%20Information%20Literacy%20Study%202018%20International%20Report.pdf){target="_blank"} |
+
+
+
 
 #### Index Variables
 In addition to scale scores representing performance in various subjects, ICILS uses indices derived from the student, teacher, principal, and ICT coordinator questionnaires to contextualize ICILS results or to estimate trends that account for demographic changes over time.
 Information on indices for each year of administration can be found in the IEA publication chapters referenced in the summary table below.
 	
-
-| Year of ICILS administration | ICILS IEA User Guide chapters | Links                                                                                      |
-|------------------------------|-------------------------------|---------------------------------------------------------------------------------------------|
-| 2018                         | Appendix C                    | [Link](https://www.iea.nl/publications/user-guides/icils-2018-user-guide-international-database) |
-| 2013                         | Appendix 3                    | [Link](https://www.iea.nl/publications/user-guides/icils-2013-user-guide-international-database) |
+| Year of ICILS administration | ICILS technical report | Links |
+|-----------------------------|-----------------------|-------|
+| 2018                         | Appendix C                    | [Link](https://www.iea.nl/publications/user-guides/icils-2018-user-guide-international-database){target="_blank"} |
+| 2013                         | Appendix 3                    | [Link](https://www.iea.nl/publications/user-guides/icils-2013-user-guide-international-database){target="_blank"} |
 
 
 ### Statistics Options
@@ -1230,9 +1255,9 @@ This statistic shows the threshold score (or cut point) for the following:
 
 
 ### Cross-tabulations
-Cross-tabulation is a method of combining separate variables into a single table. Normally, each variable has its own table. If you have selected two or three variables (not counting *All Cases*) and when you go to the *Edit Reports* step, you will automatically get a list with one table for each variable (including one for *All Cases*); at the end of that list you will get one cross-tabulation for the two or three variables selected.
+Cross-tabulation is a method of combining separate variables into a single table. Normally, each variable has its own table. If you have selected two or three variables (not counting **All Cases**) and when you go to the **Edit Reports** step, you will automatically get a list with one table for each variable (including one for **All Cases**); at the end of that list you will get one cross-tabulation for the two or three variables selected.
 
-If you have chosen four or more variables (not counting *All Cases*), you will get tables for each variable, but you won’t get the cross-tabulation. 
+If you have chosen four or more variables (not counting **All Cases**), you will get tables for each variable, but you won’t get the cross-tabulation. 
 Be advised that if you go back to add another variable without subtracting one to keep the total under four, you will lose any edits you might have made to the cross-tabulation.
 
 

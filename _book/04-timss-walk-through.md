@@ -384,7 +384,7 @@ function (see exhibit 4-13):
 
 4.  **Include** gives you the option of showing standard errors. By
     default, standard errors are shown inside parentheses, but you have
-    the option of choosing to show them without parentheses*.* You can
+    the option of choosing to show them without parentheses. You can
     preview the effects of your selection in the **Sample Display** area
     (see the blue-shaded box at the bottom of exhibit 4-13).
 
@@ -442,7 +442,7 @@ The following statistics options are available (see exhibit 4-14):
 
     -   75^th^ percentile---the top quarter of students
 
-    -   90^th^ percentile*---*the top 10 percent of students
+    -   90^th^ percentile---the top 10 percent of students
 
 
 Exhibit 4-14. Statistics options

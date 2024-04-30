@@ -409,7 +409,7 @@ function (see exhibit 6-13):
 
 5.  **Include** gives you the option of showing standard errors. By
     default, standard errors are shown inside parentheses, but you have
-    the option of choosing to show them without parentheses*.* You can
+    the option of choosing to show them without parentheses. You can
     preview the effects of your selection in the **Sample Display** area
     (see the blue-shaded box at the bottom of exhibit 6-13 below).
 

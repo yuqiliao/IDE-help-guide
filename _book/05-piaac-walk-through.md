@@ -458,7 +458,7 @@ function (see exhibit 5-13):
 
 5. **Include** gives you the option of showing standard errors. By
     default, standard errors are shown inside parentheses, but you have
-    the option of choosing to show them without parentheses*.* You can
+    the option of choosing to show them without parentheses. You can
     preview the effects of your selection in the **Sample Display** area
     (see the blue-shaded box at the bottom of exhibit 5-13).
 
@@ -562,7 +562,7 @@ and the OECD may differ in the minimum sample sizes required for
 publishing adult scores, as well as in the requirements for stability of
 estimates for results to be reportable. For more details on the
 differences in statistical standards, refer to the technical notes in
-the [NCES First Look report](https://nces.ed.gov/pubs2014/2014008.pdf).
+the [NCES First Look report](https://nces.ed.gov/pubs2014/2014008.pdf){target="_blank"}.
 
 ### Select Reports to Build
 As you edit your reports, you can give distinct names (up to 50
