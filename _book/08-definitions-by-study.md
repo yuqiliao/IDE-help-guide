@@ -140,7 +140,7 @@ Achievement results for PISA are reported using discrete proficiency levels for 
 
 Mathematics literacy: Administered in all cycles (2000, 2003, 2006, 2009, 2012, 2015, 2018, 2022). In 2000, an interim scale was used, and cut-off points between mathematics literacy proficiency levels were not established. Thus, proficiency levels cannot be analyzed in the IDE for 2000 mathematics literacy. The IDE reports proficiency levels in 9 categories (Below level 1c, level 1c, level 1b, level 1a, level 2, level 3, level 4, level 5, level 6). 
 
-Science literacy: Administered in all cycles (2000, 2003, 2006, 2009, 2012, 2015, 2018, 2022). Proficiency levels did not have strict definitions until 2006, when science literacy was the major domain and had a non-interim scale for the first time. Thus, proficiency levels cannot be analyzed in the IDE for 2000 and 2003 science literacy. The IDE reports proficiency levels in 9 categories (Below level 1c, level 1c, level 1b, level 1a, level 2, level 3, level 4, level 5, level 6). 
+Science literacy: Administered in all cycles (2000, 2003, 2006, 2009, 2012, 2015, 2018, 2022). Proficiency levels did not have strict definitions until 2006, when science literacy was the major domain and had a non-interim scale for the first time. Thus, proficiency levels cannot be analyzed in the IDE for 2000 and 2003 science literacy. The IDE reports proficiency levels in 8 categories (Below level 1b, level 1b, level 1a, level 2, level 3, level 4, level 5, level 6). 
 
 Reading literacy: Administered in all cycles (2000, 2003, 2006, 2009, 2012, 2015, 2018, 2022). The IDE reports proficiency levels in 9 categories (Below level 1c, level 1c, level 1b, level 1a, level 2, level 3, level 4, level 5, level 6). 
 
@@ -538,15 +538,25 @@ In addition, there are a number of continuous variables other than scale and sub
 
 #### Jurisdictions & Years
 Note that some country counts overlap because some countries participated at both the fourth- and eighth-grade levels. Also, benchmarking participants are currently available in the IDE for 2019, 2015, 2011, 2007, and 2003. So they are only listed below for those years.
+
 In 2019, a total of 64 education systems participated in TIMSS at the 4th grade, while 46 systems participated at the 8th grade. Most of these education systems are member countries of the International Association for the Evaluation of Educational Achievement (IEA), the group that sponsors TIMSS internationally; a small number at each grade are nonmember subnational entities that joined TIMSS 2019 as “benchmarking participants”.
+
 In 2015, there were 49 countries and subnational education systems, as well as 6 benchmarking participants that participated in TIMSS at the fourth-grade level. At the eighth-grade level, 38 countries and subnational education systems participated along with 6 benchmarking participants. Nine countries participated in TIMSS Advanced at the end of high school. Also, for TIMSS 2015, countries where students were expected to find the TIMSS assessments too difficult for their fourth- or eighth-grade students were given the option to assess students at a higher grade. Accordingly, one country (South Africa) administered the fourth grade assessment to fifth grade students and two countries (Botswana and South Africa) administered the eighth grade assessment to ninth grade students. 
+
 All off-grade participants (i.e., countries that tested students at grades other than four and eight) have the tested grade in parentheses within the IDE system. For example, South Africa’s label is “South Africa (5)” and “South Africa (9)”. 
+
 In 2015, Norway chose to assess fifth and ninth grades to obtain better comparisons with Sweden and Finland, but also collected benchmark data at fourth and eighth grades to maintain trend with previous TIMSS cycles. In 2019, Norway continued assessing at the fifth and ninth grade level and did not test grades four and eight.
+
 Additionally, for TIMSS 2015, 7 countries and 1 benchmarking education system participated in the Numeracy assessment (newly developed TIMSS Numeracy assessment, a less difficult version of the fourth grade mathematics assessment), including Bahrain, Indonesia, Iran, Kuwait, Jordan, Morocco, and South Africa as well as Buenos Aires. Each of these participants gave the fourth-grade assessments in mathematics and science as well as the Numeracy assessment, except for Jordan and South Africa, which each participated exclusively in Numeracy. 
+
 In 2011, there were 52 countries and subnational education systems, as well as 7 benchmarking participants that participated in TIMSS at the fourth-grade level. At the eighth-grade level, 45 countries and subnational education systems participated along with 14 benchmarking participants. Also, for TIMSS 2011, countries where students were expected to find the TIMSS assessments too difficult for their fourth- or eighth-grade students were given the option to assess students at a higher grade. Accordingly, three countries administered the fourth grade assessment to their sixth grade students and the eighth grade assessment to their ninth grade students.
+
 In 2007, there were 37 countries and subnational education systems, as well as 7 benchmarking participants that participated in TIMSS at the fourth-grade level. At the eighth-grade level, 50 countries and subnational education systems participated along with 7 benchmarking participants. 
+
 In 2003, there were 25 countries and subnational education systems, as well as 3 benchmarking participants that participated in TIMSS at the fourth-grade level. At the eighth-grade level, 48 countries and subnational education systems participated along with 4 benchmarking participants. 
+
 In 1999, there were 38 countries and subnational education systems that participated in TIMSS at the eighth-grade level. Fourth-grade students were not assessed in TIMSS 1999.
+
 In 1995, there were 29 countries and subnational education systems that participated in TIMSS at the fourth-grade level. At the eighth-grade level, 46 countries and subnational education systems participated.
 
 
