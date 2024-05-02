@@ -140,7 +140,7 @@ Achievement results for PISA are reported using discrete proficiency levels for 
 
 Mathematics literacy: Administered in all cycles (2000, 2003, 2006, 2009, 2012, 2015, 2018, 2022). In 2000, an interim scale was used, and cut-off points between mathematics literacy proficiency levels were not established. Thus, proficiency levels cannot be analyzed in the IDE for 2000 mathematics literacy. The IDE reports proficiency levels in 9 categories (Below level 1c, level 1c, level 1b, level 1a, level 2, level 3, level 4, level 5, level 6). 
 
-Science literacy: Administered in all cycles (2000, 2003, 2006, 2009, 2012, 2015, 2018, 2022). Proficiency levels did not have strict definitions until 2006, when science literacy was the major domain and had a non-interim scale for the first time. Thus, proficiency levels cannot be analyzed in the IDE for 2000 and 2003 science literacy. The IDE reports proficiency levels in 8 categories (Below level 1b, level 1b, level 1a, level 2, level 3, level 4, level 5, level 6). 
+Science literacy: Administered in all cycles (2000, 2003, 2006, 2009, 2012, 2015, 2018, 2022). Proficiency levels did not have strict definitions until 2006, when science literacy was the major domain and had a non-interim scale for the first time. Thus, proficiency levels cannot be analyzed in the IDE for 2000 and 2003 science literacy. The IDE reports proficiency levels in 9 categories (Below level 1c, level 1c, level 1b, level 1b, level 1a, level 2, level 3, level 4, level 5, level 6). 
 
 Reading literacy: Administered in all cycles (2000, 2003, 2006, 2009, 2012, 2015, 2018, 2022). The IDE reports proficiency levels in 9 categories (Below level 1c, level 1c, level 1b, level 1a, level 2, level 3, level 4, level 5, level 6). 
 
